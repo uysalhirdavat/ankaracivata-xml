@@ -2,6 +2,7 @@ import os
 import sys
 import time
 import json
+import html
 import xml.etree.ElementTree as ET
 from decimal import Decimal, InvalidOperation
 
@@ -28,6 +29,13 @@ def clean(value):
     if value is None:
         return ""
     return str(value).strip()
+
+
+def html_clean(value):
+    return html.escape(
+        clean(value),
+        quote=True
+    )
 
 
 def decimal_text(value, places=6):
@@ -285,8 +293,7 @@ def fetch_all_products(session, cari_id):
         raise RuntimeError(
             f"EKSİK VERİ! "
             f"API toplam={expected_total}, "
-            f"benzersiz çekilen="
-            f"{len(all_products)}. "
+            f"benzersiz çekilen={len(all_products)}. "
             f"XML güncellenmeyecek."
         )
 
@@ -381,7 +388,6 @@ def make_barcode(number):
 def assign_barcodes(products):
     barcode_map = load_barcode_map()
 
-    # Güvenlik: Aynı barkod iki farklı üründe bulunmasın.
     used_barcodes = set()
 
     for product_id, barcode in barcode_map.items():
@@ -399,8 +405,6 @@ def assign_barcodes(products):
 
     new_count = 0
 
-    # İlk dağıtımın API sırasına bağımlı olmaması için
-    # ürünleri sayısal malzemeId'ye göre sıralıyoruz.
     def sort_key(product):
         product_id = (
             product.get("malzemeId")
@@ -425,7 +429,7 @@ def assign_barcodes(products):
 
         product_id = str(product_id)
 
-        # Daha önce barkod verilmişse kesinlikle değiştirme.
+        # Daha önce barkod verilmiş ürüne dokunma.
         if product_id in barcode_map:
             continue
 
@@ -444,7 +448,6 @@ def assign_barcodes(products):
 
         new_count += 1
 
-    # Önce geçici dosyaya yaz.
     temp_barcode_file = (
         BARCODE_FILE + ".tmp"
     )
@@ -462,7 +465,6 @@ def assign_barcodes(products):
             sort_keys=True
         )
 
-    # JSON'un geçerli olduğunu tekrar kontrol et.
     with open(
         temp_barcode_file,
         "r",
@@ -492,7 +494,8 @@ def assign_barcodes(products):
         ]
 
         numbers = [
-            x for x in numbers
+            x
+            for x in numbers
             if x is not None
         ]
 
@@ -519,6 +522,70 @@ def add_text(parent, tag, value):
     node.text = clean(value)
 
     return node
+
+
+# --------------------------------------------------
+# HTML ÜRÜN AÇIKLAMASI
+# --------------------------------------------------
+
+def create_description(
+    name,
+    brand,
+    category,
+    subcategory,
+    unit
+):
+    parts = []
+
+    if name:
+        parts.append(
+            "<p><strong>"
+            + html_clean(name)
+            + "</strong></p>"
+        )
+
+    parts.append(
+        "<p><strong>Ürün Özellikleri</strong></p>"
+    )
+
+    features = []
+
+    if brand:
+        features.append(
+            "<li><strong>Marka:</strong> "
+            + html_clean(brand)
+            + "</li>"
+        )
+
+    if category:
+        features.append(
+            "<li><strong>Kategori:</strong> "
+            + html_clean(category)
+            + "</li>"
+        )
+
+    if subcategory:
+        features.append(
+            "<li><strong>Alt Kategori:</strong> "
+            + html_clean(subcategory)
+            + "</li>"
+        )
+
+    if unit:
+        features.append(
+            "<li><strong>Birim:</strong> "
+            + html_clean(unit)
+            + "</li>"
+        )
+
+    if features:
+        parts.append(
+            "<ul>"
+            + "".join(features)
+            + "</ul>"
+        )
+
+    return "".join(parts)
 
 
 def build_xml(products, barcode_map):
@@ -551,6 +618,7 @@ def build_xml(products, barcode_map):
             p.get("stok")
         )
 
+        # Ankara Civata net bayi fiyatı
         net_price = decimal_text(
             p.get("bayiFiyati"),
             6
@@ -593,35 +661,20 @@ def build_xml(products, barcode_map):
             stock
         )
 
-        description_parts = []
-
-        if brand:
-            description_parts.append(
-                f"Marka: {clean(brand)}"
-            )
-
-        if category:
-            description_parts.append(
-                f"Kategori: {clean(category)}"
-            )
-
-        if subcategory:
-            description_parts.append(
-                f"Alt Kategori: "
-                f"{clean(subcategory)}"
-            )
-
-        if unit:
-            description_parts.append(
-                f"Birim: {clean(unit)}"
-            )
+        # Düz tek satır açıklama yerine
+        # düzenli HTML açıklama oluştur.
+        description = create_description(
+            name,
+            brand,
+            category,
+            subcategory,
+            unit
+        )
 
         add_text(
             item,
             "details",
-            " | ".join(
-                description_parts
-            )
+            description
         )
 
         add_text(
@@ -717,9 +770,7 @@ def build_xml(products, barcode_map):
             item,
             "creditCardDiscount",
             decimal_text(
-                p.get(
-                    "krediKartiIskonto"
-                ),
+                p.get("krediKartiIskonto"),
                 2
             )
         )
@@ -739,13 +790,8 @@ def build_xml(products, barcode_map):
 
         if image_path:
             if (
-                image_path.startswith(
-                    "http://"
-                )
-                or
-                image_path.startswith(
-                    "https://"
-                )
+                image_path.startswith("http://")
+                or image_path.startswith("https://")
             ):
                 image_url = image_path
 
@@ -793,6 +839,10 @@ def build_xml(products, barcode_map):
             ""
         )
 
+    # --------------------------------------------------
+    # GÜVENLİK KONTROLLERİ
+    # --------------------------------------------------
+
     if barcode_count != len(products):
         raise RuntimeError(
             f"Barkod sayısı hatalı. "
@@ -816,7 +866,7 @@ def build_xml(products, barcode_map):
         xml_declaration=True
     )
 
-    # XML geçerlilik kontrolü
+    # XML gerçekten okunabiliyor mu?
     check_root = ET.parse(
         TMP_FILE
     ).getroot()
@@ -832,7 +882,7 @@ def build_xml(products, barcode_map):
             f"XML={xml_count}"
         )
 
-    # Her ürünün barkodu var mı kontrol et.
+    # Her ürünün barkodu var mı?
     xml_barcodes = []
 
     for item in check_root.findall("item"):
@@ -856,6 +906,7 @@ def build_xml(products, barcode_map):
             barcode
         )
 
+    # Mükerrer barkod var mı?
     if (
         len(xml_barcodes)
         != len(set(xml_barcodes))
@@ -865,7 +916,8 @@ def build_xml(products, barcode_map):
             "XML güncellenmeyecek."
         )
 
-    # Bütün kontroller başarılı.
+    # Bütün kontroller başarılıysa
+    # mevcut XML'i yenisiyle değiştir.
     os.replace(
         TMP_FILE,
         OUTPUT_FILE
