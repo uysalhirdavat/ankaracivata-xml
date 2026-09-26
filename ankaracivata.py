@@ -9,33 +9,79 @@ from decimal import Decimal, InvalidOperation
 import requests
 
 
+# ==================================================
+# AYARLAR
+# ==================================================
+
 BASE_URL = "https://b2b.ankaracivata.com.tr"
+
 LOGIN_URL = f"{BASE_URL}/api/Kullanici/login"
 PRODUCTS_URL = f"{BASE_URL}/api/Malzeme/getAll"
 DETAIL_URL = f"{BASE_URL}/api/Malzeme/getUrunDetay"
 
+# Ürün görsellerini veren API
+IMAGE_URL = f"{BASE_URL}/api/Urun/getUrunResim"
+
+# Görsel dosyalarının gerçek erişim adresi
+IMAGE_FILE_BASE_URL = f"{BASE_URL}/api/files"
+
+
 OUTPUT_FILE = "ankaracivata.xml"
 TMP_FILE = "ankaracivata.xml.tmp"
 
+
+# ==================================================
+# BARKOD
+# ==================================================
+
 BARCODE_FILE = "ankaracivata_barcodes.json"
+
 BARCODE_PREFIX = "uyl26092026999"
 BARCODE_START = 1
+
+
+# ==================================================
+# DETAY CACHE
+# ==================================================
 
 DETAIL_FILE = "ankaracivata_details.json"
 DETAIL_TMP_FILE = "ankaracivata_details.json.tmp"
 
+
+# ==================================================
+# GÖRSEL CACHE
+# ==================================================
+
+IMAGE_FILE = "ankaracivata_images.json"
+IMAGE_TMP_FILE = "ankaracivata_images.json.tmp"
+
+
+# ==================================================
+# TARAMA AYARLARI
+# ==================================================
+
 DETAIL_GROUP_SIZE = 1000
 DETAIL_DELAY = 0.20
+
+IMAGE_GROUP_SIZE = 1000
+IMAGE_DELAY = 0.20
+
 GROUP_DELAY = 10
 
 PAGE_SIZE = 1000
+
 TIMEOUT = 60
 MAX_RETRIES = 4
 
 
+# ==================================================
+# YARDIMCI FONKSİYONLAR
+# ==================================================
+
 def clean(value):
     if value is None:
         return ""
+
     return str(value).strip()
 
 
@@ -49,8 +95,18 @@ def html_clean(value):
 def decimal_text(value, places=6):
     try:
         d = Decimal(str(value))
-        return f"{d:.{places}f}".rstrip("0").rstrip(".")
-    except (InvalidOperation, ValueError, TypeError):
+
+        return (
+            f"{d:.{places}f}"
+            .rstrip("0")
+            .rstrip(".")
+        )
+
+    except (
+        InvalidOperation,
+        ValueError,
+        TypeError
+    ):
         return "0"
 
 
@@ -63,14 +119,30 @@ def int_stock(value):
 
         return int(d)
 
-    except (InvalidOperation, ValueError, TypeError):
+    except (
+        InvalidOperation,
+        ValueError,
+        TypeError
+    ):
         return 0
 
 
-def request_with_retry(session, method, url, **kwargs):
+# ==================================================
+# HTTP / RETRY
+# ==================================================
+
+def request_with_retry(
+    session,
+    method,
+    url,
+    **kwargs
+):
     last_error = None
 
-    for attempt in range(1, MAX_RETRIES + 1):
+    for attempt in range(
+        1,
+        MAX_RETRIES + 1
+    ):
         try:
             response = session.request(
                 method,
@@ -83,7 +155,8 @@ def request_with_retry(session, method, url, **kwargs):
                 return response
 
             last_error = RuntimeError(
-                f"HTTP {response.status_code}: "
+                f"HTTP "
+                f"{response.status_code}: "
                 f"{response.text[:300]}"
             )
 
@@ -95,15 +168,21 @@ def request_with_retry(session, method, url, **kwargs):
 
             print(
                 f"İstek başarısız. "
-                f"{wait} sn sonra tekrar deneniyor..."
+                f"{wait} sn sonra "
+                f"tekrar deneniyor..."
             )
 
             time.sleep(wait)
 
     raise RuntimeError(
-        f"İstek başarısız: {last_error}"
+        f"İstek başarısız: "
+        f"{last_error}"
     )
 
+
+# ==================================================
+# LOGIN
+# ==================================================
 
 def login(session):
     username = os.environ.get(
@@ -117,7 +196,8 @@ def login(session):
     if not username or not password:
         raise RuntimeError(
             "ANKARA_KULLANICI_ADI veya "
-            "ANKARA_SIFRE GitHub Secret bulunamadı."
+            "ANKARA_SIFRE GitHub Secret "
+            "bulunamadı."
         )
 
     payload = {
@@ -151,17 +231,27 @@ def login(session):
 
     if not token or cari_id is None:
         raise RuntimeError(
-            "Login cevabından token/cariId alınamadı."
+            "Login cevabından "
+            "token/cariId alınamadı."
         )
 
     session.headers.update({
         "Authorization": f"Bearer {token}",
-        "Accept": "application/json, text/plain, */*",
+        "Accept": (
+            "application/json, "
+            "text/plain, */*"
+        ),
         "Content-Type": "application/json"
     })
 
-    print("Ankara Civata girişi başarılı.")
-    print("Cari ID alındı. Token loglanmayacak.")
+    print(
+        "Ankara Civata girişi başarılı."
+    )
+
+    print(
+        "Cari ID alındı. "
+        "Token loglanmayacak."
+    )
 
     return cari_id
 
@@ -170,7 +260,11 @@ def login(session):
 # TÜM ÜRÜNLER
 # ==================================================
 
-def fetch_page(session, cari_id, skip):
+def fetch_page(
+    session,
+    cari_id,
+    skip
+):
     payload = {
         "cariId": cari_id,
         "cariIdList": str(cari_id),
@@ -222,21 +316,30 @@ def fetch_page(session, cari_id, skip):
             "API totalCount döndürmedi."
         )
 
-    return products, int(total_count)
+    return (
+        products,
+        int(total_count)
+    )
 
 
-def fetch_all_products(session, cari_id):
+def fetch_all_products(
+    session,
+    cari_id
+):
     all_products = []
+
     seen_ids = set()
 
     skip = 0
     expected_total = None
 
     while True:
-        products, total_count = fetch_page(
-            session,
-            cari_id,
-            skip
+        products, total_count = (
+            fetch_page(
+                session,
+                cari_id,
+                skip
+            )
         )
 
         if expected_total is None:
@@ -269,13 +372,20 @@ def fetch_all_products(session, cari_id):
                     "Ürün ID bulunamadı."
                 )
 
-            product_id = str(product_id)
+            product_id = str(
+                product_id
+            )
 
             if product_id in seen_ids:
                 continue
 
-            seen_ids.add(product_id)
-            all_products.append(product)
+            seen_ids.add(
+                product_id
+            )
+
+            all_products.append(
+                product
+            )
 
         print(
             f"Çekilen: "
@@ -287,7 +397,10 @@ def fetch_all_products(session, cari_id):
 
         skip += len(products)
 
-        if len(all_products) >= expected_total:
+        if (
+            len(all_products)
+            >= expected_total
+        ):
             break
 
         if len(products) < PAGE_SIZE:
@@ -297,14 +410,20 @@ def fetch_all_products(session, cari_id):
 
     if expected_total is None:
         raise RuntimeError(
-            "Toplam ürün sayısı alınamadı."
+            "Toplam ürün sayısı "
+            "alınamadı."
         )
 
-    if len(all_products) != expected_total:
+    if (
+        len(all_products)
+        != expected_total
+    ):
         raise RuntimeError(
             f"EKSİK VERİ! "
-            f"API toplam={expected_total}, "
-            f"benzersiz çekilen={len(all_products)}. "
+            f"API toplam="
+            f"{expected_total}, "
+            f"benzersiz çekilen="
+            f"{len(all_products)}. "
             f"XML güncellenmeyecek."
         )
 
@@ -312,14 +431,16 @@ def fetch_all_products(session, cari_id):
 
 
 # ==================================================
-# KALICI UYL BARKOD SİSTEMİ
+# KALICI UYL BARKOD
 # ==================================================
 
 def load_barcode_map():
-    if not os.path.exists(BARCODE_FILE):
+    if not os.path.exists(
+        BARCODE_FILE
+    ):
         print(
-            "Barkod eşleme dosyası henüz yok. "
-            "İlk dağıtım yapılacak."
+            "Barkod eşleme dosyası "
+            "henüz yok."
         )
 
         return {}
@@ -332,19 +453,33 @@ def load_barcode_map():
         ) as f:
             data = json.load(f)
 
-        if not isinstance(data, dict):
+        if not isinstance(
+            data,
+            dict
+        ):
             raise RuntimeError(
-                "Barkod dosyasının formatı geçersiz."
+                "Barkod dosyasının "
+                "formatı geçersiz."
             )
 
         result = {}
 
-        for product_id, barcode in data.items():
-            product_id = clean(product_id)
-            barcode = clean(barcode)
+        for (
+            product_id,
+            barcode
+        ) in data.items():
+            product_id = clean(
+                product_id
+            )
+
+            barcode = clean(
+                barcode
+            )
 
             if product_id and barcode:
-                result[product_id] = barcode
+                result[
+                    product_id
+                ] = barcode
 
         print(
             f"Mevcut barkod eşlemesi: "
@@ -355,18 +490,22 @@ def load_barcode_map():
 
     except Exception as exc:
         raise RuntimeError(
-            f"Barkod eşleme dosyası okunamadı: "
-            f"{exc}"
+            f"Barkod eşleme dosyası "
+            f"okunamadı: {exc}"
         )
 
 
 def barcode_number(barcode):
     barcode = clean(barcode)
 
-    if not barcode.startswith(BARCODE_PREFIX):
+    if not barcode.startswith(
+        BARCODE_PREFIX
+    ):
         return None
 
-    suffix = barcode[len(BARCODE_PREFIX):]
+    suffix = barcode[
+        len(BARCODE_PREFIX):
+    ]
 
     if not suffix.isdigit():
         return None
@@ -374,11 +513,19 @@ def barcode_number(barcode):
     return int(suffix)
 
 
-def find_next_barcode_number(barcode_map):
-    highest = BARCODE_START - 1
+def find_next_barcode_number(
+    barcode_map
+):
+    highest = (
+        BARCODE_START - 1
+    )
 
-    for barcode in barcode_map.values():
-        number = barcode_number(barcode)
+    for barcode in (
+        barcode_map.values()
+    ):
+        number = barcode_number(
+            barcode
+        )
 
         if number is not None:
             highest = max(
@@ -397,21 +544,29 @@ def make_barcode(number):
 
 
 def assign_barcodes(products):
-    barcode_map = load_barcode_map()
+    barcode_map = (
+        load_barcode_map()
+    )
 
     used_barcodes = set()
 
-    for product_id, barcode in barcode_map.items():
+    for barcode in (
+        barcode_map.values()
+    ):
         if barcode in used_barcodes:
             raise RuntimeError(
-                f"Mükerrer barkod tespit edildi: "
+                "Mükerrer barkod: "
                 f"{barcode}"
             )
 
-        used_barcodes.add(barcode)
+        used_barcodes.add(
+            barcode
+        )
 
-    next_number = find_next_barcode_number(
-        barcode_map
+    next_number = (
+        find_next_barcode_number(
+            barcode_map
+        )
     )
 
     new_count = 0
@@ -423,9 +578,19 @@ def assign_barcodes(products):
         )
 
         try:
-            return (0, int(product_id))
-        except (ValueError, TypeError):
-            return (1, str(product_id))
+            return (
+                0,
+                int(product_id)
+            )
+
+        except (
+            ValueError,
+            TypeError
+        ):
+            return (
+                1,
+                str(product_id)
+            )
 
     sorted_products = sorted(
         products,
@@ -438,9 +603,14 @@ def assign_barcodes(products):
             or product.get("id")
         )
 
-        product_id = str(product_id)
+        product_id = str(
+            product_id
+        )
 
-        if product_id in barcode_map:
+        if (
+            product_id
+            in barcode_map
+        ):
             continue
 
         while True:
@@ -450,20 +620,29 @@ def assign_barcodes(products):
 
             next_number += 1
 
-            if barcode not in used_barcodes:
+            if (
+                barcode
+                not in used_barcodes
+            ):
                 break
 
-        barcode_map[product_id] = barcode
-        used_barcodes.add(barcode)
+        barcode_map[
+            product_id
+        ] = barcode
+
+        used_barcodes.add(
+            barcode
+        )
 
         new_count += 1
 
-    temp_barcode_file = (
-        BARCODE_FILE + ".tmp"
+    temp_file = (
+        BARCODE_FILE
+        + ".tmp"
     )
 
     with open(
-        temp_barcode_file,
+        temp_file,
         "w",
         encoding="utf-8"
     ) as f:
@@ -476,14 +655,14 @@ def assign_barcodes(products):
         )
 
     with open(
-        temp_barcode_file,
+        temp_file,
         "r",
         encoding="utf-8"
     ) as f:
         json.load(f)
 
     os.replace(
-        temp_barcode_file,
+        temp_file,
         BARCODE_FILE
     )
 
@@ -497,40 +676,20 @@ def assign_barcodes(products):
         f"{len(barcode_map)}"
     )
 
-    numbers = [
-        barcode_number(x)
-        for x in barcode_map.values()
-    ]
-
-    numbers = [
-        x
-        for x in numbers
-        if x is not None
-    ]
-
-    if numbers:
-        print(
-            f"İlk UYL barkod: "
-            f"{make_barcode(min(numbers))}"
-        )
-
-        print(
-            f"Son UYL barkod: "
-            f"{make_barcode(max(numbers))}"
-        )
-
     return barcode_map
 
 
 # ==================================================
-# ÜRÜN DETAY CACHE
+# DETAY CACHE
 # ==================================================
 
 def load_detail_cache():
-    if not os.path.exists(DETAIL_FILE):
+    if not os.path.exists(
+        DETAIL_FILE
+    ):
         print(
-            "Detay cache dosyası henüz yok. "
-            "Yeni oluşturulacak."
+            "Detay cache dosyası "
+            "henüz yok."
         )
 
         return {}
@@ -543,9 +702,13 @@ def load_detail_cache():
         ) as f:
             data = json.load(f)
 
-        if not isinstance(data, dict):
+        if not isinstance(
+            data,
+            dict
+        ):
             raise RuntimeError(
-                "Detay cache formatı geçersiz."
+                "Detay cache "
+                "formatı geçersiz."
             )
 
         print(
@@ -562,7 +725,9 @@ def load_detail_cache():
         )
 
 
-def save_detail_cache(detail_cache):
+def save_detail_cache(
+    detail_cache
+):
     with open(
         DETAIL_TMP_FILE,
         "w",
@@ -611,7 +776,7 @@ def fetch_product_detail(
 
     if not result.get("success"):
         raise RuntimeError(
-            f"Detay servisi başarısız: "
+            "Detay servisi başarısız: "
             f"{result.get('message')}"
         )
 
@@ -621,9 +786,13 @@ def fetch_product_detail(
         .get("item")
     )
 
-    if not isinstance(item, dict):
+    if not isinstance(
+        item,
+        dict
+    ):
         raise RuntimeError(
-            "Detay cevabında item bulunamadı."
+            "Detay cevabında "
+            "item bulunamadı."
         )
 
     return {
@@ -631,7 +800,9 @@ def fetch_product_detail(
             item.get("aciklama")
         ),
         "teknikOzellikler": clean(
-            item.get("teknikOzellikler")
+            item.get(
+                "teknikOzellikler"
+            )
         )
     }
 
@@ -641,7 +812,9 @@ def update_detail_cache(
     cari_id,
     products
 ):
-    detail_cache = load_detail_cache()
+    detail_cache = (
+        load_detail_cache()
+    )
 
     missing_products = []
 
@@ -651,9 +824,14 @@ def update_detail_cache(
             or product.get("id")
         )
 
-        product_id = str(product_id)
+        product_id = str(
+            product_id
+        )
 
-        if product_id not in detail_cache:
+        if (
+            product_id
+            not in detail_cache
+        ):
             missing_products.append(
                 product
             )
@@ -669,24 +847,11 @@ def update_detail_cache(
 
     if not missing_products:
         print(
-            "Tüm ürün detayları cache'de mevcut."
-        )
-
-        save_detail_cache(
-            detail_cache
+            "Tüm ürün detayları "
+            "cache'de mevcut."
         )
 
         return detail_cache
-
-    print(
-        "Eksik ürünlerin tamamı "
-        "otomatik taranacak."
-    )
-
-    print(
-        f"Toplam taranacak ürün: "
-        f"{total_missing}"
-    )
 
     success_count = 0
     error_count = 0
@@ -705,7 +870,8 @@ def update_detail_cache(
     ):
         group = missing_products[
             group_start:
-            group_start + DETAIL_GROUP_SIZE
+            group_start
+            + DETAIL_GROUP_SIZE
         ]
 
         group_number = (
@@ -715,32 +881,29 @@ def update_detail_cache(
 
         print("")
         print(
-            "======================================"
+            "================================"
         )
 
         print(
             f"DETAY GRUBU "
-            f"{group_number}/{total_groups}"
+            f"{group_number}/"
+            f"{total_groups}"
         )
 
         print(
-            f"Bu gruptaki ürün: "
-            f"{len(group)}"
+            "================================"
         )
 
-        print(
-            "======================================"
-        )
-
-        group_success = 0
-        group_error = 0
-
-        for index, product in enumerate(
-            group,
-            start=1
+        for index, product in (
+            enumerate(
+                group,
+                start=1
+            )
         ):
             product_id = (
-                product.get("malzemeId")
+                product.get(
+                    "malzemeId"
+                )
                 or product.get("id")
             )
 
@@ -749,10 +912,12 @@ def update_detail_cache(
             )
 
             try:
-                detail = fetch_product_detail(
-                    session,
-                    cari_id,
-                    product_id
+                detail = (
+                    fetch_product_detail(
+                        session,
+                        cari_id,
+                        product_id
+                    )
                 )
 
                 detail_cache[
@@ -760,11 +925,9 @@ def update_detail_cache(
                 ] = detail
 
                 success_count += 1
-                group_success += 1
 
             except Exception as exc:
                 error_count += 1
-                group_error += 1
 
                 print(
                     f"DETAY HATA "
@@ -774,7 +937,6 @@ def update_detail_cache(
 
             processed_count += 1
 
-            # Her 25 üründe cache'i kaydet.
             if index % 25 == 0:
                 save_detail_cache(
                     detail_cache
@@ -797,31 +959,8 @@ def update_detail_cache(
                 DETAIL_DELAY
             )
 
-        # Her 1000'lik grubun sonunda
-        # cache kesin kaydedilir.
         save_detail_cache(
             detail_cache
-        )
-
-        print("")
-        print(
-            f"Grup {group_number} "
-            f"tamamlandı."
-        )
-
-        print(
-            f"Bu grupta başarılı: "
-            f"{group_success}"
-        )
-
-        print(
-            f"Bu grupta hata: "
-            f"{group_error}"
-        )
-
-        print(
-            f"Cache toplam ürün: "
-            f"{len(detail_cache)}"
         )
 
         remaining = (
@@ -830,12 +969,411 @@ def update_detail_cache(
         )
 
         print(
-            f"Kalan ürün: "
+            f"Detay grubu "
+            f"{group_number} "
+            f"tamamlandı."
+        )
+
+        print(
+            f"Kalan detay: "
             f"{max(remaining, 0)}"
         )
 
-        # Kalan varsa kendi kendine
-        # sonraki 1000'lik gruba geç.
+        if remaining > 0:
+            print(
+                f"{GROUP_DELAY} saniye "
+                f"bekleniyor..."
+            )
+
+            time.sleep(
+                GROUP_DELAY
+            )
+
+    print(
+        f"Detay taraması tamamlandı. "
+        f"Başarılı={success_count}, "
+        f"Hata={error_count}, "
+        f"Cache={len(detail_cache)}"
+    )
+
+    return detail_cache
+
+
+# ==================================================
+# GÖRSEL CACHE
+# ==================================================
+
+def load_image_cache():
+    if not os.path.exists(
+        IMAGE_FILE
+    ):
+        print(
+            "Görsel cache dosyası "
+            "henüz yok. "
+            "İlk görsel taraması yapılacak."
+        )
+
+        return {}
+
+    try:
+        with open(
+            IMAGE_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+            data = json.load(f)
+
+        if not isinstance(
+            data,
+            dict
+        ):
+            raise RuntimeError(
+                "Görsel cache "
+                "formatı geçersiz."
+            )
+
+        print(
+            f"Cache'de görsel bilgisi: "
+            f"{len(data)} ürün"
+        )
+
+        return data
+
+    except Exception as exc:
+        raise RuntimeError(
+            f"Görsel cache okunamadı: "
+            f"{exc}"
+        )
+
+
+def save_image_cache(
+    image_cache
+):
+    with open(
+        IMAGE_TMP_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            image_cache,
+            f,
+            ensure_ascii=False,
+            indent=2,
+            sort_keys=True
+        )
+
+    # JSON bozuk mu kontrol et
+    with open(
+        IMAGE_TMP_FILE,
+        "r",
+        encoding="utf-8"
+    ) as f:
+        json.load(f)
+
+    os.replace(
+        IMAGE_TMP_FILE,
+        IMAGE_FILE
+    )
+
+
+def fetch_product_images(
+    session,
+    product_id
+):
+    payload = {
+        "urunId": int(product_id)
+    }
+
+    response = request_with_retry(
+        session,
+        "POST",
+        IMAGE_URL,
+        json=payload
+    )
+
+    result = response.json()
+
+    if not result.get("success"):
+        raise RuntimeError(
+            "Görsel servisi başarısız: "
+            f"{result.get('message')}"
+        )
+
+    data = result.get(
+        "data",
+        {}
+    )
+
+    if not isinstance(
+        data,
+        dict
+    ):
+        return []
+
+    image_list = data.get(
+        "list",
+        []
+    )
+
+    if not isinstance(
+        image_list,
+        list
+    ):
+        return []
+
+    cleaned_images = []
+
+    for image_item in image_list:
+        if not isinstance(
+            image_item,
+            dict
+        ):
+            continue
+
+        path = clean(
+            image_item.get(
+                "resimYolu"
+            )
+        )
+
+        if not path:
+            continue
+
+        cleaned_images.append({
+            "resimYolu": path,
+            "anaResim": bool(
+                image_item.get(
+                    "anaResim",
+                    False
+                )
+            ),
+            "sira": (
+                image_item.get(
+                    "sira"
+                )
+                if image_item.get(
+                    "sira"
+                ) is not None
+                else 999999
+            )
+        })
+
+    # Önce ana resim.
+    # Sonra sıra numarası.
+    cleaned_images.sort(
+        key=lambda x: (
+            0
+            if x.get("anaResim")
+            else 1,
+            x.get("sira", 999999)
+        )
+    )
+
+    return cleaned_images
+
+
+def update_image_cache(
+    session,
+    products
+):
+    image_cache = (
+        load_image_cache()
+    )
+
+    missing_products = []
+
+    for product in products:
+        product_id = (
+            product.get("malzemeId")
+            or product.get("id")
+        )
+
+        product_id = str(
+            product_id
+        )
+
+        # Ürün daha önce tarandıysa
+        # tekrar API çağrısı yapma.
+        # [] olması ürünün görseli
+        # olmadığı anlamına gelir.
+        if (
+            product_id
+            not in image_cache
+        ):
+            missing_products.append(
+                product
+            )
+
+    total_missing = len(
+        missing_products
+    )
+
+    print(
+        f"Görseli henüz taranmamış ürün: "
+        f"{total_missing}"
+    )
+
+    if not missing_products:
+        print(
+            "Tüm ürünlerin görsel bilgisi "
+            "cache'de mevcut."
+        )
+
+        return image_cache
+
+    success_count = 0
+    error_count = 0
+    products_with_images = 0
+    products_without_images = 0
+    processed_count = 0
+
+    total_groups = (
+        total_missing
+        + IMAGE_GROUP_SIZE
+        - 1
+    ) // IMAGE_GROUP_SIZE
+
+    for group_start in range(
+        0,
+        total_missing,
+        IMAGE_GROUP_SIZE
+    ):
+        group = missing_products[
+            group_start:
+            group_start
+            + IMAGE_GROUP_SIZE
+        ]
+
+        group_number = (
+            group_start
+            // IMAGE_GROUP_SIZE
+        ) + 1
+
+        print("")
+        print(
+            "================================"
+        )
+
+        print(
+            f"GÖRSEL GRUBU "
+            f"{group_number}/"
+            f"{total_groups}"
+        )
+
+        print(
+            f"Bu gruptaki ürün: "
+            f"{len(group)}"
+        )
+
+        print(
+            "================================"
+        )
+
+        for index, product in (
+            enumerate(
+                group,
+                start=1
+            )
+        ):
+            product_id = (
+                product.get(
+                    "malzemeId"
+                )
+                or product.get("id")
+            )
+
+            product_id = str(
+                product_id
+            )
+
+            try:
+                images = (
+                    fetch_product_images(
+                        session,
+                        product_id
+                    )
+                )
+
+                image_cache[
+                    product_id
+                ] = images
+
+                success_count += 1
+
+                if images:
+                    products_with_images += 1
+
+                else:
+                    products_without_images += 1
+
+            except Exception as exc:
+                # Hata alan ürünü cache'e
+                # yazmıyoruz.
+                # Böylece sonraki çalışmada
+                # tekrar denenir.
+                error_count += 1
+
+                print(
+                    f"GÖRSEL HATA "
+                    f"ürün={product_id}: "
+                    f"{exc}"
+                )
+
+            processed_count += 1
+
+            # Her 25 üründe bir
+            # cache'i kaydet.
+            if index % 25 == 0:
+                save_image_cache(
+                    image_cache
+                )
+
+                print(
+                    f"Görsel ilerleme: "
+                    f"{index}/"
+                    f"{len(group)}"
+                    f" | genel="
+                    f"{processed_count}/"
+                    f"{total_missing}"
+                    f" | başarılı="
+                    f"{success_count}"
+                    f" | hata="
+                    f"{error_count}"
+                    f" | görselli="
+                    f"{products_with_images}"
+                    f" | görselsiz="
+                    f"{products_without_images}"
+                )
+
+            time.sleep(
+                IMAGE_DELAY
+            )
+
+        save_image_cache(
+            image_cache
+        )
+
+        remaining = (
+            total_missing
+            - processed_count
+        )
+
+        print(
+            f"Görsel grubu "
+            f"{group_number} "
+            f"tamamlandı."
+        )
+
+        print(
+            f"Cache toplam ürün: "
+            f"{len(image_cache)}"
+        )
+
+        print(
+            f"Kalan görsel taraması: "
+            f"{max(remaining, 0)}"
+        )
+
         if remaining > 0:
             print(
                 f"{GROUP_DELAY} saniye "
@@ -843,7 +1381,7 @@ def update_detail_cache(
             )
 
             print(
-                "Sonraki ürün grubuna "
+                "Sonraki görsel grubuna "
                 "otomatik geçilecek."
             )
 
@@ -853,33 +1391,119 @@ def update_detail_cache(
 
     print("")
     print(
-        "======================================"
+        "================================"
     )
 
     print(
-        "DETAY TARAMASI TAMAMLANDI"
+        "GÖRSEL TARAMASI TAMAMLANDI"
     )
 
     print(
-        "======================================"
+        "================================"
     )
 
     print(
-        f"Toplam başarılı detay: "
+        f"Başarılı sorgu: "
         f"{success_count}"
     )
 
     print(
-        f"Toplam detay hatası: "
+        f"Hatalı sorgu: "
         f"{error_count}"
     )
 
     print(
-        f"Cache toplam ürün: "
-        f"{len(detail_cache)}"
+        f"Görseli bulunan ürün: "
+        f"{products_with_images}"
     )
 
-    return detail_cache
+    print(
+        f"Görseli olmayan ürün: "
+        f"{products_without_images}"
+    )
+
+    print(
+        f"Görsel cache toplam: "
+        f"{len(image_cache)}"
+    )
+
+    return image_cache
+
+
+# ==================================================
+# GÖRSEL URL OLUŞTURMA
+# ==================================================
+
+def make_image_url(path):
+    path = clean(path)
+
+    if not path:
+        return ""
+
+    if (
+        path.startswith("http://")
+        or path.startswith("https://")
+    ):
+        return path
+
+    path = path.lstrip("/")
+
+    return (
+        IMAGE_FILE_BASE_URL
+        + "/"
+        + path
+    )
+
+
+def get_product_picture_urls(
+    image_cache,
+    product_id
+):
+    images = image_cache.get(
+        str(product_id),
+        []
+    )
+
+    if not isinstance(
+        images,
+        list
+    ):
+        return []
+
+    # Tekrar garanti sıralaması
+    images = sorted(
+        images,
+        key=lambda x: (
+            0
+            if x.get("anaResim")
+            else 1,
+            x.get("sira", 999999)
+        )
+    )
+
+    urls = []
+
+    for image_item in images:
+        path = clean(
+            image_item.get(
+                "resimYolu"
+            )
+        )
+
+        url = make_image_url(
+            path
+        )
+
+        if (
+            url
+            and url not in urls
+        ):
+            urls.append(url)
+
+        if len(urls) >= 4:
+            break
+
+    return urls
 
 
 # ==================================================
@@ -1000,7 +1624,6 @@ def create_real_description(
             "<h4>Ürün Açıklaması</h4>"
         )
 
-        # API zaten HTML veriyor.
         parts.append(
             aciklama
         )
@@ -1010,7 +1633,6 @@ def create_real_description(
             "<h4>Teknik Özellikler</h4>"
         )
 
-        # API zaten HTML veriyor.
         parts.append(
             teknik
         )
@@ -1042,15 +1664,20 @@ def add_text(
 def build_xml(
     products,
     barcode_map,
-    detail_cache
+    detail_cache,
+    image_cache
 ):
     root = ET.Element(
         "root"
     )
 
     barcode_count = 0
+
     real_detail_count = 0
     fallback_count = 0
+
+    image_product_count = 0
+    total_image_count = 0
 
     for p in products:
         item = ET.SubElement(
@@ -1111,7 +1738,8 @@ def build_xml(
 
         if not barcode:
             raise RuntimeError(
-                f"Ürünün barkodu bulunamadı: "
+                f"Ürünün barkodu "
+                f"bulunamadı: "
                 f"{product_id}"
             )
 
@@ -1144,14 +1772,29 @@ def build_xml(
         else:
             fallback_count += 1
 
-        description = create_real_description(
-            detail,
-            name,
-            brand,
-            category,
-            subcategory,
-            unit
+        description = (
+            create_real_description(
+                detail,
+                name,
+                brand,
+                category,
+                subcategory,
+                unit
+            )
         )
+
+        picture_urls = (
+            get_product_picture_urls(
+                image_cache,
+                product_id
+            )
+        )
+
+        if picture_urls:
+            image_product_count += 1
+            total_image_count += len(
+                picture_urls
+            )
 
         add_text(
             item,
@@ -1292,73 +1935,43 @@ def build_xml(
             )
         )
 
-        image_path = clean(
-            p.get("resimYolu")
-        )
+        # ==================================================
+        # GÖRSELLER
+        # ==================================================
 
-        if image_path:
-            if (
-                image_path.startswith(
-                    "http://"
-                )
-                or image_path.startswith(
-                    "https://"
-                )
-            ):
-                image_url = image_path
+        for picture_number in range(
+            1,
+            5
+        ):
+            index = (
+                picture_number - 1
+            )
 
-            elif image_path.startswith(
-                "/"
+            if index < len(
+                picture_urls
             ):
-                image_url = (
-                    BASE_URL
-                    + image_path
+                picture_url = (
+                    picture_urls[
+                        index
+                    ]
                 )
 
             else:
-                image_url = (
-                    BASE_URL
-                    + "/"
-                    + image_path
-                )
+                picture_url = ""
 
             add_text(
                 item,
-                "picture1",
-                image_url
+                f"picture{picture_number}",
+                picture_url
             )
 
-        else:
-            add_text(
-                item,
-                "picture1",
-                ""
-            )
-
-        add_text(
-            item,
-            "picture2",
-            ""
-        )
-
-        add_text(
-            item,
-            "picture3",
-            ""
-        )
-
-        add_text(
-            item,
-            "picture4",
-            ""
-        )
-
     # ==================================================
-    # GÜVENLİK KONTROLLERİ
+    # XML GÜVENLİK KONTROLÜ
     # ==================================================
 
-    if barcode_count != len(
-        products
+    if (
+        barcode_count
+        != len(products)
     ):
         raise RuntimeError(
             f"Barkod sayısı hatalı. "
@@ -1375,6 +1988,7 @@ def build_xml(
             tree,
             space="  "
         )
+
     except AttributeError:
         pass
 
@@ -1384,6 +1998,7 @@ def build_xml(
         xml_declaration=True
     )
 
+    # XML parse kontrolü
     check_root = ET.parse(
         TMP_FILE
     ).getroot()
@@ -1394,36 +2009,43 @@ def build_xml(
         )
     )
 
-    if xml_count != len(
-        products
+    if (
+        xml_count
+        != len(products)
     ):
         raise RuntimeError(
             f"XML ürün sayısı hatalı. "
-            f"Beklenen={len(products)}, "
+            f"Beklenen="
+            f"{len(products)}, "
             f"XML={xml_count}"
         )
 
     xml_barcodes = []
 
-    for item in check_root.findall(
-        "item"
+    for item in (
+        check_root.findall(
+            "item"
+        )
     ):
-        barcode_node = item.find(
-            "barcode"
+        barcode_node = (
+            item.find(
+                "barcode"
+            )
         )
 
         barcode = (
             clean(
                 barcode_node.text
             )
-            if barcode_node is not None
+            if barcode_node
+            is not None
             else ""
         )
 
         if not barcode:
             raise RuntimeError(
-                "XML içinde barkodsuz ürün var. "
-                "XML güncellenmeyecek."
+                "XML içinde "
+                "barkodsuz ürün var."
             )
 
         xml_barcodes.append(
@@ -1437,29 +2059,60 @@ def build_xml(
         )
     ):
         raise RuntimeError(
-            "XML içinde mükerrer barkod var. "
-            "XML güncellenmeyecek."
+            "XML içinde mükerrer "
+            "barkod var."
         )
 
+    # Her şey sağlamsa
+    # eski XML'in üzerine geç.
     os.replace(
         TMP_FILE,
         OUTPUT_FILE
     )
 
+    print("")
     print(
-        f"Barkodlu ürün: "
-        f"{barcode_count} / "
+        "================================"
+    )
+
+    print(
+        "XML OLUŞTURMA TAMAMLANDI"
+    )
+
+    print(
+        "================================"
+    )
+
+    print(
+        f"XML ürün sayısı: "
         f"{len(products)}"
     )
 
     print(
-        "Gerçek açıklama/teknik özellik "
-        f"kullanılan: {real_detail_count}"
+        f"Barkodlu ürün: "
+        f"{barcode_count}/"
+        f"{len(products)}"
+    )
+
+    print(
+        "Gerçek açıklama/teknik "
+        f"özellik kullanılan: "
+        f"{real_detail_count}"
     )
 
     print(
         f"Geçici açıklama kullanılan: "
         f"{fallback_count}"
+    )
+
+    print(
+        f"Görseli XML'e eklenen ürün: "
+        f"{image_product_count}"
+    )
+
+    print(
+        f"XML'e eklenen toplam görsel: "
+        f"{total_image_count}"
     )
 
 
@@ -1470,34 +2123,53 @@ def build_xml(
 def main():
     session = requests.Session()
 
+    # 1. Giriş
     cari_id = login(
         session
     )
 
+    # 2. Güncel ürün listesini çek
     products = fetch_all_products(
         session,
         cari_id
     )
 
     print(
-        f"Tüm ürünler başarıyla çekildi: "
+        f"Tüm ürünler başarıyla "
+        f"çekildi: "
         f"{len(products)}"
     )
 
-    barcode_map = assign_barcodes(
-        products
+    # 3. Barkodlar
+    barcode_map = (
+        assign_barcodes(
+            products
+        )
     )
 
-    detail_cache = update_detail_cache(
-        session,
-        cari_id,
-        products
+    # 4. Açıklama / teknik özellik
+    detail_cache = (
+        update_detail_cache(
+            session,
+            cari_id,
+            products
+        )
     )
 
+    # 5. Görseller
+    image_cache = (
+        update_image_cache(
+            session,
+            products
+        )
+    )
+
+    # 6. XML
     build_xml(
         products,
         barcode_map,
-        detail_cache
+        detail_cache,
+        image_cache
     )
 
     print(
@@ -1505,11 +2177,10 @@ def main():
         f"{OUTPUT_FILE}"
     )
 
-    print(
-        f"XML ürün sayısı: "
-        f"{len(products)}"
-    )
 
+# ==================================================
+# ÇALIŞTIR
+# ==================================================
 
 if __name__ == "__main__":
     try:
@@ -1521,6 +2192,7 @@ if __name__ == "__main__":
             file=sys.stderr
         )
 
+        # Geçici XML
         if os.path.exists(
             TMP_FILE
         ):
@@ -1528,6 +2200,7 @@ if __name__ == "__main__":
                 TMP_FILE
             )
 
+        # Geçici barkod
         temp_barcode_file = (
             BARCODE_FILE
             + ".tmp"
@@ -1540,11 +2213,20 @@ if __name__ == "__main__":
                 temp_barcode_file
             )
 
+        # Geçici detay
         if os.path.exists(
             DETAIL_TMP_FILE
         ):
             os.remove(
                 DETAIL_TMP_FILE
+            )
+
+        # Geçici görsel
+        if os.path.exists(
+            IMAGE_TMP_FILE
+        ):
+            os.remove(
+                IMAGE_TMP_FILE
             )
 
         sys.exit(1)
