@@ -25,7 +25,7 @@ DETAIL_FILE = "ankaracivata_details.json"
 DETAIL_TMP_FILE = "ankaracivata_details.json.tmp"
 
 # Her çalışmada en fazla kaç yeni ürün detayı alınacak?
-DETAIL_BATCH_SIZE = 500
+DETAIL_BATCH_SIZE = 1000
 
 # Ankara Civata sunucusuna art arda yük bindirmemek için
 # detay istekleri arasında bekleme.
