@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Repoyu al
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Python kur
         uses: actions/setup-python@v5
@@ -58,5 +60,13 @@ jobs:
             echo "XML degismedi."
           else
             git commit -m "Ankara Civata XML guncelle"
-            git push
+
+            echo "GitHub'daki son degisiklikler aliniyor..."
+            git fetch origin main
+
+            echo "XML commit'i guncel main uzerine tasiniyor..."
+            git rebase origin/main
+
+            echo "GitHub'a gonderiliyor..."
+            git push origin HEAD:main
           fi
