@@ -12,6 +12,7 @@ import requests
 BASE_URL = "https://b2b.ankaracivata.com.tr"
 LOGIN_URL = f"{BASE_URL}/api/Kullanici/login"
 PRODUCTS_URL = f"{BASE_URL}/api/Malzeme/getAll"
+DETAIL_URL = f"{BASE_URL}/api/Malzeme/getUrunDetay"
 
 OUTPUT_FILE = "ankaracivata.xml"
 TMP_FILE = "ankaracivata.xml.tmp"
@@ -19,6 +20,16 @@ TMP_FILE = "ankaracivata.xml.tmp"
 BARCODE_FILE = "ankaracivata_barcodes.json"
 BARCODE_PREFIX = "uyl26092026999"
 BARCODE_START = 1
+
+DETAIL_FILE = "ankaracivata_details.json"
+DETAIL_TMP_FILE = "ankaracivata_details.json.tmp"
+
+# Her çalışmada en fazla kaç yeni ürün detayı alınacak?
+DETAIL_BATCH_SIZE = 500
+
+# Ankara Civata sunucusuna art arda yük bindirmemek için
+# detay istekleri arasında bekleme.
+DETAIL_DELAY = 0.20
 
 PAGE_SIZE = 1000
 TIMEOUT = 60
@@ -128,8 +139,7 @@ def login(session):
 
     if not data.get("success"):
         raise RuntimeError(
-            f"Giriş başarısız: "
-            f"{data.get('message')}"
+            f"Giriş başarısız: {data.get('message')}"
         )
 
     token_data = (
@@ -143,8 +153,7 @@ def login(session):
 
     if not token or cari_id is None:
         raise RuntimeError(
-            "Login cevabından "
-            "token/cariId alınamadı."
+            "Login cevabından token/cariId alınamadı."
         )
 
     session.headers.update({
@@ -158,6 +167,10 @@ def login(session):
 
     return cari_id
 
+
+# ==================================================
+# TÜM ÜRÜNLER
+# ==================================================
 
 def fetch_page(session, cari_id, skip):
     payload = {
@@ -187,8 +200,7 @@ def fetch_page(session, cari_id, skip):
 
     if not result.get("success"):
         raise RuntimeError(
-            f"Ürün servisi başarısız: "
-            f"{result.get('message')}"
+            f"Ürün servisi başarısız: {result.get('message')}"
         )
 
     load_result = (
@@ -197,14 +209,8 @@ def fetch_page(session, cari_id, skip):
         .get("loadResult", {})
     )
 
-    products = load_result.get(
-        "data",
-        []
-    )
-
-    total_count = load_result.get(
-        "totalCount"
-    )
+    products = load_result.get("data", [])
+    total_count = load_result.get("totalCount")
 
     if total_count is None:
         raise RuntimeError(
@@ -230,18 +236,14 @@ def fetch_all_products(session, cari_id):
 
         if expected_total is None:
             expected_total = total_count
-
             print(
-                f"API toplam ürün: "
-                f"{expected_total}"
+                f"API toplam ürün: {expected_total}"
             )
 
         elif total_count != expected_total:
             raise RuntimeError(
-                "Toplam ürün sayısı işlem "
-                "sırasında değişti: "
-                f"{expected_total} -> "
-                f"{total_count}"
+                "Toplam ürün sayısı işlem sırasında değişti: "
+                f"{expected_total} -> {total_count}"
             )
 
         if not products:
@@ -267,11 +269,9 @@ def fetch_all_products(session, cari_id):
             all_products.append(product)
 
         print(
-            f"Çekilen: "
-            f"{len(all_products)} / "
+            f"Çekilen: {len(all_products)} / "
             f"{expected_total} "
-            f"(skip={skip}, "
-            f"gelen={len(products)})"
+            f"(skip={skip}, gelen={len(products)})"
         )
 
         skip += len(products)
@@ -300,9 +300,9 @@ def fetch_all_products(session, cari_id):
     return all_products
 
 
-# --------------------------------------------------
+# ==================================================
 # KALICI UYL BARKOD SİSTEMİ
-# --------------------------------------------------
+# ==================================================
 
 def load_barcode_map():
     if not os.path.exists(BARCODE_FILE):
@@ -310,7 +310,6 @@ def load_barcode_map():
             "Barkod eşleme dosyası henüz yok. "
             "İlk dağıtım yapılacak."
         )
-
         return {}
 
     try:
@@ -344,8 +343,7 @@ def load_barcode_map():
 
     except Exception as exc:
         raise RuntimeError(
-            f"Barkod eşleme dosyası okunamadı: "
-            f"{exc}"
+            f"Barkod eşleme dosyası okunamadı: {exc}"
         )
 
 
@@ -429,7 +427,6 @@ def assign_barcodes(products):
 
         product_id = str(product_id)
 
-        # Daha önce barkod verilmiş ürüne dokunma.
         if product_id in barcode_map:
             continue
 
@@ -478,57 +475,281 @@ def assign_barcodes(products):
     )
 
     print(
-        f"Yeni barkod verilen ürün: "
-        f"{new_count}"
+        f"Yeni barkod verilen ürün: {new_count}"
     )
 
     print(
-        f"Toplam barkod eşlemesi: "
-        f"{len(barcode_map)}"
+        f"Toplam barkod eşlemesi: {len(barcode_map)}"
     )
 
-    if barcode_map:
-        numbers = [
-            barcode_number(x)
-            for x in barcode_map.values()
-        ]
+    numbers = [
+        barcode_number(x)
+        for x in barcode_map.values()
+    ]
 
-        numbers = [
-            x
-            for x in numbers
-            if x is not None
-        ]
+    numbers = [
+        x for x in numbers
+        if x is not None
+    ]
 
-        if numbers:
-            print(
-                f"İlk UYL barkod: "
-                f"{make_barcode(min(numbers))}"
-            )
+    if numbers:
+        print(
+            f"İlk UYL barkod: "
+            f"{make_barcode(min(numbers))}"
+        )
 
-            print(
-                f"Son UYL barkod: "
-                f"{make_barcode(max(numbers))}"
-            )
+        print(
+            f"Son UYL barkod: "
+            f"{make_barcode(max(numbers))}"
+        )
 
     return barcode_map
 
 
-def add_text(parent, tag, value):
-    node = ET.SubElement(
-        parent,
-        tag
+# ==================================================
+# ÜRÜN DETAY CACHE
+# ==================================================
+
+def load_detail_cache():
+    if not os.path.exists(DETAIL_FILE):
+        print(
+            "Detay cache dosyası henüz yok. "
+            "Yeni oluşturulacak."
+        )
+        return {}
+
+    try:
+        with open(
+            DETAIL_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+            data = json.load(f)
+
+        if not isinstance(data, dict):
+            raise RuntimeError(
+                "Detay cache formatı geçersiz."
+            )
+
+        print(
+            f"Cache'de ürün detayı: {len(data)}"
+        )
+
+        return data
+
+    except Exception as exc:
+        raise RuntimeError(
+            f"Detay cache okunamadı: {exc}"
+        )
+
+
+def save_detail_cache(detail_cache):
+    with open(
+        DETAIL_TMP_FILE,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            detail_cache,
+            f,
+            ensure_ascii=False,
+            indent=2,
+            sort_keys=True
+        )
+
+    # Yazılan JSON gerçekten geçerli mi?
+    with open(
+        DETAIL_TMP_FILE,
+        "r",
+        encoding="utf-8"
+    ) as f:
+        json.load(f)
+
+    os.replace(
+        DETAIL_TMP_FILE,
+        DETAIL_FILE
     )
 
-    node.text = clean(value)
 
-    return node
+def fetch_product_detail(
+    session,
+    cari_id,
+    product_id
+):
+    payload = {
+        "cariId": cari_id,
+        "cariIdList": "",
+        "urunId": int(product_id)
+    }
+
+    response = request_with_retry(
+        session,
+        "POST",
+        DETAIL_URL,
+        json=payload
+    )
+
+    result = response.json()
+
+    if not result.get("success"):
+        raise RuntimeError(
+            f"Detay servisi başarısız: "
+            f"{result.get('message')}"
+        )
+
+    item = (
+        result
+        .get("data", {})
+        .get("item")
+    )
+
+    if not isinstance(item, dict):
+        raise RuntimeError(
+            "Detay cevabında item bulunamadı."
+        )
+
+    return {
+        "aciklama": clean(
+            item.get("aciklama")
+        ),
+        "teknikOzellikler": clean(
+            item.get("teknikOzellikler")
+        )
+    }
 
 
-# --------------------------------------------------
-# HTML ÜRÜN AÇIKLAMASI
-# --------------------------------------------------
+def update_detail_cache(
+    session,
+    cari_id,
+    products
+):
+    detail_cache = load_detail_cache()
 
-def create_description(
+    missing_products = []
+
+    for product in products:
+        product_id = (
+            product.get("malzemeId")
+            or product.get("id")
+        )
+
+        product_id = str(product_id)
+
+        if product_id not in detail_cache:
+            missing_products.append(product)
+
+    print(
+        f"Detayı eksik ürün: "
+        f"{len(missing_products)}"
+    )
+
+    if not missing_products:
+        print(
+            "Tüm ürün detayları cache'de mevcut."
+        )
+
+        # Dosyanın her durumda var olduğundan emin ol.
+        save_detail_cache(detail_cache)
+
+        return detail_cache
+
+    batch = missing_products[
+        :DETAIL_BATCH_SIZE
+    ]
+
+    print(
+        f"Bu çalışmada detay çekilecek ürün: "
+        f"{len(batch)}"
+    )
+
+    success_count = 0
+    error_count = 0
+
+    for index, product in enumerate(
+        batch,
+        start=1
+    ):
+        product_id = (
+            product.get("malzemeId")
+            or product.get("id")
+        )
+
+        product_id = str(product_id)
+
+        try:
+            detail = fetch_product_detail(
+                session,
+                cari_id,
+                product_id
+            )
+
+            detail_cache[product_id] = detail
+
+            success_count += 1
+
+        except Exception as exc:
+            error_count += 1
+
+            print(
+                f"DETAY HATA "
+                f"ürün={product_id}: {exc}"
+            )
+
+        # Her 25 başarılı/başarısız denemede cache'i diske yaz.
+        # Actions yarıda kesilirse alınmış detaylar kaybolmasın.
+        if index % 25 == 0:
+            save_detail_cache(
+                detail_cache
+            )
+
+            print(
+                f"Detay ilerleme: "
+                f"{index}/{len(batch)} "
+                f"| başarılı={success_count} "
+                f"| hata={error_count}"
+            )
+
+        time.sleep(
+            DETAIL_DELAY
+        )
+
+    save_detail_cache(
+        detail_cache
+    )
+
+    print(
+        f"Bu çalışmada başarılı detay: "
+        f"{success_count}"
+    )
+
+    print(
+        f"Bu çalışmada detay hatası: "
+        f"{error_count}"
+    )
+
+    print(
+        f"Cache toplam ürün: "
+        f"{len(detail_cache)}"
+    )
+
+    remaining = (
+        len(missing_products)
+        - success_count
+    )
+
+    print(
+        f"Yaklaşık kalan detay: "
+        f"{max(remaining, 0)}"
+    )
+
+    return detail_cache
+
+
+# ==================================================
+# AÇIKLAMA
+# ==================================================
+
+def fallback_description(
     name,
     brand,
     category,
@@ -543,10 +764,6 @@ def create_description(
             + html_clean(name)
             + "</strong></p>"
         )
-
-    parts.append(
-        "<p><strong>Ürün Özellikleri</strong></p>"
-    )
 
     features = []
 
@@ -588,10 +805,97 @@ def create_description(
     return "".join(parts)
 
 
-def build_xml(products, barcode_map):
+def create_real_description(
+    detail,
+    name,
+    brand,
+    category,
+    subcategory,
+    unit
+):
+    if not isinstance(detail, dict):
+        return fallback_description(
+            name,
+            brand,
+            category,
+            subcategory,
+            unit
+        )
+
+    aciklama = clean(
+        detail.get("aciklama")
+    )
+
+    teknik = clean(
+        detail.get("teknikOzellikler")
+    )
+
+    # İkisi de boşsa geçici/yedek açıklama.
+    if not aciklama and not teknik:
+        return fallback_description(
+            name,
+            brand,
+            category,
+            subcategory,
+            unit
+        )
+
+    parts = []
+
+    if name:
+        parts.append(
+            "<h3>"
+            + html_clean(name)
+            + "</h3>"
+        )
+
+    if aciklama:
+        parts.append(
+            "<h4>Ürün Açıklaması</h4>"
+        )
+
+        # Ankara Civata zaten HTML döndürüyor.
+        parts.append(
+            aciklama
+        )
+
+    if teknik:
+        parts.append(
+            "<h4>Teknik Özellikler</h4>"
+        )
+
+        parts.append(
+            teknik
+        )
+
+    return "".join(parts)
+
+
+# ==================================================
+# XML
+# ==================================================
+
+def add_text(parent, tag, value):
+    node = ET.SubElement(
+        parent,
+        tag
+    )
+
+    node.text = clean(value)
+
+    return node
+
+
+def build_xml(
+    products,
+    barcode_map,
+    detail_cache
+):
     root = ET.Element("root")
 
     barcode_count = 0
+    real_detail_count = 0
+    fallback_count = 0
 
     for p in products:
         item = ET.SubElement(
@@ -618,7 +922,6 @@ def build_xml(products, barcode_map):
             p.get("stok")
         )
 
-        # Ankara Civata net bayi fiyatı
         net_price = decimal_text(
             p.get("bayiFiyati"),
             6
@@ -636,6 +939,29 @@ def build_xml(products, barcode_map):
             )
 
         barcode_count += 1
+
+        detail = detail_cache.get(
+            product_id
+        )
+
+        if isinstance(detail, dict) and (
+            clean(detail.get("aciklama"))
+            or clean(
+                detail.get("teknikOzellikler")
+            )
+        ):
+            real_detail_count += 1
+        else:
+            fallback_count += 1
+
+        description = create_real_description(
+            detail,
+            name,
+            brand,
+            category,
+            subcategory,
+            unit
+        )
 
         add_text(
             item,
@@ -659,16 +985,6 @@ def build_xml(products, barcode_map):
             item,
             "stock",
             stock
-        )
-
-        # Düz tek satır açıklama yerine
-        # düzenli HTML açıklama oluştur.
-        description = create_description(
-            name,
-            brand,
-            category,
-            subcategory,
-            unit
         )
 
         add_text(
@@ -721,8 +1037,6 @@ def build_xml(products, barcode_map):
             "category",
             subcategory
         )
-
-        # Referans alanları
 
         add_text(
             item,
@@ -790,8 +1104,13 @@ def build_xml(products, barcode_map):
 
         if image_path:
             if (
-                image_path.startswith("http://")
-                or image_path.startswith("https://")
+                image_path.startswith(
+                    "http://"
+                )
+                or
+                image_path.startswith(
+                    "https://"
+                )
             ):
                 image_url = image_path
 
@@ -839,9 +1158,9 @@ def build_xml(products, barcode_map):
             ""
         )
 
-    # --------------------------------------------------
-    # GÜVENLİK KONTROLLERİ
-    # --------------------------------------------------
+    # ==================================================
+    # XML GÜVENLİK KONTROLLERİ
+    # ==================================================
 
     if barcode_count != len(products):
         raise RuntimeError(
@@ -866,7 +1185,6 @@ def build_xml(products, barcode_map):
         xml_declaration=True
     )
 
-    # XML gerçekten okunabiliyor mu?
     check_root = ET.parse(
         TMP_FILE
     ).getroot()
@@ -882,7 +1200,6 @@ def build_xml(products, barcode_map):
             f"XML={xml_count}"
         )
 
-    # Her ürünün barkodu var mı?
     xml_barcodes = []
 
     for item in check_root.findall("item"):
@@ -906,7 +1223,6 @@ def build_xml(products, barcode_map):
             barcode
         )
 
-    # Mükerrer barkod var mı?
     if (
         len(xml_barcodes)
         != len(set(xml_barcodes))
@@ -916,8 +1232,6 @@ def build_xml(products, barcode_map):
             "XML güncellenmeyecek."
         )
 
-    # Bütün kontroller başarılıysa
-    # mevcut XML'i yenisiyle değiştir.
     os.replace(
         TMP_FILE,
         OUTPUT_FILE
@@ -925,10 +1239,23 @@ def build_xml(products, barcode_map):
 
     print(
         f"Barkodlu ürün: "
-        f"{barcode_count} / "
-        f"{len(products)}"
+        f"{barcode_count} / {len(products)}"
     )
 
+    print(
+        f"Gerçek açıklama/teknik özellik kullanılan: "
+        f"{real_detail_count}"
+    )
+
+    print(
+        f"Geçici açıklama kullanılan: "
+        f"{fallback_count}"
+    )
+
+
+# ==================================================
+# ANA PROGRAM
+# ==================================================
 
 def main():
     session = requests.Session()
@@ -951,9 +1278,16 @@ def main():
         products
     )
 
+    detail_cache = update_detail_cache(
+        session,
+        cari_id,
+        products
+    )
+
     build_xml(
         products,
-        barcode_map
+        barcode_map,
+        detail_cache
     )
 
     print(
@@ -993,6 +1327,13 @@ if __name__ == "__main__":
         ):
             os.remove(
                 temp_barcode_file
+            )
+
+        if os.path.exists(
+            DETAIL_TMP_FILE
+        ):
+            os.remove(
+                DETAIL_TMP_FILE
             )
 
         sys.exit(1)
