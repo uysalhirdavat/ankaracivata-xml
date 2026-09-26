@@ -1,9 +1,833 @@
 {
+  "10049": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10077": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10083": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10099": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10113": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10149": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10219": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "103": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "10315": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10320": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10322": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN810&nbsp;eldivenler&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınma&nbsp;ve&nbsp;yırtılmaya&nbsp;karşı&nbsp;uzun&nbsp;süre&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur.&nbsp;REACH&nbsp;uyumludur&nbsp;ve&nbsp;silikon&nbsp;içermez.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "10337": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN5&nbsp;eldivenler&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınma&nbsp;ve&nbsp;yırtılmaya&nbsp;karşı&nbsp;uzun&nbsp;süre&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur,&nbsp;REACH&nbsp;uyumludur&nbsp;ve&nbsp;silikon&nbsp;içermez.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "10343": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">KN250&nbsp;eldivenler,&nbsp;pamuk&nbsp;interlok&nbsp;astar&nbsp;üzerine&nbsp;sarı&nbsp;nitril&nbsp;kaplaması&nbsp;ile&nbsp;sıvı&nbsp;sızdırmazlığı&nbsp;ve&nbsp;dayanıklılık&nbsp;sunar.&nbsp;Örgü&nbsp;bilekliği&nbsp;ve&nbsp;özel&nbsp;kalıbı&nbsp;sayesinde&nbsp;eli&nbsp;daha&nbsp;iyi&nbsp;kavrar&nbsp;ve&nbsp;konforlu&nbsp;kullanım&nbsp;sağlar.&nbsp;Pamuklu&nbsp;astar&nbsp;yapısı&nbsp;elin&nbsp;hava&nbsp;almasını&nbsp;sağlar.&nbsp;Aşınma&nbsp;ve&nbsp;yırtılmaya&nbsp;karşı&nbsp;dirençlidir.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "10352": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10353": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">KN2&nbsp;eldivenler&nbsp;pamuk&nbsp;astar&nbsp;üzerine&nbsp;sarı&nbsp;nitril&nbsp;tam&nbsp;kaplaması&nbsp;ile&nbsp;sıvı&nbsp;sızdırmazlığı&nbsp;ve&nbsp;yüksek&nbsp;dayanıklılık&nbsp;sunar.&nbsp;Örgü&nbsp;bilekliği&nbsp;ve&nbsp;özel&nbsp;kalıbı&nbsp;sayesinde&nbsp;eli&nbsp;daha&nbsp;iyi&nbsp;kavrar&nbsp;ve&nbsp;konforlu&nbsp;kullanım&nbsp;sağlar.&nbsp;Pamuklu&nbsp;iç&nbsp;yüzeyi&nbsp;terlemeyi&nbsp;azaltır.&nbsp;Aşınma&nbsp;ve&nbsp;yırtılmaya&nbsp;karşı&nbsp;dirençlidir.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.&nbsp;Silikon&nbsp;içermez.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "10354": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">KN2&nbsp;eldivenler&nbsp;pamuk&nbsp;astar&nbsp;üzerine&nbsp;sarı&nbsp;nitril&nbsp;tam&nbsp;kaplaması&nbsp;ile&nbsp;sıvı&nbsp;sızdırmazlığı&nbsp;ve&nbsp;yüksek&nbsp;dayanıklılık&nbsp;sunar.&nbsp;Örgü&nbsp;bilekliği&nbsp;ve&nbsp;özel&nbsp;kalıbı&nbsp;sayesinde&nbsp;eli&nbsp;daha&nbsp;iyi&nbsp;kavrar&nbsp;ve&nbsp;konforlu&nbsp;kullanım&nbsp;sağlar.&nbsp;Pamuklu&nbsp;iç&nbsp;yüzeyi&nbsp;terlemeyi&nbsp;azaltır.&nbsp;Aşınma&nbsp;ve&nbsp;yırtılmaya&nbsp;karşı&nbsp;dirençlidir.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.&nbsp;Silikon&nbsp;içermez.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "10362": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "1038": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10384": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10420": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10447": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10448": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10459": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10460": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10470": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10514": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10576": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10577": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10578": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10629": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10649": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10681": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10685": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10686": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10687": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10688": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10689": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10690": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10691": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10692": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10693": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10694": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10695": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10696": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10698": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10699": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10700": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10701": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10702": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10703": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10704": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10705": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10706": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10707": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10708": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10709": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10710": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10711": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10712": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10713": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10715": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10717": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10718": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10719": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10720": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10721": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10722": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10723": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10724": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10725": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10726": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10727": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10728": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10729": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10730": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10731": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10732": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10733": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10734": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10735": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10736": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10737": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10738": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10739": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10740": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10741": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10742": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10743": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10744": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10745": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10746": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10747": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10748": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10749": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10750": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10751": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10752": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10753": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10754": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10755": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10756": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10757": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10758": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10759": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10760": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10761": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10762": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10763": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10764": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10765": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10766": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10767": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10768": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10769": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10774": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10775": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10776": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10777": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10778": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10779": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10780": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10781": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10782": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10783": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10784": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10785": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10786": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10787": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10788": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10789": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10790": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10791": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10792": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10793": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10794": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10795": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10796": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10797": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10798": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10799": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10800": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10801": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10802": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10803": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10804": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10805": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10806": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10807": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10808": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10809": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10810": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10811": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10812": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10813": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10814": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10815": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10816": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10817": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10818": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10819": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10820": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10821": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10822": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10823": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10824": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10825": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10826": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10827": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10828": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10829": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10831": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10832": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10834": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10835": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10836": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10837": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10838": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10840": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10841": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10842": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10844": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10845": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10846": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10847": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10848": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10849": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10851": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10852": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10853": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10854": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10855": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10856": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10857": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10858": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10859": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10861": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10863": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10865": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10866": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10867": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10868": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10869": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10870": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10871": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10872": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10873": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10874": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10875": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -1623,8 +2447,72 @@
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "3884": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;10&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3885": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;20&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3887": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3888": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;10&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3889": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;20&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3890": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;40&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3891": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;45&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3892": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;40&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3893": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;55&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3894": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;30&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3895": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;35&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3896": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;45&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3897": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;55&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3899": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;100&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "390": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;70&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3900": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;60&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3913": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "393": {
@@ -1635,12 +2523,76 @@
     "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "3971": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">7,5&nbsp;*80&nbsp;BULDEKS&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3972": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3975": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3986": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 214, 221); color: rgb(51, 65, 85);\">MM&nbsp;27&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3994": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
   "400": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "4000": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">7,5&nbsp;*&nbsp;120&nbsp;BULDEKS&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4002": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;30&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4003": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 226); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4004": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4005": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4038": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;110&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4041": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;45&nbsp;ASMA&nbsp;TAVAN&nbsp;DÜBELİ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4044": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4049": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4055": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 214, 220); color: rgb(51, 65, 85);\">4.2*19&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
   "406": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4060": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "41": {
@@ -1651,20 +2603,324 @@
     "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "4136": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">7,5&nbsp;*&nbsp;60&nbsp;BULDEKS&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4140": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">MM&nbsp;24&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4141": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4143": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4144": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4151": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;75&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4157": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4170": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;90&nbsp;BORULU&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4171": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;ÇEKMELİ&nbsp;S&nbsp;TİPİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4172": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;FLANŞLI&nbsp;SOMUN&nbsp;DIN:6923</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4180": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4211": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">6.3*45&nbsp;BETOFAST&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4213": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4215": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">KAPALI&nbsp;KANCALI&nbsp;DÜBEL&nbsp;MM&nbsp;8</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4216": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">AÇIK&nbsp;KANCALI&nbsp;DÜBEL&nbsp;MM8</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4224": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">3/16&nbsp;İNCE&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4227": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4228": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4230": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4231": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">1/4&nbsp;İNCE&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4232": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">3.9*22&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4234": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">5/16*55&nbsp;ŞASE&nbsp;PULU&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4235": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">1/2&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4236": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">5/8&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4237": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">1-1/8&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4238": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4239": {
+    "aciklama": "<p>MM&nbsp;12&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</p>",
+    "teknikOzellikler": ""
+  },
+  "4241": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">3/8*55&nbsp;ŞASE&nbsp;PULU&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4243": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;55&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4249": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4251": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">7/16&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4252": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4254": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;22&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4255": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">MM&nbsp;27&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4256": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;20&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4257": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;40&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4258": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;30&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4259": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;40&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4260": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4262": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4263": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;60&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4264": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;70&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4265": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;80&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4272": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM10*85&nbsp;BORULU&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4273": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;120&nbsp;BORULU&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4274": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;140&nbsp;BORULU&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4275": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;24&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4291": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4322": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;FLANŞLI&nbsp;SOMUN&nbsp;DIN:6923</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4339": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;3&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4357": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;ÇAKMA&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4358": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;16&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4367": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;80&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4368": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;150&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4373": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;55&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4376": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4380": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 214, 221); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;45&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4391": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;120&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4395": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;100&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4396": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;110&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "44": {
     "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;12&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4423": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 233, 252); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;ÇAKMA&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4425": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4426": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">6.3&nbsp;*&nbsp;125&nbsp;BETOFAST&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4447": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;25&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4472": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">3/8&nbsp;İNCE&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4483": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;ÇAKMA&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4484": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM14*110&nbsp;BORULU&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
   },
   "455": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "4561": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">KAPALI&nbsp;KANCALI&nbsp;DÜBEL&nbsp;MM&nbsp;10</span></p>",
+    "teknikOzellikler": ""
+  },
   "458": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "4589": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;12&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4590": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;12&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4594": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4596": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6.3*105&nbsp;BETOFAST&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4598": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">3/4&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4618": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "462": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;55&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4629": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;FLANŞLI&nbsp;SOMUN&nbsp;DIN:6923</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4646": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;30&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
     "teknikOzellikler": ""
   },
   "466": {
@@ -1675,16 +2931,56 @@
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "4671": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6.3&nbsp;*&nbsp;75&nbsp;BETOFAST&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4672": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">7/8&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4691": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;200&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4692": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;110&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4693": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">MM&nbsp;22&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "470": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "4706": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;90&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
   },
   "473": {
     "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "4741": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;27&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
   "476": {
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4781": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">1&quot;&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4782": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">1-1/2&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4790": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">M&nbsp;6&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
     "teknikOzellikler": ""
   },
   "48": {
@@ -1699,16 +2995,144 @@
     "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "4837": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">MM&nbsp;36&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4854": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">9/16&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4857": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">3&nbsp;*&nbsp;16&nbsp;SUNTA&nbsp;VİDASI&nbsp;DIN:7505</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4862": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;30&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4869": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 253); color: rgb(51, 65, 85);\">MM&nbsp;33&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
   "487": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4884": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;150&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4886": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);\">MM&nbsp;36&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4887": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "4891": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;4&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4894": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;70&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
   },
   "491": {
     "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "4918": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;30&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4919": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;40&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4933": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10*120&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4934": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;75&nbsp;BORULU&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4943": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;45&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4950": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;25&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4951": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;110&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4952": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">5.5&nbsp;*&nbsp;135&nbsp;M.U.&nbsp;ÇATI&nbsp;VİDASI&nbsp;DIN:7504K</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4964": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4965": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;60&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "497": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4972": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;39&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4976": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;45&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4978": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;70&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4979": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;70&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4980": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;110&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4998": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;25&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5017": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">1/2*55&nbsp;ŞASE&nbsp;PULU&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5027": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 232, 251); color: rgb(51, 65, 85);\">MM12*110&nbsp;BORULU&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5046": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;FLANŞLI&nbsp;SOMUN&nbsp;DIN:6923</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5058": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">20&nbsp;*&nbsp;260&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5086": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">AÇIK&nbsp;KANCALI&nbsp;DÜBEL&nbsp;MM10</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5091": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
     "teknikOzellikler": ""
   },
   "51": {
@@ -1719,8 +3143,20 @@
     "aciklama": "<p><span style=\"color: rgb(51, 65, 85); background-color: rgb(214, 223, 236);\">MM&nbsp;6&nbsp;ÇAKMA&nbsp;DÜBEL</span><span style=\"color: rgb(51, 65, 85); background-color: rgb(219, 234, 254);\">DÇ06</span></p>",
     "teknikOzellikler": ""
   },
+  "5197": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "52": {
     "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;16&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5205": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;39&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5214": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;42&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "531": {
@@ -1735,8 +3171,36 @@
     "aciklama": "<p><span style=\"background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "5438": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "5443": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "5457": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;130&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5465": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;33&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5473": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5477": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;65&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "548": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">24&nbsp;*&nbsp;300&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5481": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;55&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
   "549": {
@@ -1747,12 +3211,128 @@
     "aciklama": "<p><span style=\"background-color: rgb(210, 214, 221); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;20&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "5510": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;33&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5512": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">MM&nbsp;36&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5513": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">1-1/4&nbsp;KALIN&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5518": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "5519": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "5520": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "5529": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">20&nbsp;*&nbsp;180&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
   "553": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "5530": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;16&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5557": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">5&nbsp;*&nbsp;25&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5558": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;70&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5560": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;16&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5576": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;70&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5606": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;70&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5608": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5610": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;35&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5611": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;60&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5614": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;20&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5615": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;25&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5616": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;60&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5617": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;80&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5618": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;20&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "562": {
     "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5630": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;35&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5631": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 233, 252); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;80&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5632": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;90&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5633": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;120&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5635": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;60&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5650": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;80&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5654": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;90&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5655": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;100&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "569": {
@@ -1763,8 +3343,44 @@
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;20&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "5741": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5749": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">4.2*16&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5751": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">4.2*25&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5757": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">MM&nbsp;39&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5759": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">5*70&nbsp;SUNTA&nbsp;VİDASI&nbsp;YARIM&nbsp;DİŞ</span></p>",
+    "teknikOzellikler": ""
+  },
   "577": {
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5792": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">M&nbsp;8&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5793": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">M&nbsp;10&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5794": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">M&nbsp;12&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5795": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "580": {
@@ -1773,6 +3389,10 @@
   },
   "583": {
     "aciklama": "<p><span style=\"background-color: rgb(218, 233, 252); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5868": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;45&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
   "589": {
@@ -1787,12 +3407,44 @@
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "5940": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;75&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5961": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;100&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
   "60": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;25&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6019": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">3&nbsp;*&nbsp;5&nbsp;SETSKUR&nbsp;CIVATA</span></p>",
+    "teknikOzellikler": ""
+  },
   "602": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6020": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">4&nbsp;*25&nbsp;SETSKUR&nbsp;CIVATA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6062": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;200&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6063": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">3&nbsp;*&nbsp;25&nbsp;SUNTA&nbsp;VİDASI&nbsp;DIN:7505</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6068": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM10*110&nbsp;BORULU&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6070": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "609": {
@@ -1803,40 +3455,212 @@
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;25&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6130": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
   "614": {
     "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6145": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6152": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6164": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6166": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6173": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6175": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6177": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6178": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6179": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6197": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6203": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "621": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "6211": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">4.8&nbsp;*&nbsp;20&nbsp;DİKİŞ&nbsp;VİDASI</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6213": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6231": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10*150&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6241": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6253": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;65&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6254": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">5/32&nbsp;İNCE&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "626": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;130&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6285": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">M&nbsp;5&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6305": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6306": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6307": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6308": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "631": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;140&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "6362": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6&nbsp;*&nbsp;90&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6376": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">4.8&nbsp;*&nbsp;38&nbsp;M.U.&nbsp;ÇATI&nbsp;VİDASI&nbsp;DIN:7504K</span></p>",
+    "teknikOzellikler": ""
+  },
   "64": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 214, 220); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6416": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">MM&nbsp;48&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6440": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6474": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">5*100&nbsp;SUNTA&nbsp;VİDASI&nbsp;YARİM&nbsp;DIŞ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6480": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">3.5*25&nbsp;SUNTA&nbsp;ARKALIK&nbsp;VİDASI</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6489": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;48&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6494": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">4.8*25&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
     "teknikOzellikler": ""
   },
   "65": {
     "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;30&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6512": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">5.5&nbsp;*&nbsp;145&nbsp;M.U.&nbsp;ÇATI&nbsp;VİDASI&nbsp;DIN:7504K</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6552": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;12&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6565": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">3&nbsp;*&nbsp;35&nbsp;SUNTA&nbsp;VİDASI&nbsp;DIN:7505</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6582": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">5*120&nbsp;SUNTA&nbsp;VİDASI</span></p>",
+    "teknikOzellikler": ""
+  },
   "659": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6592": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6593": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;50&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6594": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;70&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6605": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">20&nbsp;*&nbsp;220&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
   },
   "661": {
     "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6614": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;110&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6634": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">KAPALI&nbsp;KANCALI&nbsp;DÜBEL&nbsp;MM&nbsp;6</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6635": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "664": {
     "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6652": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "667": {
@@ -1851,8 +3675,36 @@
     "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6736": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;120&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "675": {
     "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6759": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">20&nbsp;*&nbsp;150&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6775": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">5/16*32&nbsp;PANJUR&nbsp;PULU&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6788": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">4,8*16&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6790": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6,3*90&nbsp;BETOFAST&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6791": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 233, 252); color: rgb(51, 65, 85);\">4.2*13&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6799": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">AÇIK&nbsp;KANCALI&nbsp;DÜBEL&nbsp;MM6</span></p>",
     "teknikOzellikler": ""
   },
   "68": {
@@ -1867,12 +3719,176 @@
     "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6837": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;130&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "685": {
     "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6870": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6874": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;25&nbsp;SETSKUR&nbsp;CIVATA</span></p>",
+    "teknikOzellikler": ""
+  },
   "69": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;35&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6931": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">6.3&nbsp;*&nbsp;145&nbsp;BETOFAST&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6940": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">1/2*55&nbsp;ŞASE&nbsp;PULU&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6944": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">4.2*32&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6966": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6967": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6968": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6969": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6983": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6984": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6985": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6986": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6993": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6996": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;12&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6998": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;20&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6999": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;25&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7000": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 233, 252); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7001": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;35&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7002": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;16&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7003": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7004": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7005": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7012": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;10&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7013": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;12&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7015": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;16&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7016": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;20&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7017": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;25&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7018": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7019": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;35&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7020": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7021": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7022": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7023": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7024": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7025": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7027": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">1/2*32&nbsp;PANJUR&nbsp;PULU&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7120": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7169": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7177": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "718": {
@@ -1883,6 +3899,14 @@
     "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "7214": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;80&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7215": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">6,3&nbsp;*&nbsp;60&nbsp;KONTEYNER&nbsp;VİDASI</span></p>",
+    "teknikOzellikler": ""
+  },
   "722": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -1891,12 +3915,20 @@
     "aciklama": "<p><span style=\"background-color: rgb(211, 217, 226); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "7294": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">5.5&nbsp;*&nbsp;80&nbsp;M.U.&nbsp;ÇATI&nbsp;VİDASI&nbsp;DIN:7504K</span></p>",
+    "teknikOzellikler": ""
+  },
   "73": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;40&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "731": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7311": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">6,3&nbsp;*&nbsp;80&nbsp;KONTEYNER&nbsp;VİDASI</span></p>",
     "teknikOzellikler": ""
   },
   "737": {
@@ -1915,6 +3947,30 @@
     "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "7498": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN2&nbsp;eldivenler&nbsp;ekstra&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur.&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7499": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">KN350&nbsp;eldivenler,&nbsp;pamuk&nbsp;interlok&nbsp;astar&nbsp;üzerine&nbsp;sarı&nbsp;nitril&nbsp;yarı&nbsp;kaplaması&nbsp;ile&nbsp;üretilmiştir.&nbsp;Örgü&nbsp;bilekliği&nbsp;ve&nbsp;özel&nbsp;kalıbı&nbsp;sayesinde&nbsp;eli&nbsp;tam&nbsp;kavrar,&nbsp;konforlu&nbsp;bir&nbsp;kullanım&nbsp;sunar.&nbsp;Pamuklu&nbsp;astar&nbsp;yapısı&nbsp;elin&nbsp;hava&nbsp;almasını&nbsp;sağlayarak&nbsp;terlemeyi&nbsp;minimize&nbsp;eder.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır&nbsp;ve&nbsp;güvenli&nbsp;tutuş&nbsp;sağlar.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7500": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN5&nbsp;Zebra&nbsp;eldivenler&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Eldivenin&nbsp;kıvrımlı&nbsp;yapısı&nbsp;kavrama&nbsp;hissini&nbsp;ve&nbsp;kabiliyetini&nbsp;artırır.&nbsp;Tırtıklı&nbsp;dokusu&nbsp;nesnelerin&nbsp;kaymasını&nbsp;engeller.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7501": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7502": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN5&nbsp;Zebra&nbsp;eldivenler&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Eldivenin&nbsp;kıvrımlı&nbsp;yapısı&nbsp;kavrama&nbsp;hissini&nbsp;ve&nbsp;kabiliyetini&nbsp;artırır.&nbsp;Tırtıklı&nbsp;dokusu&nbsp;nesnelerin&nbsp;kaymasını&nbsp;engeller.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7503": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN5&nbsp;Zebra&nbsp;eldivenler&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Eldivenin&nbsp;kıvrımlı&nbsp;yapısı&nbsp;kavrama&nbsp;hissini&nbsp;ve&nbsp;kabiliyetini&nbsp;artırır.&nbsp;Tırtıklı&nbsp;dokusu&nbsp;nesnelerin&nbsp;kaymasını&nbsp;engeller.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
   "751": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -1931,6 +3987,18 @@
     "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "7665": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7666": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7667": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "768": {
     "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;75&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -1939,64 +4007,1996 @@
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;45&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "7700": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;20&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7713": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;12&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7714": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;16&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7718": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;4&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7719": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;5&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "772": {
     "aciklama": "<p><span style=\"background-color: rgb(211, 217, 226); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7720": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;6&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7722": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;8&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7723": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;10&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7724": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;12&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7725": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;20&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7726": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;14&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7727": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;16&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7728": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;18&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7729": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;20&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7732": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;27&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7733": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;30&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7734": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;33&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7735": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;36&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7736": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;39&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7737": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;42&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7738": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;45&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7739": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;48&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7740": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;52&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7741": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;56&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7743": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;64&nbsp;DIN934&nbsp;SOMUN&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7745": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;25&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7746": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;30&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7747": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;35&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7749": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;4&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7750": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;40&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7751": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7752": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7753": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;DÜZ&nbsp;DEMİR&nbsp;PUL&nbsp;DIN125&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7754": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;45&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7755": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;50&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7756": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;50&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7764": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7765": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7766": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7775": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7776": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7777": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7782": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7790": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7791": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7805": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;16&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7807": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;16&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7809": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;20&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7810": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;20&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7811": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;25&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7812": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;25&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7814": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7816": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;30&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7817": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;16&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7818": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;35&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7819": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;35&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7820": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;16&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7821": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;20&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7822": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;20&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7823": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;25&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7824": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7825": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;25&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7826": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;40&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7827": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7828": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;45&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7829": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
   "783": {
     "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "7831": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;50&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7832": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7833": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;30&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7834": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;35&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7835": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;50&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7836": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7837": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;55&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7838": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;55&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7840": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7841": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7842": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7843": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7846": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;60&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7847": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;35&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7849": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7850": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7851": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7852": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;70&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7853": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;40&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7854": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;75&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7856": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;75&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7857": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7858": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7859": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7860": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;45&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7861": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7862": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;50&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7863": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;50&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7864": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;50&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7865": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7867": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;55&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7869": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;85&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7873": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7874": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7875": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7876": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7878": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;60&nbsp;DIN931AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7883": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7884": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7885": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7886": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7887": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7888": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7889": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7890": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7891": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7892": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7893": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;130&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7894": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7895": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7899": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;140&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7900": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7901": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7902": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;150&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7903": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7904": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7906": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;160&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7907": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;160&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7912": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;180&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7913": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;180&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "792": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7931": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7932": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;65&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7934": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7936": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7937": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;20&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7938": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;25&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7939": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;25&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7940": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;70&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7941": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7942": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;75&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7945": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7946": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;30&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7947": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7948": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7952": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7953": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7954": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7955": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7956": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7957": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7959": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "796": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "7960": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7961": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7962": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7963": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7965": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7966": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7968": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7969": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7971": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;35&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7972": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7973": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7974": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;35&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7979": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7980": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7983": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;40&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7985": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7986": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "799": {
     "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7990": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;45&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7991": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7992": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;50&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7994": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7995": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "7997": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "80": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "8000": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8001": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;50&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8003": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8006": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8008": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8009": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;60&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8011": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8014": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8015": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;65&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8016": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8018": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8019": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8020": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8021": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8022": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;70&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CIVATA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8023": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8026": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;75&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8028": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8029": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "803": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8030": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8031": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;75&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8033": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;75&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8034": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8035": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8036": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8037": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8038": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8039": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8042": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8043": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8044": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8045": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8046": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8047": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8048": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8050": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8051": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;130&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8052": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8053": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8054": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8056": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8057": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;140&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8058": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
   "806": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;90&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
   },
+  "8063": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8064": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8065": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8066": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8067": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8071": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8078": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "808": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 233, 253); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;130&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8080": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8095": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8096": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8120": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8126": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8132": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8133": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8135": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8136": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;55&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8137": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8138": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8139": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
   "814": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 214, 221); color: rgb(51, 65, 85);\">MM&nbsp;20*&nbsp;140&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "8142": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8143": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8146": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8149": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8150": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8153": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;65&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8154": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;65&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8155": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8156": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8157": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8158": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8160": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;75&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8162": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8163": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8164": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8165": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8166": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8167": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8168": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8169": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8170": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8171": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8172": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8173": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8174": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8175": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8176": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8177": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;130&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8178": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8179": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "818": {
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;150&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8180": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;140&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8181": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8182": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8183": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 214, 220); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;150&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8184": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8185": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8187": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;160&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8188": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;160&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8190": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;170&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8191": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;170&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8193": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;180&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8194": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;180&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8196": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;190&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8197": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;190&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8199": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;200&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8200": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8201": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;200&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8206": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8214": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8217": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8218": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8220": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8222": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8240": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8242": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8243": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8244": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8245": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8246": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;50&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8249": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8252": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8253": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8255": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8256": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8260": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8263": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8264": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8266": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8267": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;60&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8268": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8269": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8270": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8271": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;65&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8272": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;65&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8274": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8287": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;200&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8291": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;45&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8294": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">1/4&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8295": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">5/16&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8296": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">3/8&nbsp;ÇELİK&nbsp;KELEBEK&nbsp;SOMUN&nbsp;DIN:315</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8297": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;75&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8298": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8299": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;70&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "83": {
     "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "8300": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;75&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8301": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;75&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8302": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8303": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8304": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;80&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8306": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20*&nbsp;85&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8308": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8309": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8310": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8314": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8315": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8316": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;100&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8328": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8330": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8331": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8332": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8333": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8334": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;120&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8337": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8338": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;130&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8344": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8345": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;20*&nbsp;140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8350": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8351": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8355": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20*&nbsp;160&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8356": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20*&nbsp;160&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8358": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20*&nbsp;160&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8370": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;170&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8372": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;170&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8379": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;180&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8383": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;190&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8384": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;190&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8385": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;200&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8386": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;200&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8387": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;200&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "85": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 214, 220); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;60&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "8799": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8802": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8803": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8804": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8805": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8806": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8807": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8818": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8819": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8820": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8821": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8823": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8825": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8826": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8827": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8828": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8829": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8830": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8832": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8834": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8851": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8853": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8856": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8858": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8859": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8861": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8862": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8863": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8864": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8865": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8867": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8869": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8874": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8883": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8885": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8887": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8888": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8891": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8893": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8894": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8896": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8897": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8898": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8899": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8901": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8902": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8904": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8907": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8913": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8914": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8915": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8917": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8918": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8919": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8921": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8925": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8927": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8930": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8931": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8932": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8933": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8934": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "8962": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "90": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "9017": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9019": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9023": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9025": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9028": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9051": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9052": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9098": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9100": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9101": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9152": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9158": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9183": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9188": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9189": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9190": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9193": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9194": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9196": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9198": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9200": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9201": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9204": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9205": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9209": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9211": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9233": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9239": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9240": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9241": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9242": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9276": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9374": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9375": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9377": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9393": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9397": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9398": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9401": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9402": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9429": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9430": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9432": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9506": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9511": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9543": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9572": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9708": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "98": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "9814": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9837": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9838": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9839": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9840": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9841": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9842": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9861": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9862": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9863": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9864": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9865": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9866": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9903": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9904": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9924": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9925": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9943": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN2&nbsp;eldivenler&nbsp;ekstra&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur.&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "9944": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">KN350&nbsp;eldivenler,&nbsp;pamuk&nbsp;interlok&nbsp;astar&nbsp;üzerine&nbsp;sarı&nbsp;nitril&nbsp;yarı&nbsp;kaplaması&nbsp;ile&nbsp;üretilmiştir.&nbsp;Örgü&nbsp;bilekliği&nbsp;ve&nbsp;özel&nbsp;kalıbı&nbsp;sayesinde&nbsp;eli&nbsp;tam&nbsp;kavrar,&nbsp;konforlu&nbsp;bir&nbsp;kullanım&nbsp;sunar.&nbsp;Pamuklu&nbsp;astar&nbsp;yapısı&nbsp;elin&nbsp;hava&nbsp;almasını&nbsp;sağlayarak&nbsp;terlemeyi&nbsp;minimize&nbsp;eder.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır&nbsp;ve&nbsp;güvenli&nbsp;tutuş&nbsp;sağlar.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "9955": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN7&nbsp;eldivenler&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.&nbsp;Silikon&nbsp;içermez.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "9956": {
+    "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN7&nbsp;eldivenler&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur&nbsp;ve&nbsp;REACH&nbsp;uyumludur.&nbsp;Silikon&nbsp;içermez.</span></p>",
+    "teknikOzellikler": ""
+  },
+  "9960": {
+    "aciklama": "",
     "teknikOzellikler": ""
   }
 }
