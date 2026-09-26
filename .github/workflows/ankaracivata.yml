@@ -1,0 +1,60 @@
+name: Ankara Civata XML
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 */4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-xml:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repoyu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Requests kur
+        run: pip install requests
+
+      - name: Ankara Civata XML olustur
+        env:
+          ANKARA_KULLANICI_ADI: ${{ secrets.ANKARA_KULLANICI_ADI }}
+          ANKARA_SIFRE: ${{ secrets.ANKARA_SIFRE }}
+        run: python ankaracivata.py
+
+      - name: XML kontrol
+        run: |
+          test -s ankaracivata.xml
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+
+          root = ET.parse("ankaracivata.xml").getroot()
+          count = len(root.findall("item"))
+
+          print("XML urun sayisi:", count)
+
+          if count < 8000:
+              raise SystemExit("XML urun sayisi beklenenden dusuk!")
+          PY
+
+      - name: XML degisti ise kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add ankaracivata.xml
+
+          if git diff --cached --quiet; then
+            echo "XML degismedi."
+          else
+            git commit -m "Ankara Civata XML guncelle"
+            git push
+          fi
