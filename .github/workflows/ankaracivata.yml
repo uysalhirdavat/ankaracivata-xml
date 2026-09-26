@@ -1,9 +1,10 @@
-name: Ankara Civata XML
+name: XML güncellemesi
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "15 */4 * * *"
+    - cron: "15 */2 * * *"
 
 permissions:
   contents: write
@@ -24,7 +25,7 @@ jobs:
       - name: Requests kur
         run: pip install requests
 
-      - name: Ankara Civata XML olustur
+      - name: Ankara Civata XML oluştur
         env:
           ANKARA_KULLANICI_ADI: ${{ secrets.ANKARA_KULLANICI_ADI }}
           ANKARA_SIFRE: ${{ secrets.ANKARA_SIFRE }}
@@ -33,6 +34,7 @@ jobs:
       - name: XML kontrol
         run: |
           test -s ankaracivata.xml
+
           python - <<'PY'
           import xml.etree.ElementTree as ET
 
@@ -45,12 +47,12 @@ jobs:
               raise SystemExit("XML urun sayisi beklenenden dusuk!")
           PY
 
-      - name: XML degisti ise kaydet
+      - name: XML değişti ise kaydet
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add ankaracivata.xml ankaracivata_barcodes.json
+          git add ankaracivata.xml ankaracivata_barcodes.json ankaracivata_details.json
 
           if git diff --cached --quiet; then
             echo "XML degismedi."
