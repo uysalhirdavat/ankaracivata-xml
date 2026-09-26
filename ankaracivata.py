@@ -115,7 +115,7 @@ def login(session):
     })
 
     print("Ankara Civata girişi başarılı.")
-    print(f"Cari ID alındı. Token loglanmayacak.")
+    print("Cari ID alındı. Token loglanmayacak.")
 
     return cari_id
 
@@ -232,14 +232,132 @@ def fetch_all_products(session, cari_id):
     return all_products
 
 
+def show_product_fields(products):
+    print("")
+    print("========================================")
+    print("ANKARA CIVATA API URUN ALANLARI")
+    print("========================================")
+
+    if not products:
+        print("Ürün bulunamadı.")
+        return
+
+    print("API'den gelen alan adları:")
+
+    for key in sorted(products[0].keys()):
+        print(f" - {key}")
+
+    print("")
+    print("========================================")
+    print("78477 URUNUNUN TUM ALANLARI")
+    print("========================================")
+
+    target = next(
+        (
+            product
+            for product in products
+            if str(
+                product.get("malzemeId")
+                or product.get("id")
+            ) == "78477"
+        ),
+        None
+    )
+
+    if target is None:
+        print("78477 ID'li ürün bulunamadı.")
+        return
+
+    for key in sorted(target.keys()):
+        value = target.get(key)
+
+        # Hassas olabilecek alanları loglama.
+        key_lower = str(key).lower()
+
+        if any(
+            word in key_lower
+            for word in (
+                "token",
+                "sifre",
+                "password",
+                "authorization",
+                "cookie",
+                "session"
+            )
+        ):
+            print(f"{key}: [GİZLENDİ]")
+        else:
+            print(f"{key}: {value}")
+
+    print("========================================")
+    print("78477 ALAN TARAMASI")
+    print("========================================")
+
+    possible_barcode_fields = []
+
+    for key, value in target.items():
+        key_lower = str(key).lower()
+
+        if any(
+            word in key_lower
+            for word in (
+                "barkod",
+                "barcode",
+                "ean",
+                "gtin",
+                "upc"
+            )
+        ):
+            possible_barcode_fields.append(
+                (key, value)
+            )
+
+    if possible_barcode_fields:
+        print("Olası barkod alanları bulundu:")
+
+        for key, value in possible_barcode_fields:
+            print(f"{key}: {value}")
+    else:
+        print(
+            "Bu ürün kaydında barkod/barcode/ean/"
+            "gtin/upc isimli alan bulunamadı."
+        )
+
+    print("========================================")
+    print("")
+
+
 def add_text(parent, tag, value):
     node = ET.SubElement(parent, tag)
     node.text = clean(value)
     return node
 
 
+def get_barcode(product):
+    possible_keys = (
+        "barkod",
+        "barcode",
+        "barkodNo",
+        "barkodKodu",
+        "ean",
+        "ean13",
+        "gtin",
+        "upc"
+    )
+
+    for key in possible_keys:
+        value = clean(product.get(key))
+
+        if value:
+            return value
+
+    return ""
+
+
 def build_xml(products):
     root = ET.Element("root")
+
+    barcode_count = 0
 
     for p in products:
         item = ET.SubElement(root, "item")
@@ -254,8 +372,17 @@ def build_xml(products):
         unit = p.get("birim")
         stock = int_stock(p.get("stok"))
 
-        # Ankara Civata API'deki bayiFiyati KDV hariç net bayi fiyatıdır.
-        net_price = decimal_text(p.get("bayiFiyati"), 6)
+        # Ankara Civata API'deki bayiFiyati
+        # KDV hariç net bayi fiyatıdır.
+        net_price = decimal_text(
+            p.get("bayiFiyati"),
+            6
+        )
+
+        barcode = get_barcode(p)
+
+        if barcode:
+            barcode_count += 1
 
         add_text(item, "id", product_id)
         add_text(item, "code", code)
@@ -265,13 +392,24 @@ def build_xml(products):
         description_parts = []
 
         if brand:
-            description_parts.append(f"Marka: {clean(brand)}")
+            description_parts.append(
+                f"Marka: {clean(brand)}"
+            )
+
         if category:
-            description_parts.append(f"Kategori: {clean(category)}")
+            description_parts.append(
+                f"Kategori: {clean(category)}"
+            )
+
         if subcategory:
-            description_parts.append(f"Alt Kategori: {clean(subcategory)}")
+            description_parts.append(
+                f"Alt Kategori: {clean(subcategory)}"
+            )
+
         if unit:
-            description_parts.append(f"Birim: {clean(unit)}")
+            description_parts.append(
+                f"Birim: {clean(unit)}"
+            )
 
         add_text(
             item,
@@ -281,42 +419,116 @@ def build_xml(products):
 
         add_text(item, "currency", "TRL")
         add_text(item, "price1", net_price)
-        add_text(item, "tax", decimal_text(vat, 2))
-        add_text(item, "barcode", "")
+        add_text(
+            item,
+            "tax",
+            decimal_text(vat, 2)
+        )
+        add_text(item, "barcode", barcode)
         add_text(item, "brand", brand)
-        add_text(item, "mainCategory", category)
-        add_text(item, "category", subcategory)
+        add_text(
+            item,
+            "mainCategory",
+            category
+        )
+        add_text(
+            item,
+            "category",
+            subcategory
+        )
 
-        # Kontrol/referans alanları
+        # Kontrol / referans alanları
         add_text(item, "unit", unit)
-        add_text(item, "coefficient", decimal_text(p.get("katsayi"), 6))
-        add_text(item, "listPrice", decimal_text(p.get("fiyat"), 6))
-        add_text(item, "discount", decimal_text(p.get("iskonto"), 2))
-        add_text(item, "cashDiscount", decimal_text(p.get("nakitIskonto"), 2))
+
+        add_text(
+            item,
+            "coefficient",
+            decimal_text(
+                p.get("katsayi"),
+                6
+            )
+        )
+
+        add_text(
+            item,
+            "listPrice",
+            decimal_text(
+                p.get("fiyat"),
+                6
+            )
+        )
+
+        add_text(
+            item,
+            "discount",
+            decimal_text(
+                p.get("iskonto"),
+                2
+            )
+        )
+
+        add_text(
+            item,
+            "cashDiscount",
+            decimal_text(
+                p.get("nakitIskonto"),
+                2
+            )
+        )
+
         add_text(
             item,
             "creditCardDiscount",
-            decimal_text(p.get("krediKartiIskonto"), 2)
+            decimal_text(
+                p.get("krediKartiIskonto"),
+                2
+            )
         )
+
         add_text(
             item,
             "vatIncluded",
-            decimal_text(p.get("kdvDahil"), 6)
+            decimal_text(
+                p.get("kdvDahil"),
+                6
+            )
         )
 
-        image_path = clean(p.get("resimYolu"))
+        image_path = clean(
+            p.get("resimYolu")
+        )
 
         if image_path:
-            if image_path.startswith("http://") or image_path.startswith("https://"):
+            if (
+                image_path.startswith("http://")
+                or image_path.startswith("https://")
+            ):
                 image_url = image_path
-            elif image_path.startswith("/"):
-                image_url = BASE_URL + image_path
-            else:
-                image_url = BASE_URL + "/" + image_path
 
-            add_text(item, "picture1", image_url)
+            elif image_path.startswith("/"):
+                image_url = (
+                    BASE_URL + image_path
+                )
+
+            else:
+                image_url = (
+                    BASE_URL
+                    + "/"
+                    + image_path
+                )
+
+            add_text(
+                item,
+                "picture1",
+                image_url
+            )
+
         else:
-            add_text(item, "picture1", "")
+            add_text(
+                item,
+                "picture1",
+                ""
+            )
 
         add_text(item, "picture2", "")
         add_text(item, "picture3", "")
@@ -325,7 +537,10 @@ def build_xml(products):
     tree = ET.ElementTree(root)
 
     try:
-        ET.indent(tree, space="  ")
+        ET.indent(
+            tree,
+            space="  "
+        )
     except AttributeError:
         pass
 
@@ -335,10 +550,19 @@ def build_xml(products):
         xml_declaration=True
     )
 
-    # XML parse testi
+    # XML'in gerçekten geçerli olduğunu kontrol et.
     ET.parse(TMP_FILE)
 
-    os.replace(TMP_FILE, OUTPUT_FILE)
+    # Tam XML başarıyla oluşmadan mevcut XML'e dokunma.
+    os.replace(
+        TMP_FILE,
+        OUTPUT_FILE
+    )
+
+    print(
+        f"Barkod bulunan ürün sayısı: "
+        f"{barcode_count} / {len(products)}"
+    )
 
 
 def main():
@@ -351,19 +575,36 @@ def main():
         cari_id
     )
 
-    print(f"Tüm ürünler başarıyla çekildi: {len(products)}")
+    print(
+        f"Tüm ürünler başarıyla çekildi: "
+        f"{len(products)}"
+    )
+
+    # API'nin ürün kaydındaki tüm alanları kontrol et.
+    show_product_fields(products)
 
     build_xml(products)
 
-    print(f"XML başarıyla oluşturuldu: {OUTPUT_FILE}")
-    print(f"XML ürün sayısı: {len(products)}")
+    print(
+        f"XML başarıyla oluşturuldu: "
+        f"{OUTPUT_FILE}"
+    )
+
+    print(
+        f"XML ürün sayısı: "
+        f"{len(products)}"
+    )
 
 
 if __name__ == "__main__":
     try:
         main()
+
     except Exception as exc:
-        print(f"HATA: {exc}", file=sys.stderr)
+        print(
+            f"HATA: {exc}",
+            file=sys.stderr
+        )
 
         if os.path.exists(TMP_FILE):
             os.remove(TMP_FILE)
