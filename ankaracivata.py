@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import json
 import xml.etree.ElementTree as ET
 from decimal import Decimal, InvalidOperation
 
@@ -13,6 +14,10 @@ PRODUCTS_URL = f"{BASE_URL}/api/Malzeme/getAll"
 
 OUTPUT_FILE = "ankaracivata.xml"
 TMP_FILE = "ankaracivata.xml.tmp"
+
+BARCODE_FILE = "ankaracivata_barcodes.json"
+BARCODE_PREFIX = "uyl26092026999"
+BARCODE_START = 1
 
 PAGE_SIZE = 1000
 TIMEOUT = 60
@@ -36,9 +41,12 @@ def decimal_text(value, places=6):
 def int_stock(value):
     try:
         d = Decimal(str(value))
+
         if d < 0:
             return 0
+
         return int(d)
+
     except (InvalidOperation, ValueError, TypeError):
         return 0
 
@@ -59,7 +67,8 @@ def request_with_retry(session, method, url, **kwargs):
                 return response
 
             last_error = RuntimeError(
-                f"HTTP {response.status_code}: {response.text[:300]}"
+                f"HTTP {response.status_code}: "
+                f"{response.text[:300]}"
             )
 
         except requests.RequestException as exc:
@@ -67,19 +76,32 @@ def request_with_retry(session, method, url, **kwargs):
 
         if attempt < MAX_RETRIES:
             wait = attempt * 3
-            print(f"İstek başarısız. {wait} sn sonra tekrar deneniyor...")
+
+            print(
+                f"İstek başarısız. "
+                f"{wait} sn sonra tekrar deneniyor..."
+            )
+
             time.sleep(wait)
 
-    raise RuntimeError(f"İstek başarısız: {last_error}")
+    raise RuntimeError(
+        f"İstek başarısız: {last_error}"
+    )
 
 
 def login(session):
-    username = os.environ.get("ANKARA_KULLANICI_ADI")
-    password = os.environ.get("ANKARA_SIFRE")
+    username = os.environ.get(
+        "ANKARA_KULLANICI_ADI"
+    )
+
+    password = os.environ.get(
+        "ANKARA_SIFRE"
+    )
 
     if not username or not password:
         raise RuntimeError(
-            "ANKARA_KULLANICI_ADI veya ANKARA_SIFRE GitHub Secret bulunamadı."
+            "ANKARA_KULLANICI_ADI veya "
+            "ANKARA_SIFRE GitHub Secret bulunamadı."
         )
 
     payload = {
@@ -98,15 +120,24 @@ def login(session):
 
     if not data.get("success"):
         raise RuntimeError(
-            f"Giriş başarısız: {data.get('message')}"
+            f"Giriş başarısız: "
+            f"{data.get('message')}"
         )
 
-    token_data = data.get("data", {}).get("token", {})
+    token_data = (
+        data
+        .get("data", {})
+        .get("token", {})
+    )
+
     token = token_data.get("token")
     cari_id = token_data.get("cariId")
 
     if not token or cari_id is None:
-        raise RuntimeError("Login cevabından token/cariId alınamadı.")
+        raise RuntimeError(
+            "Login cevabından "
+            "token/cariId alınamadı."
+        )
 
     session.headers.update({
         "Authorization": f"Bearer {token}",
@@ -148,16 +179,29 @@ def fetch_page(session, cari_id, skip):
 
     if not result.get("success"):
         raise RuntimeError(
-            f"Ürün servisi başarısız: {result.get('message')}"
+            f"Ürün servisi başarısız: "
+            f"{result.get('message')}"
         )
 
-    load_result = result.get("data", {}).get("loadResult", {})
+    load_result = (
+        result
+        .get("data", {})
+        .get("loadResult", {})
+    )
 
-    products = load_result.get("data", [])
-    total_count = load_result.get("totalCount")
+    products = load_result.get(
+        "data",
+        []
+    )
+
+    total_count = load_result.get(
+        "totalCount"
+    )
 
     if total_count is None:
-        raise RuntimeError("API totalCount döndürmedi.")
+        raise RuntimeError(
+            "API totalCount döndürmedi."
+        )
 
     return products, int(total_count)
 
@@ -165,6 +209,7 @@ def fetch_page(session, cari_id, skip):
 def fetch_all_products(session, cari_id):
     all_products = []
     seen_ids = set()
+
     skip = 0
     expected_total = None
 
@@ -177,23 +222,32 @@ def fetch_all_products(session, cari_id):
 
         if expected_total is None:
             expected_total = total_count
-            print(f"API toplam ürün: {expected_total}")
+
+            print(
+                f"API toplam ürün: "
+                f"{expected_total}"
+            )
 
         elif total_count != expected_total:
             raise RuntimeError(
-                f"Toplam ürün sayısı işlem sırasında değişti: "
-                f"{expected_total} -> {total_count}"
+                "Toplam ürün sayısı işlem "
+                "sırasında değişti: "
+                f"{expected_total} -> "
+                f"{total_count}"
             )
 
         if not products:
             break
 
         for product in products:
-            product_id = product.get("malzemeId") or product.get("id")
+            product_id = (
+                product.get("malzemeId")
+                or product.get("id")
+            )
 
             if product_id is None:
                 raise RuntimeError(
-                    f"Ürün ID bulunamadı: {product}"
+                    "Ürün ID bulunamadı."
                 )
 
             product_id = str(product_id)
@@ -205,8 +259,11 @@ def fetch_all_products(session, cari_id):
             all_products.append(product)
 
         print(
-            f"Çekilen: {len(all_products)} / {expected_total} "
-            f"(skip={skip}, gelen={len(products)})"
+            f"Çekilen: "
+            f"{len(all_products)} / "
+            f"{expected_total} "
+            f"(skip={skip}, "
+            f"gelen={len(products)})"
         )
 
         skip += len(products)
@@ -220,149 +277,268 @@ def fetch_all_products(session, cari_id):
         time.sleep(0.4)
 
     if expected_total is None:
-        raise RuntimeError("Toplam ürün sayısı alınamadı.")
+        raise RuntimeError(
+            "Toplam ürün sayısı alınamadı."
+        )
 
     if len(all_products) != expected_total:
         raise RuntimeError(
-            f"EKSİK VERİ! API toplam={expected_total}, "
-            f"benzersiz çekilen={len(all_products)}. "
+            f"EKSİK VERİ! "
+            f"API toplam={expected_total}, "
+            f"benzersiz çekilen="
+            f"{len(all_products)}. "
             f"XML güncellenmeyecek."
         )
 
     return all_products
 
 
-def show_product_fields(products):
-    print("")
-    print("========================================")
-    print("ANKARA CIVATA API URUN ALANLARI")
-    print("========================================")
+# --------------------------------------------------
+# KALICI UYL BARKOD SİSTEMİ
+# --------------------------------------------------
 
-    if not products:
-        print("Ürün bulunamadı.")
-        return
-
-    print("API'den gelen alan adları:")
-
-    for key in sorted(products[0].keys()):
-        print(f" - {key}")
-
-    print("")
-    print("========================================")
-    print("78477 URUNUNUN TUM ALANLARI")
-    print("========================================")
-
-    target = next(
-        (
-            product
-            for product in products
-            if str(
-                product.get("malzemeId")
-                or product.get("id")
-            ) == "78477"
-        ),
-        None
-    )
-
-    if target is None:
-        print("78477 ID'li ürün bulunamadı.")
-        return
-
-    for key in sorted(target.keys()):
-        value = target.get(key)
-
-        # Hassas olabilecek alanları loglama.
-        key_lower = str(key).lower()
-
-        if any(
-            word in key_lower
-            for word in (
-                "token",
-                "sifre",
-                "password",
-                "authorization",
-                "cookie",
-                "session"
-            )
-        ):
-            print(f"{key}: [GİZLENDİ]")
-        else:
-            print(f"{key}: {value}")
-
-    print("========================================")
-    print("78477 ALAN TARAMASI")
-    print("========================================")
-
-    possible_barcode_fields = []
-
-    for key, value in target.items():
-        key_lower = str(key).lower()
-
-        if any(
-            word in key_lower
-            for word in (
-                "barkod",
-                "barcode",
-                "ean",
-                "gtin",
-                "upc"
-            )
-        ):
-            possible_barcode_fields.append(
-                (key, value)
-            )
-
-    if possible_barcode_fields:
-        print("Olası barkod alanları bulundu:")
-
-        for key, value in possible_barcode_fields:
-            print(f"{key}: {value}")
-    else:
+def load_barcode_map():
+    if not os.path.exists(BARCODE_FILE):
         print(
-            "Bu ürün kaydında barkod/barcode/ean/"
-            "gtin/upc isimli alan bulunamadı."
+            "Barkod eşleme dosyası henüz yok. "
+            "İlk dağıtım yapılacak."
         )
 
-    print("========================================")
-    print("")
+        return {}
+
+    try:
+        with open(
+            BARCODE_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+            data = json.load(f)
+
+        if not isinstance(data, dict):
+            raise RuntimeError(
+                "Barkod dosyasının formatı geçersiz."
+            )
+
+        result = {}
+
+        for product_id, barcode in data.items():
+            product_id = clean(product_id)
+            barcode = clean(barcode)
+
+            if product_id and barcode:
+                result[product_id] = barcode
+
+        print(
+            f"Mevcut barkod eşlemesi: "
+            f"{len(result)} ürün"
+        )
+
+        return result
+
+    except Exception as exc:
+        raise RuntimeError(
+            f"Barkod eşleme dosyası okunamadı: "
+            f"{exc}"
+        )
+
+
+def barcode_number(barcode):
+    barcode = clean(barcode)
+
+    if not barcode.startswith(BARCODE_PREFIX):
+        return None
+
+    suffix = barcode[len(BARCODE_PREFIX):]
+
+    if not suffix.isdigit():
+        return None
+
+    return int(suffix)
+
+
+def find_next_barcode_number(barcode_map):
+    highest = BARCODE_START - 1
+
+    for barcode in barcode_map.values():
+        number = barcode_number(barcode)
+
+        if number is not None:
+            highest = max(
+                highest,
+                number
+            )
+
+    return highest + 1
+
+
+def make_barcode(number):
+    return (
+        BARCODE_PREFIX
+        + f"{number:03d}"
+    )
+
+
+def assign_barcodes(products):
+    barcode_map = load_barcode_map()
+
+    # Güvenlik: Aynı barkod iki farklı üründe bulunmasın.
+    used_barcodes = set()
+
+    for product_id, barcode in barcode_map.items():
+        if barcode in used_barcodes:
+            raise RuntimeError(
+                f"Mükerrer barkod tespit edildi: "
+                f"{barcode}"
+            )
+
+        used_barcodes.add(barcode)
+
+    next_number = find_next_barcode_number(
+        barcode_map
+    )
+
+    new_count = 0
+
+    # İlk dağıtımın API sırasına bağımlı olmaması için
+    # ürünleri sayısal malzemeId'ye göre sıralıyoruz.
+    def sort_key(product):
+        product_id = (
+            product.get("malzemeId")
+            or product.get("id")
+        )
+
+        try:
+            return (0, int(product_id))
+        except (ValueError, TypeError):
+            return (1, str(product_id))
+
+    sorted_products = sorted(
+        products,
+        key=sort_key
+    )
+
+    for product in sorted_products:
+        product_id = (
+            product.get("malzemeId")
+            or product.get("id")
+        )
+
+        product_id = str(product_id)
+
+        # Daha önce barkod verilmişse kesinlikle değiştirme.
+        if product_id in barcode_map:
+            continue
+
+        while True:
+            barcode = make_barcode(
+                next_number
+            )
+
+            next_number += 1
+
+            if barcode not in used_barcodes:
+                break
+
+        barcode_map[product_id] = barcode
+        used_barcodes.add(barcode)
+
+        new_count += 1
+
+    # Önce geçici dosyaya yaz.
+    temp_barcode_file = (
+        BARCODE_FILE + ".tmp"
+    )
+
+    with open(
+        temp_barcode_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+        json.dump(
+            barcode_map,
+            f,
+            ensure_ascii=False,
+            indent=2,
+            sort_keys=True
+        )
+
+    # JSON'un geçerli olduğunu tekrar kontrol et.
+    with open(
+        temp_barcode_file,
+        "r",
+        encoding="utf-8"
+    ) as f:
+        json.load(f)
+
+    os.replace(
+        temp_barcode_file,
+        BARCODE_FILE
+    )
+
+    print(
+        f"Yeni barkod verilen ürün: "
+        f"{new_count}"
+    )
+
+    print(
+        f"Toplam barkod eşlemesi: "
+        f"{len(barcode_map)}"
+    )
+
+    if barcode_map:
+        numbers = [
+            barcode_number(x)
+            for x in barcode_map.values()
+        ]
+
+        numbers = [
+            x for x in numbers
+            if x is not None
+        ]
+
+        if numbers:
+            print(
+                f"İlk UYL barkod: "
+                f"{make_barcode(min(numbers))}"
+            )
+
+            print(
+                f"Son UYL barkod: "
+                f"{make_barcode(max(numbers))}"
+            )
+
+    return barcode_map
 
 
 def add_text(parent, tag, value):
-    node = ET.SubElement(parent, tag)
+    node = ET.SubElement(
+        parent,
+        tag
+    )
+
     node.text = clean(value)
+
     return node
 
 
-def get_barcode(product):
-    possible_keys = (
-        "barkod",
-        "barcode",
-        "barkodNo",
-        "barkodKodu",
-        "ean",
-        "ean13",
-        "gtin",
-        "upc"
-    )
-
-    for key in possible_keys:
-        value = clean(product.get(key))
-
-        if value:
-            return value
-
-    return ""
-
-
-def build_xml(products):
+def build_xml(products, barcode_map):
     root = ET.Element("root")
 
     barcode_count = 0
 
     for p in products:
-        item = ET.SubElement(root, "item")
+        item = ET.SubElement(
+            root,
+            "item"
+        )
 
-        product_id = p.get("malzemeId") or p.get("id")
+        product_id = (
+            p.get("malzemeId")
+            or p.get("id")
+        )
+
+        product_id = str(product_id)
+
         code = p.get("malzemeKodu")
         name = p.get("malzemeAciklama")
         brand = p.get("marka")
@@ -370,24 +546,52 @@ def build_xml(products):
         subcategory = p.get("altKategori")
         vat = p.get("kdvOran")
         unit = p.get("birim")
-        stock = int_stock(p.get("stok"))
 
-        # Ankara Civata API'deki bayiFiyati
-        # KDV hariç net bayi fiyatıdır.
+        stock = int_stock(
+            p.get("stok")
+        )
+
         net_price = decimal_text(
             p.get("bayiFiyati"),
             6
         )
 
-        barcode = get_barcode(p)
+        barcode = barcode_map.get(
+            product_id,
+            ""
+        )
 
-        if barcode:
-            barcode_count += 1
+        if not barcode:
+            raise RuntimeError(
+                f"Ürünün barkodu bulunamadı: "
+                f"{product_id}"
+            )
 
-        add_text(item, "id", product_id)
-        add_text(item, "code", code)
-        add_text(item, "label", name)
-        add_text(item, "stock", stock)
+        barcode_count += 1
+
+        add_text(
+            item,
+            "id",
+            product_id
+        )
+
+        add_text(
+            item,
+            "code",
+            code
+        )
+
+        add_text(
+            item,
+            "label",
+            name
+        )
+
+        add_text(
+            item,
+            "stock",
+            stock
+        )
 
         description_parts = []
 
@@ -403,7 +607,8 @@ def build_xml(products):
 
         if subcategory:
             description_parts.append(
-                f"Alt Kategori: {clean(subcategory)}"
+                f"Alt Kategori: "
+                f"{clean(subcategory)}"
             )
 
         if unit:
@@ -414,31 +619,63 @@ def build_xml(products):
         add_text(
             item,
             "details",
-            " | ".join(description_parts)
+            " | ".join(
+                description_parts
+            )
         )
 
-        add_text(item, "currency", "TRL")
-        add_text(item, "price1", net_price)
+        add_text(
+            item,
+            "currency",
+            "TRL"
+        )
+
+        add_text(
+            item,
+            "price1",
+            net_price
+        )
+
         add_text(
             item,
             "tax",
-            decimal_text(vat, 2)
+            decimal_text(
+                vat,
+                2
+            )
         )
-        add_text(item, "barcode", barcode)
-        add_text(item, "brand", brand)
+
+        add_text(
+            item,
+            "barcode",
+            barcode
+        )
+
+        add_text(
+            item,
+            "brand",
+            brand
+        )
+
         add_text(
             item,
             "mainCategory",
             category
         )
+
         add_text(
             item,
             "category",
             subcategory
         )
 
-        # Kontrol / referans alanları
-        add_text(item, "unit", unit)
+        # Referans alanları
+
+        add_text(
+            item,
+            "unit",
+            unit
+        )
 
         add_text(
             item,
@@ -480,7 +717,9 @@ def build_xml(products):
             item,
             "creditCardDiscount",
             decimal_text(
-                p.get("krediKartiIskonto"),
+                p.get(
+                    "krediKartiIskonto"
+                ),
                 2
             )
         )
@@ -500,14 +739,20 @@ def build_xml(products):
 
         if image_path:
             if (
-                image_path.startswith("http://")
-                or image_path.startswith("https://")
+                image_path.startswith(
+                    "http://"
+                )
+                or
+                image_path.startswith(
+                    "https://"
+                )
             ):
                 image_url = image_path
 
             elif image_path.startswith("/"):
                 image_url = (
-                    BASE_URL + image_path
+                    BASE_URL
+                    + image_path
                 )
 
             else:
@@ -530,9 +775,30 @@ def build_xml(products):
                 ""
             )
 
-        add_text(item, "picture2", "")
-        add_text(item, "picture3", "")
-        add_text(item, "picture4", "")
+        add_text(
+            item,
+            "picture2",
+            ""
+        )
+
+        add_text(
+            item,
+            "picture3",
+            ""
+        )
+
+        add_text(
+            item,
+            "picture4",
+            ""
+        )
+
+    if barcode_count != len(products):
+        raise RuntimeError(
+            f"Barkod sayısı hatalı. "
+            f"Ürün={len(products)}, "
+            f"Barkod={barcode_count}"
+        )
 
     tree = ET.ElementTree(root)
 
@@ -550,25 +816,74 @@ def build_xml(products):
         xml_declaration=True
     )
 
-    # XML'in gerçekten geçerli olduğunu kontrol et.
-    ET.parse(TMP_FILE)
+    # XML geçerlilik kontrolü
+    check_root = ET.parse(
+        TMP_FILE
+    ).getroot()
 
-    # Tam XML başarıyla oluşmadan mevcut XML'e dokunma.
+    xml_count = len(
+        check_root.findall("item")
+    )
+
+    if xml_count != len(products):
+        raise RuntimeError(
+            f"XML ürün sayısı hatalı. "
+            f"Beklenen={len(products)}, "
+            f"XML={xml_count}"
+        )
+
+    # Her ürünün barkodu var mı kontrol et.
+    xml_barcodes = []
+
+    for item in check_root.findall("item"):
+        barcode_node = item.find(
+            "barcode"
+        )
+
+        barcode = (
+            clean(barcode_node.text)
+            if barcode_node is not None
+            else ""
+        )
+
+        if not barcode:
+            raise RuntimeError(
+                "XML içinde barkodsuz ürün var. "
+                "XML güncellenmeyecek."
+            )
+
+        xml_barcodes.append(
+            barcode
+        )
+
+    if (
+        len(xml_barcodes)
+        != len(set(xml_barcodes))
+    ):
+        raise RuntimeError(
+            "XML içinde mükerrer barkod var. "
+            "XML güncellenmeyecek."
+        )
+
+    # Bütün kontroller başarılı.
     os.replace(
         TMP_FILE,
         OUTPUT_FILE
     )
 
     print(
-        f"Barkod bulunan ürün sayısı: "
-        f"{barcode_count} / {len(products)}"
+        f"Barkodlu ürün: "
+        f"{barcode_count} / "
+        f"{len(products)}"
     )
 
 
 def main():
     session = requests.Session()
 
-    cari_id = login(session)
+    cari_id = login(
+        session
+    )
 
     products = fetch_all_products(
         session,
@@ -580,10 +895,14 @@ def main():
         f"{len(products)}"
     )
 
-    # API'nin ürün kaydındaki tüm alanları kontrol et.
-    show_product_fields(products)
+    barcode_map = assign_barcodes(
+        products
+    )
 
-    build_xml(products)
+    build_xml(
+        products,
+        barcode_map
+    )
 
     print(
         f"XML başarıyla oluşturuldu: "
@@ -606,7 +925,22 @@ if __name__ == "__main__":
             file=sys.stderr
         )
 
-        if os.path.exists(TMP_FILE):
-            os.remove(TMP_FILE)
+        if os.path.exists(
+            TMP_FILE
+        ):
+            os.remove(
+                TMP_FILE
+            )
+
+        temp_barcode_file = (
+            BARCODE_FILE + ".tmp"
+        )
+
+        if os.path.exists(
+            temp_barcode_file
+        ):
+            os.remove(
+                temp_barcode_file
+            )
 
         sys.exit(1)
