@@ -3479,7 +3479,7 @@
     <id>569</id>
     <code>MM16060933B</code>
     <label>MM 16 * 60 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>16368</stock>
+    <stock>16168</stock>
     <details>&lt;h3&gt;MM 16 * 60 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;16&amp;nbsp;*&amp;nbsp;60&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>12.239391</price1>
@@ -3629,7 +3629,7 @@
     <id>594</id>
     <code>MM16080933B</code>
     <label>MM 16 * 80 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>5312</stock>
+    <stock>5162</stock>
     <details>&lt;h3&gt;MM 16 * 80 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;16&amp;nbsp;*&amp;nbsp;80&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>15.405223</price1>
@@ -14104,7 +14104,7 @@
     <id>4254</id>
     <code>GS22B</code>
     <label>MM 22 DIN975 GİJON BEYAZ</label>
-    <stock>432</stock>
+    <stock>396</stock>
     <details>&lt;h3&gt;MM 22 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;22&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>178.2</price1>
@@ -156985,7 +156985,7 @@ GBH 1-52</label>
     <stock>100</stock>
     <details>&lt;h3&gt;RAYNO MAKET BIÇAĞI YEDEĞİ 18mmx 0.5mm&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>2.145024</price1>
+    <price1>2.709504</price1>
     <tax>20</tax>
     <barcode>uyl260920269996280</barcode>
     <brand>RAYNO</brand>
@@ -156993,11 +156993,11 @@ GBH 1-52</label>
     <category>Maket Bıçakları ve Sentil</category>
     <unit>Adet</unit>
     <coefficient>100</coefficient>
-    <listPrice>4.56</listPrice>
+    <listPrice>5.76</listPrice>
     <discount>52.96</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>2.574029</vatIncluded>
+    <vatIncluded>3.251405</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/41a1175e-fca9-49a5-b0d9-38d0b1c0fbf6.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -162307,7 +162307,7 @@ GBH 1-52</label>
     <id>75349</id>
     <code>P2014B</code>
     <label>1/4 DÜZ DEMİR PUL 2 MM BEYAZ</label>
-    <stock>3954</stock>
+    <stock>3924</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -174632,7 +174632,7 @@ GBH 1-52</label>
     <id>76580</id>
     <code>RYN11500</code>
     <label>RAYNO ŞERİT METRE 3m x 16mm JS-78</label>
-    <stock>5396</stock>
+    <stock>5268</stock>
     <details />
     <currency>TRL</currency>
     <price1>49.67424</price1>
@@ -174682,7 +174682,7 @@ GBH 1-52</label>
     <id>76582</id>
     <code>RYN11510</code>
     <label>RAYNO ŞEFFAF ŞERİT METRE 3 m x 16 mm JS-61</label>
-    <stock>420</stock>
+    <stock>292</stock>
     <details />
     <currency>TRL</currency>
     <price1>56.448</price1>
