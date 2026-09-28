@@ -93,3 +93,12 @@ def int_stock(value):
 
         if d < 0:
             return 0
+
+        return int(d)
+
+    except (
+        InvalidOperation,
+        ValueError,
+        TypeError
+    ):
+        return 0
