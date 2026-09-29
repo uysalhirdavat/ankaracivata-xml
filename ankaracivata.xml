@@ -3029,7 +3029,7 @@
     <id>466</id>
     <code>DK20200</code>
     <label>20 * 200 KLİPSLİ DÜBEL</label>
-    <stock>210</stock>
+    <stock>140</stock>
     <details>&lt;h3&gt;20 * 200 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;20&amp;nbsp;*&amp;nbsp;200&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>66.96</price1>
@@ -3404,7 +3404,7 @@
     <id>549</id>
     <code>DK08100</code>
     <label>8 * 100 KLİPSLİ DÜBEL</label>
-    <stock>50928</stock>
+    <stock>48928</stock>
     <details />
     <currency>TRL</currency>
     <price1>6.804</price1>
@@ -5604,7 +5604,7 @@
     <id>2505</id>
     <code>MVA3525</code>
     <label>3,5 * 25 MATKAP UÇLU ALÇIPAN VİDA</label>
-    <stock>1368168</stock>
+    <stock>1288168</stock>
     <details>&lt;h3&gt;3,5 * 25 MATKAP UÇLU ALÇIPAN VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;3,5&amp;nbsp;*&amp;nbsp;25&amp;nbsp;MATKAP&amp;nbsp;UÇLU&amp;nbsp;ALÇIPAN&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.367968</price1>
@@ -5779,7 +5779,7 @@
     <id>2513</id>
     <code>MVÇ55105</code>
     <label>5.5 * 105 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>49098</stock>
+    <stock>43698</stock>
     <details>&lt;h3&gt;5.5 * 105 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);"&gt;5.5&amp;nbsp;*&amp;nbsp;105&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3.192624</price1>
@@ -5929,7 +5929,7 @@
     <id>2520</id>
     <code>MVÇ5525</code>
     <label>5.5 * 25 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>1298150</stock>
+    <stock>1284650</stock>
     <details>&lt;h3&gt;5.5 * 25 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);"&gt;5.5&amp;nbsp;*&amp;nbsp;25&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.200432</price1>
@@ -5954,7 +5954,7 @@
     <id>2521</id>
     <code>MVÇ5532</code>
     <label>5.5 * 32 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>409010</stock>
+    <stock>404210</stock>
     <details>&lt;h3&gt;5.5 * 32 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;5.5&amp;nbsp;*&amp;nbsp;32&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.436688</price1>
@@ -6004,7 +6004,7 @@
     <id>2523</id>
     <code>MVÇ5538</code>
     <label>5.5 * 38 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>232750</stock>
+    <stock>228550</stock>
     <details>&lt;h3&gt;5.5 * 38 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);"&gt;5.5&amp;nbsp;*&amp;nbsp;38&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.50984</price1>
@@ -6104,7 +6104,7 @@
     <id>2527</id>
     <code>MVÇ5560</code>
     <label>5.5 * 60 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>150100</stock>
+    <stock>146500</stock>
     <details>&lt;h3&gt;5.5 * 60 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);"&gt;5.5&amp;nbsp;*&amp;nbsp;60&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.938816</price1>
@@ -6304,7 +6304,7 @@
     <id>2537</id>
     <code>MVÇ6332</code>
     <label>6.3 * 32 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>45736</stock>
+    <stock>40936</stock>
     <details>&lt;h3&gt;6.3 * 32 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;6.3&amp;nbsp;*&amp;nbsp;32&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.988736</price1>
@@ -10204,7 +10204,7 @@
     <id>2781</id>
     <code>S04530</code>
     <label>4.5 * 30 SUNTA VİDASI DIN:7505</label>
-    <stock>87500</stock>
+    <stock>77500</stock>
     <details>&lt;h3&gt;4.5 * 30 SUNTA VİDASI DIN:7505&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);"&gt;4.5&amp;nbsp;*&amp;nbsp;30&amp;nbsp;SUNTA&amp;nbsp;VİDASI&amp;nbsp;DIN:7505&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.407712</price1>
@@ -11004,7 +11004,7 @@
     <id>2909</id>
     <code>DK12110</code>
     <label>12 * 110 KLİPSLİ DÜBEL</label>
-    <stock>39201</stock>
+    <stock>34201</stock>
     <details>&lt;h3&gt;12 * 110 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;12&amp;nbsp;*&amp;nbsp;110&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9.612</price1>
@@ -11029,7 +11029,7 @@
     <id>2910</id>
     <code>DK16145</code>
     <label>16 * 145 KLİPSLİ DÜBEL</label>
-    <stock>3089</stock>
+    <stock>2739</stock>
     <details>&lt;h3&gt;16 * 145 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;145&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>21.492</price1>
@@ -11104,7 +11104,7 @@
     <id>2927</id>
     <code>DK10090</code>
     <label>10 * 90 KLİPSLİ DÜBEL</label>
-    <stock>270836</stock>
+    <stock>269636</stock>
     <details>&lt;h3&gt;10 * 90 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;10&amp;nbsp;*&amp;nbsp;90&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7.02</price1>
@@ -12479,7 +12479,7 @@
     <id>3869</id>
     <code>KARBOSAN983450</code>
     <label>K 115*22.23 FLAP DİSK 40 KUM ZR</label>
-    <stock>4690</stock>
+    <stock>4570</stock>
     <details />
     <currency>TRL</currency>
     <price1>59.895</price1>
@@ -13129,7 +13129,7 @@
     <id>4005</id>
     <code>GS102000B</code>
     <label>MM 10 * 2 MT GİJON SAPLAMA</label>
-    <stock>669</stock>
+    <stock>579</stock>
     <details>&lt;h3&gt;MM 10 * 2 MT GİJON SAPLAMA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;2&amp;nbsp;MT&amp;nbsp;GİJON&amp;nbsp;SAPLAMA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>60.9444</price1>
@@ -13329,7 +13329,7 @@
     <id>4140</id>
     <code>GS24B</code>
     <label>MM 24 DIN975 GİJON BEYAZ</label>
-    <stock>701</stock>
+    <stock>1201</stock>
     <details>&lt;h3&gt;MM 24 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;24&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>207.9</price1>
@@ -14479,7 +14479,7 @@
     <id>4291</id>
     <code>GS06B</code>
     <label>MM 6 DIN975 GİJON BEYAZ</label>
-    <stock>2840</stock>
+    <stock>2690</stock>
     <details>&lt;h3&gt;MM 6 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>17.496</price1>
@@ -14629,7 +14629,7 @@
     <id>4368</id>
     <code>DK14150</code>
     <label>14 * 150 KLİPSLİ DÜBEL</label>
-    <stock>6091</stock>
+    <stock>5651</stock>
     <details>&lt;h3&gt;14 * 150 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;14&amp;nbsp;*&amp;nbsp;150&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>23.004</price1>
@@ -15254,7 +15254,7 @@
     <id>4691</id>
     <code>DK16200</code>
     <label>16 * 200 KLİPSLİ DÜBEL</label>
-    <stock>2349</stock>
+    <stock>2149</stock>
     <details>&lt;h3&gt;16 * 200 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;200&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>42.12</price1>
@@ -17954,7 +17954,7 @@
     <id>6203</id>
     <code>FİSCO003</code>
     <label>ÇELİK METRE UM 3M FİSCO</label>
-    <stock>1120</stock>
+    <stock>1106</stock>
     <details />
     <currency>TRL</currency>
     <price1>180</price1>
@@ -32254,7 +32254,7 @@
     <id>9944</id>
     <code>BEYBİ-KN35010</code>
     <label>BEYBİ KN350 PAMUK NİTRİL NO:10</label>
-    <stock>8352</stock>
+    <stock>8064</stock>
     <details>&lt;h3&gt;BEYBİ KN350 PAMUK NİTRİL NO:10&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"&gt;KN350&amp;nbsp;eldivenler,&amp;nbsp;pamuk&amp;nbsp;interlok&amp;nbsp;astar&amp;nbsp;üzerine&amp;nbsp;sarı&amp;nbsp;nitril&amp;nbsp;yarı&amp;nbsp;kaplaması&amp;nbsp;ile&amp;nbsp;üretilmiştir.&amp;nbsp;Örgü&amp;nbsp;bilekliği&amp;nbsp;ve&amp;nbsp;özel&amp;nbsp;kalıbı&amp;nbsp;sayesinde&amp;nbsp;eli&amp;nbsp;tam&amp;nbsp;kavrar,&amp;nbsp;konforlu&amp;nbsp;bir&amp;nbsp;kullanım&amp;nbsp;sunar.&amp;nbsp;Pamuklu&amp;nbsp;astar&amp;nbsp;yapısı&amp;nbsp;elin&amp;nbsp;hava&amp;nbsp;almasını&amp;nbsp;sağlayarak&amp;nbsp;terlemeyi&amp;nbsp;minimize&amp;nbsp;eder.&amp;nbsp;Aşınmaya&amp;nbsp;karşı&amp;nbsp;dayanıklıdır&amp;nbsp;ve&amp;nbsp;güvenli&amp;nbsp;tutuş&amp;nbsp;sağlar.&amp;nbsp;Gıda&amp;nbsp;ile&amp;nbsp;temasa&amp;nbsp;uygundur&amp;nbsp;ve&amp;nbsp;REACH&amp;nbsp;uyumludur.&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>41.364</price1>
@@ -33479,7 +33479,7 @@
     <id>10701</id>
     <code>B00000001000</code>
     <label>HSS  DIN 338 RN  HADDE MTK    10    MM.</label>
-    <stock>1120</stock>
+    <stock>1110</stock>
     <details />
     <currency>TRL</currency>
     <price1>219.884</price1>
@@ -35654,7 +35654,7 @@
     <id>10794</id>
     <code>B00005000300</code>
     <label>HSSE  DIN 338 RN ALTIN SERİ MTK  3    MM</label>
-    <stock>300</stock>
+    <stock>270</stock>
     <details />
     <currency>TRL</currency>
     <price1>70.124</price1>
@@ -83632,7 +83632,7 @@ GBH 1-52</label>
     <id>22211</id>
     <code>1.600.A00.B8J</code>
     <label>18V Başlangıç Seti 2x5.0 Ah + GAL 1880CV</label>
-    <stock>42</stock>
+    <stock>41</stock>
     <details />
     <currency>TRL</currency>
     <price1>12252.9</price1>
@@ -97357,7 +97357,7 @@ GBH 1-52</label>
     <id>40761</id>
     <code>0.601.072.T00</code>
     <label>GLM 50-27 C Lazerli Uzaklık Ölçer</label>
-    <stock>43</stock>
+    <stock>42</stock>
     <details />
     <currency>TRL</currency>
     <price1>4750.548</price1>
@@ -102932,7 +102932,7 @@ GBH 1-52</label>
     <id>43656</id>
     <code>B00005000750</code>
     <label>HSSE  DIN 338 RN ALTIN SERİ MTK  7.5  MM</label>
-    <stock>230</stock>
+    <stock>220</stock>
     <details />
     <currency>TRL</currency>
     <price1>272.888</price1>
@@ -149607,7 +149607,7 @@ GBH 1-52</label>
     <id>55500</id>
     <code>0.601.372.800</code>
     <label>GEX 34-150 Eksantrik Zımpara</label>
-    <stock>2</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>10750.025</price1>
@@ -168957,7 +168957,7 @@ GBH 1-52</label>
     <id>75946</id>
     <code>0.603.9E0.000</code>
     <label>IXO7 Akülü Vidalama</label>
-    <stock>10</stock>
+    <stock>8</stock>
     <details />
     <currency>TRL</currency>
     <price1>2596</price1>
@@ -176982,7 +176982,7 @@ GBH 1-52</label>
     <id>76783</id>
     <code>2.608.900.524</code>
     <label>Delİk Testeresİ Takimi PH.12pc BO.T</label>
-    <stock>11</stock>
+    <stock>9</stock>
     <details />
     <currency>TRL</currency>
     <price1>3808.2</price1>
@@ -190257,7 +190257,7 @@ GBH 1-52</label>
     <id>78662</id>
     <code>2.608.706.879</code>
     <label>PRO SDS-Plus-5X K-Delici Ucu 6*310mm</label>
-    <stock>1</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>387.3375</price1>
@@ -190332,7 +190332,7 @@ GBH 1-52</label>
     <id>78665</id>
     <code>2.608.706.954</code>
     <label>PRO SDS-Plus-5X K-Delici Ucu 22*250mm</label>
-    <stock>8</stock>
+    <stock>6</stock>
     <details />
     <currency>TRL</currency>
     <price1>1526.25</price1>
@@ -202557,7 +202557,7 @@ GBH 1-52</label>
     <id>79301</id>
     <code>2.608.706.935</code>
     <label>PRO SDS-Plus 5X K-Delici Ucu 16*260mm</label>
-    <stock>19</stock>
+    <stock>15</stock>
     <details />
     <currency>TRL</currency>
     <price1>586.1625</price1>
@@ -205207,7 +205207,7 @@ GBH 1-52</label>
     <id>79487</id>
     <code>0.601.065.001</code>
     <label>GLL 2-20 G + BT 150</label>
-    <stock>6</stock>
+    <stock>5</stock>
     <details />
     <currency>TRL</currency>
     <price1>9900</price1>
