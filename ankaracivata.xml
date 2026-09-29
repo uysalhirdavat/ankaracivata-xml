@@ -404,7 +404,7 @@
     <id>57</id>
     <code>MF06020B</code>
     <label>MM 6 * 20 DIN6921 FLANŞLI CİVATA BEYAZ</label>
-    <stock>21960</stock>
+    <stock>18960</stock>
     <details>&lt;h3&gt;MM 6 * 20 DIN6921 FLANŞLI CİVATA BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;20&amp;nbsp;DIN6921&amp;nbsp;FLANŞLI&amp;nbsp;CİVATA&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.061756</price1>
@@ -13104,7 +13104,7 @@
     <id>4004</id>
     <code>GS082000B</code>
     <label>MM 8 * 2 MT GİJON SAPLAMA</label>
-    <stock>7840</stock>
+    <stock>7790</stock>
     <details>&lt;h3&gt;MM 8 * 2 MT GİJON SAPLAMA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;2&amp;nbsp;MT&amp;nbsp;GİJON&amp;nbsp;SAPLAMA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>38.124</price1>
@@ -13129,7 +13129,7 @@
     <id>4005</id>
     <code>GS102000B</code>
     <label>MM 10 * 2 MT GİJON SAPLAMA</label>
-    <stock>529</stock>
+    <stock>504</stock>
     <details>&lt;h3&gt;MM 10 * 2 MT GİJON SAPLAMA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;2&amp;nbsp;MT&amp;nbsp;GİJON&amp;nbsp;SAPLAMA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>60.9444</price1>
@@ -34457,7 +34457,7 @@
     <stock>270</stock>
     <details />
     <currency>TRL</currency>
-    <price1>225.828</price1>
+    <price1>197.5995</price1>
     <tax>20</tax>
     <barcode>uyl260920269991379</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -34466,10 +34466,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>564.57</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>270.9936</vatIncluded>
+    <vatIncluded>237.1194</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34482,7 +34482,7 @@
     <stock>310</stock>
     <details />
     <currency>TRL</currency>
-    <price1>228.14</price1>
+    <price1>199.6225</price1>
     <tax>20</tax>
     <barcode>uyl260920269991380</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -34491,10 +34491,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>570.35</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>273.768</vatIncluded>
+    <vatIncluded>239.547</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34682,7 +34682,7 @@
     <stock>120</stock>
     <details />
     <currency>TRL</currency>
-    <price1>381.752</price1>
+    <price1>334.033</price1>
     <tax>20</tax>
     <barcode>uyl260920269991388</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -34691,10 +34691,10 @@
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>954.38</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>458.1024</vatIncluded>
+    <vatIncluded>400.8396</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34707,7 +34707,7 @@
     <stock>125</stock>
     <details />
     <currency>TRL</currency>
-    <price1>454.98</price1>
+    <price1>398.1075</price1>
     <tax>20</tax>
     <barcode>uyl260920269991389</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -34716,10 +34716,10 @@
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>1137.45</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>545.976</vatIncluded>
+    <vatIncluded>477.729</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34982,7 +34982,7 @@
     <stock>1040</stock>
     <details />
     <currency>TRL</currency>
-    <price1>39.66</price1>
+    <price1>34.7025</price1>
     <tax>20</tax>
     <barcode>uyl260920269991400</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -34991,10 +34991,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>99.15</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>47.592</vatIncluded>
+    <vatIncluded>41.643</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35007,7 +35007,7 @@
     <stock>1114</stock>
     <details />
     <currency>TRL</currency>
-    <price1>39.896</price1>
+    <price1>34.909</price1>
     <tax>20</tax>
     <barcode>uyl260920269991401</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -35016,10 +35016,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>99.74</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>47.8752</vatIncluded>
+    <vatIncluded>41.8908</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35032,7 +35032,7 @@
     <stock>1260</stock>
     <details />
     <currency>TRL</currency>
-    <price1>46.8</price1>
+    <price1>40.95</price1>
     <tax>20</tax>
     <barcode>uyl260920269991402</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -35041,10 +35041,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>117</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>56.16</vatIncluded>
+    <vatIncluded>49.14</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35082,7 +35082,7 @@
     <stock>780</stock>
     <details />
     <currency>TRL</currency>
-    <price1>61.092</price1>
+    <price1>53.4555</price1>
     <tax>20</tax>
     <barcode>uyl260920269991404</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -35091,10 +35091,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>152.73</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>73.3104</vatIncluded>
+    <vatIncluded>64.1466</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35132,7 +35132,7 @@
     <stock>290</stock>
     <details />
     <currency>TRL</currency>
-    <price1>115.304</price1>
+    <price1>100.891</price1>
     <tax>20</tax>
     <barcode>uyl260920269991406</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -35141,10 +35141,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>288.26</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>138.3648</vatIncluded>
+    <vatIncluded>121.0692</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35232,7 +35232,7 @@
     <stock>371</stock>
     <details />
     <currency>TRL</currency>
-    <price1>194.74</price1>
+    <price1>170.3975</price1>
     <tax>20</tax>
     <barcode>uyl260920269991410</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -35241,10 +35241,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>486.85</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>233.688</vatIncluded>
+    <vatIncluded>204.477</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35507,7 +35507,7 @@
     <stock>62</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3195.504</price1>
+    <price1>2796.066</price1>
     <tax>20</tax>
     <barcode>uyl260920269991421</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -35516,10 +35516,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>7988.76</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3834.6048</vatIncluded>
+    <vatIncluded>3355.2792</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35557,7 +35557,7 @@
     <stock>101</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3579.376</price1>
+    <price1>3131.954</price1>
     <tax>20</tax>
     <barcode>uyl260920269991423</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -35566,10 +35566,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>8948.44</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>4295.2512</vatIncluded>
+    <vatIncluded>3758.3448</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36032,7 +36032,7 @@
     <stock>260</stock>
     <details />
     <currency>TRL</currency>
-    <price1>192.508</price1>
+    <price1>168.4445</price1>
     <tax>20</tax>
     <barcode>uyl260920269991442</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36041,10 +36041,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>481.27</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>231.0096</vatIncluded>
+    <vatIncluded>202.1334</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36232,7 +36232,7 @@
     <stock>88</stock>
     <details />
     <currency>TRL</currency>
-    <price1>379.104</price1>
+    <price1>331.716</price1>
     <tax>20</tax>
     <barcode>uyl260920269991450</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36241,10 +36241,10 @@
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>947.76</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>454.9248</vatIncluded>
+    <vatIncluded>398.0592</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36432,7 +36432,7 @@
     <stock>11</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2644.464</price1>
+    <price1>2313.906</price1>
     <tax>20</tax>
     <barcode>uyl260920269991458</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36441,10 +36441,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6611.16</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3173.3568</vatIncluded>
+    <vatIncluded>2776.6872</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36482,7 +36482,7 @@
     <stock>9</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3156.032</price1>
+    <price1>2761.528</price1>
     <tax>20</tax>
     <barcode>uyl260920269991460</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36491,10 +36491,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>7890.08</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3787.2384</vatIncluded>
+    <vatIncluded>3313.8336</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36507,7 +36507,7 @@
     <stock>7</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3696.212</price1>
+    <price1>3234.1855</price1>
     <tax>20</tax>
     <barcode>uyl260920269991461</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36516,10 +36516,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>9240.53</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>4435.4544</vatIncluded>
+    <vatIncluded>3881.0226</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36582,7 +36582,7 @@
     <stock>230</stock>
     <details />
     <currency>TRL</currency>
-    <price1>463.324</price1>
+    <price1>405.4085</price1>
     <tax>20</tax>
     <barcode>uyl260920269991464</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36591,10 +36591,10 @@
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>1158.31</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>555.9888</vatIncluded>
+    <vatIncluded>486.4902</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36632,7 +36632,7 @@
     <stock>41</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1133.328</price1>
+    <price1>991.662</price1>
     <tax>20</tax>
     <barcode>uyl260920269991466</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36641,10 +36641,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>2833.32</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1359.9936</vatIncluded>
+    <vatIncluded>1189.9944</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36657,7 +36657,7 @@
     <stock>21</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1318.692</price1>
+    <price1>1153.8555</price1>
     <tax>20</tax>
     <barcode>uyl260920269991467</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36666,10 +36666,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3296.73</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1582.4304</vatIncluded>
+    <vatIncluded>1384.6266</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36707,7 +36707,7 @@
     <stock>31</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1981.272</price1>
+    <price1>1733.613</price1>
     <tax>20</tax>
     <barcode>uyl260920269991469</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36716,10 +36716,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4953.18</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>2377.5264</vatIncluded>
+    <vatIncluded>2080.3356</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36757,7 +36757,7 @@
     <stock>11</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2658.24</price1>
+    <price1>2325.96</price1>
     <tax>20</tax>
     <barcode>uyl260920269991471</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36766,10 +36766,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6645.6</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3189.888</vatIncluded>
+    <vatIncluded>2791.152</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36782,7 +36782,7 @@
     <stock>12</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2909.48</price1>
+    <price1>2545.795</price1>
     <tax>20</tax>
     <barcode>uyl260920269991472</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -36791,10 +36791,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>7273.7</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3491.376</vatIncluded>
+    <vatIncluded>3054.954</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -37632,7 +37632,7 @@
     <stock>4696</stock>
     <details />
     <currency>TRL</currency>
-    <price1>592.152</price1>
+    <price1>518.133</price1>
     <tax>20</tax>
     <barcode>uyl260920269991506</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -37641,10 +37641,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>1480.38</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>710.5824</vatIncluded>
+    <vatIncluded>621.7596</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -38057,7 +38057,7 @@
     <stock>11</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1699.62</price1>
+    <price1>1487.1675</price1>
     <tax>20</tax>
     <barcode>uyl260920269991523</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -38066,10 +38066,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4249.05</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>2039.544</vatIncluded>
+    <vatIncluded>1784.601</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -39682,7 +39682,7 @@
     <stock>270</stock>
     <details />
     <currency>TRL</currency>
-    <price1>82.432</price1>
+    <price1>72.128</price1>
     <tax>20</tax>
     <barcode>uyl260920269991588</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -39691,10 +39691,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>206.08</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>98.9184</vatIncluded>
+    <vatIncluded>86.5536</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -39757,7 +39757,7 @@
     <stock>143</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1815.348</price1>
+    <price1>1588.4295</price1>
     <tax>20</tax>
     <barcode>uyl260920269991591</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -39766,10 +39766,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4538.37</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>2178.4176</vatIncluded>
+    <vatIncluded>1906.1154</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -39932,7 +39932,7 @@
     <stock>974</stock>
     <details />
     <currency>TRL</currency>
-    <price1>795.792</price1>
+    <price1>696.318</price1>
     <tax>20</tax>
     <barcode>uyl260920269991598</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -39941,10 +39941,10 @@
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>1989.48</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>954.9504</vatIncluded>
+    <vatIncluded>835.5816</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -40032,7 +40032,7 @@
     <stock>575</stock>
     <details />
     <currency>TRL</currency>
-    <price1>692.7</price1>
+    <price1>606.1125</price1>
     <tax>20</tax>
     <barcode>uyl260920269991602</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -40041,10 +40041,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>1731.75</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>831.24</vatIncluded>
+    <vatIncluded>727.335</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -40782,7 +40782,7 @@
     <stock>1115</stock>
     <details />
     <currency>TRL</currency>
-    <price1>847.712</price1>
+    <price1>741.748</price1>
     <tax>20</tax>
     <barcode>uyl260920269991632</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -40791,10 +40791,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>2119.28</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1017.2544</vatIncluded>
+    <vatIncluded>890.0976</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -40807,7 +40807,7 @@
     <stock>100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>226.008</price1>
+    <price1>197.757</price1>
     <tax>20</tax>
     <barcode>uyl260920269991633</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -40816,10 +40816,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>565.02</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>271.2096</vatIncluded>
+    <vatIncluded>237.3084</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -40882,7 +40882,7 @@
     <stock>17</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1312.884</price1>
+    <price1>1148.7735</price1>
     <tax>20</tax>
     <barcode>uyl260920269991636</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -40891,10 +40891,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3282.21</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1575.4608</vatIncluded>
+    <vatIncluded>1378.5282</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -50407,7 +50407,7 @@
     <stock>11</stock>
     <details />
     <currency>TRL</currency>
-    <price1>4863.728</price1>
+    <price1>4255.762</price1>
     <tax>20</tax>
     <barcode>uyl260920269992017</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -50416,10 +50416,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>12159.32</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>5836.4736</vatIncluded>
+    <vatIncluded>5106.9144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -51932,7 +51932,7 @@
     <stock>2</stock>
     <details />
     <currency>TRL</currency>
-    <price1>10132.972</price1>
+    <price1>8866.3505</price1>
     <tax>20</tax>
     <barcode>uyl260920269992078</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -51941,10 +51941,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>25332.43</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>12159.5664</vatIncluded>
+    <vatIncluded>10639.6206</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -52082,7 +52082,7 @@
     <stock>150</stock>
     <details />
     <currency>TRL</currency>
-    <price1>370.336</price1>
+    <price1>324.044</price1>
     <tax>20</tax>
     <barcode>uyl260920269992084</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -52091,10 +52091,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>925.84</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>444.4032</vatIncluded>
+    <vatIncluded>388.8528</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -52207,7 +52207,7 @@
     <stock>167</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2574.368</price1>
+    <price1>2252.572</price1>
     <tax>20</tax>
     <barcode>uyl260920269992089</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -52216,10 +52216,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6435.92</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3089.2416</vatIncluded>
+    <vatIncluded>2703.0864</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -52232,7 +52232,7 @@
     <stock>196</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2901.8</price1>
+    <price1>2539.075</price1>
     <tax>20</tax>
     <barcode>uyl260920269992090</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -52241,10 +52241,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>7254.5</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3482.16</vatIncluded>
+    <vatIncluded>3046.89</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -52257,7 +52257,7 @@
     <stock>27</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3218.132</price1>
+    <price1>2815.8655</price1>
     <tax>20</tax>
     <barcode>uyl260920269992091</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -52266,10 +52266,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>8045.33</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3861.7584</vatIncluded>
+    <vatIncluded>3379.0386</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -52282,7 +52282,7 @@
     <stock>41</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3963.164</price1>
+    <price1>3467.7685</price1>
     <tax>20</tax>
     <barcode>uyl260920269992092</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -52291,10 +52291,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>9907.91</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>4755.7968</vatIncluded>
+    <vatIncluded>4161.3222</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -55707,7 +55707,7 @@
     <stock>85</stock>
     <details />
     <currency>TRL</currency>
-    <price1>370.336</price1>
+    <price1>324.044</price1>
     <tax>20</tax>
     <barcode>uyl260920269992229</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -55716,10 +55716,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>925.84</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>444.4032</vatIncluded>
+    <vatIncluded>388.8528</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -55732,7 +55732,7 @@
     <stock>769</stock>
     <details />
     <currency>TRL</currency>
-    <price1>36.952</price1>
+    <price1>32.333</price1>
     <tax>20</tax>
     <barcode>uyl260920269992230</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -55741,10 +55741,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>92.38</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>44.3424</vatIncluded>
+    <vatIncluded>38.7996</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -60207,7 +60207,7 @@
     <stock>20</stock>
     <details />
     <currency>TRL</currency>
-    <price1>967.484</price1>
+    <price1>846.5485</price1>
     <tax>20</tax>
     <barcode>uyl260920269992409</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -60216,10 +60216,10 @@
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>2418.71</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1160.9808</vatIncluded>
+    <vatIncluded>1015.8582</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -61182,7 +61182,7 @@
     <stock>238</stock>
     <details />
     <currency>TRL</currency>
-    <price1>223.68</price1>
+    <price1>195.72</price1>
     <tax>20</tax>
     <barcode>uyl260920269992448</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -61191,10 +61191,10 @@
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>559.2</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>268.416</vatIncluded>
+    <vatIncluded>234.864</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -61758,7 +61758,7 @@ GBH 1-52</label>
     <stock>8</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3793.848</price1>
+    <price1>3319.617</price1>
     <tax>20</tax>
     <barcode>uyl260920269992471</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -61767,10 +61767,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>9484.62</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>4552.6176</vatIncluded>
+    <vatIncluded>3983.5404</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -62508,7 +62508,7 @@ GBH 1-52</label>
     <stock>622</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1440.972</price1>
+    <price1>1260.8505</price1>
     <tax>20</tax>
     <barcode>uyl260920269992501</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -62517,10 +62517,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3602.43</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1729.1664</vatIncluded>
+    <vatIncluded>1513.0206</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -62558,7 +62558,7 @@ GBH 1-52</label>
     <stock>186</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2540.64</price1>
+    <price1>2223.06</price1>
     <tax>20</tax>
     <barcode>uyl260920269992503</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -62567,10 +62567,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6351.6</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3048.768</vatIncluded>
+    <vatIncluded>2667.672</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -62608,7 +62608,7 @@ GBH 1-52</label>
     <stock>101</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2243.932</price1>
+    <price1>1963.4405</price1>
     <tax>20</tax>
     <barcode>uyl260920269992505</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -62617,10 +62617,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>5609.83</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>2692.7184</vatIncluded>
+    <vatIncluded>2356.1286</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -62983,7 +62983,7 @@ GBH 1-52</label>
     <stock>2</stock>
     <details />
     <currency>TRL</currency>
-    <price1>6021.972</price1>
+    <price1>5269.2255</price1>
     <tax>20</tax>
     <barcode>uyl260920269992520</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -62992,10 +62992,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>15054.93</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>7226.3664</vatIncluded>
+    <vatIncluded>6323.0706</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -63758,7 +63758,7 @@ GBH 1-52</label>
     <stock>9</stock>
     <details />
     <currency>TRL</currency>
-    <price1>5800.116</price1>
+    <price1>5075.1015</price1>
     <tax>20</tax>
     <barcode>uyl260920269992551</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -63767,10 +63767,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>14500.29</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>6960.1392</vatIncluded>
+    <vatIncluded>6090.1218</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -68560,7 +68560,7 @@ GBH 1-52</label>
     <stock>51</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1257.728</price1>
+    <price1>1100.512</price1>
     <tax>20</tax>
     <barcode>uyl260920269992743</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -68569,10 +68569,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3144.32</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1509.2736</vatIncluded>
+    <vatIncluded>1320.6144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -68610,7 +68610,7 @@ GBH 1-52</label>
     <stock>1208</stock>
     <details />
     <currency>TRL</currency>
-    <price1>65.708</price1>
+    <price1>57.4945</price1>
     <tax>20</tax>
     <barcode>uyl260920269992745</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -68619,10 +68619,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>164.27</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>78.8496</vatIncluded>
+    <vatIncluded>68.9934</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -81810,7 +81810,7 @@ GBH 1-52</label>
     <stock>181</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1197.796</price1>
+    <price1>1048.0715</price1>
     <tax>20</tax>
     <barcode>uyl260920269993273</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -81819,10 +81819,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>2994.49</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1437.3552</vatIncluded>
+    <vatIncluded>1257.6858</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -81885,7 +81885,7 @@ GBH 1-52</label>
     <stock>29</stock>
     <details />
     <currency>TRL</currency>
-    <price1>620.476</price1>
+    <price1>542.9165</price1>
     <tax>20</tax>
     <barcode>uyl260920269993276</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -81894,10 +81894,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>1551.19</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>744.5712</vatIncluded>
+    <vatIncluded>651.4998</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -81935,7 +81935,7 @@ GBH 1-52</label>
     <stock>283</stock>
     <details />
     <currency>TRL</currency>
-    <price1>569.068</price1>
+    <price1>497.9345</price1>
     <tax>20</tax>
     <barcode>uyl260920269993278</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -81944,10 +81944,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>1422.67</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>682.8816</vatIncluded>
+    <vatIncluded>597.5214</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -82010,7 +82010,7 @@ GBH 1-52</label>
     <stock>321</stock>
     <details />
     <currency>TRL</currency>
-    <price1>816.496</price1>
+    <price1>714.434</price1>
     <tax>20</tax>
     <barcode>uyl260920269993281</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -82019,10 +82019,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>2041.24</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>979.7952</vatIncluded>
+    <vatIncluded>857.3208</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -83960,7 +83960,7 @@ GBH 1-52</label>
     <stock>25</stock>
     <details />
     <currency>TRL</currency>
-    <price1>886.556</price1>
+    <price1>775.7365</price1>
     <tax>20</tax>
     <barcode>uyl260920269993359</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -83969,10 +83969,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>1</coefficient>
     <listPrice>2216.39</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1063.8672</vatIncluded>
+    <vatIncluded>930.8838</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -83985,7 +83985,7 @@ GBH 1-52</label>
     <stock>13</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1391.04</price1>
+    <price1>1217.16</price1>
     <tax>20</tax>
     <barcode>uyl260920269993360</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -83994,10 +83994,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>1</coefficient>
     <listPrice>3477.6</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1669.248</vatIncluded>
+    <vatIncluded>1460.592</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -84035,7 +84035,7 @@ GBH 1-52</label>
     <stock>21</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1666.044</price1>
+    <price1>1457.7885</price1>
     <tax>20</tax>
     <barcode>uyl260920269993362</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -84044,10 +84044,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>1</coefficient>
     <listPrice>4165.11</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1999.2528</vatIncluded>
+    <vatIncluded>1749.3462</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -84235,7 +84235,7 @@ GBH 1-52</label>
     <stock>12</stock>
     <details />
     <currency>TRL</currency>
-    <price1>4793.58</price1>
+    <price1>4194.3825</price1>
     <tax>20</tax>
     <barcode>uyl260920269993370</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -84244,10 +84244,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>1</coefficient>
     <listPrice>11983.95</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>5752.296</vatIncluded>
+    <vatIncluded>5033.259</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -84460,7 +84460,7 @@ GBH 1-52</label>
     <stock>180</stock>
     <details />
     <currency>TRL</currency>
-    <price1>144.016</price1>
+    <price1>126.014</price1>
     <tax>20</tax>
     <barcode>uyl260920269993379</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -84469,10 +84469,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>10</coefficient>
     <listPrice>360.04</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>172.8192</vatIncluded>
+    <vatIncluded>151.2168</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -85060,7 +85060,7 @@ GBH 1-52</label>
     <stock>56</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3683.004</price1>
+    <price1>3222.6285</price1>
     <tax>20</tax>
     <barcode>uyl260920269993403</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -85069,10 +85069,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>9207.51</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>4419.6048</vatIncluded>
+    <vatIncluded>3867.1542</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -89035,7 +89035,7 @@ GBH 1-52</label>
     <stock>990</stock>
     <details />
     <currency>TRL</currency>
-    <price1>34.44</price1>
+    <price1>30.135</price1>
     <tax>20</tax>
     <barcode>uyl260920269993562</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -89044,10 +89044,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>86.1</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>41.328</vatIncluded>
+    <vatIncluded>36.162</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -89060,7 +89060,7 @@ GBH 1-52</label>
     <stock>1570</stock>
     <details />
     <currency>TRL</currency>
-    <price1>45.352</price1>
+    <price1>39.683</price1>
     <tax>20</tax>
     <barcode>uyl260920269993563</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -89069,10 +89069,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>113.38</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>54.4224</vatIncluded>
+    <vatIncluded>47.6196</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -89360,7 +89360,7 @@ GBH 1-52</label>
     <stock>71</stock>
     <details />
     <currency>TRL</currency>
-    <price1>919.592</price1>
+    <price1>804.643</price1>
     <tax>20</tax>
     <barcode>uyl260920269993575</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -89369,10 +89369,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>2298.98</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1103.5104</vatIncluded>
+    <vatIncluded>965.5716</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -91210,7 +91210,7 @@ GBH 1-52</label>
     <stock>310</stock>
     <details />
     <currency>TRL</currency>
-    <price1>121.7</price1>
+    <price1>106.4875</price1>
     <tax>20</tax>
     <barcode>uyl260920269993649</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -91219,10 +91219,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>304.25</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>146.04</vatIncluded>
+    <vatIncluded>127.785</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -92385,7 +92385,7 @@ GBH 1-52</label>
     <stock>10</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3187.924</price1>
+    <price1>2789.4335</price1>
     <tax>20</tax>
     <barcode>uyl260920269993696</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -92394,10 +92394,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>1</coefficient>
     <listPrice>7969.81</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3825.5088</vatIncluded>
+    <vatIncluded>3347.3202</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -94010,7 +94010,7 @@ GBH 1-52</label>
     <stock>2</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2653.032</price1>
+    <price1>2321.403</price1>
     <tax>20</tax>
     <barcode>uyl260920269993761</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -94019,10 +94019,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6632.58</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3183.6384</vatIncluded>
+    <vatIncluded>2785.6836</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -94035,7 +94035,7 @@ GBH 1-52</label>
     <stock>5</stock>
     <details />
     <currency>TRL</currency>
-    <price1>6079.244</price1>
+    <price1>5319.3385</price1>
     <tax>20</tax>
     <barcode>uyl260920269993762</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -94044,10 +94044,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>1</coefficient>
     <listPrice>15198.11</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>7295.0928</vatIncluded>
+    <vatIncluded>6383.2062</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -94810,7 +94810,7 @@ GBH 1-52</label>
     <stock>35</stock>
     <details />
     <currency>TRL</currency>
-    <price1>882.612</price1>
+    <price1>772.2855</price1>
     <tax>20</tax>
     <barcode>uyl260920269993793</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -94819,10 +94819,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>1</coefficient>
     <listPrice>2206.53</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1059.1344</vatIncluded>
+    <vatIncluded>926.7426</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -97082,7 +97082,7 @@ GBH 1-52</label>
     <id>40745</id>
     <code>0.601.B37.200</code>
     <label>GCO 14-24 J Profil Kesme Makinesi</label>
-    <stock>53</stock>
+    <stock>52</stock>
     <details />
     <currency>TRL</currency>
     <price1>10501.2325</price1>
@@ -104935,7 +104935,7 @@ GBH 1-52</label>
     <stock>30</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2578.36</price1>
+    <price1>2256.065</price1>
     <tax>20</tax>
     <barcode>uyl260920269994198</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -104944,10 +104944,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>6445.9</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3094.032</vatIncluded>
+    <vatIncluded>2707.278</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -105310,7 +105310,7 @@ GBH 1-52</label>
     <stock>23</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1527.26</price1>
+    <price1>1336.3525</price1>
     <tax>20</tax>
     <barcode>uyl260920269994213</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -105319,10 +105319,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3818.15</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1832.712</vatIncluded>
+    <vatIncluded>1603.623</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -105744,7 +105744,7 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>0</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0</vatIncluded>
@@ -108910,7 +108910,7 @@ GBH 1-52</label>
     <stock>122</stock>
     <details />
     <currency>TRL</currency>
-    <price1>540.068</price1>
+    <price1>472.5595</price1>
     <tax>20</tax>
     <barcode>uyl260920269994357</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -108919,10 +108919,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>1350.17</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>648.0816</vatIncluded>
+    <vatIncluded>567.0714</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -156285,7 +156285,7 @@ GBH 1-52</label>
     <stock>20</stock>
     <details />
     <currency>TRL</currency>
-    <price1>681.72</price1>
+    <price1>596.505</price1>
     <tax>20</tax>
     <barcode>uyl260920269996252</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -156294,10 +156294,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>1704.3</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>818.064</vatIncluded>
+    <vatIncluded>715.806</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -164581,7 +164581,7 @@ GBH 1-52</label>
   <item>
     <id>75521</id>
     <code>NMVP3916S</code>
-    <label>3.9x16 RYSB MUV SMNTS C 450  STD VİDA NORM SİYAH</label>
+    <label>3.9x16 RYSB MUV SMNTS C 450  STD VİDA SİYAH</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
@@ -167160,7 +167160,7 @@ GBH 1-52</label>
     <stock>1</stock>
     <details />
     <currency>TRL</currency>
-    <price1>20212.86</price1>
+    <price1>17686.2525</price1>
     <tax>20</tax>
     <barcode>uyl260920269996687</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -167169,10 +167169,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>50532.15</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>24255.432</vatIncluded>
+    <vatIncluded>21223.503</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -167210,7 +167210,7 @@ GBH 1-52</label>
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1265.708</price1>
+    <price1>1107.4945</price1>
     <tax>20</tax>
     <barcode>uyl260920269996689</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -167219,10 +167219,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3164.27</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1518.8496</vatIncluded>
+    <vatIncluded>1328.9934</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -170860,7 +170860,7 @@ GBH 1-52</label>
     <stock>170</stock>
     <details />
     <currency>TRL</currency>
-    <price1>244.212</price1>
+    <price1>213.6855</price1>
     <tax>20</tax>
     <barcode>uyl260920269996835</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -170869,10 +170869,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>10</coefficient>
     <listPrice>610.53</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>293.0544</vatIncluded>
+    <vatIncluded>256.4226</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -178260,7 +178260,7 @@ GBH 1-52</label>
     <stock>12</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2687.028</price1>
+    <price1>2351.1495</price1>
     <tax>20</tax>
     <barcode>uyl260920269997131</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -178269,10 +178269,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6717.57</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>3224.4336</vatIncluded>
+    <vatIncluded>2821.3794</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -180135,7 +180135,7 @@ GBH 1-52</label>
     <stock>40</stock>
     <details />
     <currency>TRL</currency>
-    <price1>473.9</price1>
+    <price1>414.6625</price1>
     <tax>20</tax>
     <barcode>uyl260920269997206</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -180144,10 +180144,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>5</coefficient>
     <listPrice>1184.75</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>568.68</vatIncluded>
+    <vatIncluded>497.595</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -181410,7 +181410,7 @@ GBH 1-52</label>
     <stock>60</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1832.364</price1>
+    <price1>1603.3185</price1>
     <tax>20</tax>
     <barcode>uyl260920269997257</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -181419,10 +181419,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4580.91</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>2198.8368</vatIncluded>
+    <vatIncluded>1923.9822</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -183160,7 +183160,7 @@ GBH 1-52</label>
     <stock>26</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1210.88</price1>
+    <price1>1059.52</price1>
     <tax>20</tax>
     <barcode>uyl260920269997327</barcode>
     <brand>MAKİNA TAKIM ENDÜSTRİ</brand>
@@ -183169,10 +183169,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3027.2</listPrice>
-    <discount>60</discount>
+    <discount>65</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1453.056</vatIncluded>
+    <vatIncluded>1271.424</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -221182,7 +221182,7 @@ GBH 1-52</label>
     <id>80777</id>
     <code>0.603.3A7.001</code>
     <label>PSA 700 E Panter Testere EKSTRA AKSESUARLI</label>
-    <stock>5</stock>
+    <stock>4</stock>
     <details />
     <currency>TRL</currency>
     <price1>7480</price1>
