@@ -1404,7 +1404,7 @@
     <id>202</id>
     <code>MM08100933B</code>
     <label>MM 8 *100 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>8300</stock>
+    <stock>8200</stock>
     <details>&lt;h3&gt;MM 8 *100 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*100&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>4.555592</price1>
@@ -11304,7 +11304,7 @@
     <id>2943</id>
     <code>KARBOSAN982970</code>
     <label>K 115*22.23 FLAP DİSK 40 KUM NK</label>
-    <stock>14681</stock>
+    <stock>14561</stock>
     <details />
     <currency>TRL</currency>
     <price1>50.391</price1>
@@ -11479,7 +11479,7 @@
     <id>3032</id>
     <code>KARBOSAN910050</code>
     <label>K 230*3.0*22.23 METAL KESİCİ DİSK</label>
-    <stock>875</stock>
+    <stock>275</stock>
     <details />
     <currency>TRL</currency>
     <price1>75.1014</price1>
@@ -13429,7 +13429,7 @@
     <id>4151</id>
     <code>DG08075</code>
     <label>MM 8 * 75 GÖMLEKLİ ÇEKME DÜBEL</label>
-    <stock>283350</stock>
+    <stock>282750</stock>
     <details>&lt;h3&gt;MM 8 * 75 GÖMLEKLİ ÇEKME DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;75&amp;nbsp;GÖMLEKLİ&amp;nbsp;ÇEKME&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>4.104</price1>
@@ -19579,7 +19579,7 @@
     <id>7015</id>
     <code>MM06016933B</code>
     <label>MM 6 * 16 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>21000</stock>
+    <stock>15000</stock>
     <details>&lt;h3&gt;MM 6 * 16 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;16&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.73788</price1>
@@ -64582,7 +64582,7 @@ GBH 1-52</label>
     <id>13074</id>
     <code>EL200S2KATSM40</code>
     <label>YDS EL200S2 K ATSM 40 NUMARA ÇELİK AYAKKABI</label>
-    <stock>0</stock>
+    <stock>2</stock>
     <details />
     <currency>TRL</currency>
     <price1>34.884</price1>
@@ -71057,7 +71057,7 @@ GBH 1-52</label>
     <id>18507</id>
     <code>EL200S3DKY42</code>
     <label>YDS EL200S3 DKY 42 NUMARA ÇELİK AYAKKABI</label>
-    <stock>8</stock>
+    <stock>9</stock>
     <details />
     <currency>TRL</currency>
     <price1>39.69</price1>
@@ -74082,7 +74082,7 @@ GBH 1-52</label>
     <id>21032</id>
     <code>EL200S3DKY44</code>
     <label>YDS EL200S3 DKY 44 NUMARA ÇELİK AYAKKABI</label>
-    <stock>6</stock>
+    <stock>7</stock>
     <details />
     <currency>TRL</currency>
     <price1>39.69</price1>
@@ -90957,7 +90957,7 @@ GBH 1-52</label>
     <id>39069</id>
     <code>BEYBİ-TOUCH10</code>
     <label>BEYBİ POLİÜRETAN KAPLI PU TOUCH SİYAH NO:10</label>
-    <stock>5472</stock>
+    <stock>5184</stock>
     <details />
     <currency>TRL</currency>
     <price1>30.888</price1>
@@ -92782,7 +92782,7 @@ GBH 1-52</label>
     <id>39283</id>
     <code>KARBOSAN910030</code>
     <label>K 125*2.5*22.23 METAL KESİCİ DİSK</label>
-    <stock>300</stock>
+    <stock>250</stock>
     <details />
     <currency>TRL</currency>
     <price1>26.0502</price1>
@@ -96757,7 +96757,7 @@ GBH 1-52</label>
     <id>40724</id>
     <code>EL200S2KATSM39</code>
     <label>YDS EL200S2 K ATSM 39 NUMARA ÇELİK AYAKKABI</label>
-    <stock>7</stock>
+    <stock>8</stock>
     <details />
     <currency>TRL</currency>
     <price1>34.884</price1>
@@ -98385,7 +98385,7 @@ GBH 1-52</label>
     <stock>488</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1023.66</price1>
+    <price1>990.1584</price1>
     <tax>20</tax>
     <barcode>uyl260920269993936</barcode>
     <brand>BOSCH</brand>
@@ -98394,10 +98394,10 @@ GBH 1-52</label>
     <unit>ADET</unit>
     <coefficient>0</coefficient>
     <listPrice>1861.2</listPrice>
-    <discount>45</discount>
+    <discount>46.8</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>1228.392</vatIncluded>
+    <vatIncluded>1188.19008</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2feba9bc-e40e-424f-b848-a96fc5c76ebf.png</picture1>
     <picture2 />
     <picture3 />
@@ -99632,7 +99632,7 @@ GBH 1-52</label>
     <id>42112</id>
     <code>EL200S2KATSM38</code>
     <label>YDS EL200S2 K ATSM 38 NUMARA ÇELİK AYAKKABI</label>
-    <stock>9</stock>
+    <stock>10</stock>
     <details />
     <currency>TRL</currency>
     <price1>34.884</price1>
@@ -105607,7 +105607,7 @@ GBH 1-52</label>
     <id>44194</id>
     <code>BEYBİ-TOUCH09</code>
     <label>BEYBİ POLİÜRETAN KAPLI PU TOUCH SİYAH NO:09</label>
-    <stock>6048</stock>
+    <stock>5760</stock>
     <details />
     <currency>TRL</currency>
     <price1>30.888</price1>
@@ -107007,7 +107007,7 @@ GBH 1-52</label>
     <id>44422</id>
     <code>0.601.4A2.000</code>
     <label>GTB 650 Alçıpan Vidalama</label>
-    <stock>0</stock>
+    <stock>30</stock>
     <details />
     <currency>TRL</currency>
     <price1>6556</price1>
@@ -118932,7 +118932,7 @@ GBH 1-52</label>
     <id>52382</id>
     <code>NHBİMB1080B</code>
     <label>M10x80 7991 FT 010.9 C440 NORM CİVATA</label>
-    <stock>15400</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>7.4415</price1>
@@ -161432,7 +161432,7 @@ GBH 1-52</label>
     <id>75212</id>
     <code>0.601.2B5.020</code>
     <label>GGS 30 LS Kalıpçı Taşlama</label>
-    <stock>55</stock>
+    <stock>53</stock>
     <details />
     <currency>TRL</currency>
     <price1>6501.275</price1>
@@ -162332,7 +162332,7 @@ GBH 1-52</label>
     <id>75350</id>
     <code>P2516B</code>
     <label>5/16 DÜZ DEMİR PUL 2 MM BEYAZ</label>
-    <stock>489</stock>
+    <stock>459</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -165435,7 +165435,7 @@ GBH 1-52</label>
     <stock>42</stock>
     <details />
     <currency>TRL</currency>
-    <price1>9570</price1>
+    <price1>9050.03</price1>
     <tax>20</tax>
     <barcode>uyl260920269996618</barcode>
     <brand>BOSCH</brand>
@@ -165444,10 +165444,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>15950</listPrice>
-    <discount>40</discount>
+    <discount>43.26</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>11484</vatIncluded>
+    <vatIncluded>10860.036</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/fd3b9192-5b8d-43ad-8a96-d4bba573b6c6.png</picture1>
     <picture2 />
     <picture3 />
@@ -194532,7 +194532,7 @@ GBH 1-52</label>
     <id>78893</id>
     <code>RYN11511</code>
     <label>RAYNO ŞEFFAF ŞERİT METRE 5 m x 19 mm JS-61</label>
-    <stock>4087</stock>
+    <stock>4027</stock>
     <details />
     <currency>TRL</currency>
     <price1>76.76928</price1>
@@ -211982,7 +211982,7 @@ GBH 1-52</label>
     <id>79986</id>
     <code>5907906901</code>
     <label>SCHEPPACH DH2260 ELEKTRİKLİ KIRICI DELİCİ</label>
-    <stock>3466</stock>
+    <stock>3294</stock>
     <details>&lt;h3&gt;SCHEPPACH DH2260 ELEKTRİKLİ KIRICI DELİCİ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Elektrikli&amp;nbsp;Kırıcı&amp;nbsp;Delici&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;3&amp;nbsp;joule&amp;nbsp;darbe&amp;nbsp;kuvvetine&amp;nbsp;sahip&amp;nbsp;bu&amp;nbsp;kırıcı&amp;nbsp;delici;&amp;nbsp;delme,&amp;nbsp;darbeli&amp;nbsp;delme,&amp;nbsp;sabit&lt;/p&gt;&lt;p&gt;keskileme&amp;nbsp;ve&amp;nbsp;keskileme&amp;nbsp;olmak&amp;nbsp;üzere&amp;nbsp;dört&amp;nbsp;farklı&amp;nbsp;fonksiyonda&amp;nbsp;kullanılabilir.&amp;nbsp;Güçlü&lt;/p&gt;&lt;p&gt;1050&amp;nbsp;W&amp;nbsp;motoru&amp;nbsp;sayesinde&amp;nbsp;ayar&amp;nbsp;düğmesi&amp;nbsp;ile&amp;nbsp;1230&amp;nbsp;rpm&amp;#39;e&amp;nbsp;kadar&amp;nbsp;ayarlanabilirken,&lt;/p&gt;&lt;p&gt;SDS&amp;nbsp;plus&amp;nbsp;uç&amp;nbsp;sistemi,&amp;nbsp;kolay&amp;nbsp;ve&amp;nbsp;hızlı&amp;nbsp;takım&amp;nbsp;değişimi&amp;nbsp;sağlar.&amp;nbsp;Titreşim&amp;nbsp;önleyici&amp;nbsp;tutma&lt;/p&gt;&lt;p&gt;kolu&amp;nbsp;ve&amp;nbsp;kırılma&amp;nbsp;önleyici&amp;nbsp;kablo&amp;nbsp;sistemli&amp;nbsp;4&amp;nbsp;metrelik&amp;nbsp;kauçuk&amp;nbsp;kablo&amp;nbsp;ve&amp;nbsp;12&amp;nbsp;kademeli&amp;nbsp;keski&lt;/p&gt;&lt;p&gt;pozisyon&amp;nbsp;ayarlamalı&amp;nbsp;elektrikli&amp;nbsp;kırıcı&amp;nbsp;delici.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;386&amp;nbsp;x&amp;nbsp;270&amp;nbsp;x&amp;nbsp;892&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Darbe&amp;nbsp;Kuvveti&amp;nbsp;3&amp;nbsp;joule&lt;/p&gt;&lt;p&gt;Darbe&amp;nbsp;Derecesi&amp;nbsp;5500&amp;nbsp;bpm&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Hızı&amp;nbsp;0&amp;nbsp;–&amp;nbsp;1230&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;1050&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;3.5&amp;nbsp;/&amp;nbsp;5.5&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5907906901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>4059.16</price1>
@@ -213857,7 +213857,7 @@ GBH 1-52</label>
     <id>80090</id>
     <code>RYN11555</code>
     <label>RAYNO KAPI HİDROLİĞİ SİYAH NO:3 (45-65 KG)</label>
-    <stock>616</stock>
+    <stock>606</stock>
     <details />
     <currency>TRL</currency>
     <price1>361.2672</price1>
@@ -213882,7 +213882,7 @@ GBH 1-52</label>
     <id>80091</id>
     <code>RYN11556</code>
     <label>RAYNO KAPI HİDROLİĞİ SİYAH NO:4 (65-85 KG)</label>
-    <stock>754</stock>
+    <stock>744</stock>
     <details />
     <currency>TRL</currency>
     <price1>496.7424</price1>
