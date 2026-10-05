@@ -7104,7 +7104,7 @@
     <id>2572</id>
     <code>MVP3913</code>
     <label>3.9 * 13 YPM YILDIZ PUL BAŞLI VİDA</label>
-    <stock>1342500</stock>
+    <stock>622500</stock>
     <details>&lt;h3&gt;3.9 * 13 YPM YILDIZ PUL BAŞLI VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;3.9&amp;nbsp;*&amp;nbsp;13&amp;nbsp;YPM&amp;nbsp;YILDIZ&amp;nbsp;PUL&amp;nbsp;BAŞLI&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.315264</price1>
@@ -7129,7 +7129,7 @@
     <id>2573</id>
     <code>MVP3916</code>
     <label>3.9 * 16 YPM YILDIZ PUL BAŞLI VİDA</label>
-    <stock>969020</stock>
+    <stock>957020</stock>
     <details>&lt;h3&gt;3.9 * 16 YPM YILDIZ PUL BAŞLI VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);"&gt;3.9&amp;nbsp;*&amp;nbsp;16&amp;nbsp;YPM&amp;nbsp;YILDIZ&amp;nbsp;PUL&amp;nbsp;BAŞLI&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.352512</price1>
@@ -7154,7 +7154,7 @@
     <id>2574</id>
     <code>MVP3919</code>
     <label>3.9 * 19 YPM YILDIZ PUL BAŞLI VİDA</label>
-    <stock>701000</stock>
+    <stock>691000</stock>
     <details>&lt;h3&gt;3.9 * 19 YPM YILDIZ PUL BAŞLI VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;3.9&amp;nbsp;*&amp;nbsp;19&amp;nbsp;YPM&amp;nbsp;YILDIZ&amp;nbsp;PUL&amp;nbsp;BAŞLI&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.382464</price1>
@@ -7179,7 +7179,7 @@
     <id>2575</id>
     <code>MVP3925</code>
     <label>3.9 * 25 YPM YILDIZ PUL BAŞLI VİDA</label>
-    <stock>29940</stock>
+    <stock>22440</stock>
     <details>&lt;h3&gt;3.9 * 25 YPM YILDIZ PUL BAŞLI VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);"&gt;3.9&amp;nbsp;*&amp;nbsp;25&amp;nbsp;YPM&amp;nbsp;YILDIZ&amp;nbsp;PUL&amp;nbsp;BAŞLI&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.439008</price1>
@@ -11104,7 +11104,7 @@
     <id>2927</id>
     <code>DK10090</code>
     <label>10 * 90 KLİPSLİ DÜBEL</label>
-    <stock>258236</stock>
+    <stock>257936</stock>
     <details>&lt;h3&gt;10 * 90 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;10&amp;nbsp;*&amp;nbsp;90&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7.15</price1>
@@ -11354,7 +11354,7 @@
     <id>2945</id>
     <code>KARBOSAN910380</code>
     <label>K 115*1.0*22.23 İNOX KESİCİ DİSK</label>
-    <stock>151919</stock>
+    <stock>151894</stock>
     <details />
     <currency>TRL</currency>
     <price1>17.16</price1>
@@ -11479,7 +11479,7 @@
     <id>3032</id>
     <code>KARBOSAN910050</code>
     <label>K 230*3.0*22.23 METAL KESİCİ DİSK</label>
-    <stock>1</stock>
+    <stock>25</stock>
     <details />
     <currency>TRL</currency>
     <price1>75.1014</price1>
@@ -12376,6 +12376,281 @@
     <picture4 />
   </item>
   <item>
+    <id>3150</id>
+    <code>TRK-250-36W</code>
+    <label>KABLO BAĞI BEYAZ 250*3,6</label>
+    <stock>400</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.35</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998909</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.35</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>1.62</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3154</id>
+    <code>TRK-200-48W</code>
+    <label>KABLO BAĞI BEYAZ 200*4,5</label>
+    <stock>26800</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.57</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998910</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.57</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>1.884</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3155</id>
+    <code>HR014W1-146164-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (146164)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>91.99</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998911</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>91.99</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>110.388</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3156</id>
+    <code>TRK-140-36W</code>
+    <label>KABLO BAĞI BEYAZ 140*3,6</label>
+    <stock>55300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.72</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998912</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.72</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.864</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3157</id>
+    <code>TRK-900-90W</code>
+    <label>KABLO BAĞI BEYAZ 900*9.0</label>
+    <stock>1900</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>18.77</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998913</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>18.77</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>22.524</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3158</id>
+    <code>TRK-550-76B</code>
+    <label>KABLO BAĞI SİYAH 550*7,5</label>
+    <stock>14178</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>8.5</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998914</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>8.5</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>10.2</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3159</id>
+    <code>TRK-430-48W</code>
+    <label>KABLO BAĞI BEYAZ 430*4,5</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>3.43</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998915</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>3.43</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>4.116</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3160</id>
+    <code>TRK-300-48W</code>
+    <label>KABLO BAĞI BEYAZ 300*4,5</label>
+    <stock>12400</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.28</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998916</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.28</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.736</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3162</id>
+    <code>TRK-300-76B</code>
+    <label>KABLO BAĞI SİYAH 300*7,6</label>
+    <stock>400</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>4.78</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998917</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>4.78</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>5.736</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3165</id>
+    <code>HR010W1-023035-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (023035)</label>
+    <stock>5350</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>27.77</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998918</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>27.77</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>33.324</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3229</id>
+    <code>TRK-750-76W</code>
+    <label>KABLO BAĞI BEYAZ 750*7,6</label>
+    <stock>600</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>11.51</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998919</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>11.51</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>13.812</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>3253</id>
     <code>KARBOSAN958565</code>
     <label>K 115 * 22 NK 40 KUM FİBER DİSK DÜZ</label>
@@ -12401,6 +12676,231 @@
     <picture4 />
   </item>
   <item>
+    <id>3258</id>
+    <code>TRK-370-36W</code>
+    <label>KABLO BAĞI BEYAZ 370*3,6</label>
+    <stock>12200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.09</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998920</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.09</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.508</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3259</id>
+    <code>TRK-200-48B</code>
+    <label>KABLO BAĞI SİYAH 200*4,8</label>
+    <stock>9300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.57</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998921</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.57</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>1.884</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3261</id>
+    <code>TRK-760-90W</code>
+    <label>KABLO BAĞI BEYAZ 760*9,0</label>
+    <stock>1600</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>15.82</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998922</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>15.82</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>18.984</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3271</id>
+    <code>TRK-600-90W</code>
+    <label>KABLO BAĞI BEYAZ 600*9,0</label>
+    <stock>4700</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>12.52</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998923</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>12.52</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>15.024</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3274</id>
+    <code>TRK-370-48W</code>
+    <label>KABLO BAĞI BEYAZ 370*4,5</label>
+    <stock>200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.86</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998924</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.86</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>3.432</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3275</id>
+    <code>HR014W1-105121-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (105121)</label>
+    <stock>110</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>70</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998925</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>70</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>84</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3276</id>
+    <code>HR014W1-115135-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (115135)</label>
+    <stock>2450</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>78.95</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998926</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>78.95</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>94.74</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3277</id>
+    <code>HR014W1-130146-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (130146)</label>
+    <stock>300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>81.39</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998927</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>81.39</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>97.668</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3280</id>
+    <code>HR010W1-019026-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (019026)</label>
+    <stock>4092</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>26.57</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998928</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>26.57</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>31.884</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>3359</id>
     <code>13000000876</code>
     <label>İZ 3/4" 14'lü LOKMA ANAHTAR TAKIMI</label>
@@ -12420,6 +12920,56 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>14620.344</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3437</id>
+    <code>HR010W1-060080-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (060080)</label>
+    <stock>900</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>45.98</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998929</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>45.98</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>55.176</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3601</id>
+    <code>HR010W1-190210-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (190210)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>157.65</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998930</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>157.65</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>189.18</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12901,6 +13451,156 @@
     <picture4 />
   </item>
   <item>
+    <id>3939</id>
+    <code>TRK-370-48B</code>
+    <label>KABLO BAĞI SİYAH 370*4,5</label>
+    <stock>3500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.86</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998931</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.86</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>3.432</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3940</id>
+    <code>TRK-370-76B</code>
+    <label>KABLO BAĞI SİYAH 370*7,6</label>
+    <stock>5200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>5.64</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998932</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>5.64</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>6.768</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3944</id>
+    <code>TRK-100-25B</code>
+    <label>KABLO BAĞI SİYAH 100*2,5</label>
+    <stock>451600</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.33</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998933</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.33</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.396</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3946</id>
+    <code>TRK-370-36B</code>
+    <label>KABLO BAĞI SİYAH 370*3,6</label>
+    <stock>5800</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.09</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998934</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.09</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.508</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3948</id>
+    <code>TRK-450-76B</code>
+    <label>KABLO BAĞI SİYAH 450*7,5</label>
+    <stock>16700</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>6.55</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998935</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>6.55</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>7.86</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>3950</id>
+    <code>TRK-140-36B</code>
+    <label>KABLO BAĞI SİYAH 140*3,6</label>
+    <stock>10000</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.72</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998936</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.72</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.864</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>3971</id>
     <code>BV75080</code>
     <label>7,5 *80  BULDEKS VİDA</label>
@@ -13151,6 +13851,31 @@
     <picture4 />
   </item>
   <item>
+    <id>4035</id>
+    <code>TRK-250-48B</code>
+    <label>KABLO BAĞI SİYAH 250*4,5</label>
+    <stock>15500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.95</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998937</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.95</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.34</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>4038</id>
     <code>DG10110</code>
     <label>MM 10 * 110 GÖMLEKLİ ÇEKME DÜBEL</label>
@@ -13301,6 +14026,131 @@
     <picture4 />
   </item>
   <item>
+    <id>4070</id>
+    <code>TRK-250-48W</code>
+    <label>KABLO BAĞI BEYAZ 250*4,5</label>
+    <stock>17100</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.95</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998938</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.95</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.34</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4071</id>
+    <code>TRK-430-48B</code>
+    <label>KABLO BAĞI SİYAH 430*4,5</label>
+    <stock>12000</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>3.43</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998939</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>3.43</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>4.116</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4072</id>
+    <code>TRK-300-76W</code>
+    <label>KABLO BAĞI BEYAZ 300*7,6</label>
+    <stock>3400</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>4.78</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998940</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>4.78</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>5.736</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4073</id>
+    <code>TRK-450-76W</code>
+    <label>KABLO BAĞI BEYAZ 450*7,5</label>
+    <stock>13300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>6.55</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998941</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>6.55</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>7.86</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4074</id>
+    <code>TRK-550-76W</code>
+    <label>KABLO BAĞI BEYAZ 550*7,6</label>
+    <stock>22700</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>8.5</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998942</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>8.5</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>10.2</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>4136</id>
     <code>BV75060</code>
     <label>7,5 * 60 BULDEKS VİDA</label>
@@ -13354,7 +14204,7 @@
     <id>4141</id>
     <code>GS10B</code>
     <label>MM 10 DIN975 GİJON BEYAZ</label>
-    <stock>11220</stock>
+    <stock>10620</stock>
     <details>&lt;h3&gt;MM 10 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>30.4722</price1>
@@ -13404,7 +14254,7 @@
     <id>4144</id>
     <code>GS12B</code>
     <label>MM 12 DIN975 GİJON BEYAZ</label>
-    <stock>5642</stock>
+    <stock>5042</stock>
     <details>&lt;h3&gt;MM 12 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>44.118</price1>
@@ -13445,6 +14295,31 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>5.016</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4153</id>
+    <code>HR085W1-016025-101</code>
+    <label>HORTUM KELEPÇESİ 8,5mm (016025)</label>
+    <stock>11950</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>16.29</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998943</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>16.29</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>19.548</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13704,7 +14579,7 @@
     <id>4227</id>
     <code>FSM08</code>
     <label>MM 8 FİBERLİ SOMUN DIN:985</label>
-    <stock>433703</stock>
+    <stock>428103</stock>
     <details>&lt;h3&gt;MM 8 FİBERLİ SOMUN DIN:985&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;FİBERLİ&amp;nbsp;SOMUN&amp;nbsp;DIN:985&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.74996</price1>
@@ -14204,7 +15079,7 @@
     <id>4258</id>
     <code>İMB12030B</code>
     <label>12 * 30 İMBUS CIVATA DIN:912 BEYAZ</label>
-    <stock>600</stock>
+    <stock>0</stock>
     <details>&lt;h3&gt;12 * 30 İMBUS CIVATA DIN:912 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;12&amp;nbsp;*&amp;nbsp;30&amp;nbsp;İMBUS&amp;nbsp;CIVATA&amp;nbsp;DIN:912&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>4.158659</price1>
@@ -14579,7 +15454,7 @@
     <id>4358</id>
     <code>İMB06016B</code>
     <label>6 * 16 İMBUS CIVATA DIN:912 BEYAZ</label>
-    <stock>6005</stock>
+    <stock>2005</stock>
     <details>&lt;h3&gt;6 * 16 İMBUS CIVATA DIN:912 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;6&amp;nbsp;*&amp;nbsp;16&amp;nbsp;İMBUS&amp;nbsp;CIVATA&amp;nbsp;DIN:912&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.871696</price1>
@@ -14901,6 +15776,56 @@
     <picture4 />
   </item>
   <item>
+    <id>4455</id>
+    <code>HR014W1-020030-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (020030)</label>
+    <stock>6933</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>33.71</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998944</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>33.71</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>40.452</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4456</id>
+    <code>HR014W1-025042-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (025042)</label>
+    <stock>794</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>36.38</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998945</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>36.38</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>43.656</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>4472</id>
     <code>Pİ038B</code>
     <label>3/8  İNCE  DÜZ DEMİR PUL BEYAZ</label>
@@ -14954,7 +15879,7 @@
     <id>4484</id>
     <code>DB14110</code>
     <label>MM14*110 BORULU DÜBEL</label>
-    <stock>5045</stock>
+    <stock>4920</stock>
     <details>&lt;h3&gt;MM14*110 BORULU DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM14*110&amp;nbsp;BORULU&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>30.8</price1>
@@ -14970,6 +15895,231 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>36.96</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4510</id>
+    <code>HR014W1-076092-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (076092)</label>
+    <stock>150</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>54.31</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998946</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>54.31</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>65.172</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4511</id>
+    <code>HR014W1-057076-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (057076)</label>
+    <stock>4889</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>49.11</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998947</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>49.11</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>58.932</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4512</id>
+    <code>HR014W1-051072-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (051072)</label>
+    <stock>950</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>47.64</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998948</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>47.64</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>57.168</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4513</id>
+    <code>HR014W1-032051-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (032051)</label>
+    <stock>1800</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>39.88</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998949</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>39.88</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>47.856</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4514</id>
+    <code>HR014W1-038058-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (038058)</label>
+    <stock>1499</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>41.9</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998950</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>41.9</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>50.28</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4515</id>
+    <code>HR014W1-044064-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (044064)</label>
+    <stock>4350</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>43.61</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998951</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>43.61</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>52.332</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4516</id>
+    <code>HR014W1-028048-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (028048)</label>
+    <stock>4200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>38.12</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998952</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>38.12</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>45.744</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4517</id>
+    <code>HR014W1-019026-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (019026)</label>
+    <stock>1850</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>32.91</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998953</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>32.91</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>39.492</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4519</id>
+    <code>HR014W1-065082-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (065082)</label>
+    <stock>502</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>51.77</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998954</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>51.77</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>62.124</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -15204,7 +16354,7 @@
     <id>4671</id>
     <code>BFV6375</code>
     <label>6.3 * 75 BETOFAST VİDA</label>
-    <stock>40800</stock>
+    <stock>9600</stock>
     <details>&lt;h3&gt;6.3 * 75 BETOFAST VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;6.3&amp;nbsp;*&amp;nbsp;75&amp;nbsp;BETOFAST&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.281392</price1>
@@ -15326,6 +16476,56 @@
     <picture4 />
   </item>
   <item>
+    <id>4698</id>
+    <code>HR085W1-010016-101</code>
+    <label>HORTUM KELEPÇESİ 8,5mm (010016)</label>
+    <stock>19350</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>13.5</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998955</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>13.5</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>16.2</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4699</id>
+    <code>HR085W1-008012-101</code>
+    <label>HORTUM KELEPÇESİ 8,5mm (008012)</label>
+    <stock>12096</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>13.26</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998956</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>13.26</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>15.912</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>4706</id>
     <code>DG12090</code>
     <label>MM 12 * 90  GÖMLEKLİ ÇEKME DÜBEL</label>
@@ -15420,6 +16620,56 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>103.68</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4785</id>
+    <code>TRK-300-48B</code>
+    <label>KABLO BAĞI SİYAH 300*4,8</label>
+    <stock>10500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.28</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998957</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.28</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.736</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>4786</id>
+    <code>HR085W1-013019-101</code>
+    <label>HORTUM KELEPÇESİ 8,5mm (013019)</label>
+    <stock>29192</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>14.56</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998958</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>14.56</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>17.472</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16276,6 +17526,31 @@
     <picture4 />
   </item>
   <item>
+    <id>5159</id>
+    <code>HR014W1-085103-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (085103)</label>
+    <stock>81</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>59.06</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998959</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>59.06</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>70.872</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>5197</id>
     <code>KARBOSAN982170</code>
     <label>K 115*22.23 FLAP DİSK COMFORT LİNE 40 KUM ZR</label>
@@ -16345,6 +17620,56 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>29.808</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>5287</id>
+    <code>HR014W1-092110-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (092110)</label>
+    <stock>667</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>61.81</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998960</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>61.81</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>74.172</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>5352</id>
+    <code>HR014W1-022036-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (022036)</label>
+    <stock>1800</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>33.96</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998961</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>33.96</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>40.752</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -17004,7 +18329,7 @@
     <id>5617</id>
     <code>İMB10080B</code>
     <label>10 * 80 İMBUS CIVATA DIN:912 BEYAZ</label>
-    <stock>3600</stock>
+    <stock>0</stock>
     <details>&lt;h3&gt;10 * 80 İMBUS CIVATA DIN:912 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;10&amp;nbsp;*&amp;nbsp;80&amp;nbsp;İMBUS&amp;nbsp;CIVATA&amp;nbsp;DIN:912&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6.299285</price1>
@@ -19779,7 +21104,7 @@
     <id>7022</id>
     <code>MM06050933B</code>
     <label>MM 6 * 50 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>1200</stock>
+    <stock>0</stock>
     <details>&lt;h3&gt;MM 6 * 50 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;50&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.602782</price1>
@@ -19804,7 +21129,7 @@
     <id>7023</id>
     <code>MM06055933B</code>
     <label>MM 6 * 55  DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>1200</stock>
+    <stock>0</stock>
     <details>&lt;h3&gt;MM 6 * 55  DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;55&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.746359</price1>
@@ -19829,7 +21154,7 @@
     <id>7024</id>
     <code>MM06060933B</code>
     <label>MM 6 * 60 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>1800</stock>
+    <stock>600</stock>
     <details>&lt;h3&gt;MM 6 * 60 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;60&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.890925</price1>
@@ -19929,7 +21254,7 @@
     <id>7169</id>
     <code>MM06070933B</code>
     <label>MM 6 * 70 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>1200</stock>
+    <stock>0</stock>
     <details>&lt;h3&gt;MM 6 * 70 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;70&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.149312</price1>
@@ -20070,6 +21395,431 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>5.340154</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7386</id>
+    <code>TRK-280-36W</code>
+    <label>KABLO BAĞI BEYAZ 280*3,6</label>
+    <stock>10500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.67</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998962</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.67</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.004</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7389</id>
+    <code>HR014W1-160180-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (160180)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>151.63</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998963</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>151.63</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>181.956</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7445</id>
+    <code>AH020W1-031034-01</code>
+    <label>031034 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>100</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>107.43</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998964</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>107.43</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>128.916</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7446</id>
+    <code>AH020W1-034037-01</code>
+    <label>034037 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>111.13</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998965</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>111.13</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>133.356</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7447</id>
+    <code>AH020W1-047051-01</code>
+    <label>047051 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>118.54</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998966</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>118.54</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>142.248</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7448</id>
+    <code>AH020W1-051055-01</code>
+    <label>051055 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>330</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>120.35</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998967</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>120.35</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>144.42</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7450</id>
+    <code>AH020W1-063068-01</code>
+    <label>063068 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>125.94</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998968</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>125.94</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>151.128</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7451</id>
+    <code>AH025W1-068073-01</code>
+    <label>068073 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>145.85</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998969</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>145.85</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>175.02</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7452</id>
+    <code>AH025W1-091097-01</code>
+    <label>091097 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>35</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>158.33</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998970</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>158.33</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>189.996</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7453</id>
+    <code>AH025W1-097104-01</code>
+    <label>097104 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>158.33</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998971</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>158.33</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>189.996</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7454</id>
+    <code>AH025W1-104112-01</code>
+    <label>104112 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>162.52</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998972</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>162.52</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>195.024</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7456</id>
+    <code>HR010W1-080100-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (080100)</label>
+    <stock>400</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>51.87</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998973</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>51.87</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>62.244</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7457</id>
+    <code>HR014W1-240260-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (240260)</label>
+    <stock>25</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>322.16</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998974</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>322.16</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>386.592</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7458</id>
+    <code>HR014W1-250270-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (250270)</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>348.53</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998975</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>348.53</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>418.236</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7459</id>
+    <code>BK-009-01</code>
+    <label>BAĞLANTI KLİPSİ 009</label>
+    <stock>9500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>34.3</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998976</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>34.3</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>41.16</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7460</id>
+    <code>MR060W2-009-01</code>
+    <label>009 MM METAL RULO KELEPÇE TORK PLASTİK AMBALAJ</label>
+    <stock>46</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1590.13</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998977</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1590.13</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>1908.156</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7479</id>
+    <code>TRK-200-36W</code>
+    <label>KABLO BAĞI BEYAZ 200*3,6</label>
+    <stock>200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.17</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998978</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.17</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>1.404</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -20226,6 +21976,131 @@
     <picture4 />
   </item>
   <item>
+    <id>7546</id>
+    <code>TRK-250-36B</code>
+    <label>KABLO BAĞI SİYAH 250*3,6</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.35</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998979</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.35</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>1.62</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7547</id>
+    <code>TRK-750-76B</code>
+    <label>KABLO BAĞI SİYAH 750*7,6</label>
+    <stock>400</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>11.51</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998980</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>11.51</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>13.812</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7549</id>
+    <code>TRK-150-25W</code>
+    <label>KABLO BAĞI BEYAZ 150*2,5</label>
+    <stock>2700</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.48</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998981</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.48</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.576</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7552</id>
+    <code>HR085W1-012020-101</code>
+    <label>HORTUM KELEPÇESİ 8,5 mm (012020)</label>
+    <stock>11676</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>14.7</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998982</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>14.7</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>17.64</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7568</id>
+    <code>TRK-150-25B</code>
+    <label>KABLO BAĞI SİYAH 150*2,5</label>
+    <stock>28600</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.48</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998983</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.48</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.576</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>7665</id>
     <code>KARBOSAN914860</code>
     <label>K 150*20*20 NK 24 ZIMPARA TAŞI</label>
@@ -20295,6 +22170,81 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1204.8696</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7670</id>
+    <code>AH018W1-027029-01</code>
+    <label>027029 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>103.71</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998984</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>103.71</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>124.452</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7671</id>
+    <code>AH020W1-040043-01</code>
+    <label>040043 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>114.83</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998985</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>114.83</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>137.796</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>7672</id>
+    <code>AH020W1-043047-01</code>
+    <label>043047 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>118.54</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998986</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>118.54</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>142.248</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21929,7 +23879,7 @@
     <id>7829</id>
     <code>MM10050933B</code>
     <label>MM 10 * 50  DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>8863</stock>
+    <stock>7063</stock>
     <details>&lt;h3&gt;MM 10 * 50  DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;50&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>4.221009</price1>
@@ -22704,7 +24654,7 @@
     <id>7867</id>
     <code>MM08055931B</code>
     <label>MM 8 * 55 DIN931 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>2400</stock>
+    <stock>1200</stock>
     <details>&lt;h3&gt;MM 8 * 55 DIN931 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;55&amp;nbsp;DIN931&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.702163</price1>
@@ -23554,7 +25504,7 @@
     <id>7937</id>
     <code>MM12020933B</code>
     <label>MM 12 * 20 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>8500</stock>
+    <stock>100</stock>
     <details>&lt;h3&gt;MM 12 * 20 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;20&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3.172755</price1>
@@ -25920,6 +27870,31 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>11.456592</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>8130</id>
+    <code>TRK-200-36B</code>
+    <label>KABLO BAĞI SİYAH 200*3,6</label>
+    <stock>12500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.17</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998987</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.17</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>1.404</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -31701,6 +33676,81 @@
     <picture4 />
   </item>
   <item>
+    <id>9463</id>
+    <code>HR010W1-025040-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (025040)</label>
+    <stock>800</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>28.54</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998988</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>28.54</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>34.248</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>9464</id>
+    <code>HR010W1-032050-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (032050)</label>
+    <stock>2600</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>32.34</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998989</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>32.34</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>38.808</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>9465</id>
+    <code>HR010W1-050070-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (050070)</label>
+    <stock>350</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>41.38</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998990</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>41.38</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>49.656</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>9506</id>
     <code>KARBOSAN912750</code>
     <label>K 230*3.5*22.23  MERMER KESİCİ TAŞ</label>
@@ -31726,6 +33776,31 @@
     <picture4 />
   </item>
   <item>
+    <id>9507</id>
+    <code>HR010W1-020032-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (020032)</label>
+    <stock>14739</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>27.22</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998991</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>27.22</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>32.664</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>9511</id>
     <code>P2012B</code>
     <label>1/2 DÜZ DEMİR PUL 2 MM BEYAZ</label>
@@ -31745,6 +33820,56 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>103.68</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>9523</id>
+    <code>AH020W1-059063-01</code>
+    <label>059063 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>100</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>124.07</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998992</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>124.07</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>148.884</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>9524</id>
+    <code>HR010W1-040060-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (040060)</label>
+    <stock>400</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>33.69</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998993</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>33.69</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>40.428</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -31801,6 +33926,56 @@
     <picture4 />
   </item>
   <item>
+    <id>9699</id>
+    <code>HR014W1-180200-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (180200)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>181.88</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998994</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>181.88</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>218.256</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>9700</id>
+    <code>HR014W1-210230-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (210230)</label>
+    <stock>100</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>255.89</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998995</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>255.89</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>307.068</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>9708</id>
     <code>İMB16075S</code>
     <label>16 * 75 İMBUS CIVATA DIN:912 SİYAH</label>
@@ -31820,6 +33995,31 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>17.415456</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>9784</id>
+    <code>TRK-280-36B</code>
+    <label>KABLO BAĞI SİYAH 280*3,6</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.67</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998996</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.67</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.004</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -32401,6 +34601,31 @@
     <picture4 />
   </item>
   <item>
+    <id>10074</id>
+    <code>HR010W1-130150-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (130150)</label>
+    <stock>100</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>71.16</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998997</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>71.16</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>85.392</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>10077</id>
     <code>KARBOSAN915346</code>
     <label>K 30 * 30 SAPLI ELYAF MOP ZIMPARA</label>
@@ -32551,6 +34776,31 @@
     <picture4 />
   </item>
   <item>
+    <id>10292</id>
+    <code>HR014W1-190210-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (190210)</label>
+    <stock>150</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>214.99</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998998</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>214.99</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>257.988</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>10315</id>
     <code>KARBOSAN982965</code>
     <label>PREMIUMLINE FLAP DİSK AO AXPR11 SD 115 MM 36 KUM</label>
@@ -32646,6 +34896,31 @@
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>32.7888</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/810fdcee-ed73-4798-baf8-3eb32e710133.png</picture1>
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10341</id>
+    <code>AH020W1-029031-01</code>
+    <label>029031 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>107.43</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269998999</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>107.43</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>128.916</vatIncluded>
+    <picture1 />
     <picture2 />
     <picture3 />
     <picture4 />
@@ -32770,6 +35045,131 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>27.39528</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10363</id>
+    <code>HR010W1-028048-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (028048)</label>
+    <stock>9250</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>31.07</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999000</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>31.07</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>37.284</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10364</id>
+    <code>HR014W1-230250-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (230250)</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>300.26</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999001</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>300.26</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>360.312</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10374</id>
+    <code>TRK-100-25W</code>
+    <label>KABLO BAĞI BEYAZ 100*2.5</label>
+    <stock>188900</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.33</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999002</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.33</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.396</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10375</id>
+    <code>BK-012-01</code>
+    <label>BAĞLANTI KLİPSİ 012</label>
+    <stock>300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>41.13</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999003</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>41.13</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>49.356</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10376</id>
+    <code>MR080W1-012-01</code>
+    <label>012 MM METAL RULO KELEPÇE  TORK PLASTİK AMBALAJ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1906.65</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999004</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1906.65</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2287.98</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -32951,6 +35351,156 @@
     <picture4 />
   </item>
   <item>
+    <id>10507</id>
+    <code>AH018W1-023025-01</code>
+    <label>023025 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>103.71</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999005</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>103.71</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>124.452</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10508</id>
+    <code>AH018W1-025027-01</code>
+    <label>025027 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>96</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>103.71</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999006</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>103.71</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>124.452</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10509</id>
+    <code>AH018W1-021023-01</code>
+    <label>021023 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>800</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>96.34</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999007</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>96.34</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>115.608</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10510</id>
+    <code>AH018W1-019021-01</code>
+    <label>019021 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>800</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>96.34</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999008</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>96.34</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>115.608</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10511</id>
+    <code>AH025W1-073079-01</code>
+    <label>073079 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>149.97</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999009</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>149.97</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>179.964</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10512</id>
+    <code>AH025W1-085091-01</code>
+    <label>085091 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>125</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>154.18</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999010</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>154.18</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>185.016</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>10514</id>
     <code>İMB14120B</code>
     <label>14 * 120 İMBUS CIVATA DIN:912 BEYAZ</label>
@@ -32970,6 +35520,31 @@
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>20.123381</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10537</id>
+    <code>TRK-600-90B</code>
+    <label>KABLO BAĞI SİYAH 600*9.0</label>
+    <stock>6000</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>12.52</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999011</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>12.52</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>15.024</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33076,6 +35651,206 @@
     <picture4 />
   </item>
   <item>
+    <id>10638</id>
+    <code>HR010W1-044064-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (044064)</label>
+    <stock>2550</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>35.59</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999012</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>35.59</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>42.708</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10640</id>
+    <code>HR010W1-070090-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (070090)</label>
+    <stock>1099</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>47.96</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999013</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>47.96</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>57.552</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10641</id>
+    <code>HR010W1-090110-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (090110)</label>
+    <stock>450</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>53.69</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999014</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>53.69</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>64.428</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10642</id>
+    <code>HR010W1-100120-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (100120)</label>
+    <stock>350</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>60.8</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999015</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>60.8</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>72.96</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10643</id>
+    <code>HR010W1-120140-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (120140)</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>68.72</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999016</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>68.72</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>82.464</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10644</id>
+    <code>HR010W1-140160-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (140160)</label>
+    <stock>100</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>78.42</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999017</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>78.42</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>94.104</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10645</id>
+    <code>HR010W1-150170-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (150170)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>95.03</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999018</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>95.03</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>114.036</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10646</id>
+    <code>HR010W1-160180-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (160180)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>111.85</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999019</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>111.85</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>134.22</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>10649</id>
     <code>KARBOSAN910410</code>
     <label>K 125 * 1.6 * 22 İNOX THINLINE  KESİCİ</label>
@@ -33095,6 +35870,56 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>30.06432</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10676</id>
+    <code>TRK-200-25B</code>
+    <label>KABLO BAĞI SİYAH 200*2,5</label>
+    <stock>18200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.71</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999020</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.71</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.852</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>10677</id>
+    <code>TRK-760-90B</code>
+    <label>KABLO BAĞI SİYAH 760*9.0</label>
+    <stock>2256</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>15.82</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999021</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>15.82</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>18.984</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -40651,6 +43476,131 @@
     <picture4 />
   </item>
   <item>
+    <id>11180</id>
+    <code>HR010W1-146164-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (146164)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>78.42</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999022</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>78.42</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>94.104</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>11181</id>
+    <code>AH020W1-037040-01</code>
+    <label>037040 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>111.13</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999023</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>111.13</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>133.356</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>11182</id>
+    <code>AH025W1-112121-01</code>
+    <label>112121 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>234</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>162.52</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999024</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>162.52</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>195.024</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>11184</id>
+    <code>AH025W1-079085-01</code>
+    <label>079085 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>149.97</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999025</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>149.97</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>179.964</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>11195</id>
+    <code>AH020W1-055059-01</code>
+    <label>055059 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>122.25</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999026</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>122.25</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>146.7</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>11200</id>
     <code>B00000001250</code>
     <label>HSS  DIN 338 RN  HADDE MTK    12.5  mm</label>
@@ -47054,7 +50004,7 @@
     <id>11522</id>
     <code>2.608.637.880</code>
     <label>T 144 D Speed for Wood 100'lü ( T144D HCS Speed fo</label>
-    <stock>28</stock>
+    <stock>27</stock>
     <details />
     <currency>TRL</currency>
     <price1>3196.12425</price1>
@@ -50376,6 +53326,31 @@
     <picture4 />
   </item>
   <item>
+    <id>11679</id>
+    <code>HR010W1-110130-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (110130)</label>
+    <stock>250</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>66.17</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999027</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>66.17</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>79.404</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>11690</id>
     <code>B00005000800</code>
     <label>HSSE DIN 338 RN ALTIN SERİ MTK 8.0 MM</label>
@@ -52071,6 +55046,31 @@
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>42.174</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/61470050-f50a-4d48-bc17-f2dffa76a471.png</picture1>
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>12128</id>
+    <code>AH025W1-121130-01</code>
+    <label>121130 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>166.65</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999028</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>166.65</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>199.98</vatIncluded>
+    <picture1 />
     <picture2 />
     <picture3 />
     <picture4 />
@@ -64102,6 +67102,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>13045</id>
+    <code>BRD6W1-040046-01EP00</code>
+    <label>040046 ( 1 1/4" ) DG2 M8 SOMUNLU DOĞALGAZ KELEPÇES</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>54.04</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999029</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>54.04</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>64.848</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>13050</id>
     <code>0.611.253.703</code>
     <label>GBH 2-26 DRE Kırıcı- Delici
@@ -71048,6 +74073,31 @@ GBH 1-52</label>
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1.300147</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>18503</id>
+    <code>BRD6W1-021026-01EP00</code>
+    <label>021026 ( 1/2" ) DG2 M8 SOMUNLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>35.67</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999030</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>35.67</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>42.804</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -78682,7 +81732,7 @@ GBH 1-52</label>
     <id>21478</id>
     <code>BEYBİ-KN2+10P</code>
     <label>BEYBİ KN2 PAMUK NİTRİL NO:10 PLUS</label>
-    <stock>8352</stock>
+    <stock>7776</stock>
     <details />
     <currency>TRL</currency>
     <price1>49.734</price1>
@@ -81129,6 +84179,56 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>21712</id>
+    <code>AH018W1-017019-01</code>
+    <label>017019 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>92.6</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999031</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>92.6</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>111.12</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>21713</id>
+    <code>AH020W1-056061-01</code>
+    <label>056061 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>122.25</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999032</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>122.25</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>146.7</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>21739</id>
     <code>13000001252</code>
     <label>160 MM KERPETEN PVC KAPLI</label>
@@ -81673,6 +84773,56 @@ GBH 1-52</label>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>39.432</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>21786</id>
+    <code>BRD6W1-021026-07EP00</code>
+    <label>021026 ( 1/2" ) DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>38.91</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999033</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>38.91</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>46.692</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>21790</id>
+    <code>BRD6W1-040046-07EP00</code>
+    <label>040046 ( 1 1/4" ) DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>56.21</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999034</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>56.21</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>67.452</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -82229,6 +85379,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>21825</id>
+    <code>BRD6W1-033037-07EP00</code>
+    <label>033037 ( 1" ) DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>45.4</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999035</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>45.4</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>54.48</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>21829</id>
     <code>LN12D30</code>
     <label>OSAKA LOKMA 1/2 30 mm DER</label>
@@ -82448,6 +85623,31 @@ GBH 1-52</label>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>11035.2</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>21953</id>
+    <code>BRD6W1-033037-01EP00</code>
+    <label>033037 ( 1 " ) DG2 M8 SOMUNLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>43.24</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999036</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>43.24</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>51.888</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -90804,6 +94004,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>39025</id>
+    <code>HR010W1-220240-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (220240)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>203.47</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999037</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>203.47</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>244.164</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>39027</id>
     <code>BEYBİ-PN5ZEBRABS10</code>
     <label>BEYBİ PN5 ZEBRA NİTRİL BEYAZ SİYAH NO:10</label>
@@ -91007,7 +94232,7 @@ GBH 1-52</label>
     <id>39070</id>
     <code>BEYBİ-KN2+9P</code>
     <label>BEYBİ KN2 PAMUK NİTRİL NO:9 PLUS</label>
-    <stock>2316</stock>
+    <stock>1740</stock>
     <details />
     <currency>TRL</currency>
     <price1>49.734</price1>
@@ -96104,6 +99329,81 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>40674</id>
+    <code>BRD6W1-109119-02EP00</code>
+    <label>109119(4") DG2 M10 SOMUNLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>142.68</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999038</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>142.68</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>171.216</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>40675</id>
+    <code>BRD6W1-075084-02EP00</code>
+    <label>075084 (2 1/2") DG2 M10 SOMUNLU DOĞALGAZ KELEPÇE</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>110.25</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999039</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>110.25</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>132.3</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>40676</id>
+    <code>BRD6W1-109119-08EP00</code>
+    <label>109119(4") DG2  UZUN TRİFONLU DOĞALGAZ KELEPÇE</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>159.97</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999040</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>159.97</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>191.964</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>40683</id>
     <code>B00000011280</code>
     <label>HSS  DIN 338 RN  HADDE MTK   12.8   MM.</label>
@@ -96707,7 +100007,7 @@ GBH 1-52</label>
     <id>40718</id>
     <code>MM10045931B</code>
     <label>MM 10 * 45  DIN931 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>4800</stock>
+    <stock>2800</stock>
     <details />
     <currency>TRL</currency>
     <price1>4.033228</price1>
@@ -101204,6 +104504,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>42426</id>
+    <code>TRK-200-25W</code>
+    <label>KABLO BAĞI BEYAZ 200*2,5</label>
+    <stock>59900</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0.71</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999041</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0.71</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0.852</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>42431</id>
     <code>B00100043600</code>
     <label>HSS DIN352 3 LU EL KLZ   M36        (6H)</label>
@@ -101948,6 +105273,31 @@ GBH 1-52</label>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>782.4672</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>42514</id>
+    <code>HR010W1-170190-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (170190)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>123.06</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999042</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>123.06</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>147.672</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -106029,6 +109379,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>44300</id>
+    <code>HR010W1-030045-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (030045)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>31.66</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999043</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>31.66</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>37.992</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>44301</id>
     <code>LN12A10</code>
     <label>OSAKA 1/2 ALLEN LOKMA 10mm</label>
@@ -108479,6 +111854,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>44804</id>
+    <code>BRD6W1-060066-07EP00</code>
+    <label>060066 (2") DG2  TRİFONLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>69.18</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999044</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>69.18</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>83.016</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>44819</id>
     <code>BEYBİ-KN2FLEX09</code>
     <label>BEYBİ KN2 FLEX SARI NO:09</label>
@@ -110079,6 +113479,56 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>45062</id>
+    <code>TRK-710-90W</code>
+    <label>KABLO BAĞI BEYAZ 710*9,0</label>
+    <stock>1200</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>15.36</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999045</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>15.36</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>18.432</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45063</id>
+    <code>TRK-710-90B</code>
+    <label>KABLO BAĞI SİYAH 710*9,0</label>
+    <stock>600</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>15.36</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999046</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>15.36</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>18.432</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>45065</id>
     <code>OPT-P 121</code>
     <label>OSAKA KALIPCI TASLAMA</label>
@@ -110598,6 +114048,31 @@ GBH 1-52</label>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>15.94296</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45215</id>
+    <code>AH025W1-200213-01</code>
+    <label>200213 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>25</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>240.22</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999047</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>240.22</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>288.264</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -111199,6 +114674,106 @@ GBH 1-52</label>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>75.4974</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/53764db3-8993-4c4b-ac53-9c2ca6e22141.png</picture1>
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45281</id>
+    <code>HR014W1-150170-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (150170)</label>
+    <stock>300</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>129.13</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999048</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>129.13</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>154.956</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45282</id>
+    <code>HR014W1-220240-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (220240)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>276.17</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999049</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>276.17</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>331.404</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45283</id>
+    <code>HR014W1-170190-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (170190)</label>
+    <stock>100</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>166.74</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999050</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>166.74</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>200.088</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45284</id>
+    <code>HR014W1-200220-101</code>
+    <label>HORTUM KELEPÇESİ 14mm (200220)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>236.32</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999051</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>236.32</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>283.584</vatIncluded>
+    <picture1 />
     <picture2 />
     <picture3 />
     <picture4 />
@@ -112304,6 +115879,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>45421</id>
+    <code>TRK-2828Y-B</code>
+    <label>28X28 PLASTİK YAPIŞKANLI KROŞE SİYAH</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.87</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999052</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.87</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>3.444</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>45424</id>
     <code>13000000854</code>
     <label>24lü  LOKMA ANAHTAR TAKIMI ONİKİ KÖŞE 1/2"</label>
@@ -112623,6 +116223,56 @@ GBH 1-52</label>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1000.89</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45497</id>
+    <code>BRD6W1-026030-07EP00</code>
+    <label>026030 (3/4") DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>43.24</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999053</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>43.24</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>51.888</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>45499</id>
+    <code>BRD6W1-048053-07EP00</code>
+    <label>048053 (1 1/2") DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>60.53</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999054</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>60.53</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>72.636</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -115004,6 +118654,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>48951</id>
+    <code>AH025W1-162174-01</code>
+    <label>162174 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>220.92</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999055</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>220.92</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>265.104</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>48964</id>
     <code>0.611.332.190</code>
     <label>GBH 4-32 DFR Kırıcı Delici</label>
@@ -115123,6 +118798,31 @@ GBH 1-52</label>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>4632.5664</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>48997</id>
+    <code>TRK-1200-90W</code>
+    <label>KABLO BAĞI BEYAZ 1200*9.0</label>
+    <stock>10350</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>27.66</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999056</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>27.66</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>33.192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -141407,7 +145107,7 @@ GBH 1-52</label>
     <id>53640</id>
     <code>NMMS08B</code>
     <label>M8 934 CL.6 C440 NORM CİVATA</label>
-    <stock>966941</stock>
+    <stock>51241</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.6595</price1>
@@ -157007,7 +160707,7 @@ GBH 1-52</label>
     <id>68509</id>
     <code>RAYNOMBY</code>
     <label>RAYNO MAKET BIÇAĞI YEDEĞİ 18mmx 0.5mm</label>
-    <stock>342600</stock>
+    <stock>322600</stock>
     <details>&lt;h3&gt;RAYNO MAKET BIÇAĞI YEDEĞİ 18mmx 0.5mm&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.709504</price1>
@@ -157298,6 +160998,31 @@ GBH 1-52</label>
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>6.680784</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>68546</id>
+    <code>TRK-300-36W</code>
+    <label>KABLO BAĞI BEYAZ 300*3,5</label>
+    <stock>26500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.73</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999057</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.73</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.076</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -157773,6 +161498,31 @@ GBH 1-52</label>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2441.7936</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>68636</id>
+    <code>HR010W1-115135-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (115135)</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>68.72</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999058</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>68.72</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>82.464</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -158829,6 +162579,56 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>72841</id>
+    <code>AH025W1-130140-01</code>
+    <label>130140 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>25</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>207.79</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999059</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory />
+    <category>Grupsuz</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>207.79</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>249.348</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>72843</id>
+    <code>TRK-300-36B</code>
+    <label>KABLO BAĞI SİYAH 300*3,5</label>
+    <stock>43000</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.73</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999060</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory />
+    <category>Grupsuz</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.73</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.076</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>72864</id>
     <code>13000000651</code>
     <label>125 MM SEGMAN EGRİ ÇEMBERİ</label>
@@ -159748,6 +163548,31 @@ GBH 1-52</label>
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>73952</id>
+    <code>BRD2W1-133143-02EP01</code>
+    <label>133143  (5") DG2 M10 SOMUNLU DOĞALGAZ KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>203.21</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999061</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory />
+    <category>Grupsuz</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>203.21</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>243.852</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -160748,6 +164573,31 @@ GBH 1-52</label>
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>124.884</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>75142</id>
+    <code>AH025W1-150162-01</code>
+    <label>150162 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>215.52</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999062</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>215.52</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>258.624</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -166279,6 +170129,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>75685</id>
+    <code>TRK-2828Y-W</code>
+    <label>28X28 PLASTİK YAPIŞKANLI KROŞE BEYAZ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>2.87</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999063</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>2.87</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>3.444</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>75695</id>
     <code>NMM27090933B</code>
     <label>M27x90 933-4017 8.8 C440 NORM CİVATA</label>
@@ -166979,6 +170854,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>75744</id>
+    <code>TRK-370-79-W4</code>
+    <label>370x7.9 METAL KABLO BAĞI TORK W4 SS304</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>12.43</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999064</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>12.43</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>14.916</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>75745</id>
     <code>RYN10200</code>
     <label>RAYNO PAİNT MARKER BEYAZ</label>
@@ -167032,7 +170932,7 @@ GBH 1-52</label>
     <id>75747</id>
     <code>RYN10202</code>
     <label>RAYNO PAİNT MARKER KIRMIZI</label>
-    <stock>228</stock>
+    <stock>29</stock>
     <details>&lt;h3&gt;RAYNO PAİNT MARKER KIRMIZI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Tüm&amp;nbsp;yüzeyler&amp;nbsp;için&amp;nbsp;uygundur.&amp;nbsp;Üstün&amp;nbsp;Kore&amp;nbsp;teknolojisi&lt;/p&gt;&lt;p&gt;ile&amp;nbsp;üretilmiştir.&amp;nbsp;Kullanım&amp;nbsp;yapılan&amp;nbsp;yüzeyde&amp;nbsp;60&amp;nbsp;dak.&lt;/p&gt;&lt;p&gt;boyunca&amp;nbsp;200°C&amp;nbsp;üzeri&amp;nbsp;sıcaklığa&amp;nbsp;dayanabilen&amp;nbsp;kaliteli&lt;/p&gt;&lt;p&gt;boyaya&amp;nbsp;sahiptir.&lt;/p&gt;&lt;p&gt;4&amp;nbsp;çeşit&amp;nbsp;renk&amp;nbsp;mevcuttur.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;(BEYAZ&amp;nbsp;/&amp;nbsp;SİYAH&amp;nbsp;/&amp;nbsp;KIRMIZI&amp;nbsp;/&amp;nbsp;MAVİ)&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>39.5136</price1>
@@ -167057,7 +170957,7 @@ GBH 1-52</label>
     <id>75748</id>
     <code>RYN10203</code>
     <label>RAYNO PAİNT MARKER MAVİ</label>
-    <stock>6156</stock>
+    <stock>5916</stock>
     <details>&lt;h3&gt;RAYNO PAİNT MARKER MAVİ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Tüm&amp;nbsp;yüzeyler&amp;nbsp;için&amp;nbsp;uygundur.&amp;nbsp;Üstün&amp;nbsp;Kore&amp;nbsp;teknolojisi&lt;/p&gt;&lt;p&gt;ile&amp;nbsp;üretilmiştir.&amp;nbsp;Kullanım&amp;nbsp;yapılan&amp;nbsp;yüzeyde&amp;nbsp;60&amp;nbsp;dak.&lt;/p&gt;&lt;p&gt;boyunca&amp;nbsp;200°C&amp;nbsp;üzeri&amp;nbsp;sıcaklığa&amp;nbsp;dayanabilen&amp;nbsp;kaliteli&lt;/p&gt;&lt;p&gt;boyaya&amp;nbsp;sahiptir.&lt;/p&gt;&lt;p&gt;4&amp;nbsp;çeşit&amp;nbsp;renk&amp;nbsp;mevcuttur.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;(BEYAZ&amp;nbsp;/&amp;nbsp;SİYAH&amp;nbsp;/&amp;nbsp;KIRMIZI&amp;nbsp;/&amp;nbsp;MAVİ)&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>39.5136</price1>
@@ -170823,6 +174723,31 @@ GBH 1-52</label>
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>76115</id>
+    <code>HR010W1-240260-101</code>
+    <label>HORTUM KELEPÇESİ 10mm (240260)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>237.63</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999065</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>237.63</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>285.156</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -178254,6 +182179,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>76909</id>
+    <code>AH025W1-140150-01</code>
+    <label>140150 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>210.53</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999066</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory />
+    <category>Grupsuz</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>210.53</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>252.636</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>76915</id>
     <code>KARBOSAN917383</code>
     <label>K 150.50.25 SCG24R7VN55 PRİZMATİK</label>
@@ -179682,7 +183632,7 @@ GBH 1-52</label>
     <id>78000</id>
     <code>RYN10692</code>
     <label>RAYNO PİMLİ KALEM FIRÇA 12 MM</label>
-    <stock>21540</stock>
+    <stock>21390</stock>
     <details />
     <currency>TRL</currency>
     <price1>9.257472</price1>
@@ -179707,7 +183657,7 @@ GBH 1-52</label>
     <id>78001</id>
     <code>RYN10693</code>
     <label>RAYNO PİMLİ KALEM FIRÇA 17 MM</label>
-    <stock>6185</stock>
+    <stock>6035</stock>
     <details />
     <currency>TRL</currency>
     <price1>10.16064</price1>
@@ -184298,6 +188248,31 @@ GBH 1-52</label>
     <cashDiscount>24</cashDiscount>
     <creditCardDiscount>16</creditCardDiscount>
     <vatIncluded>0</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>78300</id>
+    <code>HR009W2-130150-601</code>
+    <label>HORTUM KELEPÇESİ 9mm (130150)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>86.53</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999067</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>86.53</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>103.836</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -189029,6 +193004,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>78574</id>
+    <code>BRD6W1-075084-07EP00</code>
+    <label>075084 (2 1/2") DG2 TRİFONLU DOĞALGAZ KELEPÇE</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>112.41</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999068</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>112.41</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>134.892</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>78575</id>
     <code>2.608.901.504</code>
     <label>PRO MultiMaterial Delik Açma Test.35 mm</label>
@@ -193432,7 +197432,7 @@ GBH 1-52</label>
     <id>78834</id>
     <code>5903703901</code>
     <label>SCHEPPACH MT150 PROFİL KESME MAKİNASI</label>
-    <stock>894</stock>
+    <stock>893</stock>
     <details>&lt;h3&gt;SCHEPPACH MT150 PROFİL KESME MAKİNASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Profil&amp;nbsp;Kesme&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bu&amp;nbsp;ergonomik&amp;nbsp;ve&amp;nbsp;kolay&amp;nbsp;taşınabilir&amp;nbsp;metal&amp;nbsp;kesme&amp;nbsp;testeresi,&amp;nbsp;metalde&amp;nbsp;düzgün&lt;/p&gt;&lt;p&gt;ve&amp;nbsp;hassas&amp;nbsp;kesimler&amp;nbsp;için&amp;nbsp;tasarlanmıştır.&amp;nbsp;0&amp;nbsp;-&amp;nbsp;45&amp;nbsp;derece&amp;nbsp;arasında&amp;nbsp;eğim&amp;nbsp;açısı&lt;/p&gt;&lt;p&gt;verebileceğiniz&amp;nbsp;355&amp;nbsp;mm&amp;nbsp;çaplı&amp;nbsp;diske&amp;nbsp;ve&amp;nbsp;115&amp;nbsp;mm&amp;nbsp;kesim&amp;nbsp;yüksekliğine&amp;nbsp;sahiptir.&lt;/p&gt;&lt;p&gt;Güvenli&amp;nbsp;çalışma&amp;nbsp;sağlayan&amp;nbsp;kapatılabilir&amp;nbsp;ayırma&amp;nbsp;diski&amp;nbsp;koruması&amp;nbsp;mevcuttur.&lt;/p&gt;&lt;p&gt;Yumuşak&amp;nbsp;başlangıc&amp;nbsp;(soft&amp;nbsp;start)&amp;nbsp;özellikli&amp;nbsp;2600&amp;nbsp;W&amp;nbsp;motora&amp;nbsp;sahiptir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;620&amp;nbsp;x&amp;nbsp;270&amp;nbsp;x&amp;nbsp;605&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesme&amp;nbsp;Diski&amp;nbsp;(Ø)&amp;nbsp;355&amp;nbsp;x&amp;nbsp;25.4&amp;nbsp;x&amp;nbsp;3&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Ölçüleri&amp;nbsp;Ø&amp;nbsp;115&amp;nbsp;mm&amp;nbsp;/&amp;nbsp;137&amp;nbsp;x&amp;nbsp;100&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Gönye&amp;nbsp;Açısı&amp;nbsp;45&amp;nbsp;-&amp;nbsp;0&amp;nbsp;-&amp;nbsp;30&lt;/p&gt;&lt;p&gt;Devir&amp;nbsp;Sayısı&amp;nbsp;4200&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;2600&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net&amp;nbsp;/&amp;nbsp;Brüt&amp;nbsp;Ağırlık&amp;nbsp;12.9&amp;nbsp;/&amp;nbsp;14.6&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5903703901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>8379</price1>
@@ -193932,7 +197932,7 @@ GBH 1-52</label>
     <id>78856</id>
     <code>5912104400</code>
     <label>SCHEPPACH C-BL700-X-SET S AKÜLÜ YAPRAK ÜFLEME</label>
-    <stock>191</stock>
+    <stock>188</stock>
     <details>&lt;h3&gt;SCHEPPACH C-BL700-X-SET S AKÜLÜ YAPRAK ÜFLEME&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Akülü&amp;nbsp;Yaprak&amp;nbsp;Üfleme&amp;nbsp;Makinesi&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Yaprakları,&amp;nbsp;çim&amp;nbsp;kırpıntılarını&amp;nbsp;vb.&amp;nbsp;hafif&amp;nbsp;malzemeleri&amp;nbsp;üflemeyi&amp;nbsp;sağlayan,&lt;/p&gt;&lt;p&gt;155&amp;nbsp;km/s&amp;nbsp;hızı&amp;nbsp;ve&amp;nbsp;516&amp;nbsp;m3/s&amp;nbsp;hava&amp;nbsp;hacim&amp;nbsp;debisine&amp;nbsp;sahip,&amp;nbsp;ergonomik&amp;nbsp;çalışma&lt;/p&gt;&lt;p&gt;için&amp;nbsp;yumuşak&amp;nbsp;kavramalı&amp;nbsp;sap&amp;nbsp;ile&amp;nbsp;tasarlanmış&amp;nbsp;akülü&amp;nbsp;yaprak&amp;nbsp;üfleyici.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;1260&amp;nbsp;x&amp;nbsp;550&amp;nbsp;x&amp;nbsp;370&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Hava&amp;nbsp;Gücü&amp;nbsp;1.&amp;nbsp;Kademe:&amp;nbsp;390&amp;nbsp;m³/s&amp;nbsp;2.&amp;nbsp;Kademe:&amp;nbsp;516&amp;nbsp;m³/s&lt;/p&gt;&lt;p&gt;Hava&amp;nbsp;Hızı&amp;nbsp;1.&amp;nbsp;Kademe:&amp;nbsp;115&amp;nbsp;km/s&amp;nbsp;2.&amp;nbsp;Kademe:&amp;nbsp;155&amp;nbsp;km/s&lt;/p&gt;&lt;p&gt;Akü&amp;nbsp;Gerilimi&amp;nbsp;20&amp;nbsp;V&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;2.6/&amp;nbsp;3.3&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5912104400&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3686.76</price1>
@@ -199357,7 +203357,7 @@ GBH 1-52</label>
     <id>79098</id>
     <code>5901327901</code>
     <label>SCHEPPACH HS210 MASA TİPİ TESTERE</label>
-    <stock>137</stock>
+    <stock>136</stock>
     <details>&lt;h3&gt;SCHEPPACH HS210 MASA TİPİ TESTERE&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Masa&amp;nbsp;Tip&amp;nbsp;Testere&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Hassas&amp;nbsp;kesimler&amp;nbsp;için&amp;nbsp;Ø&amp;nbsp;210&amp;nbsp;mm&amp;nbsp;ve&amp;nbsp;45&amp;nbsp;derece&amp;nbsp;eğim&amp;nbsp;verebileceğiniz&amp;nbsp;testere&lt;/p&gt;&lt;p&gt;bıçağına&amp;nbsp;sahip,&amp;nbsp;el&amp;nbsp;krankı&amp;nbsp;ile&amp;nbsp;70&amp;nbsp;mm’ye&amp;nbsp;kadar&amp;nbsp;ayarlayabileceğiniz&amp;nbsp;kesim&lt;/p&gt;&lt;p&gt;yüksekliğine&amp;nbsp;sahip,&amp;nbsp;hassas&amp;nbsp;ve&amp;nbsp;gönyeli&amp;nbsp;kesimler&amp;nbsp;için&amp;nbsp;kullanabileceğiniz&lt;/p&gt;&lt;p&gt;ergonomik&amp;nbsp;masa&amp;nbsp;testeresi.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;545&amp;nbsp;x&amp;nbsp;460&amp;nbsp;x&amp;nbsp;380&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Testere&amp;nbsp;Bıçağı&amp;nbsp;Çapı&amp;nbsp;(Ø)&amp;nbsp;210&amp;nbsp;x&amp;nbsp;30&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Testere&amp;nbsp;Devir&amp;nbsp;Sayısı&amp;nbsp;4800&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Tezgah&amp;nbsp;Büyüklüğü&amp;nbsp;485&amp;nbsp;x&amp;nbsp;445&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Yüksekliği&amp;nbsp;90°&amp;nbsp;-&amp;nbsp;70&amp;nbsp;mm&amp;nbsp;/&amp;nbsp;45°&amp;nbsp;-&amp;nbsp;54&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;1500&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;10.5&amp;nbsp;/&amp;nbsp;12&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5901327901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6517</price1>
@@ -199907,7 +203907,7 @@ GBH 1-52</label>
     <id>79143</id>
     <code>RYN11600</code>
     <label>RAYNO SAPLI TEL FIRÇA 240mm</label>
-    <stock>11339</stock>
+    <stock>11219</stock>
     <details />
     <currency>TRL</currency>
     <price1>25.288704</price1>
@@ -202304,6 +206304,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>79279</id>
+    <code>AH025W1-187200-01</code>
+    <label>187200 AĞIR HİZMET KELEPÇESİ</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>233.44</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999069</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>233.44</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>280.128</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>79280</id>
     <code>OPC 44205</code>
     <label>OSAKA SHUTTOFF TORN 0,48-2,9NM TS40</label>
@@ -203529,6 +207554,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>79374</id>
+    <code>KBD-095035-W</code>
+    <label>KABLO BAĞI DÜBELİ BEYAZ (095035)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.7</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999070</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.7</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.04</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>79376</id>
     <code>BEYBİ-NİTRİLPMKFLEX30</code>
     <label>BEYBİ NİTRİL PMK FLEX 30 BEYAZ SARI NO:10</label>
@@ -203549,6 +207599,31 @@ GBH 1-52</label>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>35.4024</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0c6279fa-f664-4a87-b45a-024627612e7f.png</picture1>
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>79377</id>
+    <code>KBD-095035-B</code>
+    <label>KABLO BAĞI DÜBELİ SİYAH (095035)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>1.7</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999071</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>1.7</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>2.04</vatIncluded>
+    <picture1 />
     <picture2 />
     <picture3 />
     <picture4 />
@@ -204557,7 +208632,7 @@ GBH 1-52</label>
     <id>79443</id>
     <code>MF12020B</code>
     <label>MM 12 * 20 DIN6921 FLANŞLI CIVATA BEYAZ</label>
-    <stock>13700</stock>
+    <stock>11900</stock>
     <details />
     <currency>TRL</currency>
     <price1>5.1084</price1>
@@ -215554,6 +219629,31 @@ GBH 1-52</label>
     <picture4 />
   </item>
   <item>
+    <id>80183</id>
+    <code>HR009W2-100120-601</code>
+    <label>HORTUM KELEPÇESİ 9mm (100120)</label>
+    <stock>0</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>76.42</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999072</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>76.42</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>91.704</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
     <id>80184</id>
     <code>0.603.3A3.000</code>
     <label>PEX 300 AE Eksantrik Zımpara</label>
@@ -220398,6 +224498,31 @@ GBH 1-52</label>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
     <vatIncluded>594</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>80696</id>
+    <code>TRK-1200-90B</code>
+    <label>KABLO BAĞI SİYAH 1200*9.0</label>
+    <stock>500</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>27.66</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999073</barcode>
+    <brand>TORK KELEPÇE</brand>
+    <mainCategory>Hırdavat / Nalburiye</mainCategory>
+    <category>Kablo Bağı ve Kelepçeler</category>
+    <unit>Adet</unit>
+    <coefficient>0</coefficient>
+    <listPrice>27.66</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>33.192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
