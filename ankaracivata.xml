@@ -2429,7 +2429,7 @@
     <id>331</id>
     <code>MM12030933S</code>
     <label>MM 12 * 30 DIN933 AKB CİVATA 8.8 SİYAH</label>
-    <stock>29700</stock>
+    <stock>18400</stock>
     <details>&lt;h3&gt;MM 12 * 30 DIN933 AKB CİVATA 8.8 SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;30&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3.59076</price1>
@@ -3029,7 +3029,7 @@
     <id>466</id>
     <code>DK20200</code>
     <label>20 * 200 KLİPSLİ DÜBEL</label>
-    <stock>70</stock>
+    <stock>770</stock>
     <details>&lt;h3&gt;20 * 200 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;20&amp;nbsp;*&amp;nbsp;200&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>68.2</price1>
@@ -7329,7 +7329,7 @@
     <id>2581</id>
     <code>MVS3932</code>
     <label>3.9 * 32 YSB MATKAP UÇLU VİDA</label>
-    <stock>8920</stock>
+    <stock>3920</stock>
     <details>&lt;h3&gt;3.9 * 32 YSB MATKAP UÇLU VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;3.9&amp;nbsp;*&amp;nbsp;32&amp;nbsp;YSB&amp;nbsp;MATKAP&amp;nbsp;UÇLU&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.439008</price1>
@@ -10904,7 +10904,7 @@
     <id>2899</id>
     <code>FLS08</code>
     <label>MM 8 FLANŞLI SOMUN DIN:6923</label>
-    <stock>849245</stock>
+    <stock>844745</stock>
     <details>&lt;h3&gt;MM 8 FLANŞLI SOMUN DIN:6923&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 214, 220); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;FLANŞLI&amp;nbsp;SOMUN&amp;nbsp;DIN:6923&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.95252</price1>
@@ -11329,7 +11329,7 @@
     <id>2944</id>
     <code>KARBOSAN910550</code>
     <label>K 115*6.4*22.23 METAL TAŞLAMA TAŞI</label>
-    <stock>4800</stock>
+    <stock>4650</stock>
     <details />
     <currency>TRL</currency>
     <price1>39.732</price1>
@@ -11529,7 +11529,7 @@
     <id>3044</id>
     <code>KARBOSAN910910</code>
     <label>K 115*3.0*22.23 METAL KESİCİ DİSK</label>
-    <stock>19955</stock>
+    <stock>19205</stock>
     <details />
     <currency>TRL</currency>
     <price1>23.5224</price1>
@@ -14179,7 +14179,7 @@
     <id>4140</id>
     <code>GS24B</code>
     <label>MM 24 DIN975 GİJON BEYAZ</label>
-    <stock>1591</stock>
+    <stock>2091</stock>
     <details>&lt;h3&gt;MM 24 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;24&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>207.9</price1>
@@ -15004,7 +15004,7 @@
     <id>4255</id>
     <code>GS27B</code>
     <label>MM 27 DIN975 GİJON BEYAZ</label>
-    <stock>685</stock>
+    <stock>1085</stock>
     <details>&lt;h3&gt;MM 27 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;27&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>267.3</price1>
@@ -17082,7 +17082,7 @@
     <stock>28000</stock>
     <details>&lt;h3&gt;3,5*19 SEYREK  DİŞLİ ALÇIPAN VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;3,5*19&amp;nbsp;SEYREK&amp;nbsp;ALÇIPAN&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>0.5415</price1>
+    <price1>0.25992</price1>
     <tax>20</tax>
     <barcode>uyl260920269998908</barcode>
     <brand>YERLİ BAĞLANTI ELEMANLARI</brand>
@@ -17091,10 +17091,10 @@
     <unit>Adet</unit>
     <coefficient>1750</coefficient>
     <listPrice>0.5415</listPrice>
-    <discount>0</discount>
+    <discount>52</discount>
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>0.6498</vatIncluded>
+    <vatIncluded>0.311904</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -18629,7 +18629,7 @@
     <id>5751</id>
     <code>MVP4225</code>
     <label>4.2*25 YPM YILDIZ PUL BAŞLI VİDA</label>
-    <stock>450000</stock>
+    <stock>447750</stock>
     <details>&lt;h3&gt;4.2*25 YPM YILDIZ PUL BAŞLI VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;4.2*25&amp;nbsp;YPM&amp;nbsp;YILDIZ&amp;nbsp;PUL&amp;nbsp;BAŞLI&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.522144</price1>
@@ -20129,7 +20129,7 @@
     <id>6759</id>
     <code>DK20150</code>
     <label>20 * 150 KLİPSLİ DÜBEL</label>
-    <stock>3658</stock>
+    <stock>4958</stock>
     <details>&lt;h3&gt;20 * 150 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;20&amp;nbsp;*&amp;nbsp;150&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>58.3</price1>
@@ -27707,7 +27707,7 @@
     <stock>0</stock>
     <details>&lt;h3&gt;MM 12 * 110  DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;110&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>7.855584</price1>
+    <price1>11.105782</price1>
     <tax>20</tax>
     <barcode>uyl260920269991030</barcode>
     <brand>YERLİ BAĞLANTI ELEMANLARI</brand>
@@ -27715,11 +27715,11 @@
     <category>Cıvata</category>
     <unit>Adet</unit>
     <coefficient>50</coefficient>
-    <listPrice>18.2688</listPrice>
+    <listPrice>25.8274</listPrice>
     <discount>57</discount>
     <cashDiscount>12</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
-    <vatIncluded>9.426701</vatIncluded>
+    <vatIncluded>13.326938</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -38504,7 +38504,7 @@
     <id>10794</id>
     <code>B00005000300</code>
     <label>HSSE  DIN 338 RN ALTIN SERİ MTK  3    MM</label>
-    <stock>170</stock>
+    <stock>120</stock>
     <details />
     <currency>TRL</currency>
     <price1>70.124</price1>
@@ -38554,7 +38554,7 @@
     <id>10796</id>
     <code>B00005000350</code>
     <label>HSSE  DIN 338 RN ALTIN SERİ MTK  3.5    MM</label>
-    <stock>2290</stock>
+    <stock>2250</stock>
     <details />
     <currency>TRL</currency>
     <price1>81.448</price1>
@@ -42654,7 +42654,7 @@
     <id>11143</id>
     <code>B00005000500</code>
     <label>HSSE DIN 338 RN ALTIN SERİ MTK 5.0 MM</label>
-    <stock>1810</stock>
+    <stock>1770</stock>
     <details />
     <currency>TRL</currency>
     <price1>125.456</price1>
@@ -43279,7 +43279,7 @@
     <id>11169</id>
     <code>B00313121650</code>
     <label>HSS DIN 335/C    HAVŞA FREZE 16.5 MM-90º</label>
-    <stock>171</stock>
+    <stock>166</stock>
     <details />
     <currency>TRL</currency>
     <price1>888.796</price1>
@@ -43704,7 +43704,7 @@
     <id>11204</id>
     <code>B00005000400</code>
     <label>HSSE  DIN 338 RN ALTIN SERİ MTK  4.0  MM</label>
-    <stock>1650</stock>
+    <stock>1590</stock>
     <details />
     <currency>TRL</currency>
     <price1>98.4</price1>
@@ -63854,7 +63854,7 @@
     <id>12806</id>
     <code>13000000193</code>
     <label>21'Lİ KOMBİNE ANAHTAR TAKIMI KISA BOY</label>
-    <stock>2</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>4816.78</price1>
@@ -66180,7 +66180,7 @@ GBH 1-52</label>
     <id>12982</id>
     <code>B00313121240</code>
     <label>HSS DIN 335/C    HAVŞA FREZE 12.4 MM-90º</label>
-    <stock>324</stock>
+    <stock>319</stock>
     <details />
     <currency>TRL</currency>
     <price1>714.72</price1>
@@ -70982,7 +70982,7 @@ GBH 1-52</label>
     <id>13224</id>
     <code>13000001874</code>
     <label>600 MM OLUKLU LEVYE KROM</label>
-    <stock>20</stock>
+    <stock>15</stock>
     <details />
     <currency>TRL</currency>
     <price1>681.38</price1>
@@ -193882,7 +193882,7 @@ GBH 1-52</label>
     <id>78635</id>
     <code>SOA-27A1156.4</code>
     <label>OASİS 115x6.4x22.23 METAL TAŞLAMA DİSKİ</label>
-    <stock>1535</stock>
+    <stock>1235</stock>
     <details />
     <currency>TRL</currency>
     <price1>22.08</price1>
