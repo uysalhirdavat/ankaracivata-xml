@@ -3029,7 +3029,7 @@
     <id>466</id>
     <code>DK20200</code>
     <label>20 * 200 KLİPSLİ DÜBEL</label>
-    <stock>770</stock>
+    <stock>220</stock>
     <details>&lt;h3&gt;20 * 200 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;20&amp;nbsp;*&amp;nbsp;200&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>68.2</price1>
@@ -5204,7 +5204,7 @@
     <id>1713</id>
     <code>MMS45S</code>
     <label>M 45 DIN934 SOMUN SİYAH</label>
-    <stock>535</stock>
+    <stock>131</stock>
     <details>&lt;h3&gt;M 45 DIN934 SOMUN SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;45&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>85.32</price1>
@@ -10954,7 +10954,7 @@
     <id>2902</id>
     <code>KARBOSAN910580</code>
     <label>K 180*8.0*22.23 METAL TAŞLAMA TAŞI</label>
-    <stock>11882</stock>
+    <stock>11862</stock>
     <details />
     <currency>TRL</currency>
     <price1>97.284</price1>
@@ -11004,7 +11004,7 @@
     <id>2909</id>
     <code>DK12110</code>
     <label>12 * 110 KLİPSLİ DÜBEL</label>
-    <stock>51108</stock>
+    <stock>50508</stock>
     <details>&lt;h3&gt;12 * 110 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;12&amp;nbsp;*&amp;nbsp;110&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9.79</price1>
@@ -11329,7 +11329,7 @@
     <id>2944</id>
     <code>KARBOSAN910550</code>
     <label>K 115*6.4*22.23 METAL TAŞLAMA TAŞI</label>
-    <stock>4650</stock>
+    <stock>4550</stock>
     <details />
     <currency>TRL</currency>
     <price1>39.732</price1>
@@ -11404,7 +11404,7 @@
     <id>2977</id>
     <code>DG10085</code>
     <label>MM 10 * 85 GÖMLEKLİ ÇEKME DÜBEL</label>
-    <stock>102901</stock>
+    <stock>102551</stock>
     <details>&lt;h3&gt;MM 10 * 85 GÖMLEKLİ ÇEKME DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;85&amp;nbsp;GÖMLEKLİ&amp;nbsp;ÇEKME&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>5.995</price1>
@@ -12379,10 +12379,10 @@
     <id>3150</id>
     <code>TRK-250-36W</code>
     <label>KABLO BAĞI BEYAZ 250*3,6</label>
-    <stock>400</stock>
+    <stock>32400</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.35</price1>
+    <price1>0.567</price1>
     <tax>20</tax>
     <barcode>uyl260920269998909</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12391,10 +12391,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.35</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.62</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.6804</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12407,7 +12407,7 @@
     <stock>26800</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.57</price1>
+    <price1>0.6594</price1>
     <tax>20</tax>
     <barcode>uyl260920269998910</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12416,10 +12416,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.57</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.884</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.79128</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12432,7 +12432,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>91.99</price1>
+    <price1>36.796</price1>
     <tax>20</tax>
     <barcode>uyl260920269998911</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12441,10 +12441,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>91.99</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>110.388</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>44.1552</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12457,7 +12457,7 @@
     <stock>55300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.72</price1>
+    <price1>0.3024</price1>
     <tax>20</tax>
     <barcode>uyl260920269998912</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12466,10 +12466,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.72</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.864</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.36288</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12482,7 +12482,7 @@
     <stock>1900</stock>
     <details />
     <currency>TRL</currency>
-    <price1>18.77</price1>
+    <price1>7.8834</price1>
     <tax>20</tax>
     <barcode>uyl260920269998913</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12491,10 +12491,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>18.77</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>22.524</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>9.46008</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12504,10 +12504,10 @@
     <id>3158</id>
     <code>TRK-550-76B</code>
     <label>KABLO BAĞI SİYAH 550*7,5</label>
-    <stock>14178</stock>
+    <stock>17178</stock>
     <details />
     <currency>TRL</currency>
-    <price1>8.5</price1>
+    <price1>3.57</price1>
     <tax>20</tax>
     <barcode>uyl260920269998914</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12516,10 +12516,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>8.5</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>10.2</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>4.284</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12529,10 +12529,10 @@
     <id>3159</id>
     <code>TRK-430-48W</code>
     <label>KABLO BAĞI BEYAZ 430*4,5</label>
-    <stock>0</stock>
+    <stock>42000</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3.43</price1>
+    <price1>1.4406</price1>
     <tax>20</tax>
     <barcode>uyl260920269998915</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12541,10 +12541,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>3.43</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>4.116</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.72872</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12557,7 +12557,7 @@
     <stock>12400</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.28</price1>
+    <price1>0.9576</price1>
     <tax>20</tax>
     <barcode>uyl260920269998916</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12566,10 +12566,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.28</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.736</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.14912</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12582,7 +12582,7 @@
     <stock>400</stock>
     <details />
     <currency>TRL</currency>
-    <price1>4.78</price1>
+    <price1>2.0076</price1>
     <tax>20</tax>
     <barcode>uyl260920269998917</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12591,10 +12591,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>4.78</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>5.736</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>2.40912</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12607,7 +12607,7 @@
     <stock>5350</stock>
     <details />
     <currency>TRL</currency>
-    <price1>27.77</price1>
+    <price1>11.108</price1>
     <tax>20</tax>
     <barcode>uyl260920269998918</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12616,10 +12616,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>27.77</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>33.324</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>13.3296</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12632,7 +12632,7 @@
     <stock>600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>11.51</price1>
+    <price1>4.8342</price1>
     <tax>20</tax>
     <barcode>uyl260920269998919</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12641,10 +12641,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>11.51</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>13.812</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>5.80104</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12679,10 +12679,10 @@
     <id>3258</id>
     <code>TRK-370-36W</code>
     <label>KABLO BAĞI BEYAZ 370*3,6</label>
-    <stock>200</stock>
+    <stock>1100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.09</price1>
+    <price1>0.8778</price1>
     <tax>20</tax>
     <barcode>uyl260920269998920</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12691,10 +12691,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.09</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.508</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.05336</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12707,7 +12707,7 @@
     <stock>9300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.57</price1>
+    <price1>0.6594</price1>
     <tax>20</tax>
     <barcode>uyl260920269998921</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12716,10 +12716,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.57</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.884</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.79128</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12732,7 +12732,7 @@
     <stock>1600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>15.82</price1>
+    <price1>6.6444</price1>
     <tax>20</tax>
     <barcode>uyl260920269998922</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12741,10 +12741,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>15.82</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>18.984</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>7.97328</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12757,7 +12757,7 @@
     <stock>4700</stock>
     <details />
     <currency>TRL</currency>
-    <price1>12.52</price1>
+    <price1>5.2584</price1>
     <tax>20</tax>
     <barcode>uyl260920269998923</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12766,10 +12766,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>12.52</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>15.024</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>6.31008</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12782,7 +12782,7 @@
     <stock>200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.86</price1>
+    <price1>1.2012</price1>
     <tax>20</tax>
     <barcode>uyl260920269998924</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12791,10 +12791,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.86</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3.432</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.44144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12807,7 +12807,7 @@
     <stock>110</stock>
     <details />
     <currency>TRL</currency>
-    <price1>70</price1>
+    <price1>28</price1>
     <tax>20</tax>
     <barcode>uyl260920269998925</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12816,10 +12816,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>70</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>84</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>33.6</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12832,7 +12832,7 @@
     <stock>2450</stock>
     <details />
     <currency>TRL</currency>
-    <price1>78.95</price1>
+    <price1>31.58</price1>
     <tax>20</tax>
     <barcode>uyl260920269998926</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12841,10 +12841,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>78.95</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>94.74</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>37.896</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12857,7 +12857,7 @@
     <stock>300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>81.39</price1>
+    <price1>32.556</price1>
     <tax>20</tax>
     <barcode>uyl260920269998927</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12866,10 +12866,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>81.39</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>97.668</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>39.0672</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12882,7 +12882,7 @@
     <stock>4092</stock>
     <details />
     <currency>TRL</currency>
-    <price1>26.57</price1>
+    <price1>10.628</price1>
     <tax>20</tax>
     <barcode>uyl260920269998928</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12891,10 +12891,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>26.57</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>31.884</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>12.7536</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12932,7 +12932,7 @@
     <stock>900</stock>
     <details />
     <currency>TRL</currency>
-    <price1>45.98</price1>
+    <price1>18.392</price1>
     <tax>20</tax>
     <barcode>uyl260920269998929</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12941,10 +12941,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>45.98</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>55.176</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>22.0704</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -12957,7 +12957,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>157.65</price1>
+    <price1>63.06</price1>
     <tax>20</tax>
     <barcode>uyl260920269998930</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -12966,10 +12966,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>157.65</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>189.18</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>75.672</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13457,7 +13457,7 @@
     <stock>3500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.86</price1>
+    <price1>1.2012</price1>
     <tax>20</tax>
     <barcode>uyl260920269998931</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -13466,10 +13466,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.86</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3.432</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.44144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13482,7 +13482,7 @@
     <stock>5200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>5.64</price1>
+    <price1>2.3688</price1>
     <tax>20</tax>
     <barcode>uyl260920269998932</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -13491,10 +13491,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>5.64</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>6.768</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>2.84256</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13507,7 +13507,7 @@
     <stock>451600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.33</price1>
+    <price1>0.1386</price1>
     <tax>20</tax>
     <barcode>uyl260920269998933</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -13516,10 +13516,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.33</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.396</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.16632</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13532,7 +13532,7 @@
     <stock>5800</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.09</price1>
+    <price1>0.8778</price1>
     <tax>20</tax>
     <barcode>uyl260920269998934</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -13541,10 +13541,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.09</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.508</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.05336</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13554,10 +13554,10 @@
     <id>3948</id>
     <code>TRK-450-76B</code>
     <label>KABLO BAĞI SİYAH 450*7,5</label>
-    <stock>16700</stock>
+    <stock>14700</stock>
     <details />
     <currency>TRL</currency>
-    <price1>6.55</price1>
+    <price1>2.751</price1>
     <tax>20</tax>
     <barcode>uyl260920269998935</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -13566,10 +13566,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>6.55</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>7.86</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>3.3012</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13582,7 +13582,7 @@
     <stock>10000</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.72</price1>
+    <price1>0.3024</price1>
     <tax>20</tax>
     <barcode>uyl260920269998936</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -13591,10 +13591,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.72</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.864</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.36288</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -13779,7 +13779,7 @@
     <id>4003</id>
     <code>GS08B</code>
     <label>MM 8 DIN975 GİJON BEYAZ</label>
-    <stock>200</stock>
+    <stock>5200</stock>
     <details>&lt;h3&gt;MM 8 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 226); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>19.062</price1>
@@ -13857,7 +13857,7 @@
     <stock>15500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.95</price1>
+    <price1>0.819</price1>
     <tax>20</tax>
     <barcode>uyl260920269998937</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -13866,10 +13866,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.95</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.34</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.9828</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -14029,10 +14029,10 @@
     <id>4070</id>
     <code>TRK-250-48W</code>
     <label>KABLO BAĞI BEYAZ 250*4,5</label>
-    <stock>17100</stock>
+    <stock>35100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.95</price1>
+    <price1>0.819</price1>
     <tax>20</tax>
     <barcode>uyl260920269998938</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -14041,10 +14041,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.95</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.34</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.9828</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -14057,7 +14057,7 @@
     <stock>12000</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3.43</price1>
+    <price1>1.4406</price1>
     <tax>20</tax>
     <barcode>uyl260920269998939</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -14066,10 +14066,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>3.43</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>4.116</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.72872</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -14082,7 +14082,7 @@
     <stock>3400</stock>
     <details />
     <currency>TRL</currency>
-    <price1>4.78</price1>
+    <price1>2.0076</price1>
     <tax>20</tax>
     <barcode>uyl260920269998940</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -14091,10 +14091,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>4.78</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>5.736</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>2.40912</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -14107,7 +14107,7 @@
     <stock>13300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>6.55</price1>
+    <price1>2.751</price1>
     <tax>20</tax>
     <barcode>uyl260920269998941</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -14116,10 +14116,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>6.55</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>7.86</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>3.3012</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -14132,7 +14132,7 @@
     <stock>22700</stock>
     <details />
     <currency>TRL</currency>
-    <price1>8.5</price1>
+    <price1>3.57</price1>
     <tax>20</tax>
     <barcode>uyl260920269998942</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -14141,10 +14141,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>8.5</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>10.2</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>4.284</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -14307,7 +14307,7 @@
     <stock>11950</stock>
     <details />
     <currency>TRL</currency>
-    <price1>16.29</price1>
+    <price1>6.516</price1>
     <tax>20</tax>
     <barcode>uyl260920269998943</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -14316,10 +14316,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>16.29</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>19.548</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>7.8192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -14579,7 +14579,7 @@
     <id>4227</id>
     <code>FSM08</code>
     <label>MM 8 FİBERLİ SOMUN DIN:985</label>
-    <stock>428103</stock>
+    <stock>438503</stock>
     <details>&lt;h3&gt;MM 8 FİBERLİ SOMUN DIN:985&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;FİBERLİ&amp;nbsp;SOMUN&amp;nbsp;DIN:985&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.74996</price1>
@@ -15004,7 +15004,7 @@
     <id>4255</id>
     <code>GS27B</code>
     <label>MM 27 DIN975 GİJON BEYAZ</label>
-    <stock>1085</stock>
+    <stock>1069</stock>
     <details>&lt;h3&gt;MM 27 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;27&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>267.3</price1>
@@ -15782,7 +15782,7 @@
     <stock>6933</stock>
     <details />
     <currency>TRL</currency>
-    <price1>33.71</price1>
+    <price1>13.484</price1>
     <tax>20</tax>
     <barcode>uyl260920269998944</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -15791,10 +15791,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>33.71</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>40.452</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>16.1808</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -15807,7 +15807,7 @@
     <stock>744</stock>
     <details />
     <currency>TRL</currency>
-    <price1>36.38</price1>
+    <price1>14.552</price1>
     <tax>20</tax>
     <barcode>uyl260920269998945</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -15816,10 +15816,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>36.38</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>43.656</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>17.4624</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -15907,7 +15907,7 @@
     <stock>150</stock>
     <details />
     <currency>TRL</currency>
-    <price1>54.31</price1>
+    <price1>21.724</price1>
     <tax>20</tax>
     <barcode>uyl260920269998946</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -15916,10 +15916,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>54.31</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>65.172</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>26.0688</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -15932,7 +15932,7 @@
     <stock>4889</stock>
     <details />
     <currency>TRL</currency>
-    <price1>49.11</price1>
+    <price1>19.644</price1>
     <tax>20</tax>
     <barcode>uyl260920269998947</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -15941,10 +15941,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>49.11</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>58.932</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>23.5728</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -15957,7 +15957,7 @@
     <stock>950</stock>
     <details />
     <currency>TRL</currency>
-    <price1>47.64</price1>
+    <price1>19.056</price1>
     <tax>20</tax>
     <barcode>uyl260920269998948</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -15966,10 +15966,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>47.64</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>57.168</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>22.8672</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -15982,7 +15982,7 @@
     <stock>1800</stock>
     <details />
     <currency>TRL</currency>
-    <price1>39.88</price1>
+    <price1>15.952</price1>
     <tax>20</tax>
     <barcode>uyl260920269998949</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -15991,10 +15991,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>39.88</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>47.856</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>19.1424</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16007,7 +16007,7 @@
     <stock>1499</stock>
     <details />
     <currency>TRL</currency>
-    <price1>41.9</price1>
+    <price1>16.76</price1>
     <tax>20</tax>
     <barcode>uyl260920269998950</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16016,10 +16016,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>41.9</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>50.28</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>20.112</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16029,10 +16029,10 @@
     <id>4515</id>
     <code>HR014W1-044064-101</code>
     <label>HORTUM KELEPÇESİ 14mm (044064)</label>
-    <stock>4350</stock>
+    <stock>4600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>43.61</price1>
+    <price1>17.444</price1>
     <tax>20</tax>
     <barcode>uyl260920269998951</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16041,10 +16041,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>43.61</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>52.332</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>20.9328</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16057,7 +16057,7 @@
     <stock>4200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>38.12</price1>
+    <price1>15.248</price1>
     <tax>20</tax>
     <barcode>uyl260920269998952</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16066,10 +16066,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>38.12</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>45.744</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>18.2976</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16082,7 +16082,7 @@
     <stock>1850</stock>
     <details />
     <currency>TRL</currency>
-    <price1>32.91</price1>
+    <price1>13.164</price1>
     <tax>20</tax>
     <barcode>uyl260920269998953</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16091,10 +16091,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>32.91</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>39.492</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>15.7968</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16107,7 +16107,7 @@
     <stock>502</stock>
     <details />
     <currency>TRL</currency>
-    <price1>51.77</price1>
+    <price1>20.708</price1>
     <tax>20</tax>
     <barcode>uyl260920269998954</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16116,10 +16116,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>51.77</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>62.124</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>24.8496</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16482,7 +16482,7 @@
     <stock>19350</stock>
     <details />
     <currency>TRL</currency>
-    <price1>13.5</price1>
+    <price1>5.4</price1>
     <tax>20</tax>
     <barcode>uyl260920269998955</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16491,10 +16491,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>13.5</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>16.2</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>6.48</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16507,7 +16507,7 @@
     <stock>12096</stock>
     <details />
     <currency>TRL</currency>
-    <price1>13.26</price1>
+    <price1>5.304</price1>
     <tax>20</tax>
     <barcode>uyl260920269998956</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16516,10 +16516,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>13.26</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>15.912</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>6.3648</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16632,7 +16632,7 @@
     <stock>10500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.28</price1>
+    <price1>0.9576</price1>
     <tax>20</tax>
     <barcode>uyl260920269998957</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16641,10 +16641,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.28</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.736</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.14912</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -16657,7 +16657,7 @@
     <stock>29192</stock>
     <details />
     <currency>TRL</currency>
-    <price1>14.56</price1>
+    <price1>5.824</price1>
     <tax>20</tax>
     <barcode>uyl260920269998958</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -16666,10 +16666,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>14.56</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>17.472</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>6.9888</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -17529,10 +17529,10 @@
     <id>5159</id>
     <code>HR014W1-085103-101</code>
     <label>HORTUM KELEPÇESİ 14mm (085103)</label>
-    <stock>81</stock>
+    <stock>206</stock>
     <details />
     <currency>TRL</currency>
-    <price1>59.06</price1>
+    <price1>23.624</price1>
     <tax>20</tax>
     <barcode>uyl260920269998959</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -17541,10 +17541,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>59.06</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>70.872</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>28.3488</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -17632,7 +17632,7 @@
     <stock>667</stock>
     <details />
     <currency>TRL</currency>
-    <price1>61.81</price1>
+    <price1>24.724</price1>
     <tax>20</tax>
     <barcode>uyl260920269998960</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -17641,10 +17641,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>61.81</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>74.172</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>29.6688</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -17657,7 +17657,7 @@
     <stock>1800</stock>
     <details />
     <currency>TRL</currency>
-    <price1>33.96</price1>
+    <price1>13.584</price1>
     <tax>20</tax>
     <barcode>uyl260920269998961</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -17666,10 +17666,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>33.96</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>40.752</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>16.3008</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -19004,7 +19004,7 @@
     <id>6070</id>
     <code>KARBOSAN910920</code>
     <label>K 125*3,0* 22 NK METAL KESİCİ DİSK</label>
-    <stock>750</stock>
+    <stock>700</stock>
     <details />
     <currency>TRL</currency>
     <price1>27.621</price1>
@@ -21407,7 +21407,7 @@
     <stock>10500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.67</price1>
+    <price1>0.7014</price1>
     <tax>20</tax>
     <barcode>uyl260920269998962</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21416,10 +21416,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.67</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.004</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.84168</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21432,7 +21432,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>151.63</price1>
+    <price1>60.652</price1>
     <tax>20</tax>
     <barcode>uyl260920269998963</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21441,10 +21441,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>151.63</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>181.956</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>72.7824</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21457,7 +21457,7 @@
     <stock>100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>107.43</price1>
+    <price1>42.972</price1>
     <tax>20</tax>
     <barcode>uyl260920269998964</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21466,10 +21466,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>107.43</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>128.916</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>51.5664</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21482,7 +21482,7 @@
     <stock>300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>111.13</price1>
+    <price1>44.452</price1>
     <tax>20</tax>
     <barcode>uyl260920269998965</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21491,10 +21491,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>111.13</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>133.356</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>53.3424</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21507,7 +21507,7 @@
     <stock>300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>118.54</price1>
+    <price1>47.416</price1>
     <tax>20</tax>
     <barcode>uyl260920269998966</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21516,10 +21516,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>118.54</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>142.248</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>56.8992</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21532,7 +21532,7 @@
     <stock>330</stock>
     <details />
     <currency>TRL</currency>
-    <price1>120.35</price1>
+    <price1>48.14</price1>
     <tax>20</tax>
     <barcode>uyl260920269998967</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21541,10 +21541,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>120.35</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>144.42</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>57.768</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21557,7 +21557,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>125.94</price1>
+    <price1>50.376</price1>
     <tax>20</tax>
     <barcode>uyl260920269998968</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21566,10 +21566,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>125.94</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>151.128</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>60.4512</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21582,7 +21582,7 @@
     <stock>300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>145.85</price1>
+    <price1>58.34</price1>
     <tax>20</tax>
     <barcode>uyl260920269998969</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21591,10 +21591,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>145.85</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>175.02</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>70.008</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21607,7 +21607,7 @@
     <stock>35</stock>
     <details />
     <currency>TRL</currency>
-    <price1>158.33</price1>
+    <price1>63.332</price1>
     <tax>20</tax>
     <barcode>uyl260920269998970</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21616,10 +21616,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>158.33</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>189.996</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>75.9984</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21632,7 +21632,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>158.33</price1>
+    <price1>63.332</price1>
     <tax>20</tax>
     <barcode>uyl260920269998971</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21641,10 +21641,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>158.33</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>189.996</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>75.9984</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21657,7 +21657,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>162.52</price1>
+    <price1>65.008</price1>
     <tax>20</tax>
     <barcode>uyl260920269998972</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21666,10 +21666,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>162.52</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>195.024</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>78.0096</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21682,7 +21682,7 @@
     <stock>400</stock>
     <details />
     <currency>TRL</currency>
-    <price1>51.87</price1>
+    <price1>20.748</price1>
     <tax>20</tax>
     <barcode>uyl260920269998973</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21691,10 +21691,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>51.87</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>62.244</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>24.8976</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21707,7 +21707,7 @@
     <stock>25</stock>
     <details />
     <currency>TRL</currency>
-    <price1>322.16</price1>
+    <price1>128.864</price1>
     <tax>20</tax>
     <barcode>uyl260920269998974</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21716,10 +21716,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>322.16</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>386.592</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>154.6368</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21732,7 +21732,7 @@
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>348.53</price1>
+    <price1>139.412</price1>
     <tax>20</tax>
     <barcode>uyl260920269998975</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21741,10 +21741,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>348.53</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>418.236</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>167.2944</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21757,7 +21757,7 @@
     <stock>9500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>34.3</price1>
+    <price1>13.72</price1>
     <tax>20</tax>
     <barcode>uyl260920269998976</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21766,10 +21766,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>34.3</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>41.16</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>16.464</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21782,7 +21782,7 @@
     <stock>46</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1590.13</price1>
+    <price1>636.052</price1>
     <tax>20</tax>
     <barcode>uyl260920269998977</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21791,10 +21791,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1590.13</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1908.156</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>763.2624</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21804,10 +21804,10 @@
     <id>7479</id>
     <code>TRK-200-36W</code>
     <label>KABLO BAĞI BEYAZ 200*3,6</label>
-    <stock>200</stock>
+    <stock>10200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.17</price1>
+    <price1>0.4914</price1>
     <tax>20</tax>
     <barcode>uyl260920269998978</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21816,10 +21816,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.17</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.404</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.58968</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21979,10 +21979,10 @@
     <id>7546</id>
     <code>TRK-250-36B</code>
     <label>KABLO BAĞI SİYAH 250*3,6</label>
-    <stock>0</stock>
+    <stock>8000</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.35</price1>
+    <price1>0.567</price1>
     <tax>20</tax>
     <barcode>uyl260920269998979</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -21991,10 +21991,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.35</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.62</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.6804</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22004,10 +22004,10 @@
     <id>7547</id>
     <code>TRK-750-76B</code>
     <label>KABLO BAĞI SİYAH 750*7,6</label>
-    <stock>400</stock>
+    <stock>1600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>11.51</price1>
+    <price1>4.8342</price1>
     <tax>20</tax>
     <barcode>uyl260920269998980</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -22016,10 +22016,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>11.51</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>13.812</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>5.80104</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22032,7 +22032,7 @@
     <stock>2700</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.48</price1>
+    <price1>0.2016</price1>
     <tax>20</tax>
     <barcode>uyl260920269998981</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -22041,10 +22041,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.48</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.576</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.24192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22057,7 +22057,7 @@
     <stock>11676</stock>
     <details />
     <currency>TRL</currency>
-    <price1>14.7</price1>
+    <price1>5.88</price1>
     <tax>20</tax>
     <barcode>uyl260920269998982</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -22066,10 +22066,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>14.7</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>17.64</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>7.056</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22082,7 +22082,7 @@
     <stock>28600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.48</price1>
+    <price1>0.2016</price1>
     <tax>20</tax>
     <barcode>uyl260920269998983</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -22091,10 +22091,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.48</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.576</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.24192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22182,7 +22182,7 @@
     <stock>200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>103.71</price1>
+    <price1>41.484</price1>
     <tax>20</tax>
     <barcode>uyl260920269998984</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -22191,10 +22191,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>103.71</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>124.452</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>49.7808</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22207,7 +22207,7 @@
     <stock>200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>114.83</price1>
+    <price1>45.932</price1>
     <tax>20</tax>
     <barcode>uyl260920269998985</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -22216,10 +22216,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>114.83</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>137.796</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>55.1184</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22232,7 +22232,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>118.54</price1>
+    <price1>47.416</price1>
     <tax>20</tax>
     <barcode>uyl260920269998986</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -22241,10 +22241,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>118.54</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>142.248</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>56.8992</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -22429,7 +22429,7 @@
     <id>7723</id>
     <code>MMS10B</code>
     <label>M 10 DIN934 SOMUN BEYAZ</label>
-    <stock>371000</stock>
+    <stock>365600</stock>
     <details>&lt;h3&gt;M 10 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;10&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.10604</price1>
@@ -22454,7 +22454,7 @@
     <id>7724</id>
     <code>MMS12B</code>
     <label>M 12 DIN934 SOMUN BEYAZ</label>
-    <stock>239773</stock>
+    <stock>219773</stock>
     <details>&lt;h3&gt;M 12 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;12&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.62232</price1>
@@ -23054,7 +23054,7 @@
     <id>7753</id>
     <code>PM08AB</code>
     <label>MM 8 DÜZ DEMİR PUL DIN125 BEYAZ</label>
-    <stock>1060416</stock>
+    <stock>958416</stock>
     <details>&lt;h3&gt;MM 8 DÜZ DEMİR PUL DIN125 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;DÜZ&amp;nbsp;DEMİR&amp;nbsp;PUL&amp;nbsp;DIN125&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.1836</price1>
@@ -23954,7 +23954,7 @@
     <id>7833</id>
     <code>MF08030B</code>
     <label>MM 8 * 30 DIN6921 FLANŞLI CİVATA BEYAZ</label>
-    <stock>2839</stock>
+    <stock>1639</stock>
     <details>&lt;h3&gt;MM 8 * 30 DIN6921 FLANŞLI CİVATA BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;30&amp;nbsp;DIN6921&amp;nbsp;FLANŞLI&amp;nbsp;CİVATA&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.320452</price1>
@@ -24429,7 +24429,7 @@
     <id>7857</id>
     <code>MM10080933B</code>
     <label>MM 10 * 80 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>9151</stock>
+    <stock>8151</stock>
     <details>&lt;h3&gt;MM 10 * 80 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;80&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6.104108</price1>
@@ -24704,7 +24704,7 @@
     <id>7873</id>
     <code>MM10090933B</code>
     <label>MM 10 * 90 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>10591</stock>
+    <stock>5391</stock>
     <details>&lt;h3&gt;MM 10 * 90 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;90&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6.723781</price1>
@@ -27879,10 +27879,10 @@
     <id>8130</id>
     <code>TRK-200-36B</code>
     <label>KABLO BAĞI SİYAH 200*3,6</label>
-    <stock>12500</stock>
+    <stock>10500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.17</price1>
+    <price1>0.4914</price1>
     <tax>20</tax>
     <barcode>uyl260920269998987</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -27891,10 +27891,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.17</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.404</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.58968</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33682,7 +33682,7 @@
     <stock>800</stock>
     <details />
     <currency>TRL</currency>
-    <price1>28.54</price1>
+    <price1>11.416</price1>
     <tax>20</tax>
     <barcode>uyl260920269998988</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33691,10 +33691,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>28.54</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>34.248</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>13.6992</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33707,7 +33707,7 @@
     <stock>2600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>32.34</price1>
+    <price1>12.936</price1>
     <tax>20</tax>
     <barcode>uyl260920269998989</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33716,10 +33716,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>32.34</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>38.808</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>15.5232</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33732,7 +33732,7 @@
     <stock>350</stock>
     <details />
     <currency>TRL</currency>
-    <price1>41.38</price1>
+    <price1>16.552</price1>
     <tax>20</tax>
     <barcode>uyl260920269998990</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33741,10 +33741,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>41.38</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>49.656</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>19.8624</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33782,7 +33782,7 @@
     <stock>14739</stock>
     <details />
     <currency>TRL</currency>
-    <price1>27.22</price1>
+    <price1>10.888</price1>
     <tax>20</tax>
     <barcode>uyl260920269998991</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33791,10 +33791,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>27.22</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>32.664</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>13.0656</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33832,7 +33832,7 @@
     <stock>100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>124.07</price1>
+    <price1>49.628</price1>
     <tax>20</tax>
     <barcode>uyl260920269998992</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33841,10 +33841,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>124.07</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>148.884</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>59.5536</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33857,7 +33857,7 @@
     <stock>400</stock>
     <details />
     <currency>TRL</currency>
-    <price1>33.69</price1>
+    <price1>13.476</price1>
     <tax>20</tax>
     <barcode>uyl260920269998993</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33866,10 +33866,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>33.69</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>40.428</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>16.1712</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33932,7 +33932,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>181.88</price1>
+    <price1>72.752</price1>
     <tax>20</tax>
     <barcode>uyl260920269998994</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33941,10 +33941,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>181.88</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>218.256</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>87.3024</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -33957,7 +33957,7 @@
     <stock>100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>255.89</price1>
+    <price1>102.356</price1>
     <tax>20</tax>
     <barcode>uyl260920269998995</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -33966,10 +33966,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>255.89</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>307.068</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>122.8272</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34007,7 +34007,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.67</price1>
+    <price1>0.7014</price1>
     <tax>20</tax>
     <barcode>uyl260920269998996</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -34016,10 +34016,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.67</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.004</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.84168</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34529,7 +34529,7 @@
     <id>9956</id>
     <code>BEYBİ-PN709</code>
     <label>BEYBİ PN7  BEYAZ SARI 12Lİ NİTRİL ELDİVEN NO:9</label>
-    <stock>0</stock>
+    <stock>2880</stock>
     <details>&lt;h3&gt;BEYBİ PN7  BEYAZ SARI 12Lİ NİTRİL ELDİVEN NO:9&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"&gt;PN7&amp;nbsp;eldivenler&amp;nbsp;ince&amp;nbsp;ve&amp;nbsp;hafif&amp;nbsp;olması&amp;nbsp;sayesinde&amp;nbsp;üstün&amp;nbsp;el&amp;nbsp;becerisi&amp;nbsp;ve&amp;nbsp;konfor&amp;nbsp;sağlar.&amp;nbsp;Polyester&amp;nbsp;örgü&amp;nbsp;yapısı&amp;nbsp;elinizin&amp;nbsp;hava&amp;nbsp;almasını&amp;nbsp;sağlar,&amp;nbsp;terletme&amp;nbsp;yapmaz.&amp;nbsp;Esnek&amp;nbsp;konç&amp;nbsp;yapısı&amp;nbsp;bileğinize&amp;nbsp;tam&amp;nbsp;uyum&amp;nbsp;sağlar.&amp;nbsp;Aşınmaya&amp;nbsp;karşı&amp;nbsp;dayanıklıdır.&amp;nbsp;Gıda&amp;nbsp;ile&amp;nbsp;temasa&amp;nbsp;uygundur&amp;nbsp;ve&amp;nbsp;REACH&amp;nbsp;uyumludur.&amp;nbsp;Silikon&amp;nbsp;içermez.&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>34.83</price1>
@@ -34607,7 +34607,7 @@
     <stock>100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>71.16</price1>
+    <price1>28.464</price1>
     <tax>20</tax>
     <barcode>uyl260920269998997</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -34616,10 +34616,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>71.16</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>85.392</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>34.1568</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34782,7 +34782,7 @@
     <stock>150</stock>
     <details />
     <currency>TRL</currency>
-    <price1>214.99</price1>
+    <price1>85.996</price1>
     <tax>20</tax>
     <barcode>uyl260920269998998</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -34791,10 +34791,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>214.99</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>257.988</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>103.1952</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -34907,7 +34907,7 @@
     <stock>500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>107.43</price1>
+    <price1>42.972</price1>
     <tax>20</tax>
     <barcode>uyl260920269998999</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -34916,10 +34916,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>107.43</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>128.916</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>51.5664</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35057,7 +35057,7 @@
     <stock>9250</stock>
     <details />
     <currency>TRL</currency>
-    <price1>31.07</price1>
+    <price1>12.428</price1>
     <tax>20</tax>
     <barcode>uyl260920269999000</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35066,10 +35066,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>31.07</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>37.284</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>14.9136</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35082,7 +35082,7 @@
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>300.26</price1>
+    <price1>120.104</price1>
     <tax>20</tax>
     <barcode>uyl260920269999001</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35091,10 +35091,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>300.26</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>360.312</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>144.1248</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35107,7 +35107,7 @@
     <stock>188900</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.33</price1>
+    <price1>0.1386</price1>
     <tax>20</tax>
     <barcode>uyl260920269999002</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35116,10 +35116,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.33</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.396</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.16632</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35132,7 +35132,7 @@
     <stock>300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>41.13</price1>
+    <price1>16.452</price1>
     <tax>20</tax>
     <barcode>uyl260920269999003</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35141,10 +35141,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>41.13</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>49.356</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>19.7424</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35157,7 +35157,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1906.65</price1>
+    <price1>762.66</price1>
     <tax>20</tax>
     <barcode>uyl260920269999004</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35166,10 +35166,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1906.65</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2287.98</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>915.192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35357,7 +35357,7 @@
     <stock>200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>103.71</price1>
+    <price1>41.484</price1>
     <tax>20</tax>
     <barcode>uyl260920269999005</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35366,10 +35366,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>103.71</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>124.452</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>49.7808</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35379,10 +35379,10 @@
     <id>10508</id>
     <code>AH018W1-025027-01</code>
     <label>025027 AĞIR HİZMET KELEPÇESİ</label>
-    <stock>96</stock>
+    <stock>496</stock>
     <details />
     <currency>TRL</currency>
-    <price1>103.71</price1>
+    <price1>41.484</price1>
     <tax>20</tax>
     <barcode>uyl260920269999006</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35391,10 +35391,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>103.71</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>124.452</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>49.7808</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35407,7 +35407,7 @@
     <stock>800</stock>
     <details />
     <currency>TRL</currency>
-    <price1>96.34</price1>
+    <price1>38.536</price1>
     <tax>20</tax>
     <barcode>uyl260920269999007</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35416,10 +35416,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>96.34</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>115.608</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>46.2432</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35432,7 +35432,7 @@
     <stock>800</stock>
     <details />
     <currency>TRL</currency>
-    <price1>96.34</price1>
+    <price1>38.536</price1>
     <tax>20</tax>
     <barcode>uyl260920269999008</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35441,10 +35441,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>96.34</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>115.608</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>46.2432</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35457,7 +35457,7 @@
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>149.97</price1>
+    <price1>59.988</price1>
     <tax>20</tax>
     <barcode>uyl260920269999009</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35466,10 +35466,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>149.97</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>179.964</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>71.9856</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35482,7 +35482,7 @@
     <stock>125</stock>
     <details />
     <currency>TRL</currency>
-    <price1>154.18</price1>
+    <price1>61.672</price1>
     <tax>20</tax>
     <barcode>uyl260920269999010</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35491,10 +35491,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>154.18</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>185.016</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>74.0064</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35532,7 +35532,7 @@
     <stock>6000</stock>
     <details />
     <currency>TRL</currency>
-    <price1>12.52</price1>
+    <price1>5.2584</price1>
     <tax>20</tax>
     <barcode>uyl260920269999011</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35541,10 +35541,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>12.52</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>15.024</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>6.31008</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35657,7 +35657,7 @@
     <stock>2550</stock>
     <details />
     <currency>TRL</currency>
-    <price1>35.59</price1>
+    <price1>14.236</price1>
     <tax>20</tax>
     <barcode>uyl260920269999012</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35666,10 +35666,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>35.59</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>42.708</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>17.0832</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35682,7 +35682,7 @@
     <stock>1099</stock>
     <details />
     <currency>TRL</currency>
-    <price1>47.96</price1>
+    <price1>19.184</price1>
     <tax>20</tax>
     <barcode>uyl260920269999013</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35691,10 +35691,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>47.96</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>57.552</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>23.0208</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35707,7 +35707,7 @@
     <stock>450</stock>
     <details />
     <currency>TRL</currency>
-    <price1>53.69</price1>
+    <price1>21.476</price1>
     <tax>20</tax>
     <barcode>uyl260920269999014</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35716,10 +35716,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>53.69</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>64.428</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>25.7712</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35732,7 +35732,7 @@
     <stock>350</stock>
     <details />
     <currency>TRL</currency>
-    <price1>60.8</price1>
+    <price1>24.32</price1>
     <tax>20</tax>
     <barcode>uyl260920269999015</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35741,10 +35741,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>60.8</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>72.96</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>29.184</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35757,7 +35757,7 @@
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>68.72</price1>
+    <price1>27.488</price1>
     <tax>20</tax>
     <barcode>uyl260920269999016</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35766,10 +35766,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>68.72</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>82.464</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>32.9856</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35782,7 +35782,7 @@
     <stock>100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>78.42</price1>
+    <price1>31.368</price1>
     <tax>20</tax>
     <barcode>uyl260920269999017</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35791,10 +35791,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>78.42</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>94.104</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>37.6416</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35807,7 +35807,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>95.03</price1>
+    <price1>38.012</price1>
     <tax>20</tax>
     <barcode>uyl260920269999018</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35816,10 +35816,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>95.03</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>114.036</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>45.6144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35832,7 +35832,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>111.85</price1>
+    <price1>44.74</price1>
     <tax>20</tax>
     <barcode>uyl260920269999019</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35841,10 +35841,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>111.85</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>134.22</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>53.688</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35882,7 +35882,7 @@
     <stock>18200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.71</price1>
+    <price1>0.2982</price1>
     <tax>20</tax>
     <barcode>uyl260920269999020</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35891,10 +35891,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.71</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.852</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.35784</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35907,7 +35907,7 @@
     <stock>2256</stock>
     <details />
     <currency>TRL</currency>
-    <price1>15.82</price1>
+    <price1>6.6444</price1>
     <tax>20</tax>
     <barcode>uyl260920269999021</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -35916,10 +35916,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>15.82</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>18.984</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>7.97328</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -43482,7 +43482,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>78.42</price1>
+    <price1>31.368</price1>
     <tax>20</tax>
     <barcode>uyl260920269999022</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -43491,10 +43491,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>78.42</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>94.104</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>37.6416</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -43507,7 +43507,7 @@
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>111.13</price1>
+    <price1>44.452</price1>
     <tax>20</tax>
     <barcode>uyl260920269999023</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -43516,10 +43516,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>111.13</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>133.356</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>53.3424</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -43532,7 +43532,7 @@
     <stock>234</stock>
     <details />
     <currency>TRL</currency>
-    <price1>162.52</price1>
+    <price1>65.008</price1>
     <tax>20</tax>
     <barcode>uyl260920269999024</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -43541,10 +43541,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>162.52</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>195.024</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>78.0096</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -43557,7 +43557,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>149.97</price1>
+    <price1>59.988</price1>
     <tax>20</tax>
     <barcode>uyl260920269999025</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -43566,10 +43566,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>149.97</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>179.964</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>71.9856</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -43582,7 +43582,7 @@
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>122.25</price1>
+    <price1>48.9</price1>
     <tax>20</tax>
     <barcode>uyl260920269999026</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -43591,10 +43591,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>122.25</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>146.7</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>58.68</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -47879,7 +47879,7 @@
     <id>11416</id>
     <code>2.608.590.084</code>
     <label>cyl-1 12*150 mm ( MASONRY DRILL )</label>
-    <stock>4</stock>
+    <stock>3</stock>
     <details />
     <currency>TRL</currency>
     <price1>116.7375</price1>
@@ -48429,7 +48429,7 @@
     <id>11444</id>
     <code>2.608.596.307</code>
     <label>Ahşap Matkap Ucu 10*120 mm ( WOOD DRILL BIT 10MM X</label>
-    <stock>1</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>111.7875</price1>
@@ -53332,7 +53332,7 @@
     <stock>250</stock>
     <details />
     <currency>TRL</currency>
-    <price1>66.17</price1>
+    <price1>26.468</price1>
     <tax>20</tax>
     <barcode>uyl260920269999027</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -53341,10 +53341,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>66.17</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>79.404</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>31.7616</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -55057,7 +55057,7 @@
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>166.65</price1>
+    <price1>66.66</price1>
     <tax>20</tax>
     <barcode>uyl260920269999028</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -55066,10 +55066,10 @@
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>166.65</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>199.98</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>79.992</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -62829,7 +62829,7 @@
     <id>12713</id>
     <code>13000000003</code>
     <label>12'Lİ ÇATAL İKİ AĞIZ ANAHTAR TAKIMI KISA BOY</label>
-    <stock>427</stock>
+    <stock>426</stock>
     <details />
     <currency>TRL</currency>
     <price1>1663.46</price1>
@@ -67108,7 +67108,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>54.04</price1>
+    <price1>21.616</price1>
     <tax>20</tax>
     <barcode>uyl260920269999029</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -67117,10 +67117,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>54.04</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>64.848</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>25.9392</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -74085,7 +74085,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>35.67</price1>
+    <price1>14.268</price1>
     <tax>20</tax>
     <barcode>uyl260920269999030</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -74094,10 +74094,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>35.67</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>42.804</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>17.1216</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -84185,7 +84185,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>92.6</price1>
+    <price1>37.04</price1>
     <tax>20</tax>
     <barcode>uyl260920269999031</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -84194,10 +84194,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>92.6</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>111.12</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>44.448</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -84210,7 +84210,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>122.25</price1>
+    <price1>48.9</price1>
     <tax>20</tax>
     <barcode>uyl260920269999032</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -84219,10 +84219,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>122.25</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>146.7</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>58.68</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -84785,7 +84785,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>38.91</price1>
+    <price1>15.564</price1>
     <tax>20</tax>
     <barcode>uyl260920269999033</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -84794,10 +84794,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>38.91</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>46.692</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>18.6768</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -84810,7 +84810,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>56.21</price1>
+    <price1>22.484</price1>
     <tax>20</tax>
     <barcode>uyl260920269999034</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -84819,10 +84819,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>56.21</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>67.452</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>26.9808</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -85382,10 +85382,10 @@ GBH 1-52</label>
     <id>21825</id>
     <code>BRD6W1-033037-07EP00</code>
     <label>033037 ( 1" ) DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
-    <stock>0</stock>
+    <stock>120</stock>
     <details />
     <currency>TRL</currency>
-    <price1>45.4</price1>
+    <price1>18.16</price1>
     <tax>20</tax>
     <barcode>uyl260920269999035</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -85394,10 +85394,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>45.4</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>54.48</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>21.792</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -85582,7 +85582,7 @@ GBH 1-52</label>
     <id>21851</id>
     <code>0.601.58H.000</code>
     <label>GST 8000 E Dekupaj Testere</label>
-    <stock>49</stock>
+    <stock>48</stock>
     <details />
     <currency>TRL</currency>
     <price1>4305.125</price1>
@@ -85635,7 +85635,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>43.24</price1>
+    <price1>17.296</price1>
     <tax>20</tax>
     <barcode>uyl260920269999036</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -85644,10 +85644,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>43.24</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>51.888</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>20.7552</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -89182,7 +89182,7 @@ GBH 1-52</label>
     <id>35505</id>
     <code>2.607.002.503</code>
     <label>ExtraHard Vidalama Ucu PH2*49 mm 25'li ( PH 2 XH 4</label>
-    <stock>9</stock>
+    <stock>8</stock>
     <details />
     <currency>TRL</currency>
     <price1>1001.55</price1>
@@ -94010,7 +94010,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>203.47</price1>
+    <price1>81.388</price1>
     <tax>20</tax>
     <barcode>uyl260920269999037</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -94019,10 +94019,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>203.47</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>244.164</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>97.6656</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -99335,7 +99335,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>142.68</price1>
+    <price1>57.072</price1>
     <tax>20</tax>
     <barcode>uyl260920269999038</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -99344,10 +99344,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>142.68</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>171.216</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>68.4864</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -99360,7 +99360,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>110.25</price1>
+    <price1>44.1</price1>
     <tax>20</tax>
     <barcode>uyl260920269999039</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -99369,10 +99369,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>110.25</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>132.3</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>52.92</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -99385,7 +99385,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>159.97</price1>
+    <price1>63.988</price1>
     <tax>20</tax>
     <barcode>uyl260920269999040</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -99394,10 +99394,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>159.97</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>191.964</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>76.7856</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -104510,7 +104510,7 @@ GBH 1-52</label>
     <stock>59900</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.71</price1>
+    <price1>0.2982</price1>
     <tax>20</tax>
     <barcode>uyl260920269999041</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -104519,10 +104519,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>0.71</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.852</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.35784</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -105285,7 +105285,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>123.06</price1>
+    <price1>49.224</price1>
     <tax>20</tax>
     <barcode>uyl260920269999042</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -105294,10 +105294,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>123.06</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>147.672</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>59.0688</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -109385,7 +109385,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>31.66</price1>
+    <price1>12.664</price1>
     <tax>20</tax>
     <barcode>uyl260920269999043</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -109394,10 +109394,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>31.66</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>37.992</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>15.1968</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -111857,10 +111857,10 @@ GBH 1-52</label>
     <id>44804</id>
     <code>BRD6W1-060066-07EP00</code>
     <label>060066 (2") DG2  TRİFONLU DOĞALGAZ KELEPÇESİ</label>
-    <stock>0</stock>
+    <stock>60</stock>
     <details />
     <currency>TRL</currency>
-    <price1>69.18</price1>
+    <price1>27.672</price1>
     <tax>20</tax>
     <barcode>uyl260920269999044</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -111869,10 +111869,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>69.18</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>83.016</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>33.2064</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -113485,7 +113485,7 @@ GBH 1-52</label>
     <stock>1200</stock>
     <details />
     <currency>TRL</currency>
-    <price1>15.36</price1>
+    <price1>6.4512</price1>
     <tax>20</tax>
     <barcode>uyl260920269999045</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -113494,10 +113494,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>15.36</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>18.432</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>7.74144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -113510,7 +113510,7 @@ GBH 1-52</label>
     <stock>600</stock>
     <details />
     <currency>TRL</currency>
-    <price1>15.36</price1>
+    <price1>6.4512</price1>
     <tax>20</tax>
     <barcode>uyl260920269999046</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -113519,10 +113519,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>15.36</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>18.432</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>7.74144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -114060,7 +114060,7 @@ GBH 1-52</label>
     <stock>25</stock>
     <details />
     <currency>TRL</currency>
-    <price1>240.22</price1>
+    <price1>96.088</price1>
     <tax>20</tax>
     <barcode>uyl260920269999047</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -114069,10 +114069,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>240.22</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>288.264</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>115.3056</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -114685,7 +114685,7 @@ GBH 1-52</label>
     <stock>300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>129.13</price1>
+    <price1>51.652</price1>
     <tax>20</tax>
     <barcode>uyl260920269999048</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -114694,10 +114694,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>129.13</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>154.956</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>61.9824</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -114710,7 +114710,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>276.17</price1>
+    <price1>110.468</price1>
     <tax>20</tax>
     <barcode>uyl260920269999049</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -114719,10 +114719,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>276.17</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>331.404</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>132.5616</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -114735,7 +114735,7 @@ GBH 1-52</label>
     <stock>100</stock>
     <details />
     <currency>TRL</currency>
-    <price1>166.74</price1>
+    <price1>66.696</price1>
     <tax>20</tax>
     <barcode>uyl260920269999050</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -114744,10 +114744,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>166.74</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>200.088</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>80.0352</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -114760,7 +114760,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>236.32</price1>
+    <price1>94.528</price1>
     <tax>20</tax>
     <barcode>uyl260920269999051</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -114769,10 +114769,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>236.32</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>283.584</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>113.4336</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -115885,7 +115885,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.87</price1>
+    <price1>1.2054</price1>
     <tax>20</tax>
     <barcode>uyl260920269999052</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -115894,10 +115894,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.87</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3.444</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.44648</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -116232,10 +116232,10 @@ GBH 1-52</label>
     <id>45497</id>
     <code>BRD6W1-026030-07EP00</code>
     <label>026030 (3/4") DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
-    <stock>0</stock>
+    <stock>150</stock>
     <details />
     <currency>TRL</currency>
-    <price1>43.24</price1>
+    <price1>17.296</price1>
     <tax>20</tax>
     <barcode>uyl260920269999053</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -116244,10 +116244,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>43.24</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>51.888</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>20.7552</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -116257,10 +116257,10 @@ GBH 1-52</label>
     <id>45499</id>
     <code>BRD6W1-048053-07EP00</code>
     <label>048053 (1 1/2") DG2 TRİFONLU DOĞALGAZ KELEPÇESİ</label>
-    <stock>0</stock>
+    <stock>80</stock>
     <details />
     <currency>TRL</currency>
-    <price1>60.53</price1>
+    <price1>24.212</price1>
     <tax>20</tax>
     <barcode>uyl260920269999054</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -116269,10 +116269,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>60.53</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>72.636</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>29.0544</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -118660,7 +118660,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>220.92</price1>
+    <price1>88.368</price1>
     <tax>20</tax>
     <barcode>uyl260920269999055</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -118669,10 +118669,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>220.92</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>265.104</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>106.0416</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -118810,7 +118810,7 @@ GBH 1-52</label>
     <stock>10350</stock>
     <details />
     <currency>TRL</currency>
-    <price1>27.66</price1>
+    <price1>11.6172</price1>
     <tax>20</tax>
     <barcode>uyl260920269999056</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -118819,10 +118819,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>27.66</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>33.192</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>13.94064</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -121282,7 +121282,7 @@ GBH 1-52</label>
     <id>52317</id>
     <code>NFSM08</code>
     <label>M8 985 MF CL.6 C440 NORM CİVATA</label>
-    <stock>34449</stock>
+    <stock>28449</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.825</price1>
@@ -150407,7 +150407,7 @@ GBH 1-52</label>
     <id>55191</id>
     <code>BEYBİ-PN3ZK10</code>
     <label>BEYBİ PN3 ZEBRA KIRMIZI NİTRİL ELDİVEN NO:10</label>
-    <stock>128</stock>
+    <stock>3008</stock>
     <details />
     <currency>TRL</currency>
     <price1>33.912</price1>
@@ -160707,7 +160707,7 @@ GBH 1-52</label>
     <id>68509</id>
     <code>RAYNOMBY</code>
     <label>RAYNO MAKET BIÇAĞI YEDEĞİ 18mmx 0.5mm</label>
-    <stock>322600</stock>
+    <stock>318600</stock>
     <details>&lt;h3&gt;RAYNO MAKET BIÇAĞI YEDEĞİ 18mmx 0.5mm&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.709504</price1>
@@ -161010,7 +161010,7 @@ GBH 1-52</label>
     <stock>26500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.73</price1>
+    <price1>0.7266</price1>
     <tax>20</tax>
     <barcode>uyl260920269999057</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -161019,10 +161019,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.73</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.076</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.87192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -161507,10 +161507,10 @@ GBH 1-52</label>
     <id>68636</id>
     <code>HR010W1-115135-101</code>
     <label>HORTUM KELEPÇESİ 10mm (115135)</label>
-    <stock>50</stock>
+    <stock>250</stock>
     <details />
     <currency>TRL</currency>
-    <price1>68.72</price1>
+    <price1>27.488</price1>
     <tax>20</tax>
     <barcode>uyl260920269999058</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -161519,10 +161519,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>68.72</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>82.464</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>32.9856</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -162585,7 +162585,7 @@ GBH 1-52</label>
     <stock>25</stock>
     <details />
     <currency>TRL</currency>
-    <price1>207.79</price1>
+    <price1>83.116</price1>
     <tax>20</tax>
     <barcode>uyl260920269999059</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -162594,10 +162594,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>207.79</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>249.348</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>99.7392</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -162610,7 +162610,7 @@ GBH 1-52</label>
     <stock>43000</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.73</price1>
+    <price1>0.7266</price1>
     <tax>20</tax>
     <barcode>uyl260920269999060</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -162619,10 +162619,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.73</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.076</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.87192</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -163560,7 +163560,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>203.21</price1>
+    <price1>81.284</price1>
     <tax>20</tax>
     <barcode>uyl260920269999061</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -163569,10 +163569,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>203.21</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>243.852</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>97.5408</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -164585,7 +164585,7 @@ GBH 1-52</label>
     <stock>50</stock>
     <details />
     <currency>TRL</currency>
-    <price1>215.52</price1>
+    <price1>86.208</price1>
     <tax>20</tax>
     <barcode>uyl260920269999062</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -164594,10 +164594,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>215.52</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>258.624</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>103.4496</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -170135,7 +170135,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.87</price1>
+    <price1>1.2054</price1>
     <tax>20</tax>
     <barcode>uyl260920269999063</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -170144,10 +170144,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>2.87</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3.444</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1.44648</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -170860,7 +170860,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>12.43</price1>
+    <price1>4.972</price1>
     <tax>20</tax>
     <barcode>uyl260920269999064</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -170869,10 +170869,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>12.43</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>14.916</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>5.9664</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -174735,7 +174735,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>237.63</price1>
+    <price1>95.052</price1>
     <tax>20</tax>
     <barcode>uyl260920269999065</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -174744,10 +174744,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>237.63</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>285.156</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>114.0624</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -182185,7 +182185,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>210.53</price1>
+    <price1>84.212</price1>
     <tax>20</tax>
     <barcode>uyl260920269999066</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -182194,10 +182194,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>210.53</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>252.636</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>101.0544</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -183107,7 +183107,7 @@ GBH 1-52</label>
     <id>77977</id>
     <code>RYN10654</code>
     <label>RAYNO KAYNAK PENSESİ 600 AMPER</label>
-    <stock>1175</stock>
+    <stock>1173</stock>
     <details />
     <currency>TRL</currency>
     <price1>148.571136</price1>
@@ -183657,7 +183657,7 @@ GBH 1-52</label>
     <id>78001</id>
     <code>RYN10693</code>
     <label>RAYNO PİMLİ KALEM FIRÇA 17 MM</label>
-    <stock>6035</stock>
+    <stock>3935</stock>
     <details />
     <currency>TRL</currency>
     <price1>10.16064</price1>
@@ -188260,7 +188260,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>86.53</price1>
+    <price1>34.612</price1>
     <tax>20</tax>
     <barcode>uyl260920269999067</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -188269,10 +188269,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>86.53</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>103.836</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>41.5344</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -189332,7 +189332,7 @@ GBH 1-52</label>
     <id>78353</id>
     <code>1.600.A01.TH6</code>
     <label>Maket Bıçağı 18 mm</label>
-    <stock>24</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>573.375</price1>
@@ -193010,7 +193010,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>112.41</price1>
+    <price1>44.964</price1>
     <tax>20</tax>
     <barcode>uyl260920269999068</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -193019,10 +193019,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>112.41</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>134.892</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>53.9568</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -203332,7 +203332,7 @@ GBH 1-52</label>
     <id>79097</id>
     <code>5901103901</code>
     <label>SCHEPPACH HM100T TEZGAH TESTERE</label>
-    <stock>158</stock>
+    <stock>157</stock>
     <details>&lt;h3&gt;SCHEPPACH HM100T TEZGAH TESTERE&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Tezgah&amp;nbsp;Testere&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Basınçlı&amp;nbsp;alüminyum&amp;nbsp;dökümden&amp;nbsp;çerçeveye&amp;nbsp;sahip,&amp;nbsp;45&amp;nbsp;dereceye&amp;nbsp;kadar&amp;nbsp;eğim&lt;/p&gt;&lt;p&gt;alan&amp;nbsp;Ø&amp;nbsp;254&amp;nbsp;mm&amp;nbsp;testere&amp;nbsp;bıçağına&amp;nbsp;sahip,&amp;nbsp;istediğiniz&amp;nbsp;zaman&amp;nbsp;tezgah&amp;nbsp;testere&lt;/p&gt;&lt;p&gt;olarak&amp;nbsp;kullanabileceğiniz,&amp;nbsp;istediğinizde&amp;nbsp;±&amp;nbsp;50&amp;nbsp;derece&amp;nbsp;kesim&amp;nbsp;yapabileceğiniz&lt;/p&gt;&lt;p&gt;gönye&amp;nbsp;testere&amp;nbsp;işlevi&amp;nbsp;ve&amp;nbsp;normal&amp;nbsp;kesimlerde&amp;nbsp;kullanabileceğiniz&amp;nbsp;daire&amp;nbsp;testere&lt;/p&gt;&lt;p&gt;işlevi&amp;nbsp;ile&amp;nbsp;3&amp;nbsp;ü&amp;nbsp;bir&amp;nbsp;arada&amp;nbsp;testere.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;730&amp;nbsp;x&amp;nbsp;465&amp;nbsp;x&amp;nbsp;630&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Testere&amp;nbsp;Bıçağı&amp;nbsp;(Ø)&amp;nbsp;254&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Devir&amp;nbsp;Sayısı&amp;nbsp;5000&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Tezgah&amp;nbsp;üzerinde&lt;/p&gt;&lt;p&gt;kesim&amp;nbsp;yüksekliği&amp;nbsp;46&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Tezgah&amp;nbsp;büyüklüğü&amp;nbsp;460&amp;nbsp;x&amp;nbsp;335&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Genişliği/&lt;/p&gt;&lt;p&gt;Yüksekliği&amp;nbsp;90°/&amp;nbsp;90°&amp;nbsp;110&amp;nbsp;x&amp;nbsp;70&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;1800&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;19&amp;nbsp;/&amp;nbsp;24&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5901103901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>15640.8</price1>
@@ -204057,7 +204057,7 @@ GBH 1-52</label>
     <id>79150</id>
     <code>0.601.9N2.124</code>
     <label>GDX 18V-285 + GSB 185-LI Kombi set</label>
-    <stock>44</stock>
+    <stock>41</stock>
     <details />
     <currency>TRL</currency>
     <price1>12506.175</price1>
@@ -206310,7 +206310,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>233.44</price1>
+    <price1>93.376</price1>
     <tax>20</tax>
     <barcode>uyl260920269999069</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -206319,10 +206319,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>233.44</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>280.128</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>112.0512</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -207560,7 +207560,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.7</price1>
+    <price1>0.714</price1>
     <tax>20</tax>
     <barcode>uyl260920269999070</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -207569,10 +207569,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.7</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.04</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.8568</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -207610,7 +207610,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.7</price1>
+    <price1>0.714</price1>
     <tax>20</tax>
     <barcode>uyl260920269999071</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -207619,10 +207619,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>1.7</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.04</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0.8568</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -210357,7 +210357,7 @@ GBH 1-52</label>
     <id>79553</id>
     <code>BEYBİ-PN3+10P</code>
     <label>BEYBİ PN3 PAMUK NİTRİL NO:10 PLUS</label>
-    <stock>0</stock>
+    <stock>2880</stock>
     <details />
     <currency>TRL</currency>
     <price1>31.806</price1>
@@ -211657,7 +211657,7 @@ GBH 1-52</label>
     <id>79664</id>
     <code>2.608.594.442</code>
     <label>PRO SM PC-Plus Delik Açma Testeresi 22mm</label>
-    <stock>47</stock>
+    <stock>42</stock>
     <details />
     <currency>TRL</currency>
     <price1>503.25</price1>
@@ -219635,7 +219635,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>76.42</price1>
+    <price1>30.568</price1>
     <tax>20</tax>
     <barcode>uyl260920269999072</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -219644,10 +219644,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>76.42</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>91.704</vatIncluded>
+    <discount>60</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>36.6816</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -224510,7 +224510,7 @@ GBH 1-52</label>
     <stock>500</stock>
     <details />
     <currency>TRL</currency>
-    <price1>27.66</price1>
+    <price1>11.6172</price1>
     <tax>20</tax>
     <barcode>uyl260920269999073</barcode>
     <brand>TORK KELEPÇE</brand>
@@ -224519,10 +224519,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>27.66</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>33.192</vatIncluded>
+    <discount>58</discount>
+    <cashDiscount>12</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>13.94064</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
