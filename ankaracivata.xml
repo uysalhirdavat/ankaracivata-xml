@@ -209632,7 +209632,7 @@ GBH 1-52</label>
     <id>79506</id>
     <code>RYN10459</code>
     <label>RAYNO MOBİLYA TAMİR KALEMİ SİYAH</label>
-    <stock>3264</stock>
+    <stock>3144</stock>
     <details />
     <currency>TRL</currency>
     <price1>30.48192</price1>
@@ -209657,7 +209657,7 @@ GBH 1-52</label>
     <id>79507</id>
     <code>RYN10460</code>
     <label>RAYNO MOBİLYA TAMİR KALEMİ CEVİZ</label>
-    <stock>2166</stock>
+    <stock>2046</stock>
     <details />
     <currency>TRL</currency>
     <price1>30.48192</price1>
@@ -209682,7 +209682,7 @@ GBH 1-52</label>
     <id>79508</id>
     <code>RYN10461</code>
     <label>RAYNO MOBİLYA TAMİR KALEMİ HUŞ KAHVESİ</label>
-    <stock>2544</stock>
+    <stock>2424</stock>
     <details />
     <currency>TRL</currency>
     <price1>30.48192</price1>
@@ -209707,7 +209707,7 @@ GBH 1-52</label>
     <id>79509</id>
     <code>RYN10462</code>
     <label>RAYNO MOBİLYA TAMİR KALEMİ MEŞE</label>
-    <stock>1932</stock>
+    <stock>1812</stock>
     <details />
     <currency>TRL</currency>
     <price1>30.48192</price1>
@@ -209732,7 +209732,7 @@ GBH 1-52</label>
     <id>79510</id>
     <code>RYN10463</code>
     <label>RAYNO MOBİLYA TAMİR KALEMİ AKÇAAĞAÇ</label>
-    <stock>1170</stock>
+    <stock>1050</stock>
     <details />
     <currency>TRL</currency>
     <price1>30.48192</price1>
@@ -209757,7 +209757,7 @@ GBH 1-52</label>
     <id>79511</id>
     <code>RYN10464</code>
     <label>RAYNO MOBİLYA TAMİR KALEMİ SETİ (5 RENK KARIŞIK)</label>
-    <stock>4240</stock>
+    <stock>4190</stock>
     <details />
     <currency>TRL</currency>
     <price1>142.24896</price1>
@@ -227182,7 +227182,7 @@ GBH 1-52</label>
     <id>80967</id>
     <code>RYN12510</code>
     <label>RAYNO A TİPİ MERDİVEN 220cm+220cm</label>
-    <stock>329</stock>
+    <stock>328</stock>
     <details />
     <currency>TRL</currency>
     <price1>14880</price1>
