@@ -354,7 +354,7 @@
     <id>52</id>
     <code>MF06016B</code>
     <label>MM 6 * 16 DIN6921 FLANŞLI CİVATA BEYAZ</label>
-    <stock>218269</stock>
+    <stock>213269</stock>
     <details>&lt;h3&gt;MM 6 * 16 DIN6921 FLANŞLI CİVATA BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;16&amp;nbsp;DIN6921&amp;nbsp;FLANŞLI&amp;nbsp;CİVATA&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.98169</price1>
@@ -2704,7 +2704,7 @@
     <id>376</id>
     <code>MM12060933S</code>
     <label>MM 12 * 60  DIN933 AKB CİVATA 8.8 SİYAH</label>
-    <stock>240</stock>
+    <stock>640</stock>
     <details>&lt;h3&gt;MM 12 * 60  DIN933 AKB CİVATA 8.8 SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;60&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6.41296</price1>
@@ -3354,7 +3354,7 @@
     <id>543</id>
     <code>MM16045933B</code>
     <label>MM 16 * 45 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>3780</stock>
+    <stock>12780</stock>
     <details>&lt;h3&gt;MM 16 * 45 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;16&amp;nbsp;*&amp;nbsp;45&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9.687384</price1>
@@ -4504,7 +4504,7 @@
     <id>806</id>
     <code>DK12090</code>
     <label>12 * 90 KLİPSLİ DÜBEL</label>
-    <stock>23799</stock>
+    <stock>22549</stock>
     <details>&lt;h3&gt;12 * 90 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;12&amp;nbsp;*&amp;nbsp;90&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9.35</price1>
@@ -5929,7 +5929,7 @@
     <id>2520</id>
     <code>MVÇ5525</code>
     <label>5.5 * 25 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>1215800</stock>
+    <stock>1202300</stock>
     <details>&lt;h3&gt;5.5 * 25 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);"&gt;5.5&amp;nbsp;*&amp;nbsp;25&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.200432</price1>
@@ -8429,7 +8429,7 @@
     <id>2642</id>
     <code>DK16180</code>
     <label>16 * 180 KLİPSLİ DÜBEL</label>
-    <stock>5604</stock>
+    <stock>5354</stock>
     <details>&lt;h3&gt;16 * 180 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;180&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>26.224</price1>
@@ -9779,7 +9779,7 @@
     <id>2763</id>
     <code>S03525</code>
     <label>3.5 * 25 SUNTA VİDASI DIN:7505</label>
-    <stock>241550</stock>
+    <stock>239550</stock>
     <details>&lt;h3&gt;3.5 * 25 SUNTA VİDASI DIN:7505&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);"&gt;3.5&amp;nbsp;*&amp;nbsp;25&amp;nbsp;SUNTA&amp;nbsp;VİDASI&amp;nbsp;DIN:7505&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.229488</price1>
@@ -10004,7 +10004,7 @@
     <id>2772</id>
     <code>S04025</code>
     <label>4 * 25 SUNTA VİDASI DIN:7505</label>
-    <stock>720460</stock>
+    <stock>718960</stock>
     <details>&lt;h3&gt;4 * 25 SUNTA VİDASI DIN:7505&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);"&gt;4&amp;nbsp;*&amp;nbsp;25&amp;nbsp;SUNTA&amp;nbsp;VİDASI&amp;nbsp;DIN:7505&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.272688</price1>
@@ -10854,7 +10854,7 @@
     <id>2809</id>
     <code>S06150</code>
     <label>6 * 150 SUNTA VİDASI DIN:7505</label>
-    <stock>28037</stock>
+    <stock>26737</stock>
     <details>&lt;h3&gt;6 * 150 SUNTA VİDASI DIN:7505&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);"&gt;6&amp;nbsp;*&amp;nbsp;150&amp;nbsp;SUNTA&amp;nbsp;VİDASI&amp;nbsp;DIN:7505&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3.259104</price1>
@@ -11004,7 +11004,7 @@
     <id>2909</id>
     <code>DK12110</code>
     <label>12 * 110 KLİPSLİ DÜBEL</label>
-    <stock>25708</stock>
+    <stock>25508</stock>
     <details>&lt;h3&gt;12 * 110 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;12&amp;nbsp;*&amp;nbsp;110&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9.79</price1>
@@ -11029,7 +11029,7 @@
     <id>2910</id>
     <code>DK16145</code>
     <label>16 * 145 KLİPSLİ DÜBEL</label>
-    <stock>5260</stock>
+    <stock>1060</stock>
     <details>&lt;h3&gt;16 * 145 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;145&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>21.89</price1>
@@ -11104,7 +11104,7 @@
     <id>2927</id>
     <code>DK10090</code>
     <label>10 * 90 KLİPSLİ DÜBEL</label>
-    <stock>238736</stock>
+    <stock>237236</stock>
     <details>&lt;h3&gt;10 * 90 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;10&amp;nbsp;*&amp;nbsp;90&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7.15</price1>
@@ -11404,7 +11404,7 @@
     <id>2977</id>
     <code>DG10085</code>
     <label>MM 10 * 85 GÖMLEKLİ ÇEKME DÜBEL</label>
-    <stock>99751</stock>
+    <stock>96601</stock>
     <details>&lt;h3&gt;MM 10 * 85 GÖMLEKLİ ÇEKME DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;85&amp;nbsp;GÖMLEKLİ&amp;nbsp;ÇEKME&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>5.995</price1>
@@ -11779,7 +11779,7 @@
     <id>3077</id>
     <code>GS16B</code>
     <label>MM 16 DIN975 GİJON BEYAZ</label>
-    <stock>2150</stock>
+    <stock>2050</stock>
     <details>&lt;h3&gt;MM 16 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;16&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>84.942</price1>
@@ -13779,7 +13779,7 @@
     <id>4003</id>
     <code>GS08B</code>
     <label>MM 8 DIN975 GİJON BEYAZ</label>
-    <stock>9200</stock>
+    <stock>9000</stock>
     <details>&lt;h3&gt;MM 8 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 226); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>19.062</price1>
@@ -14204,7 +14204,7 @@
     <id>4141</id>
     <code>GS10B</code>
     <label>MM 10 DIN975 GİJON BEYAZ</label>
-    <stock>9300</stock>
+    <stock>9180</stock>
     <details>&lt;h3&gt;MM 10 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>30.4722</price1>
@@ -14229,7 +14229,7 @@
     <id>4143</id>
     <code>GS122000B</code>
     <label>MM 12 * 2 MT GİJON SAPLAMA</label>
-    <stock>1</stock>
+    <stock>861</stock>
     <details>&lt;h3&gt;MM 12 * 2 MT GİJON SAPLAMA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;2&amp;nbsp;MT&amp;nbsp;GİJON&amp;nbsp;SAPLAMA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>88.236</price1>
@@ -14254,7 +14254,7 @@
     <id>4144</id>
     <code>GS12B</code>
     <label>MM 12 DIN975 GİJON BEYAZ</label>
-    <stock>4922</stock>
+    <stock>4802</stock>
     <details>&lt;h3&gt;MM 12 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>44.118</price1>
@@ -14579,7 +14579,7 @@
     <id>4227</id>
     <code>FSM08</code>
     <label>MM 8 FİBERLİ SOMUN DIN:985</label>
-    <stock>438503</stock>
+    <stock>433703</stock>
     <details>&lt;h3&gt;MM 8 FİBERLİ SOMUN DIN:985&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;FİBERLİ&amp;nbsp;SOMUN&amp;nbsp;DIN:985&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.74996</price1>
@@ -14754,7 +14754,7 @@
     <id>4236</id>
     <code>PK058B</code>
     <label>5/8 KALIN DÜZ DEMİR PUL BEYAZ</label>
-    <stock>589</stock>
+    <stock>469</stock>
     <details>&lt;h3&gt;5/8 KALIN DÜZ DEMİR PUL BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;5/8&amp;nbsp;KALIN&amp;nbsp;DÜZ&amp;nbsp;DEMİR&amp;nbsp;PUL&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -14854,7 +14854,7 @@
     <id>4241</id>
     <code>ŞASE038B</code>
     <label>3/8*55  ŞASE PULU BEYAZ</label>
-    <stock>70</stock>
+    <stock>10</stock>
     <details>&lt;h3&gt;3/8*55  ŞASE PULU BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);"&gt;3/8*55&amp;nbsp;ŞASE&amp;nbsp;PULU&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -15379,7 +15379,7 @@
     <id>4322</id>
     <code>FLS12</code>
     <label>MM 12 FLANŞLI SOMUN DIN:6923</label>
-    <stock>101565</stock>
+    <stock>95565</stock>
     <details>&lt;h3&gt;MM 12 FLANŞLI SOMUN DIN:6923&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;FLANŞLI&amp;nbsp;SOMUN&amp;nbsp;DIN:6923&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.47108</price1>
@@ -16404,7 +16404,7 @@
     <id>4691</id>
     <code>DK16200</code>
     <label>16 * 200 KLİPSLİ DÜBEL</label>
-    <stock>1049</stock>
+    <stock>799</stock>
     <details>&lt;h3&gt;16 * 200 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;200&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>42.9</price1>
@@ -16829,7 +16829,7 @@
     <id>4884</id>
     <code>DK12150</code>
     <label>12 * 150 KLİPSLİ DÜBEL</label>
-    <stock>17983</stock>
+    <stock>17233</stock>
     <details>&lt;h3&gt;12 * 150 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);"&gt;12&amp;nbsp;*&amp;nbsp;150&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>12.65</price1>
@@ -17379,7 +17379,7 @@
     <id>5017</id>
     <code>ŞASE012B</code>
     <label>1/2*55 ŞASE PULU BEYAZ</label>
-    <stock>62</stock>
+    <stock>2</stock>
     <details>&lt;h3&gt;1/2*55 ŞASE PULU BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);"&gt;1/2*55&amp;nbsp;ŞASE&amp;nbsp;PULU&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -20054,7 +20054,7 @@
     <id>6635</id>
     <code>KARBOSAN910430</code>
     <label>K 230*1.9*22.23 İNOX KESİCİ DİSK</label>
-    <stock>1400</stock>
+    <stock>700</stock>
     <details />
     <currency>TRL</currency>
     <price1>68.8974</price1>
@@ -20179,7 +20179,7 @@
     <id>6788</id>
     <code>MVP4816</code>
     <label>4,8*16 YPM YILDIZ PUL BAŞLI VİDA</label>
-    <stock>352980</stock>
+    <stock>350980</stock>
     <details>&lt;h3&gt;4,8*16 YPM YILDIZ PUL BAŞLI VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;4,8*16&amp;nbsp;YPM&amp;nbsp;YILDIZ&amp;nbsp;PUL&amp;nbsp;BAŞLI&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.445632</price1>
@@ -22329,7 +22329,7 @@
     <id>7718</id>
     <code>MMS04B</code>
     <label>M 4 DIN934 SOMUN BEYAZ</label>
-    <stock>777100</stock>
+    <stock>771850</stock>
     <details>&lt;h3&gt;M 4 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;4&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.186228</price1>
@@ -23479,7 +23479,7 @@
     <id>7811</id>
     <code>MM10025933B</code>
     <label>MM 10 * 25 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>138264</stock>
+    <stock>136664</stock>
     <details>&lt;h3&gt;MM 10 * 25 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;25&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.423867</price1>
@@ -23529,7 +23529,7 @@
     <id>7814</id>
     <code>MM10030933B</code>
     <label>MM 10 * 30 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>2707</stock>
+    <stock>50707</stock>
     <details>&lt;h3&gt;MM 10 * 30 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;30&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.681953</price1>
@@ -23729,7 +23729,7 @@
     <id>7823</id>
     <code>MM08025933B</code>
     <label>MM 8 * 25  DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>61912</stock>
+    <stock>51912</stock>
     <details>&lt;h3&gt;MM 8 * 25  DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;25&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.599471</price1>
@@ -24879,7 +24879,7 @@
     <id>7885</id>
     <code>MM10100931B</code>
     <label>MM 10 * 100 DIN931 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>1200</stock>
+    <stock>8400</stock>
     <details>&lt;h3&gt;MM 10 * 100 DIN931 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;100&amp;nbsp;DIN931&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7.043701</price1>
@@ -32879,7 +32879,7 @@
     <id>9158</id>
     <code>PM12KB</code>
     <label>MM 12 DÜZ DEMİR PUL DIN125 BEYAZ</label>
-    <stock>350</stock>
+    <stock>320</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -33479,7 +33479,7 @@
     <id>9377</id>
     <code>PP51632B</code>
     <label>5/16* 32  PANJUR PULU BEYAZ</label>
-    <stock>213</stock>
+    <stock>63</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -33679,7 +33679,7 @@
     <id>9432</id>
     <code>MVÇ5576</code>
     <label>5.5 * 76 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>51300</stock>
+    <stock>46800</stock>
     <details />
     <currency>TRL</currency>
     <price1>2.527488</price1>
@@ -35004,7 +35004,7 @@
     <id>10353</id>
     <code>BEYBİ-KN209</code>
     <label>BEYBİ KN2 PAMUK NİTRİL NO:9</label>
-    <stock>4632</stock>
+    <stock>3192</stock>
     <details>&lt;h3&gt;BEYBİ KN2 PAMUK NİTRİL NO:9&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"&gt;KN2&amp;nbsp;eldivenler&amp;nbsp;pamuk&amp;nbsp;astar&amp;nbsp;üzerine&amp;nbsp;sarı&amp;nbsp;nitril&amp;nbsp;tam&amp;nbsp;kaplaması&amp;nbsp;ile&amp;nbsp;sıvı&amp;nbsp;sızdırmazlığı&amp;nbsp;ve&amp;nbsp;yüksek&amp;nbsp;dayanıklılık&amp;nbsp;sunar.&amp;nbsp;Örgü&amp;nbsp;bilekliği&amp;nbsp;ve&amp;nbsp;özel&amp;nbsp;kalıbı&amp;nbsp;sayesinde&amp;nbsp;eli&amp;nbsp;daha&amp;nbsp;iyi&amp;nbsp;kavrar&amp;nbsp;ve&amp;nbsp;konforlu&amp;nbsp;kullanım&amp;nbsp;sağlar.&amp;nbsp;Pamuklu&amp;nbsp;iç&amp;nbsp;yüzeyi&amp;nbsp;terlemeyi&amp;nbsp;azaltır.&amp;nbsp;Aşınma&amp;nbsp;ve&amp;nbsp;yırtılmaya&amp;nbsp;karşı&amp;nbsp;dirençlidir.&amp;nbsp;Gıda&amp;nbsp;ile&amp;nbsp;temasa&amp;nbsp;uygundur&amp;nbsp;ve&amp;nbsp;REACH&amp;nbsp;uyumludur.&amp;nbsp;Silikon&amp;nbsp;içermez.&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>44.118</price1>
@@ -35029,7 +35029,7 @@
     <id>10354</id>
     <code>BEYBİ-KN210</code>
     <label>BEYBİ KN2 PAMUK NİTRİL NO:10</label>
-    <stock>15552</stock>
+    <stock>14112</stock>
     <details>&lt;h3&gt;BEYBİ KN2 PAMUK NİTRİL NO:10&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"&gt;KN2&amp;nbsp;eldivenler&amp;nbsp;pamuk&amp;nbsp;astar&amp;nbsp;üzerine&amp;nbsp;sarı&amp;nbsp;nitril&amp;nbsp;tam&amp;nbsp;kaplaması&amp;nbsp;ile&amp;nbsp;sıvı&amp;nbsp;sızdırmazlığı&amp;nbsp;ve&amp;nbsp;yüksek&amp;nbsp;dayanıklılık&amp;nbsp;sunar.&amp;nbsp;Örgü&amp;nbsp;bilekliği&amp;nbsp;ve&amp;nbsp;özel&amp;nbsp;kalıbı&amp;nbsp;sayesinde&amp;nbsp;eli&amp;nbsp;daha&amp;nbsp;iyi&amp;nbsp;kavrar&amp;nbsp;ve&amp;nbsp;konforlu&amp;nbsp;kullanım&amp;nbsp;sağlar.&amp;nbsp;Pamuklu&amp;nbsp;iç&amp;nbsp;yüzeyi&amp;nbsp;terlemeyi&amp;nbsp;azaltır.&amp;nbsp;Aşınma&amp;nbsp;ve&amp;nbsp;yırtılmaya&amp;nbsp;karşı&amp;nbsp;dirençlidir.&amp;nbsp;Gıda&amp;nbsp;ile&amp;nbsp;temasa&amp;nbsp;uygundur&amp;nbsp;ve&amp;nbsp;REACH&amp;nbsp;uyumludur.&amp;nbsp;Silikon&amp;nbsp;içermez.&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>44.118</price1>
@@ -49929,7 +49929,7 @@
     <id>11517</id>
     <code>2.608.631.964</code>
     <label>T 118 A Basic for Metal 100'lü ( 118A HCS Basic fo</label>
-    <stock>43</stock>
+    <stock>42</stock>
     <details />
     <currency>TRL</currency>
     <price1>2822.4625</price1>
@@ -51779,7 +51779,7 @@
     <id>11595</id>
     <code>2.608.690.235</code>
     <label>Sivri Keski SDS-Max 400 mm 10'lu EKO ( Pointed Chi</label>
-    <stock>9</stock>
+    <stock>8</stock>
     <details />
     <currency>TRL</currency>
     <price1>4214.1</price1>
@@ -51804,7 +51804,7 @@
     <id>11596</id>
     <code>2.608.690.236</code>
     <label>Sivri Keski SDS-Max 600 mm 10'lu EKO</label>
-    <stock>7</stock>
+    <stock>6</stock>
     <details />
     <currency>TRL</currency>
     <price1>6324.8625</price1>
@@ -51829,7 +51829,7 @@
     <id>11597</id>
     <code>2.608.690.237</code>
     <label>Yassı Keski SDS-Max 400*25 mm 10'lu EKO ( Cold Chi</label>
-    <stock>24</stock>
+    <stock>23</stock>
     <details />
     <currency>TRL</currency>
     <price1>4214.1</price1>
@@ -52579,7 +52579,7 @@
     <id>11627</id>
     <code>2.608.833.810</code>
     <label>SDS-Plus-5X 12*310 mm ( 5X drill bit - 12x250x310</label>
-    <stock>169</stock>
+    <stock>149</stock>
     <details />
     <currency>TRL</currency>
     <price1>404.25</price1>
@@ -54454,7 +54454,7 @@
     <id>12092</id>
     <code>2.608.600.543</code>
     <label>EXMetal Kesme Taşı 355x3 25,40*2,8 mm Düz</label>
-    <stock>1366</stock>
+    <stock>1266</stock>
     <details />
     <currency>TRL</currency>
     <price1>120.02067</price1>
@@ -71032,7 +71032,7 @@ GBH 1-52</label>
     <id>13224</id>
     <code>13000001874</code>
     <label>600 MM OLUKLU LEVYE KROM</label>
-    <stock>10</stock>
+    <stock>5</stock>
     <details />
     <currency>TRL</currency>
     <price1>681.38</price1>
@@ -76132,7 +76132,7 @@ GBH 1-52</label>
     <id>20982</id>
     <code>2.608.833.891</code>
     <label>SDS-Plus-5X 6*110 mm 10'lu Paket</label>
-    <stock>17</stock>
+    <stock>15</stock>
     <details />
     <currency>TRL</currency>
     <price1>1145.1</price1>
@@ -76232,7 +76232,7 @@ GBH 1-52</label>
     <id>20986</id>
     <code>2.608.833.901</code>
     <label>SDS-Plus-5X 8*260 mm 10'lu Paket</label>
-    <stock>14</stock>
+    <stock>12</stock>
     <details />
     <currency>TRL</currency>
     <price1>2274.1125</price1>
@@ -76282,7 +76282,7 @@ GBH 1-52</label>
     <id>20988</id>
     <code>2.608.833.904</code>
     <label>SDS-Plus-5X 10*260 mm 10'lu Paket</label>
-    <stock>1</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>2628.8625</price1>
@@ -100432,7 +100432,7 @@ GBH 1-52</label>
     <id>40744</id>
     <code>0.601.B28.000</code>
     <label>GCD 12 JL Profil Kesme Makinesi</label>
-    <stock>14</stock>
+    <stock>10</stock>
     <details />
     <currency>TRL</currency>
     <price1>22002.0735</price1>
@@ -110482,7 +110482,7 @@ GBH 1-52</label>
     <id>44423</id>
     <code>0.611.23A.000</code>
     <label>GBH 3-28 DRE Kırıcı- Delici</label>
-    <stock>9</stock>
+    <stock>7</stock>
     <details />
     <currency>TRL</currency>
     <price1>13500.9875</price1>
@@ -141482,7 +141482,7 @@ GBH 1-52</label>
     <id>53401</id>
     <code>NMM18040933B</code>
     <label>M18x40 933-4017 8.8 C440 NORM CİVATA</label>
-    <stock>92</stock>
+    <stock>42</stock>
     <details />
     <currency>TRL</currency>
     <price1>15.7295</price1>
@@ -144007,7 +144007,7 @@ GBH 1-52</label>
     <id>53553</id>
     <code>NMM22090933B</code>
     <label>M22x90 933 8.8 C440 NORM CİVATA</label>
-    <stock>1454</stock>
+    <stock>1654</stock>
     <details />
     <currency>TRL</currency>
     <price1>45.4345</price1>
@@ -144482,7 +144482,7 @@ GBH 1-52</label>
     <id>53593</id>
     <code>NMM24100931B</code>
     <label>M24x100 931-4014 8.8 C440 NORM CİVATA</label>
-    <stock>88</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>53.214</price1>
@@ -151657,7 +151657,7 @@ GBH 1-52</label>
     <id>55323</id>
     <code>NFLS05</code>
     <label>MM 5 FLANŞLI SOMUN DIN:6923</label>
-    <stock>959906</stock>
+    <stock>947906</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.75108</price1>
@@ -163407,7 +163407,7 @@ GBH 1-52</label>
     <id>73937</id>
     <code>PUMA18082223</code>
     <label>PUMA 180x8.0x22.23 mm TAŞLAMA DİSK</label>
-    <stock>1624</stock>
+    <stock>1524</stock>
     <details />
     <currency>TRL</currency>
     <price1>53.424</price1>
@@ -166232,7 +166232,7 @@ GBH 1-52</label>
     <id>75348</id>
     <code>Pİ014B</code>
     <label>1/4  İNCE DÜZ DEMİR PUL BEYAZ</label>
-    <stock>703</stock>
+    <stock>313</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -166257,7 +166257,7 @@ GBH 1-52</label>
     <id>75349</id>
     <code>P2014B</code>
     <label>1/4 DÜZ DEMİR PUL 2 MM BEYAZ</label>
-    <stock>3864</stock>
+    <stock>3804</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -167132,7 +167132,7 @@ GBH 1-52</label>
     <id>75454</id>
     <code>RYN11070</code>
     <label>RAYNO HUBZUG 3Tx1.5M</label>
-    <stock>14</stock>
+    <stock>11</stock>
     <details>&lt;h3&gt;RAYNO HUBZUG 3Tx1.5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Karton&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Karton&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3273.984</price1>
@@ -177057,7 +177057,7 @@ GBH 1-52</label>
     <id>76434</id>
     <code>RAYNO1152260</code>
     <label>RAYNO 115*22 60 KUM ALÜMİNYUM  DİSK</label>
-    <stock>12070</stock>
+    <stock>11870</stock>
     <details>&lt;h3&gt;RAYNO 115*22 60 KUM ALÜMİNYUM  DİSK&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Metal&amp;nbsp;ve&amp;nbsp;çelik&amp;nbsp;malzemelerde&amp;nbsp;agresif&amp;nbsp;taşlamaya&lt;/p&gt;&lt;p&gt;uygundur.&amp;nbsp;Yaprak&amp;nbsp;sayısı&amp;nbsp;ve&amp;nbsp;yaprak&amp;nbsp;en&amp;nbsp;boyutu&amp;nbsp;sayesinde&lt;/p&gt;&lt;p&gt;maksimum&amp;nbsp;performansa&amp;nbsp;sahiptir.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>25.96608</price1>
@@ -177082,7 +177082,7 @@ GBH 1-52</label>
     <id>76435</id>
     <code>RAYNO1152280</code>
     <label>RAYNO 115*22 80 KUM ALÜMİNYUM  DİSK</label>
-    <stock>3369</stock>
+    <stock>3169</stock>
     <details>&lt;h3&gt;RAYNO 115*22 80 KUM ALÜMİNYUM  DİSK&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Metal&amp;nbsp;ve&amp;nbsp;çelik&amp;nbsp;malzemelerde&amp;nbsp;agresif&amp;nbsp;taşlamaya&lt;/p&gt;&lt;p&gt;uygundur.&amp;nbsp;Yaprak&amp;nbsp;sayısı&amp;nbsp;ve&amp;nbsp;yaprak&amp;nbsp;en&amp;nbsp;boyutu&amp;nbsp;sayesinde&lt;/p&gt;&lt;p&gt;maksimum&amp;nbsp;performansa&amp;nbsp;sahiptir.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>25.288704</price1>
@@ -181157,7 +181157,7 @@ GBH 1-52</label>
     <id>76787</id>
     <code>2.608.706.924</code>
     <label>SDSplus hammer drill bit 5X 14x210</label>
-    <stock>144</stock>
+    <stock>91</stock>
     <details />
     <currency>TRL</currency>
     <price1>351.8625</price1>
@@ -181407,7 +181407,7 @@ GBH 1-52</label>
     <id>76816</id>
     <code>RYN10552</code>
     <label>RAYNO BÜYÜK ŞARJLI LED FENER İSTASYONLU 2000 MAH</label>
-    <stock>1389</stock>
+    <stock>1384</stock>
     <details>&lt;h3&gt;RAYNO BÜYÜK ŞARJLI LED FENER İSTASYONLU 2000 MAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;Batarya&amp;nbsp;:&amp;nbsp;2000&amp;nbsp;mAh&lt;/p&gt;&lt;p&gt;Kafa&amp;nbsp;:&amp;nbsp;250&amp;nbsp;Lümen&lt;/p&gt;&lt;p&gt;Gövde&amp;nbsp;:&amp;nbsp;500&amp;nbsp;Lümen&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>835.4304</price1>
@@ -181807,7 +181807,7 @@ GBH 1-52</label>
     <id>76844</id>
     <code>2.608.706.892</code>
     <label>SDSplus hammer drill bit 5X 8x210</label>
-    <stock>44</stock>
+    <stock>24</stock>
     <details />
     <currency>TRL</currency>
     <price1>209.1375</price1>
@@ -183157,7 +183157,7 @@ GBH 1-52</label>
     <id>77974</id>
     <code>RYN10667</code>
     <label>RAYNO ALÜMİNYUM GÖNYE 500mm</label>
-    <stock>76</stock>
+    <stock>46</stock>
     <details>&lt;h3&gt;RAYNO ALÜMİNYUM GÖNYE 500mm&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;RAYNO&amp;nbsp;ALÜMİNYUM&amp;nbsp;GÖNYE&amp;nbsp;500mm&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;500mm&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>148.571136</price1>
@@ -184082,7 +184082,7 @@ GBH 1-52</label>
     <id>78017</id>
     <code>2.608.706.877</code>
     <label>SDSplus hammer drill bit 5X 6x210</label>
-    <stock>66</stock>
+    <stock>46</stock>
     <details />
     <currency>TRL</currency>
     <price1>204.6</price1>
@@ -184732,7 +184732,7 @@ GBH 1-52</label>
     <id>78085</id>
     <code>2.608.706.888</code>
     <label>SDSplus hammer drill bit 5X 7x210</label>
-    <stock>19</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>230.5875</price1>
@@ -186332,7 +186332,7 @@ GBH 1-52</label>
     <id>78183</id>
     <code>RYN6061</code>
     <label>RAYNO BOYA TABANCASI ÜSTTEN 600CC (1.8 MM)</label>
-    <stock>614</stock>
+    <stock>611</stock>
     <details />
     <currency>TRL</currency>
     <price1>240</price1>
@@ -186432,7 +186432,7 @@ GBH 1-52</label>
     <id>78187</id>
     <code>RYN6065</code>
     <label>RAYNO BOYA TABANCASI ALTTAN 750CC (2.0 MM)</label>
-    <stock>464</stock>
+    <stock>463</stock>
     <details />
     <currency>TRL</currency>
     <price1>288</price1>
@@ -193232,7 +193232,7 @@ GBH 1-52</label>
     <id>78578</id>
     <code>2.608.706.913</code>
     <label>SDSplus hammer drill bit 5X 12x210</label>
-    <stock>21</stock>
+    <stock>1</stock>
     <details />
     <currency>TRL</currency>
     <price1>268.125</price1>
@@ -193657,7 +193657,7 @@ GBH 1-52</label>
     <id>78616</id>
     <code>5902205901</code>
     <label>SCHEPPACH HMS850 PLANYA KALINLIK MAKİNASI</label>
-    <stock>185</stock>
+    <stock>178</stock>
     <details>&lt;h3&gt;SCHEPPACH HMS850 PLANYA KALINLIK MAKİNASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Planya&amp;nbsp;Kalınlık&amp;nbsp;Makinesi&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Alüminyum&amp;nbsp;pres&amp;nbsp;dökümden&amp;nbsp;yapılmış,&amp;nbsp;el&amp;nbsp;krankı&amp;nbsp;ile&amp;nbsp;kolay&amp;nbsp;yükseklik&amp;nbsp;ayarı&lt;/p&gt;&lt;p&gt;yapabileceğiniz,&amp;nbsp;lastik&amp;nbsp;ayakları&amp;nbsp;ile&amp;nbsp;titreşimi&amp;nbsp;sönümleyen&amp;nbsp;ve&amp;nbsp;1250&amp;nbsp;W&amp;nbsp;motor&lt;/p&gt;&lt;p&gt;gücüne&amp;nbsp;sahip&amp;nbsp;kombine&amp;nbsp;yüzey&amp;nbsp;planya&amp;nbsp;ve&amp;nbsp;kalınlık&amp;nbsp;makinesi.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;780&amp;nbsp;x&amp;nbsp;440&amp;nbsp;x&amp;nbsp;455&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Planya&amp;nbsp;Tezgah&amp;nbsp;Ölçüsü&amp;nbsp;737&amp;nbsp;x&amp;nbsp;210&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kalınlık&amp;nbsp;Tezgah&amp;nbsp;Ölçüsü&amp;nbsp;350&amp;nbsp;x&amp;nbsp;204&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Bıçak&amp;nbsp;Sayısı&amp;nbsp;2&lt;/p&gt;&lt;p&gt;Planya&amp;nbsp;Şaft&amp;nbsp;Hızı&amp;nbsp;8000&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;1250&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;23&amp;nbsp;/&amp;nbsp;25&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5902205901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>18247.6</price1>
@@ -196632,7 +196632,7 @@ GBH 1-52</label>
     <id>78787</id>
     <code>0.601.9N4.002</code>
     <label>GWS 18V-11 S Akülü Taşlama</label>
-    <stock>1</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>16503.2175</price1>
@@ -196682,7 +196682,7 @@ GBH 1-52</label>
     <id>78790</id>
     <code>1.600.A01.6GK</code>
     <label>ProCORE18V 8,0 Ah Akü</label>
-    <stock>6</stock>
+    <stock>5</stock>
     <details />
     <currency>TRL</currency>
     <price1>0</price1>
@@ -197757,7 +197757,7 @@ GBH 1-52</label>
     <id>78842</id>
     <code>5904610903</code>
     <label>SCHEPPACH HP1200S ZEMİN SIKIŞTIRMA MAKİNASI</label>
-    <stock>28</stock>
+    <stock>27</stock>
     <details>&lt;h3&gt;SCHEPPACH HP1200S ZEMİN SIKIŞTIRMA MAKİNASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Zemin&amp;nbsp;Sıkıştırma&amp;nbsp;Makinesi&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Kavisli&amp;nbsp;kenarlara&amp;nbsp;sahip,&amp;nbsp;450&amp;nbsp;x&amp;nbsp;350&amp;nbsp;mm&amp;nbsp;ölçülerindeki&amp;nbsp;sağlam&amp;nbsp;çelik&amp;nbsp;taban&lt;/p&gt;&lt;p&gt;plakası,&amp;nbsp;farklı&amp;nbsp;zeminlerde&amp;nbsp;eşit&amp;nbsp;ve&amp;nbsp;güçlü&amp;nbsp;bir&amp;nbsp;sıkıştırma&amp;nbsp;sağlar.&amp;nbsp;Kendi&amp;nbsp;kendini&lt;/p&gt;&lt;p&gt;temizleyen&amp;nbsp;taban&amp;nbsp;yapısı,&amp;nbsp;çalışma&amp;nbsp;sırasında&amp;nbsp;kir&amp;nbsp;ve&amp;nbsp;kalıntı&amp;nbsp;birikimini&amp;nbsp;en&amp;nbsp;aza&lt;/p&gt;&lt;p&gt;indirirken,&amp;nbsp;blok&amp;nbsp;döşeme&amp;nbsp;uygulamaları&amp;nbsp;için&amp;nbsp;özel&amp;nbsp;olarak&amp;nbsp;tasarlanmış&amp;nbsp;kauçuk&lt;/p&gt;&lt;p&gt;minder&amp;nbsp;ise&amp;nbsp;yüzeylere&amp;nbsp;zarar&amp;nbsp;vermeden&amp;nbsp;güvenli&amp;nbsp;çalışma&amp;nbsp;imkanı&amp;nbsp;sunar.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;1040&amp;nbsp;x&amp;nbsp;4&amp;nbsp;00&amp;nbsp;x&amp;nbsp;890&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Plaka&amp;nbsp;Boyutu&amp;nbsp;450&amp;nbsp;x&amp;nbsp;350&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Sıkıştırma&amp;nbsp;Basıncı&amp;nbsp;15.000&amp;nbsp;N&lt;/p&gt;&lt;p&gt;İlerleme&amp;nbsp;Hızı&amp;nbsp;25&amp;nbsp;m/dak&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Hızı&amp;nbsp;600&amp;nbsp;m2/s&lt;/p&gt;&lt;p&gt;Sıkıştırma&amp;nbsp;Derinliği&amp;nbsp;25&amp;nbsp;cm&lt;/p&gt;&lt;p&gt;Silindir&amp;nbsp;Hacmi&amp;nbsp;196&amp;nbsp;cm3&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;6.5&amp;nbsp;Hp&amp;nbsp;4&amp;nbsp;Zamanlı&amp;nbsp;Benzinli&amp;nbsp;Motor&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;58&amp;nbsp;/&amp;nbsp;60.5&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5904610903&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>24578.4</price1>
@@ -197907,7 +197907,7 @@ GBH 1-52</label>
     <id>78848</id>
     <code>5909806915</code>
     <label>SCHEPPACH S800 MANUEL SÜPÜRGE</label>
-    <stock>828</stock>
+    <stock>823</stock>
     <details>&lt;h3&gt;SCHEPPACH S800 MANUEL SÜPÜRGE&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Manuel&amp;nbsp;Süpürge&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;650&amp;nbsp;mm&amp;nbsp;süpürme&amp;nbsp;genişliğine&amp;nbsp;sahip&amp;nbsp;bu&amp;nbsp;manuel&amp;nbsp;el&amp;nbsp;süpürgesi,&amp;nbsp;2600&amp;nbsp;m²&amp;#39;ye&amp;nbsp;kadar&lt;/p&gt;&lt;p&gt;yüzeylerin&amp;nbsp;kapsamlı&amp;nbsp;temizliği&amp;nbsp;için&amp;nbsp;idealdir.&amp;nbsp;20&amp;nbsp;litrelik&amp;nbsp;geniş&amp;nbsp;çöp&amp;nbsp;depolama&amp;nbsp;haznesi,&lt;/p&gt;&lt;p&gt;dayanıklı&amp;nbsp;kıllarla&amp;nbsp;donatılmış&amp;nbsp;üç&amp;nbsp;fırçalı&amp;nbsp;süpürme&amp;nbsp;sistemi&amp;nbsp;ve&amp;nbsp;360&amp;nbsp;derece&amp;nbsp;dönebilen&lt;/p&gt;&lt;p&gt;tekerlekleri&amp;nbsp;sayesinde&amp;nbsp;üstün&amp;nbsp;performans&amp;nbsp;ve&amp;nbsp;kolay&amp;nbsp;manevra&amp;nbsp;kabiliyeti&amp;nbsp;sunar.&lt;/p&gt;&lt;p&gt;Palet&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;593&amp;nbsp;x&amp;nbsp;650&amp;nbsp;x&amp;nbsp;1000&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Süpürme&amp;nbsp;Genişliği&amp;nbsp;650&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Depolama&amp;nbsp;Hacmi&amp;nbsp;20&amp;nbsp;L&lt;/p&gt;&lt;p&gt;Temizlik&amp;nbsp;Alanı&amp;nbsp;2600&amp;nbsp;m2/s&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;9&amp;nbsp;/&amp;nbsp;10.5&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5909806915&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>5772.2</price1>
@@ -199207,7 +199207,7 @@ GBH 1-52</label>
     <id>78918</id>
     <code>5901216901</code>
     <label>SCHEPPACH HM254 GÖNYE KESME MAKİNASI</label>
-    <stock>435</stock>
+    <stock>433</stock>
     <details>&lt;h3&gt;SCHEPPACH HM254 GÖNYE KESME MAKİNASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Gönye&amp;nbsp;Kesme&amp;nbsp;Makinesi&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ahşap&amp;nbsp;ve&amp;nbsp;plastik&amp;nbsp;gibi&amp;nbsp;malzemelerin&amp;nbsp;hassas&amp;nbsp;açılı&amp;nbsp;şekilde&amp;nbsp;kesimler&amp;nbsp;için&amp;nbsp;±&amp;nbsp;45&lt;/p&gt;&lt;p&gt;derece&amp;nbsp;arasında&amp;nbsp;döndürülebilir&amp;nbsp;tezgah,&amp;nbsp;Ø&amp;nbsp;255&amp;nbsp;mm&amp;nbsp;çaplı&amp;nbsp;testereye&amp;nbsp;sahip&lt;/p&gt;&lt;p&gt;340&amp;nbsp;mm&amp;nbsp;kesim&amp;nbsp;genişliği&amp;nbsp;sağlayan,&amp;nbsp;gövdede&amp;nbsp;yükseklik&amp;nbsp;ayarlı&amp;nbsp;durdurma&lt;/p&gt;&lt;p&gt;rayı&amp;nbsp;ve&amp;nbsp;hassas&amp;nbsp;kesimler&amp;nbsp;için&amp;nbsp;entegre&amp;nbsp;lazer&amp;nbsp;ile&amp;nbsp;tasarlanmış&amp;nbsp;hafif&lt;/p&gt;&lt;p&gt;alüminyum&amp;nbsp;dökümden&amp;nbsp;kolay&amp;nbsp;taşınabilir&amp;nbsp;gönye&amp;nbsp;testere.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;770&amp;nbsp;x&amp;nbsp;595&amp;nbsp;x&amp;nbsp;590&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Testere&amp;nbsp;Bıçağı&amp;nbsp;(Ø)&amp;nbsp;255&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Devir&amp;nbsp;Sayısı&amp;nbsp;4500&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Eğim&amp;nbsp;Açısı&amp;nbsp;45°&lt;/p&gt;&lt;p&gt;Gönye&amp;nbsp;Açısı&amp;nbsp;+45°&amp;nbsp;sol&amp;nbsp;ile&amp;nbsp;-45°&amp;nbsp;sağ&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Gen./&amp;nbsp;Yük.&amp;nbsp;90°/90°&amp;nbsp;340&amp;nbsp;x&amp;nbsp;90&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;2000&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;14.3&amp;nbsp;/&amp;nbsp;17.5&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5901216901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>11134.76</price1>
@@ -203607,7 +203607,7 @@ GBH 1-52</label>
     <id>79104</id>
     <code>5903202901</code>
     <label>SCHEPPACH TİGER2500 SULU TAŞ MOTORU</label>
-    <stock>166</stock>
+    <stock>165</stock>
     <details>&lt;h3&gt;SCHEPPACH TİGER2500 SULU TAŞ MOTORU&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Sulu&amp;nbsp;Taş&amp;nbsp;Motoru&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Sıçrama&amp;nbsp;suyuna&amp;nbsp;karşı&amp;nbsp;korumalı&amp;nbsp;motor&amp;nbsp;ve&amp;nbsp;şaltere&amp;nbsp;sahip&amp;nbsp;çelik&amp;nbsp;gövde,&amp;nbsp;sessiz&lt;/p&gt;&lt;p&gt;ve&amp;nbsp;titreşimsiz&amp;nbsp;çalışan&amp;nbsp;200&amp;nbsp;W&amp;nbsp;endüksiyon&amp;nbsp;motorla&amp;nbsp;donatılmış,&amp;nbsp;doğru&amp;nbsp;taşlama&lt;/p&gt;&lt;p&gt;açısından&amp;nbsp;ayarlanabilir&amp;nbsp;açı&amp;nbsp;mastarı&amp;nbsp;ve&amp;nbsp;Ø&amp;nbsp;250&amp;nbsp;mm&amp;nbsp;çaplı&amp;nbsp;özel&amp;nbsp;edelkorund&lt;/p&gt;&lt;p&gt;taşlama&amp;nbsp;taşı&amp;nbsp;ve&amp;nbsp;deri&amp;nbsp;bileme&amp;nbsp;diski&amp;nbsp;ile&amp;nbsp;tasarlanmış&amp;nbsp;sulu&amp;nbsp;taş&amp;nbsp;motoru.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;320&amp;nbsp;x&amp;nbsp;325&amp;nbsp;x&amp;nbsp;335&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Taşlama&amp;nbsp;Taşı&amp;nbsp;Ölçüleri&amp;nbsp;Ø&amp;nbsp;250&amp;nbsp;x&amp;nbsp;Ø&amp;nbsp;12&amp;nbsp;x&amp;nbsp;50&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Taşlama&amp;nbsp;Taşı&amp;nbsp;Malzeme&amp;nbsp;Edelkorund&amp;nbsp;-&amp;nbsp;K220&lt;/p&gt;&lt;p&gt;Deri&amp;nbsp;Bileme&amp;nbsp;Disk&lt;/p&gt;&lt;p&gt;Ölçüleri&amp;nbsp;Ø&amp;nbsp;200&amp;nbsp;x&amp;nbsp;Ø&amp;nbsp;12&amp;nbsp;x&amp;nbsp;30&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Dönüş&amp;nbsp;Hızı&amp;nbsp;90&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;200&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;16&amp;nbsp;/&amp;nbsp;18&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5903202901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9310</price1>
@@ -203807,7 +203807,7 @@ GBH 1-52</label>
     <id>79115</id>
     <code>5906226903</code>
     <label>SCHEPPACH SG3200X 2,8 kW BENZİN MONOFAZE JENERATÖR</label>
-    <stock>16</stock>
+    <stock>11</stock>
     <details>&lt;h3&gt;SCHEPPACH SG3200X 2,8 kW BENZİN MONOFAZE JENERATÖR&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;&amp;nbsp;Benzinli&amp;nbsp;Monofaze&amp;nbsp;Jeneratör&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;5,8&amp;nbsp;hp&amp;nbsp;4&amp;nbsp;zamanlı&amp;nbsp;benzinli&amp;nbsp;motora&amp;nbsp;sahip,&amp;nbsp;çekme&amp;nbsp;ipli&amp;nbsp;çalıştırabileceğiniz,&lt;/p&gt;&lt;p&gt;entegre&amp;nbsp;aşırı&amp;nbsp;yük&amp;nbsp;koruması,&amp;nbsp;gerilim&amp;nbsp;ölçer&amp;nbsp;ve&amp;nbsp;yağ&amp;nbsp;seviyesi&amp;nbsp;uyarısı&amp;nbsp;bulunan,&lt;/p&gt;&lt;p&gt;15&amp;nbsp;litre&amp;nbsp;benzin&amp;nbsp;deposu&amp;nbsp;ile&amp;nbsp;uzun&amp;nbsp;çalışma&amp;nbsp;süresine&amp;nbsp;sahip,&amp;nbsp;kolay&amp;nbsp;taşıma&amp;nbsp;kolu&lt;/p&gt;&lt;p&gt;ile&amp;nbsp;tasarlanmış&amp;nbsp;2800&amp;nbsp;W&amp;nbsp;monofaze&amp;nbsp;jenaratör.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;660&amp;nbsp;x&amp;nbsp;600&amp;nbsp;x&amp;nbsp;500&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Gerilim&amp;nbsp;Kontrolü&amp;nbsp;AVR&amp;nbsp;Sistemi&lt;/p&gt;&lt;p&gt;Nominal&amp;nbsp;/&amp;nbsp;Mak.&amp;nbsp;Güç&amp;nbsp;2500&amp;nbsp;/&amp;nbsp;2800&amp;nbsp;W&lt;/p&gt;&lt;p&gt;Gerilim&amp;nbsp;Çıkışı&amp;nbsp;2&amp;nbsp;x&amp;nbsp;230&amp;nbsp;V&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;5,8&amp;nbsp;HP&lt;/p&gt;&lt;p&gt;Silindir&amp;nbsp;Hacmi&amp;nbsp;212&amp;nbsp;cm3&lt;/p&gt;&lt;p&gt;Çalıştırma&amp;nbsp;Sistemi&amp;nbsp;Çekme&amp;nbsp;İpli&amp;nbsp;Marş&lt;/p&gt;&lt;p&gt;Yakıt&amp;nbsp;Deposu&amp;nbsp;Hacmi&amp;nbsp;15&amp;nbsp;L&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;44.7&amp;nbsp;/&amp;nbsp;47&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5906226903&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>17130.4</price1>
@@ -205432,7 +205432,7 @@ GBH 1-52</label>
     <id>79215</id>
     <code>5908608901</code>
     <label>SCHEPPACH HWW1000 TEMİZ SU POMPASI</label>
-    <stock>490</stock>
+    <stock>489</stock>
     <details>&lt;h3&gt;SCHEPPACH HWW1000 TEMİZ SU POMPASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;HİDROFOR&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;4.4&amp;nbsp;bar&amp;nbsp;gücü&amp;nbsp;ile&amp;nbsp;kuyu&amp;nbsp;ve&amp;nbsp;depolardan&amp;nbsp;su&amp;nbsp;çekiminde&amp;nbsp;oldukça&amp;nbsp;etkili&amp;nbsp;olan,&lt;/p&gt;&lt;p&gt;1000&amp;nbsp;W&amp;nbsp;güçlü&amp;nbsp;motoru&amp;nbsp;sayesinde&amp;nbsp;saatte&amp;nbsp;4300&amp;nbsp;L&amp;nbsp;debiye&amp;nbsp;sahip,&amp;nbsp;7&amp;nbsp;m&lt;/p&gt;&lt;p&gt;derinlekten&amp;nbsp;çekim&amp;nbsp;yapabileceğiniz&amp;nbsp;ve&amp;nbsp;44&amp;nbsp;m&amp;nbsp;mesafeye&amp;nbsp;basabileceğiniz,&lt;/p&gt;&lt;p&gt;19&amp;nbsp;L&amp;nbsp;genişletme&amp;nbsp;tankına&amp;nbsp;sahip,&amp;nbsp;ev&amp;nbsp;su&amp;nbsp;tesisatında&amp;nbsp;kullanabileceğiniz&amp;nbsp;temiz&lt;/p&gt;&lt;p&gt;su&amp;nbsp;pompası.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;445&amp;nbsp;x&amp;nbsp;270&amp;nbsp;x&amp;nbsp;500&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Debisi&amp;nbsp;4300&amp;nbsp;L/s&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Debi&amp;nbsp;Basıncı&amp;nbsp;4.4&amp;nbsp;bar&lt;/p&gt;&lt;p&gt;Emiş&amp;nbsp;Derinliği&amp;nbsp;7&amp;nbsp;m&lt;/p&gt;&lt;p&gt;Atış&amp;nbsp;Mesafesi&amp;nbsp;44&amp;nbsp;m&lt;/p&gt;&lt;p&gt;Tank&amp;nbsp;Kapasitesi&amp;nbsp;19&amp;nbsp;L&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Partikül&amp;nbsp;Boyutu&amp;nbsp;1&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Su&amp;nbsp;Sıcaklığı&amp;nbsp;Maks.&amp;nbsp;35°C&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;1000&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;11.7&amp;nbsp;/&amp;nbsp;15.1&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5908608901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7410.76</price1>
@@ -207157,7 +207157,7 @@ GBH 1-52</label>
     <id>79332</id>
     <code>RYN11450</code>
     <label>RAYNO LAZER ÇİZGİ HİZALAMA</label>
-    <stock>2110</stock>
+    <stock>2108</stock>
     <details />
     <currency>TRL</currency>
     <price1>1422.4896</price1>
@@ -207182,7 +207182,7 @@ GBH 1-52</label>
     <id>79333</id>
     <code>RYN11451</code>
     <label>RAYNO LAZER METRE 40 M</label>
-    <stock>1404</stock>
+    <stock>1400</stock>
     <details />
     <currency>TRL</currency>
     <price1>858.0096</price1>
@@ -207207,7 +207207,7 @@ GBH 1-52</label>
     <id>79334</id>
     <code>RYN11452</code>
     <label>RAYNO LAZER METRE 60 M</label>
-    <stock>1289</stock>
+    <stock>1285</stock>
     <details />
     <currency>TRL</currency>
     <price1>925.7472</price1>
@@ -207232,7 +207232,7 @@ GBH 1-52</label>
     <id>79335</id>
     <code>RYN11453</code>
     <label>RAYNO LAZER METRE 100 M</label>
-    <stock>2364</stock>
+    <stock>2330</stock>
     <details />
     <currency>TRL</currency>
     <price1>1128.96</price1>
@@ -209532,7 +209532,7 @@ GBH 1-52</label>
     <id>79494</id>
     <code>0.601.076.700</code>
     <label>GIM 60</label>
-    <stock>4</stock>
+    <stock>3</stock>
     <details />
     <currency>TRL</currency>
     <price1>6000.148</price1>
@@ -211182,7 +211182,7 @@ GBH 1-52</label>
     <id>79633</id>
     <code>2.608.706.876</code>
     <label>PRO SDS-Plus-5X K-Delici Ucu 6*160mm</label>
-    <stock>162</stock>
+    <stock>142</stock>
     <details />
     <currency>TRL</currency>
     <price1>137.3625</price1>
@@ -211282,7 +211282,7 @@ GBH 1-52</label>
     <id>79637</id>
     <code>2.608.706.914</code>
     <label>SDSplus hammer drill bit 5X 12x260</label>
-    <stock>3</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>338.25</price1>
@@ -211682,7 +211682,7 @@ GBH 1-52</label>
     <id>79660</id>
     <code>2.608.706.903</code>
     <label>PRO SDS-Plus-5X K-Delici Ucu 10*210 mm</label>
-    <stock>111</stock>
+    <stock>101</stock>
     <details />
     <currency>TRL</currency>
     <price1>239.25</price1>
@@ -212082,7 +212082,7 @@ GBH 1-52</label>
     <id>79696</id>
     <code>RYN10635</code>
     <label>RAYNO END.BOYA TABANCASI ÜSTTEN 600CC (1.3 MM)</label>
-    <stock>710</stock>
+    <stock>690</stock>
     <details />
     <currency>TRL</currency>
     <price1>912</price1>
@@ -212107,7 +212107,7 @@ GBH 1-52</label>
     <id>79697</id>
     <code>RYN10636</code>
     <label>RAYNO END.BOYA TABANCASI ÜSTTEN 600CC (1.8 MM)</label>
-    <stock>693</stock>
+    <stock>673</stock>
     <details />
     <currency>TRL</currency>
     <price1>912</price1>
@@ -212182,7 +212182,7 @@ GBH 1-52</label>
     <id>79700</id>
     <code>RYN10641</code>
     <label>RAYNO END.BOYA TABANCASI ALTTAN 1000CC (1.8 MM)</label>
-    <stock>512</stock>
+    <stock>502</stock>
     <details />
     <currency>TRL</currency>
     <price1>1094.4</price1>
@@ -223807,7 +223807,7 @@ GBH 1-52</label>
     <id>80643</id>
     <code>RYN11769</code>
     <label>RAYNO ENDÜSTRİYEL HUBZUG 1.5Tx1.5M</label>
-    <stock>33</stock>
+    <stock>30</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HUBZUG 1.5Tx1.5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Karton&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Karton&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2285.82</price1>
