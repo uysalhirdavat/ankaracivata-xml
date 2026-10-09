@@ -2704,7 +2704,7 @@
     <id>376</id>
     <code>MM12060933S</code>
     <label>MM 12 * 60  DIN933 AKB CİVATA 8.8 SİYAH</label>
-    <stock>640</stock>
+    <stock>240</stock>
     <details>&lt;h3&gt;MM 12 * 60  DIN933 AKB CİVATA 8.8 SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;60&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6.41296</price1>
@@ -14229,7 +14229,7 @@
     <id>4143</id>
     <code>GS122000B</code>
     <label>MM 12 * 2 MT GİJON SAPLAMA</label>
-    <stock>861</stock>
+    <stock>781</stock>
     <details>&lt;h3&gt;MM 12 * 2 MT GİJON SAPLAMA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;2&amp;nbsp;MT&amp;nbsp;GİJON&amp;nbsp;SAPLAMA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>88.236</price1>
@@ -19279,7 +19279,7 @@
     <id>6197</id>
     <code>FİSCO005</code>
     <label>ÇELİK METRE UM 5M FİSCO</label>
-    <stock>1340</stock>
+    <stock>1300</stock>
     <details />
     <currency>TRL</currency>
     <price1>262.5</price1>
@@ -22454,7 +22454,7 @@
     <id>7724</id>
     <code>MMS12B</code>
     <label>M 12 DIN934 SOMUN BEYAZ</label>
-    <stock>197773</stock>
+    <stock>196573</stock>
     <details>&lt;h3&gt;M 12 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;12&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.62232</price1>
@@ -22529,7 +22529,7 @@
     <id>7727</id>
     <code>MMS16B</code>
     <label>M 16 DIN934 SOMUN BEYAZ</label>
-    <stock>109739</stock>
+    <stock>109289</stock>
     <details>&lt;h3&gt;M 16 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;16&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3.103</price1>
@@ -32029,7 +32029,7 @@
     <id>8896</id>
     <code>MM08040933B</code>
     <label>MM 8 * 40 DIN933 AKB CİVATA 8.8  BEYAZ</label>
-    <stock>17600</stock>
+    <stock>15600</stock>
     <details />
     <currency>TRL</currency>
     <price1>2.120416</price1>
@@ -75207,7 +75207,7 @@ GBH 1-52</label>
     <id>20875</id>
     <code>2.608.644.377</code>
     <label>Optiline Eco 190*30 mm 48 Diş ( Circular Saw Blade</label>
-    <stock>76</stock>
+    <stock>75</stock>
     <details />
     <currency>TRL</currency>
     <price1>644.7375</price1>
@@ -101932,7 +101932,7 @@ GBH 1-52</label>
     <id>40914</id>
     <code>OPT 86070</code>
     <label>OSAKA ÇİVİ ÇAKMA 70 MM</label>
-    <stock>4</stock>
+    <stock>2</stock>
     <details />
     <currency>TRL</currency>
     <price1>13252.5</price1>
@@ -158782,7 +158782,7 @@ GBH 1-52</label>
     <id>60361</id>
     <code>0.601.B45.000</code>
     <label>GTS 254 Gönye Kesme</label>
-    <stock>7</stock>
+    <stock>5</stock>
     <details />
     <currency>TRL</currency>
     <price1>14002.56</price1>
@@ -178707,7 +178707,7 @@ GBH 1-52</label>
     <id>76580</id>
     <code>RYN11500</code>
     <label>RAYNO ŞERİT METRE 3m x 16mm JS-78</label>
-    <stock>4500</stock>
+    <stock>4372</stock>
     <details />
     <currency>TRL</currency>
     <price1>49.67424</price1>
@@ -183282,7 +183282,7 @@ GBH 1-52</label>
     <id>77979</id>
     <code>RYN10670</code>
     <label>RAYNO BOYALI ÇIRPI İPİ MAVİ</label>
-    <stock>328</stock>
+    <stock>318</stock>
     <details />
     <currency>TRL</currency>
     <price1>43.392</price1>
@@ -196682,7 +196682,7 @@ GBH 1-52</label>
     <id>78790</id>
     <code>1.600.A01.6GK</code>
     <label>ProCORE18V 8,0 Ah Akü</label>
-    <stock>5</stock>
+    <stock>3</stock>
     <details />
     <currency>TRL</currency>
     <price1>0</price1>
@@ -205682,7 +205682,7 @@ GBH 1-52</label>
     <id>79231</id>
     <code>1.600.A00.B8G</code>
     <label>GAL 1880 CV Karton UNI</label>
-    <stock>9</stock>
+    <stock>8</stock>
     <details />
     <currency>TRL</currency>
     <price1>0</price1>
@@ -224307,7 +224307,7 @@ GBH 1-52</label>
     <id>80663</id>
     <code>RYN11766</code>
     <label>RAYNO ENDÜSTRİYEL HSZ YUVARLAK TİP CARASAKL 5Tx5M</label>
-    <stock>19</stock>
+    <stock>18</stock>
     <details />
     <currency>TRL</currency>
     <price1>4673.232</price1>
@@ -227082,7 +227082,7 @@ GBH 1-52</label>
     <id>80963</id>
     <code>RYN12500</code>
     <label>RAYNO TELESKOPİK MERDİVEN 230cm (8 BASAMAK)</label>
-    <stock>327</stock>
+    <stock>326</stock>
     <details />
     <currency>TRL</currency>
     <price1>6480</price1>
@@ -227107,7 +227107,7 @@ GBH 1-52</label>
     <id>80964</id>
     <code>RYN12502</code>
     <label>RAYNO TELESKOPİK MERDİVEN 290cm (10 BASAMAK)</label>
-    <stock>327</stock>
+    <stock>326</stock>
     <details />
     <currency>TRL</currency>
     <price1>8160</price1>
@@ -227132,7 +227132,7 @@ GBH 1-52</label>
     <id>80965</id>
     <code>RYN12503</code>
     <label>RAYNO TELESKOPİK MERDİVEN 320cm (11 BASAMAK)</label>
-    <stock>329</stock>
+    <stock>328</stock>
     <details />
     <currency>TRL</currency>
     <price1>9120</price1>
@@ -227157,7 +227157,7 @@ GBH 1-52</label>
     <id>80966</id>
     <code>RYN12505</code>
     <label>RAYNO TELESKOPİK MERDİVEN 380cm (13 BASAMAK)</label>
-    <stock>328</stock>
+    <stock>327</stock>
     <details />
     <currency>TRL</currency>
     <price1>10800</price1>
@@ -227182,7 +227182,7 @@ GBH 1-52</label>
     <id>80967</id>
     <code>RYN12510</code>
     <label>RAYNO A TİPİ MERDİVEN 220cm+220cm</label>
-    <stock>328</stock>
+    <stock>327</stock>
     <details />
     <currency>TRL</currency>
     <price1>14880</price1>
