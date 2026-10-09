@@ -1129,7 +1129,7 @@
     <id>169</id>
     <code>MM08045933S</code>
     <label>MM 8 * 45 DIN933 AKB CİVATA 8.8 SİYAH</label>
-    <stock>15000</stock>
+    <stock>13800</stock>
     <details>&lt;h3&gt;MM 8 * 45 DIN933 AKB CİVATA 8.8 SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;45&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.15632</price1>
@@ -11029,7 +11029,7 @@
     <id>2910</id>
     <code>DK16145</code>
     <label>16 * 145 KLİPSLİ DÜBEL</label>
-    <stock>1060</stock>
+    <stock>650</stock>
     <details>&lt;h3&gt;16 * 145 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;145&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>21.89</price1>
@@ -11104,7 +11104,7 @@
     <id>2927</id>
     <code>DK10090</code>
     <label>10 * 90 KLİPSLİ DÜBEL</label>
-    <stock>236636</stock>
+    <stock>235136</stock>
     <details>&lt;h3&gt;10 * 90 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;10&amp;nbsp;*&amp;nbsp;90&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7.15</price1>
@@ -12679,7 +12679,7 @@
     <id>3258</id>
     <code>TRK-370-36W</code>
     <label>KABLO BAĞI BEYAZ 370*3,6</label>
-    <stock>37100</stock>
+    <stock>30200</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.8778</price1>
@@ -14229,7 +14229,7 @@
     <id>4143</id>
     <code>GS122000B</code>
     <label>MM 12 * 2 MT GİJON SAPLAMA</label>
-    <stock>761</stock>
+    <stock>661</stock>
     <details>&lt;h3&gt;MM 12 * 2 MT GİJON SAPLAMA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;2&amp;nbsp;MT&amp;nbsp;GİJON&amp;nbsp;SAPLAMA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>88.236</price1>
@@ -18829,7 +18829,7 @@
     <id>5940</id>
     <code>DK08075</code>
     <label>8 * 75 KLİPSLİ DÜBEL</label>
-    <stock>45833</stock>
+    <stock>44833</stock>
     <details>&lt;h3&gt;8 * 75 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;8&amp;nbsp;*&amp;nbsp;75&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6.05</price1>
@@ -44079,7 +44079,7 @@
     <id>11232</id>
     <code>0.601.394.000</code>
     <label>GWS 750 Avuç Taşlama ( +GWS 750 )</label>
-    <stock>992</stock>
+    <stock>998</stock>
     <details>&lt;h3&gt;GWS 750 Avuç Taşlama ( +GWS 750 )&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;GWS&amp;nbsp;750&amp;nbsp;Avuç&amp;nbsp;Taşlama&amp;nbsp;(&amp;nbsp;+GWS&amp;nbsp;750&amp;nbsp;)&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2450.085</price1>
@@ -73782,7 +73782,7 @@ GBH 1-52</label>
     <id>16432</id>
     <code>UL110S3S44</code>
     <label>YDS UL110S3S 44 NUMARA POLYCAP BOT</label>
-    <stock>8</stock>
+    <stock>2</stock>
     <details />
     <currency>TRL</currency>
     <price1>2343.33</price1>
@@ -96207,7 +96207,7 @@ GBH 1-52</label>
     <id>39297</id>
     <code>UL110S3S38</code>
     <label>YDS UL110S3S 38 NUMARA POLYCAP BOT</label>
-    <stock>5</stock>
+    <stock>2</stock>
     <details />
     <currency>TRL</currency>
     <price1>2343.33</price1>
@@ -104982,7 +104982,7 @@ GBH 1-52</label>
     <id>42486</id>
     <code>0.601.074.100</code>
     <label>GWM 40 Profesyonel Ölçme Tekeri</label>
-    <stock>5</stock>
+    <stock>2</stock>
     <details />
     <currency>TRL</currency>
     <price1>6400.6965</price1>
@@ -185982,7 +185982,7 @@ GBH 1-52</label>
     <id>78166</id>
     <code>RYN11350</code>
     <label>RAYNO PEHLİVAN KRİKO 3 TON</label>
-    <stock>252</stock>
+    <stock>251</stock>
     <details />
     <currency>TRL</currency>
     <price1>6660.864</price1>
@@ -196957,7 +196957,7 @@ GBH 1-52</label>
     <id>78809</id>
     <code>5902602901</code>
     <label>SCHEPPACH MNF2250 KANAL AÇMA MAKİNASI</label>
-    <stock>376</stock>
+    <stock>375</stock>
     <details>&lt;h3&gt;SCHEPPACH MNF2250 KANAL AÇMA MAKİNASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Kanal&amp;nbsp;Açma&amp;nbsp;Makinesi&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beton,&amp;nbsp;duvar,&amp;nbsp;sıva&amp;nbsp;veya&amp;nbsp;alçıda,&amp;nbsp;tesisat&amp;nbsp;boruları&amp;nbsp;için&amp;nbsp;yatay&amp;nbsp;ve&amp;nbsp;dikey&lt;/p&gt;&lt;p&gt;kanallar&amp;nbsp;açabileceğiniz,&amp;nbsp;125&amp;nbsp;mm&amp;nbsp;çapında&amp;nbsp;dört&amp;nbsp;adete&amp;nbsp;kadar&amp;nbsp;paralel&amp;nbsp;elmas&lt;/p&gt;&lt;p&gt;kesmi&amp;nbsp;diski&amp;nbsp;ile&amp;nbsp;kullanılabilir,&amp;nbsp;40&amp;nbsp;mm’ye&amp;nbsp;kadar&amp;nbsp;aletsiz&amp;nbsp;kesme&amp;nbsp;derinliği&lt;/p&gt;&lt;p&gt;ayarlayabileceğiniz&amp;nbsp;ve&amp;nbsp;8&amp;nbsp;-&amp;nbsp;40&amp;nbsp;mm&amp;nbsp;arasında&amp;nbsp;Kesim&amp;nbsp;Genişliğine&amp;nbsp;sahip,&amp;nbsp;mil&lt;/p&gt;&lt;p&gt;kilidi&amp;nbsp;sayesi&amp;nbsp;ile&amp;nbsp;kolay&amp;nbsp;disk&amp;nbsp;değişimi&amp;nbsp;sağlayan&amp;nbsp;ve&amp;nbsp;12&amp;nbsp;adet&amp;nbsp;ek&amp;nbsp;silindir&amp;nbsp;kılavuz&lt;/p&gt;&lt;p&gt;ile&amp;nbsp;yüzeylerde&amp;nbsp;kolayca&amp;nbsp;kaydırabileceğiniz&amp;nbsp;kanal&amp;nbsp;açma&amp;nbsp;makinesi.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;465&amp;nbsp;x&amp;nbsp;211&amp;nbsp;x&amp;nbsp;151&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesme&amp;nbsp;Diski&amp;nbsp;(Ø)&amp;nbsp;125&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Devir&amp;nbsp;Sayısı&amp;nbsp;5400&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Genişliği&amp;nbsp;8&amp;nbsp;-&amp;nbsp;40&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Derinliği&amp;nbsp;0&amp;nbsp;-&amp;nbsp;40&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;2250&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net&amp;nbsp;/&amp;nbsp;Brüt&amp;nbsp;Ağırlık&amp;nbsp;5.5&amp;nbsp;/&amp;nbsp;7.2&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5902602901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6703.2</price1>
@@ -208007,7 +208007,7 @@ GBH 1-52</label>
     <id>79397</id>
     <code>RYN10353</code>
     <label>RAYNO ALÜMİNYUM CAM VANTUZU TEKLİ</label>
-    <stock>347</stock>
+    <stock>343</stock>
     <details>&lt;h3&gt;RAYNO ALÜMİNYUM CAM VANTUZU TEKLİ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;RAYNO&amp;nbsp;ALÜMİNYUM&amp;nbsp;CAM&amp;nbsp;VANTUZU&amp;nbsp;TEKLİ&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>169.344</price1>
@@ -214310,7 +214310,7 @@ GBH 1-52</label>
     <stock>5</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1450.4</price1>
+    <price1>980</price1>
     <tax>20</tax>
     <barcode>uyl260920269998404</barcode>
     <brand>SCHEPPACH AKSESUAR</brand>
@@ -214318,11 +214318,11 @@ GBH 1-52</label>
     <category>Diğer Aksesuarlar</category>
     <unit>ADET</unit>
     <coefficient>0</coefficient>
-    <listPrice>2072</listPrice>
+    <listPrice>1400</listPrice>
     <discount>30</discount>
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>5</creditCardDiscount>
-    <vatIncluded>1740.48</vatIncluded>
+    <vatIncluded>1176</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -227157,7 +227157,7 @@ GBH 1-52</label>
     <id>80966</id>
     <code>RYN12505</code>
     <label>RAYNO TELESKOPİK MERDİVEN 380cm (13 BASAMAK)</label>
-    <stock>327</stock>
+    <stock>326</stock>
     <details />
     <currency>TRL</currency>
     <price1>10800</price1>
