@@ -27,7 +27,19 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "10201": {
+    "aciklama": "<p><strong style=\"background-color: rgb(255, 255, 255); color: red;\">EK&nbsp;ÖZELLİKLER&nbsp;&amp;&nbsp;AVANTAJLAR</strong></p><p><strong style=\"background-color: rgb(255, 255, 255); color: black;\">ALERJİ&nbsp;KORUMASI:</strong><span style=\"background-color: rgb(255, 255, 255); color: black;\">&nbsp;Lateks&nbsp;Tip&nbsp;I&nbsp;alerjisinden&nbsp;korur&nbsp;ve&nbsp;kükürt&nbsp;bazlı&nbsp;hızlandırıcılar&nbsp;içermediği&nbsp;için&nbsp;Tip&nbsp;IV&nbsp;kimyasal&nbsp;alerji&nbsp;riskini&nbsp;minimize&nbsp;eder.</span></p><p><strong style=\"background-color: rgb(255, 255, 255); color: black;\">KONFOR</strong><span style=\"background-color: rgb(255, 255, 255); color: black;\">:&nbsp;Uzun&nbsp;süreli&nbsp;kullanımda&nbsp;el&nbsp;yorgunluğunu&nbsp;azaltan&nbsp;yumuşak&nbsp;nitril&nbsp;formülasyon</span></p><p><strong style=\"background-color: rgb(255, 255, 255); color: black;\">ÇİFT&nbsp;KAT&nbsp;KULLANIM</strong><span style=\"background-color: rgb(255, 255, 255); color: black;\">:&nbsp;Çift&nbsp;kat&nbsp;eldiven&nbsp;uygulamalarında&nbsp;iç&nbsp;eldiven&nbsp;olarak&nbsp;kullanıma&nbsp;uygundur.</span></p><p><strong style=\"background-color: rgb(255, 255, 255); color: red;\">Temel&nbsp;Endüstriler</strong></p><p><span style=\"background-color: rgb(255, 255, 255); color: black;\">Sağlık&nbsp;ve&nbsp;Tıp&nbsp;(Hastaneler,&nbsp;Klinikler)</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: black;\">Gıda&nbsp;İşleme&nbsp;ve&nbsp;Servis</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: black;\">Laboratuvar&nbsp;ve&nbsp;Kimya&nbsp;Sanayii</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: black;\">Temizlik&nbsp;ve&nbsp;Hijyen&nbsp;Hizmetleri</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: black;\">Güzellik&nbsp;ve&nbsp;Bakım&nbsp;(Kuaför,&nbsp;Dövme&nbsp;Salonları,&nbsp;Güzellik&nbsp;Merkezleri)</span></p><p><span style=\"background-color: rgb(255, 255, 255); color: black;\">Otomotiv&nbsp;ve&nbsp;Hafif&nbsp;Sanayi&nbsp;Sanayi</span></p><p></p>",
+    "teknikOzellikler": ""
+  },
+  "10202": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "10219": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10238": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -37,6 +49,10 @@
   },
   "103": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;110&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "10300": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "10315": {
@@ -163,7 +179,119 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "10526": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10527": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10528": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10529": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10530": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10531": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10532": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10533": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10534": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10535": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10536": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "10537": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10554": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10555": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10556": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10558": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10559": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10560": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10561": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10562": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10563": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10565": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10566": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10567": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10568": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10569": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10570": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10571": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10572": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -1248,6 +1376,10 @@
     "teknikOzellikler": ""
   },
   "10963": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "10969": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -4519,6 +4651,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "12706": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "12707": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -4840,6 +4976,10 @@
     "teknikOzellikler": ""
   },
   "12894": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "12895": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -5491,6 +5631,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "13125": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "13128": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -5520,6 +5664,14 @@
     "teknikOzellikler": ""
   },
   "13135": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "13136": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "13137": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -5899,6 +6051,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "13234": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "13235": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -5925,6 +6081,10 @@
   },
   "13267": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "1327": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">20mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
     "teknikOzellikler": ""
   },
   "13271": {
@@ -5983,6 +6143,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "1336": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;39&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "134": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;20&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
@@ -6007,6 +6171,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;55&nbsp;İMBUS&nbsp;CİVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "1485": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">16mm&nbsp;DİŞİ&nbsp;AYBOLT&nbsp;DIN:582</span></p>",
+    "teknikOzellikler": ""
+  },
   "149": {
     "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
@@ -6023,12 +6191,24 @@
     "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">M&nbsp;4&nbsp;DIN934&nbsp;SOMUN&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "1540": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;18&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "1541": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">M&nbsp;5&nbsp;DIN934&nbsp;SOMUN&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "1543": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;20&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "1546": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;6&nbsp;DIN934&nbsp;SOMUN&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "1547": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;24&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "1553": {
@@ -6235,6 +6415,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "16387": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "16388": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -6303,6 +6487,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "16404": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "16405": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -6352,6 +6540,10 @@
     "teknikOzellikler": ""
   },
   "16417": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "16418": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -6619,6 +6811,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "18698": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "18699": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -6659,11 +6855,19 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "18709": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "18710": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
   "18711": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "18712": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -6695,6 +6899,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "1925": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">M16&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "196": {
     "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -6709,6 +6917,10 @@
   },
   "19865": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "1987": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;27&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "199": {
@@ -7467,6 +7679,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "21212": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "21214": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "21217": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -7520,6 +7740,14 @@
     "teknikOzellikler": ""
   },
   "21247": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "21251": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "21253": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -7824,6 +8052,14 @@
     "teknikOzellikler": ""
   },
   "21474": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "21476": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "21477": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -8223,6 +8459,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "21703": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "21704": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "21712": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -8551,6 +8795,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "22151": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "22157": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -8603,6 +8851,18 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "22170": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "22171": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "22172": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "22173": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -8628,6 +8888,10 @@
     "teknikOzellikler": ""
   },
   "2219": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "22191": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -9275,6 +9539,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">4.2*38&nbsp;YSB&nbsp;MATKAP&nbsp;UÇLU&nbsp;VİDA</span></p>",
     "teknikOzellikler": ""
   },
+  "259": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);\">22mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
+    "teknikOzellikler": ""
+  },
   "2590": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">4.2*45&nbsp;YSB&nbsp;MATKAP&nbsp;UÇLU&nbsp;VİDA</span></p>",
     "teknikOzellikler": ""
@@ -9855,6 +10123,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "2868": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">42&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "288": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">4,8*19&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
     "teknikOzellikler": ""
@@ -9979,6 +10251,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;120&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "2975": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">10mm&nbsp;ÇELİK&nbsp;KLEMENS&nbsp;A&nbsp;TİP</span></p>",
+    "teknikOzellikler": ""
+  },
   "2977": {
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;85&nbsp;GÖMLEKLİ&nbsp;ÇEKME&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
@@ -10017,6 +10293,10 @@
   },
   "3044": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "3054": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">8mm&nbsp;ZİNCİR&nbsp;KİLİDİ</span></p>",
     "teknikOzellikler": ""
   },
   "3058": {
@@ -10249,6 +10529,10 @@
   },
   "3280": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "33": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">27mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
     "teknikOzellikler": ""
   },
   "331": {
@@ -10759,6 +11043,38 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "36651": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "36652": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "36653": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "36654": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "36655": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "36656": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "36657": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "36658": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "36659": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -10781,6 +11097,30 @@
   },
   "372": {
     "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3739": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">12mm&nbsp;ÇELİK&nbsp;KLEMENS&nbsp;A&nbsp;TİP</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3740": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;GERDİRME</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3741": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;100&nbsp;NORMAL&nbsp;KARABİNA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3742": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;80&nbsp;VİDALI&nbsp;KARABİNA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3743": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;4&nbsp;*&nbsp;40&nbsp;NORMAL&nbsp;KARABİNA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "3744": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;22&nbsp;GERDİRME</span></p>",
     "teknikOzellikler": ""
   },
   "376": {
@@ -10919,6 +11259,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "37859": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "37895": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -11027,6 +11371,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(211, 218, 227); color: rgb(51, 65, 85);\">8&nbsp;*&nbsp;55&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "38933": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "38937": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -11075,11 +11423,23 @@
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;35&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "38951": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "38952": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "38953": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
   "38954": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "38955": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11091,8 +11451,20 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "38958": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "38959": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "3896": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;45&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "38960": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "38961": {
@@ -11188,6 +11560,10 @@
     "teknikOzellikler": ""
   },
   "38983": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "38984": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11383,6 +11759,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39128": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "39129": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -11428,6 +11808,38 @@
     "teknikOzellikler": ""
   },
   "39140": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39141": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39142": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39143": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39144": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39145": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39146": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39147": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39148": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11483,6 +11895,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39213": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39214": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "39215": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -11491,7 +11911,23 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39218": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39219": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39220": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "39221": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39222": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11575,7 +12011,27 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39246": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39247": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "39251": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39257": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39258": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39260": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11584,6 +12040,10 @@
     "teknikOzellikler": ""
   },
   "39265": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39266": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11599,7 +12059,19 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39270": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39271": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "39274": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39276": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11612,6 +12084,10 @@
     "teknikOzellikler": ""
   },
   "39279": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39280": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11723,6 +12199,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39336": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39337": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "39340": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -11784,6 +12268,10 @@
     "teknikOzellikler": ""
   },
   "39375": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39376": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -11931,6 +12419,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39427": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "39430": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -11980,6 +12472,10 @@
     "teknikOzellikler": ""
   },
   "39460": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "39466": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -12099,6 +12595,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "39553": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "396": {
     "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
@@ -12145,6 +12645,14 @@
   },
   "4005": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;2&nbsp;MT&nbsp;GİJON&nbsp;SAPLAMA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4016": {
+    "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">8mm&nbsp;KLEMENS&nbsp;DIN&nbsp;741</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4017": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">10mm&nbsp;KLEMENS&nbsp;DIN&nbsp;741</span></p>",
     "teknikOzellikler": ""
   },
   "4035": {
@@ -12583,6 +13091,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "40855": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "40857": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -12692,6 +13204,22 @@
     "teknikOzellikler": ""
   },
   "40940": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "40966": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "40967": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "40968": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "40969": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -12911,6 +13439,14 @@
     "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
     "teknikOzellikler": ""
   },
+  "4208": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">8mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4209": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
+    "teknikOzellikler": ""
+  },
   "4211": {
     "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">6.3*45&nbsp;BETOFAST&nbsp;VİDA</span></p>",
     "teknikOzellikler": ""
@@ -12949,6 +13485,10 @@
   },
   "4213": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4214": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">6mm&nbsp;ÇELİK&nbsp;KLEMENS&nbsp;A&nbsp;TİP</span></p>",
     "teknikOzellikler": ""
   },
   "42149": {
@@ -13012,6 +13552,14 @@
     "teknikOzellikler": ""
   },
   "42229": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "42233": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "42234": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -13251,6 +13799,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "42442": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "42443": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -13447,6 +13999,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "4295": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">10mm&nbsp;ZİNCİR&nbsp;KİLİDİ</span></p>",
+    "teknikOzellikler": ""
+  },
   "4322": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;FLANŞLI&nbsp;SOMUN&nbsp;DIN:6923</span></p>",
     "teknikOzellikler": ""
@@ -13564,6 +14120,26 @@
     "teknikOzellikler": ""
   },
   "43585": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "43586": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "43587": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "43588": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "43589": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "43590": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -13735,6 +14311,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;50&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "43769": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "43777": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -13828,6 +14408,10 @@
     "teknikOzellikler": ""
   },
   "43865": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "43868": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -14023,6 +14607,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "44136": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "44149": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -14179,6 +14767,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "44310": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "44311": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -14259,6 +14851,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "44382": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "44383": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "44384": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -14289,6 +14889,10 @@
   },
   "44397": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "4440": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">8mm&nbsp;ÇELİK&nbsp;KLEMENS&nbsp;A&nbsp;TİP</span></p>",
     "teknikOzellikler": ""
   },
   "44400": {
@@ -14396,6 +15000,10 @@
     "teknikOzellikler": ""
   },
   "44508": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "44510": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -14844,6 +15452,10 @@
     "teknikOzellikler": ""
   },
   "45079": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "45087": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -15303,6 +15915,18 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "45455": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "45467": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "45468": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "45470": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -15320,6 +15944,14 @@
     "teknikOzellikler": ""
   },
   "45516": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "45518": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "45519": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -15503,6 +16135,22 @@
     "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;27&nbsp;FİBERLİ&nbsp;SOMUN&nbsp;DIN:985</span></p>",
     "teknikOzellikler": ""
   },
+  "4754": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">12mm&nbsp;ZİNCİR&nbsp;KİLİDİ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4755": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">16mm&nbsp;ZİNCİR&nbsp;KİLİDİ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4756": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">15mm&nbsp;ÇELİK&nbsp;KLEMENS&nbsp;A&nbsp;TİP</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4757": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;24&nbsp;GERDİRME</span></p>",
+    "teknikOzellikler": ""
+  },
   "476": {
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;70&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -15527,8 +16175,20 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "4763": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">MM&nbsp;5&nbsp;*&nbsp;50&nbsp;NORMAL&nbsp;KARABİNA</span></p>",
+    "teknikOzellikler": ""
+  },
   "47631": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "4764": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 227, 242); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;60&nbsp;NORMAL&nbsp;KARABİNA</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4765": {
+    "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;80&nbsp;NORMAL&nbsp;KARABİNA</span></p>",
     "teknikOzellikler": ""
   },
   "47650": {
@@ -15537,6 +16197,10 @@
   },
   "47654": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "4766": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;100&nbsp;VİDALI&nbsp;KARABİNA</span></p>",
     "teknikOzellikler": ""
   },
   "47661": {
@@ -15572,6 +16236,10 @@
     "teknikOzellikler": ""
   },
   "47761": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "47780": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -15621,6 +16289,10 @@
   },
   "481": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "4824": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">14mm&nbsp;DİŞİ&nbsp;AYBOLT&nbsp;DIN:582</span></p>",
     "teknikOzellikler": ""
   },
   "483": {
@@ -15935,6 +16607,18 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "49021": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "49022": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "49024": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "49025": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -15965,6 +16649,10 @@
   },
   "491": {
     "aciklama": "<p><span style=\"background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;100&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "4915": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;14&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "4918": {
@@ -16143,6 +16831,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "5153": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">6mm&nbsp;ZİNCİR&nbsp;KİLİDİ</span></p>",
+    "teknikOzellikler": ""
+  },
   "5159": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -16244,6 +16936,10 @@
     "teknikOzellikler": ""
   },
   "52215": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "52218": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -21779,11 +22475,31 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "55590": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "5560": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">10&nbsp;*&nbsp;16&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
   "55616": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "55620": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "55622": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "55623": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "55625": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -21855,6 +22571,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "55722": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "55723": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -21879,7 +22599,15 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "55740": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "55749": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "55754": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -21897,6 +22625,10 @@
   },
   "55761": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "5579": {
+    "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">MM&nbsp;7&nbsp;*&nbsp;70&nbsp;NORMAL&nbsp;KARABİNA</span></p>",
     "teknikOzellikler": ""
   },
   "5606": {
@@ -21939,6 +22671,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;55&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "5627": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 226); color: rgb(51, 65, 85);\">20mm&nbsp;DİŞİ&nbsp;AYBOLT&nbsp;DIN:582</span></p>",
+    "teknikOzellikler": ""
+  },
   "5630": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);\">12&nbsp;*&nbsp;35&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -21969,6 +22705,10 @@
   },
   "5655": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">16&nbsp;*&nbsp;100&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5689": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">12mm&nbsp;DİŞİ&nbsp;AYBOLT&nbsp;DIN:582</span></p>",
     "teknikOzellikler": ""
   },
   "569": {
@@ -22003,7 +22743,15 @@
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "57778": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "57788": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "57799": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -22055,6 +22803,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "57854": {
+    "aciklama": "<p>-</p>",
+    "teknikOzellikler": "<p>-</p>"
+  },
+  "57855": {
+    "aciklama": "<p>-</p>",
+    "teknikOzellikler": "<p>-</p>"
+  },
   "57857": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -22074,6 +22830,10 @@
   "57879": {
     "aciklama": "",
     "teknikOzellikler": ""
+  },
+  "57881": {
+    "aciklama": "<p>-</p>",
+    "teknikOzellikler": "<p>-</p>"
   },
   "57882": {
     "aciklama": "<p>-</p>",
@@ -22229,6 +22989,18 @@
   },
   "580": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "5805": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;GERDİRME</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5827": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">18mm&nbsp;DİŞİ&nbsp;AYBOLT&nbsp;DIN:582</span></p>",
+    "teknikOzellikler": ""
+  },
+  "5828": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);\">18mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
     "teknikOzellikler": ""
   },
   "583": {
@@ -22471,6 +23243,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "59107": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "59117": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -22480,6 +23256,10 @@
     "teknikOzellikler": ""
   },
   "59120": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "59123": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -22611,6 +23391,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "5930": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">16mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
+    "teknikOzellikler": ""
+  },
   "594": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -22647,6 +23431,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "6029": {
+    "aciklama": "<p><span style=\"background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;GERDİRME</span></p>",
+    "teknikOzellikler": ""
+  },
   "60291": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -22677,6 +23465,10 @@
   },
   "60306": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6033": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">12mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
     "teknikOzellikler": ""
   },
   "60330": {
@@ -22835,7 +23627,19 @@
     "aciklama": "<p>-</p>",
     "teknikOzellikler": "<p>-</p>"
   },
+  "60440": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "60441": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "60442": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "60443": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -22889,6 +23693,10 @@
   },
   "6145": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "615": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">M&nbsp;10&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "6152": {
@@ -22987,6 +23795,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);\">MM&nbsp;16&nbsp;*&nbsp;140&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "6331": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 233, 252); color: rgb(51, 65, 85);\">10mm&nbsp;DİŞİ&nbsp;AYBOLT&nbsp;DIN:582</span></p>",
+    "teknikOzellikler": ""
+  },
   "63451": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -22997,6 +23809,10 @@
   },
   "63453": {
     "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6352": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">24mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
     "teknikOzellikler": ""
   },
   "6362": {
@@ -23013,6 +23829,22 @@
   },
   "6416": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);\">MM&nbsp;48&nbsp;DIN975&nbsp;GİJON&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6423": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6433": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6434": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6435": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "6440": {
@@ -23151,6 +23983,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;120&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6743": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;30&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "67455": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -23227,6 +24063,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">20&nbsp;*&nbsp;150&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
   },
+  "6772": {
+    "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">M&nbsp;6&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "6775": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">5/16*32&nbsp;PANJUR&nbsp;PULU&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
@@ -23255,12 +24095,28 @@
     "aciklama": "<p><span style=\"background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;80&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6800": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M8&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6801": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M&nbsp;33&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6803": {
+    "aciklama": "<p><span style=\"background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);\">M5&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "682": {
     "aciklama": "<p><span style=\"background-color: rgb(214, 224, 238); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;90&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "6837": {
     "aciklama": "<p><span style=\"background-color: rgb(212, 218, 228); color: rgb(51, 65, 85);\">14&nbsp;*&nbsp;130&nbsp;İMBUS&nbsp;CIVATA&nbsp;DIN:912&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "6846": {
+    "aciklama": "<p><span style=\"background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
   "68479": {
@@ -23343,6 +24199,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "68537": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "68538": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">24&nbsp;*&nbsp;200&nbsp;KLİPSLİ&nbsp;DÜBEL</span></p>",
     "teknikOzellikler": ""
@@ -23407,7 +24267,35 @@
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">DK24250</span></p>",
     "teknikOzellikler": ""
   },
+  "6860": {
+    "aciklama": "<p><span style=\"background-color: rgb(218, 233, 252); color: rgb(51, 65, 85);\">M&nbsp;36&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
   "68600": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "68606": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "68607": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "68608": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "6861": {
+    "aciklama": "<p><span style=\"background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);\">M&nbsp;22&nbsp;YAYLI&nbsp;RONDELA&nbsp;SİYAH</span></p>",
+    "teknikOzellikler": ""
+  },
+  "68611": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "68612": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -23599,6 +24487,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">1/2*55&nbsp;ŞASE&nbsp;PULU&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "6943": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "6944": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">4.2*32&nbsp;YPM&nbsp;YILDIZ&nbsp;PUL&nbsp;BAŞLI&nbsp;VİDA</span></p>",
     "teknikOzellikler": ""
@@ -23775,6 +24667,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "7182": {
+    "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">M14&nbsp;YAYLI&nbsp;RONDELA&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
   "72": {
     "aciklama": "<p><span style=\"background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;40&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
@@ -23800,6 +24696,78 @@
     "teknikOzellikler": ""
   },
   "72843": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72846": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72847": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72848": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72849": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72850": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72851": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72852": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72853": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72854": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72855": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72856": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72857": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72858": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72859": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72860": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72861": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72862": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "72863": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -23935,11 +24903,23 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "73931": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "73932": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "73933": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "73934": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "73935": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -23952,6 +24932,10 @@
     "teknikOzellikler": ""
   },
   "73938": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "73939": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -24055,6 +25039,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "74049": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "74050": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -24108,6 +25096,10 @@
     "teknikOzellikler": ""
   },
   "74095": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "74096": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -24195,6 +25187,18 @@
     "aciklama": "<p><span style=\"background-color: rgb(218, 232, 250); color: rgb(51, 65, 85);\">MM&nbsp;20&nbsp;*&nbsp;65&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
   },
+  "7491": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7493": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7496": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7498": {
     "aciklama": "<p><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);\">PN2&nbsp;eldivenler&nbsp;ekstra&nbsp;ince&nbsp;ve&nbsp;hafif&nbsp;olması&nbsp;sayesinde&nbsp;üstün&nbsp;el&nbsp;becerisi&nbsp;ve&nbsp;konfor&nbsp;sağlar.&nbsp;Polyester&nbsp;örgü&nbsp;yapısı&nbsp;elinizin&nbsp;hava&nbsp;almasını&nbsp;sağlar,&nbsp;terletme&nbsp;yapmaz.&nbsp;Esnek&nbsp;konç&nbsp;yapısı&nbsp;bileğinize&nbsp;tam&nbsp;uyum&nbsp;sağlar.&nbsp;Aşınmaya&nbsp;karşı&nbsp;dayanıklıdır.&nbsp;Gıda&nbsp;ile&nbsp;temasa&nbsp;uygundur.&nbsp;REACH&nbsp;uyumludur.</span></p>",
     "teknikOzellikler": ""
@@ -24272,6 +25276,10 @@
     "teknikOzellikler": ""
   },
   "75157": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7516": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -24527,6 +25535,18 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "75359": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75360": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75361": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "75390": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -24615,7 +25635,19 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "75434": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "75435": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75436": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75445": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -25027,6 +26059,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "75609": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "75611": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -25056,6 +26092,10 @@
     "teknikOzellikler": ""
   },
   "75636": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75639": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -25363,6 +26403,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "75772": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "75773": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -25380,6 +26424,22 @@
     "teknikOzellikler": ""
   },
   "75777": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75778": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75779": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75780": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75781": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -25415,11 +26475,19 @@
     "aciklama": "<p>•&nbsp;Kaynaksız&nbsp;ve&nbsp;emniyet&nbsp;valfli&nbsp;tasarım&nbsp;sayesinde&nbsp;kolay</p><p>tamirat&nbsp;işlemi&nbsp;yapılır.</p><p>•&nbsp;Uzun&nbsp;ömürlü&nbsp;kullanım&nbsp;sağlar.</p><p>•&nbsp;Avrupa&nbsp;standartlarına&nbsp;uygun&nbsp;üretildi.</p>",
     "teknikOzellikler": ""
   },
+  "75792": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "75793": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
   "75794": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "75795": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -25608,6 +26676,10 @@
     "teknikOzellikler": ""
   },
   "75946": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "7595": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -25875,6 +26947,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "76085": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "76087": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -25899,6 +26975,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "76108": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76109": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "76110": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -25908,6 +26992,10 @@
     "teknikOzellikler": ""
   },
   "76115": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76120": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -25971,6 +27059,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "76163": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76164": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "76165": {
     "aciklama": "<p>3&nbsp;ton&nbsp;kapasite</p><p>•&nbsp;4&nbsp;ayaklı</p><p>•&nbsp;Döküm&nbsp;kademe&nbsp;çubuğu</p><p>•&nbsp;Sağlam&nbsp;çelik&nbsp;konstrüksiyon</p><p>•&nbsp;Max:&nbsp;425&nbsp;mm&nbsp;Min:&nbsp;295&nbsp;mm&nbsp;yükseklik</p><p>•&nbsp;Çift&nbsp;olarak&nbsp;satılır</p><p>•&nbsp;5,3&nbsp;kg&nbsp;ağırlık</p>",
     "teknikOzellikler": "<p>3&nbsp;ton&nbsp;kapasite</p><p>•&nbsp;4&nbsp;ayaklı</p><p>•&nbsp;Döküm&nbsp;kademe&nbsp;çubuğu</p><p>•&nbsp;Sağlam&nbsp;çelik&nbsp;konstrüksiyon</p><p>•&nbsp;Max:&nbsp;425&nbsp;mm&nbsp;Min:&nbsp;295&nbsp;mm&nbsp;yükseklik</p><p>•&nbsp;Çift&nbsp;olarak&nbsp;satılır</p><p>•&nbsp;5,3&nbsp;kg&nbsp;ağırlık</p>"
@@ -26000,6 +27096,10 @@
     "teknikOzellikler": ""
   },
   "76199": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76200": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -26171,6 +27271,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "7634": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "76341": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -26259,6 +27363,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "76428": {
+    "aciklama": "<p>•&nbsp;Tüm&nbsp;paslanmaz&nbsp;çelik&nbsp;(inox),&nbsp;304&nbsp;ve&nbsp;316&nbsp;kalite&nbsp;ürünlerde</p><p>yüksek&nbsp;kesim&nbsp;hızı&nbsp;ve&nbsp;kesim&nbsp;sayısı&nbsp;performansı.</p>",
+    "teknikOzellikler": ""
+  },
   "76433": {
     "aciklama": "<p>•&nbsp;Metal&nbsp;ve&nbsp;çelik&nbsp;malzemelerde&nbsp;agresif&nbsp;taşlamaya</p><p>uygundur.&nbsp;Yaprak&nbsp;sayısı&nbsp;ve&nbsp;yaprak&nbsp;en&nbsp;boyutu&nbsp;sayesinde</p><p>maksimum&nbsp;performansa&nbsp;sahiptir.</p>",
     "teknikOzellikler": ""
@@ -26276,6 +27384,10 @@
     "teknikOzellikler": ""
   },
   "76439": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76441": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -26328,6 +27440,10 @@
     "teknikOzellikler": ""
   },
   "76455": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76464": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -26504,6 +27620,10 @@
     "teknikOzellikler": ""
   },
   "76550": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76551": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -26767,6 +27887,18 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "76692": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76696": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76697": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7670": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -26787,6 +27919,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "76714": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "76716": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -26796,6 +27932,10 @@
     "teknikOzellikler": ""
   },
   "76723": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76725": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -26824,6 +27964,10 @@
     "teknikOzellikler": ""
   },
   "76745": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76746": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -26956,6 +28100,10 @@
     "teknikOzellikler": ""
   },
   "76792": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76797": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -27136,6 +28284,10 @@
     "teknikOzellikler": ""
   },
   "76915": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "76916": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -27365,6 +28517,10 @@
   },
   "7791": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;6&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "77943": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "77950": {
@@ -27711,6 +28867,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "78083": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "78084": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -27844,6 +29004,14 @@
     "teknikOzellikler": ""
   },
   "78122": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78123": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78124": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -28259,6 +29427,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "78259": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7826": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;40&nbsp;DIN6921&nbsp;FLANŞLI&nbsp;CİVATA&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -28303,6 +29475,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "78273": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "78277": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -28324,6 +29500,18 @@
     "teknikOzellikler": ""
   },
   "78282": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78286": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78287": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78288": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -28468,6 +29656,10 @@
     "teknikOzellikler": ""
   },
   "78323": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78324": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -28907,6 +30099,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "78469": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7847": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*&nbsp;35&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -29019,6 +30215,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "78508": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "78509": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -29072,6 +30272,10 @@
     "teknikOzellikler": ""
   },
   "78522": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78523": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -29132,6 +30336,14 @@
     "teknikOzellikler": ""
   },
   "78540": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78541": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78542": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -29204,6 +30416,10 @@
     "teknikOzellikler": ""
   },
   "78560": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78564": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -29299,6 +30515,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "78591": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "78595": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -29362,6 +30582,10 @@
   "78627": {
     "aciklama": "<p>Benzinli&nbsp;Yan&nbsp;Tırpan</p><p>Durdurma&nbsp;anahtarı&nbsp;ve&nbsp;gaz&nbsp;kilidi&nbsp;ile&nbsp;basit&nbsp;kullanım&nbsp;sağlayan,&nbsp;kolay</p><p>başlatmalı,&nbsp;geri&nbsp;tepmeli&nbsp;marş&nbsp;motoru&nbsp;ile&nbsp;tasarlanmış,&nbsp;2&nbsp;zamanlı&nbsp;1.8&nbsp;Hp</p><p>motor&nbsp;gücüne&nbsp;sahip,&nbsp;255&nbsp;mm&nbsp;kesim&nbsp;genişliği&nbsp;ile&nbsp;hem&nbsp;çim&nbsp;biçme&nbsp;hemde</p><p>çalı&nbsp;kesme&nbsp;olarak&nbsp;kullanabileceğiniz&nbsp;benzinli&nbsp;motor&nbsp;tırpan.</p>",
     "teknikOzellikler": "<p>ÜRÜN&nbsp;ÖZELLİKLERİ</p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;1840&nbsp;x&nbsp;610&nbsp;x&nbsp;290&nbsp;mm</p><p>Motor&nbsp;Hacmi&nbsp;2&nbsp;Zamanlı&nbsp;51.7&nbsp;cc</p><p>Motor&nbsp;Gücü&nbsp;1.3&nbsp;kW&nbsp;/&nbsp;1.8&nbsp;Hp</p><p>Şaft&nbsp;Uzunluğu&nbsp;150&nbsp;cm,&nbsp;İki&nbsp;Parçalı</p><p>Motorlu&nbsp;Tırpan</p><p>Kesim&nbsp;Genişliği&nbsp;255&nbsp;mm</p><p>Tank&nbsp;Hacmi&nbsp;1.2&nbsp;L</p><p>2T&nbsp;Yağ&nbsp;-&nbsp;Benzin</p><p>Karışım&nbsp;Oranı&nbsp;1&nbsp;:&nbsp;40</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;8.3&nbsp;/&nbsp;10.8&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;5910715915</p>"
+  },
+  "78628": {
+    "aciklama": "",
+    "teknikOzellikler": ""
   },
   "78629": {
     "aciklama": "",
@@ -29707,6 +30931,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;90&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "78740": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "78741": {
     "aciklama": "<p>G<strong><u>önye&nbsp;Kesme&nbsp;Makinesi</u></strong></p><p>Ahşap&nbsp;ve&nbsp;plastik&nbsp;gibi&nbsp;malzemelerin&nbsp;hassas&nbsp;açılı&nbsp;şekilde&nbsp;kesimler&nbsp;için</p><p>±&nbsp;50&nbsp;derece&nbsp;arasında&nbsp;döndürülebilir&nbsp;tezgah,&nbsp;Ø&nbsp;305&nbsp;mm&nbsp;çaplı&nbsp;testereye</p><p>sahip,&nbsp;kesim&nbsp;uzatması&nbsp;sayesinde&nbsp;180&nbsp;mm&nbsp;yükseklikte&nbsp;kesim&nbsp;yapabilir,</p><p>gövdede&nbsp;yükseklik&nbsp;ayarlı&nbsp;durdurma&nbsp;rayı&nbsp;ve&nbsp;hassas&nbsp;kesimler&nbsp;için</p><p>entegre&nbsp;lazer&nbsp;ve&nbsp;orta&nbsp;kayar&nbsp;ray&nbsp;sistemi&nbsp;ile&nbsp;tasarlanmış&nbsp;hafif&nbsp;alüminyum</p><p>dökümden&nbsp;kolay&nbsp;taşınabilir&nbsp;gönye&nbsp;testere.</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;588&nbsp;x&nbsp;842&nbsp;x&nbsp;746&nbsp;mm</p><p>Testere&nbsp;Bıçağı&nbsp;(Ø)&nbsp;305&nbsp;mm</p><p>Eğim&nbsp;Açısı&nbsp;İki&nbsp;Taraflı&nbsp;48°</p><p>Gönye&nbsp;Açısı&nbsp;+&nbsp;50°&nbsp;sol&nbsp;ile&nbsp;-&nbsp;50°&nbsp;sağ</p><p>Kesim&nbsp;Gen./Yük.&nbsp;90°/&nbsp;90°&nbsp;340&nbsp;x&nbsp;105&nbsp;mm</p><p>Özel&nbsp;Kesim&nbsp;Gen./Yük.&nbsp;20&nbsp;x&nbsp;180&nbsp;mm</p><p>Motor&nbsp;Gücü&nbsp;2000&nbsp;W&nbsp;230&nbsp;V&nbsp;~&nbsp;50&nbsp;Hz</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;20.9&nbsp;/&nbsp;24.6&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;5901223901</p>"
@@ -29898,6 +31126,10 @@
   "78807": {
     "aciklama": "<p><strong><u>Şerit&nbsp;Testere</u></strong></p><p>Açılı&nbsp;kesimler&nbsp;için&nbsp;kademesiz&nbsp;olarak&nbsp;basit&nbsp;ve&nbsp;hızlı&nbsp;şekilde&nbsp;döndürülebilir&nbsp;pik</p><p>dökümden&nbsp;oluşan&nbsp;çalışma&nbsp;masasına&nbsp;sahip,&nbsp;testere&nbsp;stabilizasyonunu&nbsp;sağlamak</p><p>için&nbsp;3&nbsp;silindirli&nbsp;kılavuz&nbsp;ile&nbsp;donatılmış,&nbsp;el&nbsp;çarkı&nbsp;aracılığı&nbsp;ile&nbsp;kesim&nbsp;yükseklik&nbsp;ayarı</p><p>yapabileceğiniz,&nbsp;kolay&nbsp;hareket&nbsp;ve&nbsp;manevra&nbsp;için&nbsp;dışarı&nbsp;çıkarılabilir&nbsp;kulp&nbsp;ile&nbsp;kolay</p><p>taşınabilir&nbsp;yüksek&nbsp;performanslı&nbsp;şerit&nbsp;testere.</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;610&nbsp;x&nbsp;1030&nbsp;x&nbsp;1660&nbsp;mm</p><p>Tabla&nbsp;Ölçüleri&nbsp;548&nbsp;x&nbsp;400&nbsp;mm</p><p>Tabla&nbsp;Eğim&nbsp;Açısı&nbsp;-8°&nbsp;–&nbsp;45°</p><p>Testere&nbsp;Bandı&nbsp;Uzunluğu&nbsp;2360&nbsp;mm</p><p>İki&nbsp;Kademeli&nbsp;Testere&nbsp;Bandı&nbsp;Hızı&nbsp;370&nbsp;-&nbsp;750&nbsp;m/dak</p><p>Kesim&nbsp;Yük.&nbsp;/&nbsp;Gen.&nbsp;205&nbsp;/&nbsp;306&nbsp;mm</p><p>Motor&nbsp;Gücü&nbsp;1100&nbsp;W&nbsp;230&nbsp;V&nbsp;~&nbsp;50&nbsp;Hz</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;79&nbsp;/&nbsp;84.5&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;1901503901</p>"
+  },
+  "78808": {
+    "aciklama": "",
+    "teknikOzellikler": ""
   },
   "78809": {
     "aciklama": "<p><strong><u>Kanal&nbsp;Açma&nbsp;Makinesi</u></strong></p><p>Beton,&nbsp;duvar,&nbsp;sıva&nbsp;veya&nbsp;alçıda,&nbsp;tesisat&nbsp;boruları&nbsp;için&nbsp;yatay&nbsp;ve&nbsp;dikey</p><p>kanallar&nbsp;açabileceğiniz,&nbsp;125&nbsp;mm&nbsp;çapında&nbsp;dört&nbsp;adete&nbsp;kadar&nbsp;paralel&nbsp;elmas</p><p>kesmi&nbsp;diski&nbsp;ile&nbsp;kullanılabilir,&nbsp;40&nbsp;mm’ye&nbsp;kadar&nbsp;aletsiz&nbsp;kesme&nbsp;derinliği</p><p>ayarlayabileceğiniz&nbsp;ve&nbsp;8&nbsp;-&nbsp;40&nbsp;mm&nbsp;arasında&nbsp;Kesim&nbsp;Genişliğine&nbsp;sahip,&nbsp;mil</p><p>kilidi&nbsp;sayesi&nbsp;ile&nbsp;kolay&nbsp;disk&nbsp;değişimi&nbsp;sağlayan&nbsp;ve&nbsp;12&nbsp;adet&nbsp;ek&nbsp;silindir&nbsp;kılavuz</p><p>ile&nbsp;yüzeylerde&nbsp;kolayca&nbsp;kaydırabileceğiniz&nbsp;kanal&nbsp;açma&nbsp;makinesi.</p>",
@@ -30144,6 +31376,10 @@
     "teknikOzellikler": ""
   },
   "78871": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "78872": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -31055,6 +32291,10 @@
     "aciklama": "<p><strong><u>Tezgah&nbsp;Tipi&nbsp;Sütunlu&nbsp;Dijital&nbsp;Matkap</u></strong></p><p>Dijital&nbsp;ekran&nbsp;üzerinden&nbsp;440&nbsp;-&nbsp;2580&nbsp;rpm&nbsp;arasında&nbsp;hassas&nbsp;işleriniz&nbsp;için&nbsp;hızını</p><p>ayarlayabileceğiniz,&nbsp;240&nbsp;x&nbsp;240&nbsp;mm&nbsp;taban&nbsp;plakası&nbsp;ile&nbsp;sabitlemeler&nbsp;için&nbsp;hızlı</p><p>serbest&nbsp;bırakma&nbsp;kelepçisine&nbsp;sahip,&nbsp;hassas&nbsp;işleriniz&nbsp;için&nbsp;çapraz&nbsp;izli&nbsp;entegre&nbsp;lazer</p><p>barındıran,&nbsp;hem&nbsp;ahşap&nbsp;hem&nbsp;de&nbsp;metal&nbsp;işleyebileceğiniz&nbsp;dijital&nbsp;sütunlu&nbsp;matkap</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;540&nbsp;x&nbsp;390&nbsp;x&nbsp;950&nbsp;mm</p><p>Çalışma&nbsp;Tezgahı&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;240&nbsp;x&nbsp;240&nbsp;mm</p><p>Tezgah&nbsp;Ayarı&nbsp;45⁰&nbsp;-&nbsp;0&nbsp;-&nbsp;45⁰</p><p>Devir&nbsp;Sayısı&nbsp;440&nbsp;-&nbsp;2580&nbsp;rpm</p><p>Taban&nbsp;ve&nbsp;Mandren&nbsp;Arası&nbsp;Mesafe&nbsp;495&nbsp;mm</p><p>Matkap&nbsp;Sıkma&nbsp;Aralığı&nbsp;1&nbsp;-&nbsp;16&nbsp;mm</p><p>Motor&nbsp;Gücü&nbsp;550&nbsp;W&nbsp;230&nbsp;V&nbsp;~&nbsp;50&nbsp;Hz</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;38.5&nbsp;/&nbsp;41&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;5906807901</p>"
   },
+  "79106": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "79107": {
     "aciklama": "<p><strong><u>Elektrikli&nbsp;Beton&nbsp;Mikseri</u></strong></p><p>140&nbsp;litrelik&nbsp;elektrikli&nbsp;beton&nbsp;mikseri,&nbsp;homojen&nbsp;karışımlar&nbsp;hazırlamak</p><p>amacıyla&nbsp;tasarlanmıştır.&nbsp;Gücünü,&nbsp;550&nbsp;W&nbsp;çift&nbsp;fan&nbsp;soğutmalı&nbsp;güçlü&nbsp;bir</p><p>motordan&nbsp;alır&nbsp;ve&nbsp;döküm&nbsp;şanzımanı&nbsp;sayesinde&nbsp;tamburu&nbsp;zahmetsizce</p><p>dönebilir.&nbsp;Tekerlekli&nbsp;hareket&nbsp;düzeneği&nbsp;sayesinde&nbsp;kolayca&nbsp;taşınabilirken,</p><p>geniş&nbsp;tambur&nbsp;açıklığı&nbsp;da&nbsp;hızlı&nbsp;ve&nbsp;rahat&nbsp;boşaltma&nbsp;imkanı&nbsp;sunar.</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;1210&nbsp;x&nbsp;840&nbsp;x&nbsp;1280&nbsp;mm</p><p>Kapasite&nbsp;140&nbsp;L</p><p>Devir&nbsp;Sayısı&nbsp;26.6&nbsp;rpm</p><p>Motor&nbsp;Gücü&nbsp;550&nbsp;W&nbsp;230&nbsp;V&nbsp;~&nbsp;50&nbsp;Hz</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;47&nbsp;/&nbsp;50&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;5908404901</p>"
@@ -31095,12 +32335,56 @@
     "aciklama": "<p><strong><u>Havalı&nbsp;Çivi&nbsp;Tabancası</u></strong></p><p>Atış&nbsp;başına&nbsp;1,5&nbsp;L&nbsp;hava&nbsp;gereksinimi&nbsp;duyan,&nbsp;16-40&nbsp;mm&nbsp;zımba&nbsp;uzunluğu&nbsp;ve</p><p>15-50&nbsp;mm&nbsp;çivi&nbsp;uzunluklarında&nbsp;kullanabileceğiniz&nbsp;pnömatik&nbsp;çivi&nbsp;tabancası.</p><p>360°&nbsp;ayarlanabilir&nbsp;atık&nbsp;hava&nbsp;yönlendirme.</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Çivi&nbsp;Uzunluğu&nbsp;15&nbsp;-&nbsp;20&nbsp;mm</p><p>Kıskaç&nbsp;Uzunluğu&nbsp;16&nbsp;-&nbsp;40&nbsp;mm</p><p>Atış&nbsp;Başına&nbsp;Hava</p><p>İhtiyacı&nbsp;1.5&nbsp;L</p><p>Ürün&nbsp;Numarası&nbsp;7906100744</p>"
   },
+  "79119": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7912": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;180&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "79120": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79121": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79122": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79123": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79124": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79125": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79126": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79127": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79128": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7913": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;10&nbsp;*&nbsp;180&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "79130": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "79131": {
@@ -31271,6 +32555,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "79187": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "79188": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -31316,6 +32604,10 @@
     "teknikOzellikler": ""
   },
   "79200": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79203": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -31439,6 +32731,22 @@
     "aciklama": "<p><strong><u>Benzinli&nbsp;Mini&nbsp;Dumper</u></strong></p><p>5,6&nbsp;hp&nbsp;4&nbsp;zamanlı&nbsp;benzinli&nbsp;motora&nbsp;sahip,&nbsp;3&nbsp;ileri&nbsp;vitesi&nbsp;ve&nbsp;sağlam</p><p>kauçuk&nbsp;paletleri&nbsp;sayesinde&nbsp;hem&nbsp;düz&nbsp;zeminlerde&nbsp;hem&nbsp;de&nbsp;engebeli</p><p>arazilerde&nbsp;rahatlıkla&nbsp;kullanabileceğiniz,&nbsp;500&nbsp;kg&nbsp;taşıma&nbsp;kapasitesi</p><p>ve&nbsp;hidrolik&nbsp;kova&nbsp;kaldırma&nbsp;ile&nbsp;tasarlanmış&nbsp;mini&nbsp;dumper.</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;1600&nbsp;x&nbsp;715&nbsp;x&nbsp;1030&nbsp;mm</p><p>Depo&nbsp;Ölçüleri&nbsp;950&nbsp;x&nbsp;680&nbsp;x&nbsp;465&nbsp;mm</p><p>Taşıma&nbsp;Kapasitesi&nbsp;500&nbsp;kg</p><p>Boşaltma&nbsp;Hidrolik</p><p>Güç&nbsp;Aktarım&nbsp;Şanzıman</p><p>İlerleme&nbsp;Hızı&nbsp;1.57&nbsp;/&nbsp;2.93&nbsp;/&nbsp;3.66&nbsp;km/s</p><p>Geri&nbsp;Dönüş&nbsp;Hızı&nbsp;1.14&nbsp;km/s</p><p>Motor&nbsp;5.6&nbsp;Hp&nbsp;4&nbsp;Zamanlı&nbsp;Benzinli&nbsp;Motor</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;255&nbsp;/&nbsp;290&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;5908801903</p>"
   },
+  "79248": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79250": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79251": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79252": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "79253": {
     "aciklama": "<p><strong><u>Akülü&nbsp;Ağaç&nbsp;Kesme&nbsp;Makinesi</u></strong></p><p>20&nbsp;cm&nbsp;pala&nbsp;uzunluğunda&nbsp;Ø&nbsp;170&nbsp;mm&nbsp;kesim&nbsp;genişliğine&nbsp;sahip,&nbsp;aletsiz&nbsp;zincir</p><p>değişikliği&nbsp;ve&nbsp;zincir&nbsp;gerdirme&nbsp;yapabileceğiniz,&nbsp;otomatik&nbsp;zincir&nbsp;yağlama</p><p>ve&nbsp;anti&nbsp;-&nbsp;kickback&nbsp;sistemi&nbsp;ile&nbsp;geri&nbsp;tepme&nbsp;durumunda&nbsp;zincir&nbsp;freni&nbsp;yapan,</p><p>sağlam&nbsp;pençesi&nbsp;ile&nbsp;kesilen&nbsp;parçanın&nbsp;kaymasını&nbsp;engelleyen,&nbsp;softgrip</p><p>çevreleyen&nbsp;tutma&nbsp;kolu&nbsp;ile&nbsp;ile&nbsp;ergonomik&nbsp;rahat&nbsp;bir&nbsp;kullanım&nbsp;sağlayan&nbsp;akülü</p><p>ağaç&nbsp;kesme&nbsp;motoru.</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;540&nbsp;x&nbsp;230&nbsp;x&nbsp;230&nbsp;mm</p><p>Motor&nbsp;Tipi&nbsp;Kömürsüz&nbsp;Motor</p><p>Pala&nbsp;Uzunluğu&nbsp;20&nbsp;cm&nbsp;/&nbsp;8”</p><p>Kesim&nbsp;Uzunluğu&nbsp;(Ø)&nbsp;170&nbsp;mm</p><p>Kesim&nbsp;Hızı&nbsp;7&nbsp;m/sn</p><p>Zincir&nbsp;Gerdirme&nbsp;Aletsiz</p><p>Zincir&nbsp;Freni&nbsp;Otomatik</p><p>Zincir&nbsp;Yağı&nbsp;Depo&nbsp;Hacmi&nbsp;0.11&nbsp;L</p><p>Akü&nbsp;Gerilimi&nbsp;20&nbsp;V</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;3.5&nbsp;/&nbsp;4.6&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;5910311400</p>"
@@ -31474,6 +32782,10 @@
   "79261": {
     "aciklama": "<p><strong><u>2&nbsp;Ah&nbsp;Akü</u></strong></p><p>Aşırı&nbsp;ısınmaya&nbsp;ve&nbsp;aşırı&nbsp;gerileme&nbsp;karşı,&nbsp;hem&nbsp;koruma&nbsp;sağlayan&nbsp;hem&nbsp;de&nbsp;eşit</p><p>şekilde&nbsp;şarj&nbsp;ve&nbsp;deşarj&nbsp;olmasını&nbsp;sağlayan,&nbsp;tek&nbsp;hücre&nbsp;yönetim&nbsp;teknolojisine</p><p>sahip,&nbsp;3&nbsp;kademeli&nbsp;led&nbsp;ekranla&nbsp;tasarlanmış,&nbsp;scheppach&nbsp;akülü&nbsp;ürünlerin</p><p>hepsinde&nbsp;kullanabileceğiniz&nbsp;2.0&nbsp;Ah&nbsp;akü.</p>",
     "teknikOzellikler": "<p><strong><u>ÜRÜN&nbsp;ÖZELLİKLERİ</u></strong></p><p>Boyutlar&nbsp;(U&nbsp;x&nbsp;G&nbsp;x&nbsp;Y)&nbsp;125&nbsp;x&nbsp;80&nbsp;x&nbsp;50&nbsp;mm</p><p>Akü&nbsp;Kapasitesi&nbsp;2.0&nbsp;Ah</p><p>Akü&nbsp;Gerilimi&nbsp;20&nbsp;V</p><p>Net/Brüt&nbsp;Ağırlık&nbsp;0.4&nbsp;/&nbsp;0.5&nbsp;kg</p><p>Ürün&nbsp;Numarası&nbsp;7909201708</p>"
+  },
+  "79262": {
+    "aciklama": "",
+    "teknikOzellikler": ""
   },
   "79263": {
     "aciklama": "<p><strong><u>Benzinli&nbsp;Çim&nbsp;Havalandırma&nbsp;Makinesi</u></strong></p><p>Çimlerdeki&nbsp;yosun&nbsp;ve&nbsp;yabani&nbsp;otları&nbsp;hızlı&nbsp;ve&nbsp;kolay&nbsp;bir&nbsp;şekilde&nbsp;temizlemek</p><p>için&nbsp;40&nbsp;cm&nbsp;çalışma&nbsp;genişliği&nbsp;ve&nbsp;yüksek&nbsp;performanslı&nbsp;5.4&nbsp;beygir</p><p>gücünde&nbsp;4&nbsp;zamanlı&nbsp;euro&nbsp;5&nbsp;benzinli&nbsp;motoru&nbsp;ile&nbsp;bu&nbsp;havalandırıcı,</p><p>6&nbsp;kademeli&nbsp;merkezi&nbsp;ayar&nbsp;kolu&nbsp;ile&nbsp;-&nbsp;15&nbsp;ile&nbsp;+&nbsp;5&nbsp;mm&nbsp;arasında&nbsp;çalışma</p><p>yüksekliği&nbsp;ayarlayabileceğiniz,&nbsp;sağlam&nbsp;metal&nbsp;gövdeye&nbsp;sahip&nbsp;benzinli&nbsp;çim</p><p>havalandırma&nbsp;makinesi.</p>",
@@ -31707,6 +33019,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "79365": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "79368": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -31823,6 +33139,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "79409": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7941": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;30&nbsp;DIN933&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -31903,6 +33223,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "79435": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "79436": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -31948,6 +33272,10 @@
     "teknikOzellikler": ""
   },
   "79454": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79455": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -32291,6 +33619,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "79597": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79598": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "79599": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -32523,8 +33859,20 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "79689": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "7969": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;8&nbsp;*140&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "79690": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "79691": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "79694": {
@@ -33395,6 +34743,14 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "80038": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80039": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "80040": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -33979,6 +35335,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "80242": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "80244": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -34036,6 +35396,10 @@
     "teknikOzellikler": ""
   },
   "80266": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80270": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -34223,6 +35587,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "80329": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "8033": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;12&nbsp;*&nbsp;75&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
     "teknikOzellikler": ""
@@ -34321,6 +35689,10 @@
   },
   "8042": {
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;110&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "80425": {
+    "aciklama": "",
     "teknikOzellikler": ""
   },
   "80429": {
@@ -34504,6 +35876,10 @@
     "teknikOzellikler": ""
   },
   "80550": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80553": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -34779,6 +36155,10 @@
     "aciklama": "<p><span style=\"background-color: rgb(209, 213, 220); color: rgb(51, 65, 85);\">MM&nbsp;14&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;SİYAH</span></p>",
     "teknikOzellikler": ""
   },
+  "80670": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "80672": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -34792,6 +36172,10 @@
     "teknikOzellikler": ""
   },
   "80680": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80689": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -34923,6 +36307,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "80748": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "80750": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -35048,6 +36436,14 @@
     "teknikOzellikler": ""
   },
   "80847": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80848": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80849": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -35251,6 +36647,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "80970": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "80972": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -35276,6 +36676,22 @@
     "teknikOzellikler": ""
   },
   "80978": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80980": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80981": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80982": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "80983": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -35609,6 +37025,10 @@
   },
   "8269": {
     "aciklama": "<p><span style=\"background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);\">MM&nbsp;18&nbsp;*&nbsp;150&nbsp;DIN931&nbsp;AKB&nbsp;CİVATA&nbsp;8.8&nbsp;BEYAZ</span></p>",
+    "teknikOzellikler": ""
+  },
+  "827": {
+    "aciklama": "<p><span style=\"background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);\">14mm&nbsp;ERKEK&nbsp;AYBOLT&nbsp;DIN:580</span></p>",
     "teknikOzellikler": ""
   },
   "8270": {
@@ -36167,7 +37587,67 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "9213": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9214": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "9215": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9216": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9217": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9219": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9220": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9221": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9222": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9223": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9224": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9225": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9226": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9227": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9228": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9229": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -36191,7 +37671,15 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "9269": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "9276": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9282": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -36204,6 +37692,10 @@
     "teknikOzellikler": ""
   },
   "9377": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9383": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
@@ -36303,6 +37795,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "9824": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "9837": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -36351,6 +37847,10 @@
     "aciklama": "",
     "teknikOzellikler": ""
   },
+  "9879": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
   "9903": {
     "aciklama": "",
     "teknikOzellikler": ""
@@ -36364,6 +37864,10 @@
     "teknikOzellikler": ""
   },
   "9925": {
+    "aciklama": "",
+    "teknikOzellikler": ""
+  },
+  "9931": {
     "aciklama": "",
     "teknikOzellikler": ""
   },
