@@ -354,7 +354,7 @@
     <id>51</id>
     <code>MM06016933S</code>
     <label>MM 6 * 16 DIN933 AKB CİVATA 8.8 SİYAH</label>
-    <stock>71500</stock>
+    <stock>59500</stock>
     <details>&lt;h3&gt;MM 6 * 16 DIN933 AKB CİVATA 8.8 SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 223); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;16&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.6864</price1>
@@ -2804,7 +2804,7 @@
     <id>382</id>
     <code>KARBOSAN983460</code>
     <label>K 115*22.23 FLAP DİSK 60 KUM ZR</label>
-    <stock>4090</stock>
+    <stock>3970</stock>
     <details>&lt;h3&gt;K 115*22.23 FLAP DİSK 60 KUM ZR&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;sadasdasd&amp;nbsp;&lt;strong&gt;asdasdas&lt;/strong&gt;&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;u&gt;12312e&amp;nbsp;qwdasda&amp;nbsp;s&lt;/u&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>56.5356</price1>
@@ -3354,7 +3354,7 @@
     <id>531</id>
     <code>DK16120</code>
     <label>16 * 120 KLİPSLİ DÜBEL</label>
-    <stock>381</stock>
+    <stock>281</stock>
     <details>&lt;h3&gt;16 * 120 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 223); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;120&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>18.81</price1>
@@ -3454,7 +3454,7 @@
     <id>549</id>
     <code>DK08100</code>
     <label>8 * 100 KLİPSLİ DÜBEL</label>
-    <stock>38428</stock>
+    <stock>37928</stock>
     <details />
     <currency>TRL</currency>
     <price1>6.93</price1>
@@ -4154,7 +4154,7 @@
     <id>722</id>
     <code>MM20045933B</code>
     <label>MM 20 * 45 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>3555</stock>
+    <stock>3505</stock>
     <details>&lt;h3&gt;MM 20 * 45 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;20&amp;nbsp;*&amp;nbsp;45&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>16.413573</price1>
@@ -5354,7 +5354,7 @@
     <id>1694</id>
     <code>MMS33S</code>
     <label>M 33 DIN934 SOMUN SİYAH</label>
-    <stock>1339</stock>
+    <stock>859</stock>
     <details>&lt;h3&gt;M 33 DIN934 SOMUN SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 219, 229); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;33&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>33.48</price1>
@@ -11154,7 +11154,7 @@
     <id>2809</id>
     <code>S06150</code>
     <label>6 * 150 SUNTA VİDASI DIN:7505</label>
-    <stock>55337</stock>
+    <stock>54687</stock>
     <details>&lt;h3&gt;6 * 150 SUNTA VİDASI DIN:7505&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(213, 221, 232); color: rgb(51, 65, 85);"&gt;6&amp;nbsp;*&amp;nbsp;150&amp;nbsp;SUNTA&amp;nbsp;VİDASI&amp;nbsp;DIN:7505&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3.259104</price1>
@@ -11254,7 +11254,7 @@
     <id>2901</id>
     <code>KARBOSAN910040</code>
     <label>K 180*3.0*22.23 METAL KESİCİ DİSK</label>
-    <stock>19103</stock>
+    <stock>18803</stock>
     <details />
     <currency>TRL</currency>
     <price1>44.6094</price1>
@@ -11354,7 +11354,7 @@
     <id>2910</id>
     <code>DK16145</code>
     <label>16 * 145 KLİPSLİ DÜBEL</label>
-    <stock>11760</stock>
+    <stock>10660</stock>
     <details>&lt;h3&gt;16 * 145 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 214, 221); color: rgb(51, 65, 85);"&gt;16&amp;nbsp;*&amp;nbsp;145&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>21.89</price1>
@@ -11429,7 +11429,7 @@
     <id>2927</id>
     <code>DK10090</code>
     <label>10 * 90 KLİPSLİ DÜBEL</label>
-    <stock>203636</stock>
+    <stock>200636</stock>
     <details>&lt;h3&gt;10 * 90 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;10&amp;nbsp;*&amp;nbsp;90&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7.15</price1>
@@ -11654,7 +11654,7 @@
     <id>2944</id>
     <code>KARBOSAN910550</code>
     <label>K 115*6.4*22.23 METAL TAŞLAMA TAŞI</label>
-    <stock>8425</stock>
+    <stock>8200</stock>
     <details />
     <currency>TRL</currency>
     <price1>39.732</price1>
@@ -11679,7 +11679,7 @@
     <id>2945</id>
     <code>KARBOSAN910380</code>
     <label>K 115*1.0*22.23 İNOX KESİCİ DİSK</label>
-    <stock>138094</stock>
+    <stock>137794</stock>
     <details />
     <currency>TRL</currency>
     <price1>17.16</price1>
@@ -11779,7 +11779,7 @@
     <id>2980</id>
     <code>GS20B</code>
     <label>MM 20 DIN975 GİJON BEYAZ</label>
-    <stock>1985</stock>
+    <stock>1910</stock>
     <details>&lt;h3&gt;MM 20 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(213, 222, 234); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;20&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>133.65</price1>
@@ -11829,7 +11829,7 @@
     <id>3032</id>
     <code>KARBOSAN910050</code>
     <label>K 230*3.0*22.23 METAL KESİCİ DİSK</label>
-    <stock>10375</stock>
+    <stock>10275</stock>
     <details />
     <currency>TRL</currency>
     <price1>75.1014</price1>
@@ -12079,7 +12079,7 @@
     <id>3064</id>
     <code>KARBOSAN910570</code>
     <label>K 180*6.4*22.23 METAL TAŞLAMA TAŞI</label>
-    <stock>5320</stock>
+    <stock>5200</stock>
     <details />
     <currency>TRL</currency>
     <price1>84.8166</price1>
@@ -12904,7 +12904,7 @@
     <id>3159</id>
     <code>TRK-430-48W</code>
     <label>KABLO BAĞI BEYAZ 430*4,5</label>
-    <stock>5500</stock>
+    <stock>16500</stock>
     <details />
     <currency>TRL</currency>
     <price1>1.4406</price1>
@@ -13154,7 +13154,7 @@
     <id>3274</id>
     <code>TRK-370-48W</code>
     <label>KABLO BAĞI BEYAZ 370*4,5</label>
-    <stock>20200</stock>
+    <stock>8200</stock>
     <details />
     <currency>TRL</currency>
     <price1>1.2012</price1>
@@ -13554,7 +13554,7 @@
     <id>3869</id>
     <code>KARBOSAN983450</code>
     <label>K 115*22.23 FLAP DİSK 40 KUM ZR</label>
-    <stock>2650</stock>
+    <stock>1690</stock>
     <details />
     <currency>TRL</currency>
     <price1>59.895</price1>
@@ -14104,7 +14104,7 @@
     <id>3950</id>
     <code>TRK-140-36B</code>
     <label>KABLO BAĞI SİYAH 140*3,6</label>
-    <stock>10000</stock>
+    <stock>5000</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.3024</price1>
@@ -14304,7 +14304,7 @@
     <id>4003</id>
     <code>GS08B</code>
     <label>MM 8 DIN975 GİJON BEYAZ</label>
-    <stock>8500</stock>
+    <stock>13400</stock>
     <details>&lt;h3&gt;MM 8 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 226); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>19.062</price1>
@@ -14429,7 +14429,7 @@
     <id>4035</id>
     <code>TRK-250-48B</code>
     <label>KABLO BAĞI SİYAH 250*4,5</label>
-    <stock>15500</stock>
+    <stock>3500</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.819</price1>
@@ -14479,7 +14479,7 @@
     <id>4041</id>
     <code>DT06045</code>
     <label>MM 6 * 45 ASMA TAVAN DÜBELİ</label>
-    <stock>50985</stock>
+    <stock>44985</stock>
     <details>&lt;h3&gt;MM 6 * 45 ASMA TAVAN DÜBELİ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;6&amp;nbsp;*&amp;nbsp;45&amp;nbsp;ASMA&amp;nbsp;TAVAN&amp;nbsp;DÜBELİ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.145</price1>
@@ -14629,7 +14629,7 @@
     <id>4071</id>
     <code>TRK-430-48B</code>
     <label>KABLO BAĞI SİYAH 430*4,5</label>
-    <stock>12000</stock>
+    <stock>11000</stock>
     <details />
     <currency>TRL</currency>
     <price1>1.4406</price1>
@@ -14704,7 +14704,7 @@
     <id>4074</id>
     <code>TRK-550-76W</code>
     <label>KABLO BAĞI BEYAZ 550*7,6</label>
-    <stock>22700</stock>
+    <stock>21200</stock>
     <details />
     <currency>TRL</currency>
     <price1>3.57</price1>
@@ -14779,7 +14779,7 @@
     <id>4141</id>
     <code>GS10B</code>
     <label>MM 10 DIN975 GİJON BEYAZ</label>
-    <stock>9120</stock>
+    <stock>8940</stock>
     <details>&lt;h3&gt;MM 10 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 215, 222); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>30.4722</price1>
@@ -14829,7 +14829,7 @@
     <id>4144</id>
     <code>GS12B</code>
     <label>MM 12 DIN975 GİJON BEYAZ</label>
-    <stock>3482</stock>
+    <stock>3402</stock>
     <details>&lt;h3&gt;MM 12 DIN975 GİJON BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(217, 229, 246); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;DIN975&amp;nbsp;GİJON&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>44.118</price1>
@@ -14854,7 +14854,7 @@
     <id>4151</id>
     <code>DG08075</code>
     <label>MM 8 * 75 GÖMLEKLİ ÇEKME DÜBEL</label>
-    <stock>224550</stock>
+    <stock>220950</stock>
     <details>&lt;h3&gt;MM 8 * 75 GÖMLEKLİ ÇEKME DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;75&amp;nbsp;GÖMLEKLİ&amp;nbsp;ÇEKME&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>4.18</price1>
@@ -16179,7 +16179,7 @@
     <id>4368</id>
     <code>DK14150</code>
     <label>14 * 150 KLİPSLİ DÜBEL</label>
-    <stock>4771</stock>
+    <stock>4441</stock>
     <details>&lt;h3&gt;14 * 150 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;14&amp;nbsp;*&amp;nbsp;150&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>23.43</price1>
@@ -17229,7 +17229,7 @@
     <id>4706</id>
     <code>DG12090</code>
     <label>MM 12 * 90  GÖMLEKLİ ÇEKME DÜBEL</label>
-    <stock>20371</stock>
+    <stock>17771</stock>
     <details>&lt;h3&gt;MM 12 * 90  GÖMLEKLİ ÇEKME DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;90&amp;nbsp;GÖMLEKLİ&amp;nbsp;ÇEKME&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>10.45</price1>
@@ -17529,7 +17529,7 @@
     <id>4785</id>
     <code>TRK-300-48B</code>
     <label>KABLO BAĞI SİYAH 300*4,8</label>
-    <stock>8500</stock>
+    <stock>1000</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.9576</price1>
@@ -17654,7 +17654,7 @@
     <id>4854</id>
     <code>PK916B</code>
     <label>9/16 KALIN DÜZ DEMİR PUL BEYAZ</label>
-    <stock>250</stock>
+    <stock>460</stock>
     <details>&lt;h3&gt;9/16 KALIN DÜZ DEMİR PUL BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(216, 228, 244); color: rgb(51, 65, 85);"&gt;9/16&amp;nbsp;KALIN&amp;nbsp;DÜZ&amp;nbsp;DEMİR&amp;nbsp;PUL&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -17754,7 +17754,7 @@
     <id>4884</id>
     <code>DK12150</code>
     <label>12 * 150 KLİPSLİ DÜBEL</label>
-    <stock>16333</stock>
+    <stock>14833</stock>
     <details>&lt;h3&gt;12 * 150 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(217, 231, 248); color: rgb(51, 65, 85);"&gt;12&amp;nbsp;*&amp;nbsp;150&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>12.65</price1>
@@ -17854,7 +17854,7 @@
     <id>4894</id>
     <code>DG10070</code>
     <label>MM 10 * 70 GÖMLEKLİ ÇEKME DÜBEL</label>
-    <stock>28136</stock>
+    <stock>27736</stock>
     <details>&lt;h3&gt;MM 10 * 70 GÖMLEKLİ ÇEKME DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;70&amp;nbsp;GÖMLEKLİ&amp;nbsp;ÇEKME&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>5.61</price1>
@@ -19979,7 +19979,7 @@
     <id>5940</id>
     <code>DK08075</code>
     <label>8 * 75 KLİPSLİ DÜBEL</label>
-    <stock>43833</stock>
+    <stock>43333</stock>
     <details>&lt;h3&gt;8 * 75 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;8&amp;nbsp;*&amp;nbsp;75&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6.05</price1>
@@ -20004,7 +20004,7 @@
     <id>5961</id>
     <code>DG08100</code>
     <label>MM 8 * 100  GÖMLEKLİ ÇEKME DÜBEL</label>
-    <stock>37830</stock>
+    <stock>35430</stock>
     <details>&lt;h3&gt;MM 8 * 100  GÖMLEKLİ ÇEKME DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;100&amp;nbsp;GÖMLEKLİ&amp;nbsp;ÇEKME&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>4.95</price1>
@@ -20932,7 +20932,7 @@
     <stock>76</stock>
     <details />
     <currency>TRL</currency>
-    <price1>9.25</price1>
+    <price1>497.28</price1>
     <tax>20</tax>
     <barcode>uyl260920269999148</barcode>
     <brand>APEL</brand>
@@ -20940,11 +20940,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>9.25</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>11.1</vatIncluded>
+    <listPrice>518</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>596.736</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -21504,7 +21504,7 @@
     <id>6759</id>
     <code>DK20150</code>
     <label>20 * 150 KLİPSLİ DÜBEL</label>
-    <stock>4578</stock>
+    <stock>4328</stock>
     <details>&lt;h3&gt;20 * 150 KLİPSLİ DÜBEL&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;20&amp;nbsp;*&amp;nbsp;150&amp;nbsp;KLİPSLİ&amp;nbsp;DÜBEL&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>58.3</price1>
@@ -23432,7 +23432,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>50</price1>
+    <price1>2688</price1>
     <tax>20</tax>
     <barcode>uyl260920269999162</barcode>
     <brand>APEL</brand>
@@ -23440,11 +23440,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>50</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>60</vatIncluded>
+    <listPrice>2800</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>3225.6</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -23457,7 +23457,7 @@
     <stock>2</stock>
     <details />
     <currency>TRL</currency>
-    <price1>18.5</price1>
+    <price1>994.56</price1>
     <tax>20</tax>
     <barcode>uyl260920269999163</barcode>
     <brand>APEL</brand>
@@ -23465,11 +23465,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>18.5</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>22.2</vatIncluded>
+    <listPrice>1036</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1193.472</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -23482,7 +23482,7 @@
     <stock>15</stock>
     <details />
     <currency>TRL</currency>
-    <price1>46</price1>
+    <price1>2472.96</price1>
     <tax>20</tax>
     <barcode>uyl260920269999164</barcode>
     <brand>APEL</brand>
@@ -23490,11 +23490,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>46</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>55.2</vatIncluded>
+    <listPrice>2576</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>2967.552</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -23657,7 +23657,7 @@
     <stock>976</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2</price1>
+    <price1>107.52</price1>
     <tax>20</tax>
     <barcode>uyl260920269999165</barcode>
     <brand>APEL</brand>
@@ -23665,11 +23665,11 @@
     <category>Mdf / Hızlı Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>2</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.4</vatIncluded>
+    <listPrice>112</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>129.024</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -23754,7 +23754,7 @@
     <id>7552</id>
     <code>HR085W1-012020-101</code>
     <label>HORTUM KELEPÇESİ 8,5 mm (012020)</label>
-    <stock>11676</stock>
+    <stock>11476</stock>
     <details />
     <currency>TRL</currency>
     <price1>5.88</price1>
@@ -23807,7 +23807,7 @@
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.2</price1>
+    <price1>64.512</price1>
     <tax>20</tax>
     <barcode>uyl260920269999166</barcode>
     <brand>APEL</brand>
@@ -23815,11 +23815,11 @@
     <category>Mdf / Hızlı Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>1.2</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.44</vatIncluded>
+    <listPrice>67.2</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>77.4144</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -23832,7 +23832,7 @@
     <stock>1</stock>
     <details />
     <currency>TRL</currency>
-    <price1>60</price1>
+    <price1>3225.6</price1>
     <tax>20</tax>
     <barcode>uyl260920269999167</barcode>
     <brand>APEL</brand>
@@ -23840,11 +23840,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>60</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>72</vatIncluded>
+    <listPrice>3360</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>3870.72</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -24129,7 +24129,7 @@
     <id>7720</id>
     <code>MMS06B</code>
     <label>M 6 DIN934 SOMUN BEYAZ</label>
-    <stock>1119504</stock>
+    <stock>1109004</stock>
     <details>&lt;h3&gt;M 6 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;6&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.32396</price1>
@@ -24154,7 +24154,7 @@
     <id>7722</id>
     <code>MMS08B</code>
     <label>M 8 DIN934 SOMUN BEYAZ</label>
-    <stock>701865</stock>
+    <stock>700865</stock>
     <details>&lt;h3&gt;M 8 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;8&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.52756</price1>
@@ -24204,7 +24204,7 @@
     <id>7724</id>
     <code>MMS12B</code>
     <label>M 12 DIN934 SOMUN BEYAZ</label>
-    <stock>156973</stock>
+    <stock>151773</stock>
     <details>&lt;h3&gt;M 12 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;12&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.62232</price1>
@@ -24329,7 +24329,7 @@
     <id>7729</id>
     <code>MMS20B</code>
     <label>M 20 DIN934 SOMUN BEYAZ</label>
-    <stock>14821</stock>
+    <stock>11821</stock>
     <details>&lt;h3&gt;M 20 DIN934 SOMUN BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;20&amp;nbsp;DIN934&amp;nbsp;SOMUN&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>5.64796</price1>
@@ -25229,7 +25229,7 @@
     <id>7811</id>
     <code>MM10025933B</code>
     <label>MM 10 * 25 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>120664</stock>
+    <stock>193864</stock>
     <details>&lt;h3&gt;MM 10 * 25 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;10&amp;nbsp;*&amp;nbsp;25&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.423867</price1>
@@ -26529,7 +26529,7 @@
     <id>7876</id>
     <code>MM08060933B</code>
     <label>MM 8 * 60 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>7400</stock>
+    <stock>6400</stock>
     <details>&lt;h3&gt;MM 8 * 60 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;60&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.903962</price1>
@@ -29629,7 +29629,7 @@
     <id>8130</id>
     <code>TRK-200-36B</code>
     <label>KABLO BAĞI SİYAH 200*3,6</label>
-    <stock>10500</stock>
+    <stock>500</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.4914</price1>
@@ -34629,7 +34629,7 @@
     <id>9158</id>
     <code>PM12KB</code>
     <label>MM 12 DÜZ DEMİR PUL DIN125 BEYAZ</label>
-    <stock>2565</stock>
+    <stock>2475</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -34804,7 +34804,7 @@
     <id>9196</id>
     <code>PM20KB</code>
     <label>MM 20 DÜZ DEMİR PUL DIN125 BEYAZ</label>
-    <stock>1569</stock>
+    <stock>2769</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -35532,7 +35532,7 @@
     <stock>768</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.6</price1>
+    <price1>139.776</price1>
     <tax>20</tax>
     <barcode>uyl260920269999183</barcode>
     <brand>APEL</brand>
@@ -35540,11 +35540,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>2.6</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3.12</vatIncluded>
+    <listPrice>145.6</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>167.7312</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -35582,7 +35582,7 @@
     <stock>2827</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.55</price1>
+    <price1>137.088</price1>
     <tax>20</tax>
     <barcode>uyl260920269999184</barcode>
     <brand>APEL</brand>
@@ -35590,11 +35590,11 @@
     <category>Sıvı Çivi</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>2.55</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3.06</vatIncluded>
+    <listPrice>142.8</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>164.5056</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -36029,7 +36029,7 @@
     <id>9511</id>
     <code>P2012B</code>
     <label>1/2 DÜZ DEMİR PUL 2 MM BEYAZ</label>
-    <stock>7</stock>
+    <stock>1207</stock>
     <details />
     <currency>TRL</currency>
     <price1>86.4</price1>
@@ -36282,7 +36282,7 @@
     <stock>40</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.75</price1>
+    <price1>94.08</price1>
     <tax>20</tax>
     <barcode>uyl260920269999186</barcode>
     <brand>APEL</brand>
@@ -36290,11 +36290,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>1.75</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.1</vatIncluded>
+    <listPrice>98</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>112.896</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -37132,7 +37132,7 @@
     <stock>72</stock>
     <details />
     <currency>TRL</currency>
-    <price1>2.15</price1>
+    <price1>115.584</price1>
     <tax>20</tax>
     <barcode>uyl260920269999191</barcode>
     <brand>APEL</brand>
@@ -37140,11 +37140,11 @@
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>2.15</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.58</vatIncluded>
+    <listPrice>120.4</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>138.7008</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -37279,7 +37279,7 @@
     <id>10337</id>
     <code>BEYBİ-PN510</code>
     <label>BEYBİ PN5  BEYAZ SARI 12Lİ NİTRİL ELDİVEN NO:10</label>
-    <stock>15792</stock>
+    <stock>14352</stock>
     <details>&lt;h3&gt;BEYBİ PN5  BEYAZ SARI 12Lİ NİTRİL ELDİVEN NO:10&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"&gt;PN5&amp;nbsp;eldivenler&amp;nbsp;ince&amp;nbsp;ve&amp;nbsp;hafif&amp;nbsp;olması&amp;nbsp;sayesinde&amp;nbsp;üstün&amp;nbsp;el&amp;nbsp;becerisi&amp;nbsp;ve&amp;nbsp;konfor&amp;nbsp;sağlar.&amp;nbsp;Polyester&amp;nbsp;örgü&amp;nbsp;yapısı&amp;nbsp;elinizin&amp;nbsp;hava&amp;nbsp;almasını&amp;nbsp;sağlar,&amp;nbsp;terletme&amp;nbsp;yapmaz.&amp;nbsp;Esnek&amp;nbsp;konç&amp;nbsp;yapısı&amp;nbsp;bileğinize&amp;nbsp;tam&amp;nbsp;uyum&amp;nbsp;sağlar.&amp;nbsp;Aşınma&amp;nbsp;ve&amp;nbsp;yırtılmaya&amp;nbsp;karşı&amp;nbsp;uzun&amp;nbsp;süre&amp;nbsp;dayanıklıdır.&amp;nbsp;Gıda&amp;nbsp;ile&amp;nbsp;temasa&amp;nbsp;uygundur,&amp;nbsp;REACH&amp;nbsp;uyumludur&amp;nbsp;ve&amp;nbsp;silikon&amp;nbsp;içermez.&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>30.348</price1>
@@ -39004,7 +39004,7 @@
     <id>10676</id>
     <code>TRK-200-25B</code>
     <label>KABLO BAĞI SİYAH 200*2,5</label>
-    <stock>18200</stock>
+    <stock>16200</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.2982</price1>
@@ -44704,7 +44704,7 @@
     <id>10927</id>
     <code>B00276180400</code>
     <label>HSSE CO8 DIN 844/BN PAR.FRZ.  4  MM KISA</label>
-    <stock>74</stock>
+    <stock>69</stock>
     <details />
     <currency>TRL</currency>
     <price1>373.168</price1>
@@ -52104,7 +52104,7 @@
     <id>11471</id>
     <code>2.608.621.721</code>
     <label>C450 150mm 40K 6 delik(BoschOne Zımp.) ( Set Of Sa</label>
-    <stock>0</stock>
+    <stock>5</stock>
     <details />
     <currency>TRL</currency>
     <price1>753.6375</price1>
@@ -52154,7 +52154,7 @@
     <id>11473</id>
     <code>2.608.621.723</code>
     <label>C450 150mm 80K  6 delik(BoschOne Zımp.) ( Set Of S</label>
-    <stock>0</stock>
+    <stock>5</stock>
     <details>&lt;h3&gt;C450 150mm 80K  6 delik(BoschOne Zımp.) ( Set Of S&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;C450&amp;nbsp;150mm&amp;nbsp;80K&amp;nbsp;&amp;nbsp;6&amp;nbsp;delik(BoschOne&amp;nbsp;Zımp.)&amp;nbsp;(&amp;nbsp;Set&amp;nbsp;Of&amp;nbsp;S&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>627.4125</price1>
@@ -52179,7 +52179,7 @@
     <id>11475</id>
     <code>2.608.621.725</code>
     <label>C450 150mm 120K  6 delik(BoschOne Zımp.) ( Set Of</label>
-    <stock>0</stock>
+    <stock>5</stock>
     <details>&lt;h3&gt;C450 150mm 120K  6 delik(BoschOne Zımp.) ( Set Of&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;C450&amp;nbsp;150mm&amp;nbsp;120K&amp;nbsp;&amp;nbsp;6&amp;nbsp;delik(BoschOne&amp;nbsp;Zımp.)&amp;nbsp;(&amp;nbsp;Set&amp;nbsp;Of&amp;nbsp;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>602.6625</price1>
@@ -52245,6 +52245,31 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>723.195</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>11479</id>
+    <code>2.608.621.729</code>
+    <label>C450 150mm 320K  6 delik(BoschOne Zımp.) ( Set Of</label>
+    <stock>5</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999474</barcode>
+    <brand>BOSCH</brand>
+    <mainCategory>Elektrikli El Aletleri Aksesuarları</mainCategory>
+    <category>Zımparalama ve Polisaj</category>
+    <unit>ADET</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0</listPrice>
+    <discount>32</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -57554,7 +57579,7 @@
     <id>12092</id>
     <code>2.608.600.543</code>
     <label>EXMetal Kesme Taşı 355x3 25,40*2,8 mm Düz</label>
-    <stock>1066</stock>
+    <stock>1006</stock>
     <details />
     <currency>TRL</currency>
     <price1>120.02067</price1>
@@ -57629,7 +57654,7 @@
     <id>12097</id>
     <code>2.608.631.014</code>
     <label>T 118 B Basic for Metal 5'li ( Saw Blade Set</label>
-    <stock>13</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>260.2875</price1>
@@ -66004,7 +66029,7 @@
     <id>12713</id>
     <code>13000000003</code>
     <label>12'Lİ ÇATAL İKİ AĞIZ ANAHTAR TAKIMI KISA BOY</label>
-    <stock>424</stock>
+    <stock>423</stock>
     <details />
     <currency>TRL</currency>
     <price1>1663.46</price1>
@@ -67304,7 +67329,7 @@
     <id>12832</id>
     <code>0.601.396.006</code>
     <label>GWS 9-115  Avuç Taşlama ( Angle Grinder GWS 9</label>
-    <stock>151</stock>
+    <stock>145</stock>
     <details />
     <currency>TRL</currency>
     <price1>3100.68</price1>
@@ -70331,7 +70356,7 @@ GBH 1-52</label>
     <code>0.611.253.703</code>
     <label>GBH 2-26 DRE Kırıcı- Delici
 GBH 2-26 DRE Kırıcı-</label>
-    <stock>831</stock>
+    <stock>836</stock>
     <details />
     <currency>TRL</currency>
     <price1>6151.365</price1>
@@ -70356,7 +70381,7 @@ GBH 2-26 DRE Kırıcı-</label>
     <id>13051</id>
     <code>EL170S244</code>
     <label>YDS EL170S2 44 NUMARA BOT</label>
-    <stock>56</stock>
+    <stock>46</stock>
     <details />
     <currency>TRL</currency>
     <price1>1863.675</price1>
@@ -70381,7 +70406,7 @@ GBH 2-26 DRE Kırıcı-</label>
     <id>13052</id>
     <code>EL170S245</code>
     <label>YDS EL170S2 45 NUMARA BOT</label>
-    <stock>21</stock>
+    <stock>11</stock>
     <details />
     <currency>TRL</currency>
     <price1>1863.675</price1>
@@ -70406,7 +70431,7 @@ GBH 2-26 DRE Kırıcı-</label>
     <id>13053</id>
     <code>EL170S243</code>
     <label>YDS EL170S2 43 NUMARA BOT</label>
-    <stock>50</stock>
+    <stock>30</stock>
     <details />
     <currency>TRL</currency>
     <price1>1863.675</price1>
@@ -70431,7 +70456,7 @@ GBH 2-26 DRE Kırıcı-</label>
     <id>13054</id>
     <code>EL170S240</code>
     <label>YDS EL170S2 40 NUMARA BOT</label>
-    <stock>67</stock>
+    <stock>57</stock>
     <details />
     <currency>TRL</currency>
     <price1>1863.675</price1>
@@ -70456,7 +70481,7 @@ GBH 2-26 DRE Kırıcı-</label>
     <id>13055</id>
     <code>EL170S241</code>
     <label>YDS EL170S2 41 NUMARA BOT</label>
-    <stock>25</stock>
+    <stock>15</stock>
     <details />
     <currency>TRL</currency>
     <price1>1863.675</price1>
@@ -70957,7 +70982,7 @@ GBH 1-52</label>
     <id>13079</id>
     <code>ELSP1090S244</code>
     <label>YDS EL1090S2 44 NUMARA ÇELİK AYAKKABI</label>
-    <stock>1</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>1695.87</price1>
@@ -71057,7 +71082,7 @@ GBH 1-52</label>
     <id>13083</id>
     <code>ELSP1090S242</code>
     <label>YDS EL1090S2 42 NUMARA ÇELİK AYAKKABI</label>
-    <stock>4</stock>
+    <stock>3</stock>
     <details />
     <currency>TRL</currency>
     <price1>1695.87</price1>
@@ -71082,7 +71107,7 @@ GBH 1-52</label>
     <id>13084</id>
     <code>ELSP1090S243</code>
     <label>YDS EL1090S2 43 NUMARA ÇELİK AYAKKABI</label>
-    <stock>15</stock>
+    <stock>5</stock>
     <details />
     <currency>TRL</currency>
     <price1>1695.87</price1>
@@ -71257,7 +71282,7 @@ GBH 1-52</label>
     <id>13091</id>
     <code>GPP05GHNVATSM44</code>
     <label>YDS GPP05GHNVATSM 44 NUMARA ÇELİK AYAKKABI</label>
-    <stock>0</stock>
+    <stock>10</stock>
     <details />
     <currency>TRL</currency>
     <price1>1960.2</price1>
@@ -71307,7 +71332,7 @@ GBH 1-52</label>
     <id>13093</id>
     <code>GPP05GHNVATSM40</code>
     <label>YDS GPP05GHNVATSM 40 NUMARA ÇELİK AYAKKABI</label>
-    <stock>0</stock>
+    <stock>20</stock>
     <details />
     <currency>TRL</currency>
     <price1>1960.2</price1>
@@ -71332,7 +71357,7 @@ GBH 1-52</label>
     <id>13094</id>
     <code>GPP05GHNVATSM41</code>
     <label>YDS GPP05GHNVATSM 41 NUMARA ÇELİK AYAKKABI</label>
-    <stock>4</stock>
+    <stock>34</stock>
     <details />
     <currency>TRL</currency>
     <price1>1960.2</price1>
@@ -71357,7 +71382,7 @@ GBH 1-52</label>
     <id>13095</id>
     <code>GPP05GHNVATSM42</code>
     <label>YDS GPP05GHNVATSM 42 NUMARA ÇELİK AYAKKABI</label>
-    <stock>7</stock>
+    <stock>17</stock>
     <details />
     <currency>TRL</currency>
     <price1>1960.2</price1>
@@ -71382,7 +71407,7 @@ GBH 1-52</label>
     <id>13096</id>
     <code>GPP05GHNVATSM43</code>
     <label>YDS GPP05GHNVATSM 43 NUMARA ÇELİK AYAKKABI</label>
-    <stock>0</stock>
+    <stock>39</stock>
     <details />
     <currency>TRL</currency>
     <price1>1960.2</price1>
@@ -73732,7 +73757,7 @@ GBH 1-52</label>
     <id>13202</id>
     <code>13000001430</code>
     <label>6 LI KLEMENS TORNAVİDA TK</label>
-    <stock>203</stock>
+    <stock>200</stock>
     <details />
     <currency>TRL</currency>
     <price1>781.82</price1>
@@ -78432,7 +78457,7 @@ GBH 1-52</label>
     <id>19857</id>
     <code>GPP05GHNVATSM47</code>
     <label>YDS GPP05GHNVATSM 47 NUMARA ÇELİK AYAKKABI</label>
-    <stock>9</stock>
+    <stock>11</stock>
     <details />
     <currency>TRL</currency>
     <price1>1960.2</price1>
@@ -80632,7 +80657,7 @@ GBH 1-52</label>
     <id>21034</id>
     <code>13000001006</code>
     <label>30X32 AĞIR TİP BİJON ANAHTAR</label>
-    <stock>8</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>744.62</price1>
@@ -83932,7 +83957,7 @@ GBH 1-52</label>
     <id>21351</id>
     <code>14000000437</code>
     <label>510 MM AGIR CIRCIR KOLU</label>
-    <stock>145</stock>
+    <stock>130</stock>
     <details />
     <currency>TRL</currency>
     <price1>3144.02</price1>
@@ -98432,7 +98457,7 @@ GBH 1-52</label>
     <id>39069</id>
     <code>BEYBİ-TOUCH10</code>
     <label>BEYBİ POLİÜRETAN KAPLI PU TOUCH SİYAH NO:10</label>
-    <stock>4608</stock>
+    <stock>4320</stock>
     <details />
     <currency>TRL</currency>
     <price1>33.642</price1>
@@ -101510,7 +101535,7 @@ GBH 1-52</label>
     <stock>1327</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.3</price1>
+    <price1>69.888</price1>
     <tax>20</tax>
     <barcode>uyl260920269999289</barcode>
     <brand>APEL</brand>
@@ -101518,11 +101543,11 @@ GBH 1-52</label>
     <category>Mdf / Hızlı Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>1.3</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.56</vatIncluded>
+    <listPrice>72.8</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>83.8656</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -101535,7 +101560,7 @@ GBH 1-52</label>
     <stock>273</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.8</price1>
+    <price1>96.768</price1>
     <tax>20</tax>
     <barcode>uyl260920269999290</barcode>
     <brand>APEL</brand>
@@ -101543,11 +101568,11 @@ GBH 1-52</label>
     <category>Mdf / Hızlı Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>1.8</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2.16</vatIncluded>
+    <listPrice>100.8</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>116.1216</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -102307,7 +102332,7 @@ GBH 1-52</label>
     <id>39395</id>
     <code>B00110022400</code>
     <label>HSS DIN 223/B METR.NRM. PAFTA M 24 x3</label>
-    <stock>8</stock>
+    <stock>7</stock>
     <details />
     <currency>TRL</currency>
     <price1>2515.084</price1>
@@ -105407,7 +105432,7 @@ GBH 1-52</label>
     <id>40745</id>
     <code>0.601.B37.200</code>
     <label>GCO 14-24 J Profil Kesme Makinesi</label>
-    <stock>44</stock>
+    <stock>42</stock>
     <details />
     <currency>TRL</currency>
     <price1>10501.2325</price1>
@@ -105857,7 +105882,7 @@ GBH 1-52</label>
     <id>40783</id>
     <code>13000001826</code>
     <label>30 PLASTİK ÇEKİÇ</label>
-    <stock>234</stock>
+    <stock>229</stock>
     <details />
     <currency>TRL</currency>
     <price1>493.52</price1>
@@ -118732,7 +118757,7 @@ GBH 1-52</label>
     <id>45046</id>
     <code>2.608.656.022</code>
     <label>Panter Testere FlexforW&amp;M S1222VF 5 li</label>
-    <stock>6</stock>
+    <stock>3</stock>
     <details />
     <currency>TRL</currency>
     <price1>1244.1</price1>
@@ -127607,7 +127632,7 @@ GBH 1-52</label>
     <id>52347</id>
     <code>NHBİMB0816B</code>
     <label>M8x16 7991 FT 010.9 C440 NORM CİVATA</label>
-    <stock>10199</stock>
+    <stock>8599</stock>
     <details />
     <currency>TRL</currency>
     <price1>1.5435</price1>
@@ -160460,7 +160485,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>37</price1>
+    <price1>1989.12</price1>
     <tax>20</tax>
     <barcode>uyl260920269999331</barcode>
     <brand>APEL</brand>
@@ -160468,11 +160493,11 @@ GBH 1-52</label>
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>37</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>44.4</vatIncluded>
+    <listPrice>2072</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>2386.944</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -160785,7 +160810,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>90</price1>
+    <price1>4838.4</price1>
     <tax>20</tax>
     <barcode>uyl260920269999334</barcode>
     <brand>APEL</brand>
@@ -160793,11 +160818,11 @@ GBH 1-52</label>
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>90</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>108</vatIncluded>
+    <listPrice>5040</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>5806.08</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -162582,7 +162607,7 @@ GBH 1-52</label>
     <id>58994</id>
     <code>2.608.608.231</code>
     <label>S473 Best for Çift Taraflı S.zım.(fine+)</label>
-    <stock>100</stock>
+    <stock>200</stock>
     <details />
     <currency>TRL</currency>
     <price1>0</price1>
@@ -163610,7 +163635,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>95</price1>
+    <price1>0</price1>
     <tax>20</tax>
     <barcode>uyl260920269999339</barcode>
     <brand>APEL</brand>
@@ -163618,11 +163643,11 @@ GBH 1-52</label>
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>95</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>114</vatIncluded>
+    <listPrice>0</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -163710,7 +163735,7 @@ GBH 1-52</label>
     <stock>768</stock>
     <details />
     <currency>TRL</currency>
-    <price1>3.1</price1>
+    <price1>166.656</price1>
     <tax>20</tax>
     <barcode>uyl260920269999340</barcode>
     <brand>APEL</brand>
@@ -163718,11 +163743,11 @@ GBH 1-52</label>
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>3.1</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3.72</vatIncluded>
+    <listPrice>173.6</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>199.9872</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -164082,7 +164107,7 @@ GBH 1-52</label>
     <id>59172</id>
     <code>2.608.900.246</code>
     <label>EXP SDS-Max-8X K-Delici Ucu 26*520</label>
-    <stock>0</stock>
+    <stock>10</stock>
     <details />
     <currency>TRL</currency>
     <price1>0</price1>
@@ -164607,7 +164632,7 @@ GBH 1-52</label>
     <id>60292</id>
     <code>PUMAMB</code>
     <label>PUMA METAL MAKET BIÇAĞI</label>
-    <stock>1430</stock>
+    <stock>371</stock>
     <details />
     <currency>TRL</currency>
     <price1>29.883626</price1>
@@ -166932,7 +166957,7 @@ GBH 1-52</label>
     <id>68509</id>
     <code>RAYNOMBY</code>
     <label>RAYNO MAKET BIÇAĞI YEDEĞİ 18mmx 0.5mm</label>
-    <stock>314600</stock>
+    <stock>294600</stock>
     <details>&lt;h3&gt;RAYNO MAKET BIÇAĞI YEDEĞİ 18mmx 0.5mm&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;Yedek&amp;nbsp;uç&amp;nbsp;karbon&amp;nbsp;çeliğinden&amp;nbsp;üretilmiştir&amp;nbsp;ve&amp;nbsp;3&amp;nbsp;açılı&amp;nbsp;bileme&lt;/p&gt;&lt;p&gt;teknolojisinden&amp;nbsp;dolayı&amp;nbsp;yüksek&amp;nbsp;performans&amp;nbsp;sergiler.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.765952</price1>
@@ -167257,7 +167282,7 @@ GBH 1-52</label>
     <id>68546</id>
     <code>TRK-300-36W</code>
     <label>KABLO BAĞI BEYAZ 300*3,5</label>
-    <stock>26500</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.7266</price1>
@@ -168982,7 +169007,7 @@ GBH 1-52</label>
     <id>72843</id>
     <code>TRK-300-36B</code>
     <label>KABLO BAĞI SİYAH 300*3,5</label>
-    <stock>43000</stock>
+    <stock>3000</stock>
     <details />
     <currency>TRL</currency>
     <price1>0.7266</price1>
@@ -174460,7 +174485,7 @@ GBH 1-52</label>
     <stock>75</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 1Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1959.216</price1>
+    <price1>1666</price1>
     <tax>20</tax>
     <barcode>uyl260920269996538</barcode>
     <brand>RAYNO</brand>
@@ -174469,10 +174494,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4165</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>2351.0592</vatIncluded>
+    <vatIncluded>1999.2</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0352ebf3-7fc0-481a-a8ad-678e38e7bbf7.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174485,7 +174510,7 @@ GBH 1-52</label>
     <stock>134</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 1Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1613.472</price1>
+    <price1>1372</price1>
     <tax>20</tax>
     <barcode>uyl260920269996539</barcode>
     <brand>RAYNO</brand>
@@ -174494,10 +174519,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3430</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>1936.1664</vatIncluded>
+    <vatIncluded>1646.4</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/aa0ac432-3ed5-4f3a-bf4d-cd179a6ccaba.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174510,7 +174535,7 @@ GBH 1-52</label>
     <stock>99</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 2Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1936.1664</price1>
+    <price1>1646.4</price1>
     <tax>20</tax>
     <barcode>uyl260920269996540</barcode>
     <brand>RAYNO</brand>
@@ -174519,10 +174544,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4116</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>2323.39968</vatIncluded>
+    <vatIncluded>1975.68</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/4e40418d-057d-4cf9-85b4-0641c70b9ffd.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174535,7 +174560,7 @@ GBH 1-52</label>
     <stock>75</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 2Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>2535.456</price1>
+    <price1>2156</price1>
     <tax>20</tax>
     <barcode>uyl260920269996541</barcode>
     <brand>RAYNO</brand>
@@ -174544,10 +174569,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>5390</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>3042.5472</vatIncluded>
+    <vatIncluded>2587.2</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/c427ad1a-afd4-4bdf-9d09-ab31ddddac20.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174560,7 +174585,7 @@ GBH 1-52</label>
     <stock>120</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 3Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>3111.696</price1>
+    <price1>2646</price1>
     <tax>20</tax>
     <barcode>uyl260920269996542</barcode>
     <brand>RAYNO</brand>
@@ -174569,10 +174594,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6615</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>3734.0352</vatIncluded>
+    <vatIncluded>3175.2</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/f871ce52-8eda-4e88-ae00-1dea799ca773.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174585,7 +174610,7 @@ GBH 1-52</label>
     <stock>65</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 3Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>3803.184</price1>
+    <price1>3234</price1>
     <tax>20</tax>
     <barcode>uyl260920269996543</barcode>
     <brand>RAYNO</brand>
@@ -174594,10 +174619,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>8085</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>4563.8208</vatIncluded>
+    <vatIncluded>3880.8</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/a1cfcc0a-4f9e-4b16-bae1-73ff45cd024b.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174610,7 +174635,7 @@ GBH 1-52</label>
     <stock>16</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 5Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>4609.92</price1>
+    <price1>3920</price1>
     <tax>20</tax>
     <barcode>uyl260920269996544</barcode>
     <brand>RAYNO</brand>
@@ -174619,10 +174644,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>9800</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>5531.904</vatIncluded>
+    <vatIncluded>4704</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/c7d080e2-834e-4b28-8975-3ebd92496a4b.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174635,7 +174660,7 @@ GBH 1-52</label>
     <stock>55</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 5Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>5762.4</price1>
+    <price1>4900</price1>
     <tax>20</tax>
     <barcode>uyl260920269996545</barcode>
     <brand>RAYNO</brand>
@@ -174644,10 +174669,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>12250</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>6914.88</vatIncluded>
+    <vatIncluded>5880</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/7ea8caa2-ea24-4685-a74a-48a04453f241.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -174660,7 +174685,7 @@ GBH 1-52</label>
     <stock>15</stock>
     <details>&lt;h3&gt;RAYNO PROFESYONEL HSC ÜÇGEN TİP CARASKAL 10Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>13138.272</price1>
+    <price1>11172</price1>
     <tax>20</tax>
     <barcode>uyl260920269996546</barcode>
     <brand>RAYNO</brand>
@@ -174669,10 +174694,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>27930</listPrice>
-    <discount>52.96</discount>
+    <discount>60</discount>
     <cashDiscount>15</cashDiscount>
     <creditCardDiscount>10</creditCardDiscount>
-    <vatIncluded>15765.9264</vatIncluded>
+    <vatIncluded>13406.4</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/ceabf264-2a16-44bc-a9da-0341c324d124.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -176607,7 +176632,7 @@ GBH 1-52</label>
     <id>75629</id>
     <code>0.601.9G8.002</code>
     <label>GSR 120-LI + 23 Parça Vidalama Seti</label>
-    <stock>22</stock>
+    <stock>21</stock>
     <details />
     <currency>TRL</currency>
     <price1>5300.46</price1>
@@ -184357,7 +184382,7 @@ GBH 1-52</label>
     <id>76407</id>
     <code>2.608.900.238</code>
     <label>EXP SDS-Max-8X K-Delici Ucu 24*320</label>
-    <stock>0</stock>
+    <stock>2</stock>
     <details />
     <currency>TRL</currency>
     <price1>0</price1>
@@ -188682,7 +188707,7 @@ GBH 1-52</label>
     <id>76779</id>
     <code>2.608.706.904</code>
     <label>SDSplus hammer drill bit 5X 10x260</label>
-    <stock>0</stock>
+    <stock>10</stock>
     <details />
     <currency>TRL</currency>
     <price1>293.7</price1>
@@ -189082,7 +189107,7 @@ GBH 1-52</label>
     <id>76810</id>
     <code>2.608.594.454</code>
     <label>Delik Testeresİ PRO SM PC PLUS HS 48 MM</label>
-    <stock>42</stock>
+    <stock>92</stock>
     <details />
     <currency>TRL</currency>
     <price1>751.575</price1>
@@ -190110,7 +190135,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>48</price1>
+    <price1>2580.48</price1>
     <tax>20</tax>
     <barcode>uyl260920269999407</barcode>
     <brand>APEL</brand>
@@ -190118,11 +190143,11 @@ GBH 1-52</label>
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>48</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>57.6</vatIncluded>
+    <listPrice>2688</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>3096.576</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -191007,7 +191032,7 @@ GBH 1-52</label>
     <id>77976</id>
     <code>RYN10653</code>
     <label>RAYNO KAYNAK PENSESİ 400 AMPER</label>
-    <stock>1831</stock>
+    <stock>1821</stock>
     <details />
     <currency>TRL</currency>
     <price1>142.216032</price1>
@@ -191032,7 +191057,7 @@ GBH 1-52</label>
     <id>77977</id>
     <code>RYN10654</code>
     <label>RAYNO KAYNAK PENSESİ 600 AMPER</label>
-    <stock>513</stock>
+    <stock>128</stock>
     <details />
     <currency>TRL</currency>
     <price1>151.666368</price1>
@@ -192557,7 +192582,7 @@ GBH 1-52</label>
     <id>78085</id>
     <code>2.608.706.888</code>
     <label>SDSplus hammer drill bit 5X 7x210</label>
-    <stock>0</stock>
+    <stock>5</stock>
     <details />
     <currency>TRL</currency>
     <price1>230.5875</price1>
@@ -194282,7 +194307,7 @@ GBH 1-52</label>
     <id>78186</id>
     <code>RYN6064</code>
     <label>RAYNO BOYA TABANCASI ALTTAN 750CC (1.8 MM)</label>
-    <stock>326</stock>
+    <stock>316</stock>
     <details>&lt;h3&gt;RAYNO BOYA TABANCASI ALTTAN 750CC (1.8 MM)&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;RAYNO&amp;nbsp;BOYA&amp;nbsp;TABANCASI&amp;nbsp;ALTTAN&amp;nbsp;750CC&amp;nbsp;(1.8&amp;nbsp;MM)&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;750CC&amp;nbsp;(1.8&amp;nbsp;MM)&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>294</price1>
@@ -194332,7 +194357,7 @@ GBH 1-52</label>
     <id>78188</id>
     <code>RYN6066</code>
     <label>RAYNO BOYA TABANCASI ALTTAN 750CC (2.5 MM)</label>
-    <stock>175</stock>
+    <stock>165</stock>
     <details />
     <currency>TRL</currency>
     <price1>294</price1>
@@ -195757,7 +195782,7 @@ GBH 1-52</label>
     <id>78266</id>
     <code>2.608.594.448</code>
     <label>Delik Testeresİ PRO SM PC PLUS HS 33 MM</label>
-    <stock>0</stock>
+    <stock>50</stock>
     <details />
     <currency>TRL</currency>
     <price1>586.1625</price1>
@@ -196457,7 +196482,7 @@ GBH 1-52</label>
     <id>78305</id>
     <code>0.601.9N9.020</code>
     <label>GWS 18V-8 Akülü Taşlama Makinesi 2x4.0Ah</label>
-    <stock>41</stock>
+    <stock>40</stock>
     <details />
     <currency>TRL</currency>
     <price1>13002</price1>
@@ -198382,7 +198407,7 @@ GBH 1-52</label>
     <id>78410</id>
     <code>5907735901</code>
     <label>SCHEPPACH HCE3000 YÜKSEK BASINÇLI YIKAMA MAKİNASI</label>
-    <stock>88</stock>
+    <stock>87</stock>
     <details>&lt;h3&gt;SCHEPPACH HCE3000 YÜKSEK BASINÇLI YIKAMA MAKİNASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;Yüksek&amp;nbsp;kaliteli,&amp;nbsp;korozyona&amp;nbsp;dayanıklı&amp;nbsp;alüminyum&amp;nbsp;pompa&amp;nbsp;sayesinde&amp;nbsp;uzun&lt;/p&gt;&lt;p&gt;ömürlü,&amp;nbsp;teleskopik&amp;nbsp;ayarlanabilir&amp;nbsp;taşıma&amp;nbsp;kulpuna&amp;nbsp;sahip,&amp;nbsp;8&amp;nbsp;m&amp;nbsp;anti-twist&lt;/p&gt;&lt;p&gt;yüksek&amp;nbsp;basınç&amp;nbsp;hortumu&amp;nbsp;ve&amp;nbsp;entegre&amp;nbsp;hortum&amp;nbsp;tamburu&amp;nbsp;barındıran,&amp;nbsp;basınç&lt;/p&gt;&lt;p&gt;göstergeli&amp;nbsp;tabanca&amp;nbsp;ve&amp;nbsp;dahili&amp;nbsp;köpük&amp;nbsp;deposu&amp;nbsp;ile&amp;nbsp;tasarlanmış,&amp;nbsp;180&amp;nbsp;bar&lt;/p&gt;&lt;p&gt;yüksek&amp;nbsp;basınçlı&amp;nbsp;yıkama&amp;nbsp;makinesi.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;360&amp;nbsp;x&amp;nbsp;345&amp;nbsp;x&amp;nbsp;580&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Basıncı&amp;nbsp;180&amp;nbsp;bar&lt;/p&gt;&lt;p&gt;Anma&amp;nbsp;Basıncı&amp;nbsp;120&amp;nbsp;bar&lt;/p&gt;&lt;p&gt;Akış&amp;nbsp;Hızı&amp;nbsp;480&amp;nbsp;L/s&lt;/p&gt;&lt;p&gt;Temizlik&amp;nbsp;Mad.&amp;nbsp;Dep.&amp;nbsp;800&amp;nbsp;ml&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;2400&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net&amp;nbsp;/&amp;nbsp;Brüt&amp;nbsp;Ağırlık&amp;nbsp;11&amp;nbsp;/&amp;nbsp;12&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5907735901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9496.2</price1>
@@ -200360,7 +200385,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>23</price1>
+    <price1>1236.48</price1>
     <tax>20</tax>
     <barcode>uyl260920269999420</barcode>
     <brand>APEL</brand>
@@ -200368,11 +200393,11 @@ GBH 1-52</label>
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>23</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>27.6</vatIncluded>
+    <listPrice>1288</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>1483.776</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -201382,7 +201407,7 @@ GBH 1-52</label>
     <id>78577</id>
     <code>2.608.594.459</code>
     <label>PRO SM PC-Plus Delik Açma Testeresi 64mm</label>
-    <stock>56</stock>
+    <stock>106</stock>
     <details />
     <currency>TRL</currency>
     <price1>867.4875</price1>
@@ -201957,7 +201982,7 @@ GBH 1-52</label>
     <id>78623</id>
     <code>59092654992</code>
     <label>SCHEPPACH BC-RS250-X-SET L1.5 AKÜLÜ TİLKİ KUYRUĞU</label>
-    <stock>692</stock>
+    <stock>691</stock>
     <details>&lt;h3&gt;SCHEPPACH BC-RS250-X-SET L1.5 AKÜLÜ TİLKİ KUYRUĞU&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Akülü&amp;nbsp;Tilki&amp;nbsp;Kuyruğu&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ahşap,&amp;nbsp;plastik,&amp;nbsp;metaller&amp;nbsp;veya&amp;nbsp;yapı&amp;nbsp;malzemelerindeki&amp;nbsp;kesimleri&amp;nbsp;yapabileceğiniz,&lt;/p&gt;&lt;p&gt;alet&amp;nbsp;kullanmadan&amp;nbsp;bıçak&amp;nbsp;değiştirebileceğiniz&amp;nbsp;hızlı&amp;nbsp;mandren,&amp;nbsp;entegre&amp;nbsp;led&amp;nbsp;lambası&amp;nbsp;ile&lt;/p&gt;&lt;p&gt;kesim&amp;nbsp;anında&amp;nbsp;detaylı&amp;nbsp;görüşü&amp;nbsp;sağlayan&amp;nbsp;akülü&amp;nbsp;tilki&amp;nbsp;kuyruğu.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;390&amp;nbsp;x&amp;nbsp;160&amp;nbsp;x&amp;nbsp;80&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Tipi&amp;nbsp;Kömürsüz&amp;nbsp;Motor&lt;/p&gt;&lt;p&gt;Strok&amp;nbsp;Sayısı&amp;nbsp;0&amp;nbsp;-&amp;nbsp;3000&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Strok&amp;nbsp;Uzunluğu&amp;nbsp;28&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Testere&amp;nbsp;Bıçağı&amp;nbsp;Yuvası&amp;nbsp;12.7&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Akü&amp;nbsp;Gerilimi&amp;nbsp;20&amp;nbsp;V&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;1.9&amp;nbsp;/&amp;nbsp;5.4&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;59092654992&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6517</price1>
@@ -202232,7 +202257,7 @@ GBH 1-52</label>
     <id>78635</id>
     <code>SOA-27A1156.4</code>
     <label>OASİS 115x6.4x22.23 METAL TAŞLAMA DİSKİ</label>
-    <stock>1235</stock>
+    <stock>1035</stock>
     <details />
     <currency>TRL</currency>
     <price1>22.08</price1>
@@ -202407,7 +202432,7 @@ GBH 1-52</label>
     <id>78642</id>
     <code>0.601.9N3.100</code>
     <label>GSB 18V-65 Akülü Darbeli Matkap (2x2.0Ah; L-boxx )</label>
-    <stock>20</stock>
+    <stock>19</stock>
     <details />
     <currency>TRL</currency>
     <price1>9500.678</price1>
@@ -205232,7 +205257,7 @@ GBH 1-52</label>
     <id>78809</id>
     <code>5902602901</code>
     <label>SCHEPPACH MNF2250 KANAL AÇMA MAKİNASI</label>
-    <stock>373</stock>
+    <stock>372</stock>
     <details>&lt;h3&gt;SCHEPPACH MNF2250 KANAL AÇMA MAKİNASI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Kanal&amp;nbsp;Açma&amp;nbsp;Makinesi&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Beton,&amp;nbsp;duvar,&amp;nbsp;sıva&amp;nbsp;veya&amp;nbsp;alçıda,&amp;nbsp;tesisat&amp;nbsp;boruları&amp;nbsp;için&amp;nbsp;yatay&amp;nbsp;ve&amp;nbsp;dikey&lt;/p&gt;&lt;p&gt;kanallar&amp;nbsp;açabileceğiniz,&amp;nbsp;125&amp;nbsp;mm&amp;nbsp;çapında&amp;nbsp;dört&amp;nbsp;adete&amp;nbsp;kadar&amp;nbsp;paralel&amp;nbsp;elmas&lt;/p&gt;&lt;p&gt;kesmi&amp;nbsp;diski&amp;nbsp;ile&amp;nbsp;kullanılabilir,&amp;nbsp;40&amp;nbsp;mm’ye&amp;nbsp;kadar&amp;nbsp;aletsiz&amp;nbsp;kesme&amp;nbsp;derinliği&lt;/p&gt;&lt;p&gt;ayarlayabileceğiniz&amp;nbsp;ve&amp;nbsp;8&amp;nbsp;-&amp;nbsp;40&amp;nbsp;mm&amp;nbsp;arasında&amp;nbsp;Kesim&amp;nbsp;Genişliğine&amp;nbsp;sahip,&amp;nbsp;mil&lt;/p&gt;&lt;p&gt;kilidi&amp;nbsp;sayesi&amp;nbsp;ile&amp;nbsp;kolay&amp;nbsp;disk&amp;nbsp;değişimi&amp;nbsp;sağlayan&amp;nbsp;ve&amp;nbsp;12&amp;nbsp;adet&amp;nbsp;ek&amp;nbsp;silindir&amp;nbsp;kılavuz&lt;/p&gt;&lt;p&gt;ile&amp;nbsp;yüzeylerde&amp;nbsp;kolayca&amp;nbsp;kaydırabileceğiniz&amp;nbsp;kanal&amp;nbsp;açma&amp;nbsp;makinesi.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;465&amp;nbsp;x&amp;nbsp;211&amp;nbsp;x&amp;nbsp;151&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesme&amp;nbsp;Diski&amp;nbsp;(Ø)&amp;nbsp;125&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Devir&amp;nbsp;Sayısı&amp;nbsp;5400&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Genişliği&amp;nbsp;8&amp;nbsp;-&amp;nbsp;40&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Derinliği&amp;nbsp;0&amp;nbsp;-&amp;nbsp;40&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;2250&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net&amp;nbsp;/&amp;nbsp;Brüt&amp;nbsp;Ağırlık&amp;nbsp;5.5&amp;nbsp;/&amp;nbsp;7.2&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5902602901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>6703.2</price1>
@@ -205882,7 +205907,7 @@ GBH 1-52</label>
     <id>78836</id>
     <code>5908501900</code>
     <label>SCHEPPACH HSC130 PARKE TAŞ KESİCİ VE KIRICI</label>
-    <stock>194</stock>
+    <stock>193</stock>
     <details>&lt;h3&gt;SCHEPPACH HSC130 PARKE TAŞ KESİCİ VE KIRICI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Parke&amp;nbsp;Taş&amp;nbsp;Kesici&amp;nbsp;ve&amp;nbsp;Kırıcı&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bu&amp;nbsp;sağlam&amp;nbsp;taş&amp;nbsp;kesici&amp;nbsp;ve&amp;nbsp;kırıcı,&amp;nbsp;standart&amp;nbsp;formatlardaki&amp;nbsp;birbirine&amp;nbsp;geçen&amp;nbsp;taşları,&lt;/p&gt;&lt;p&gt;levhaları,&amp;nbsp;bordür&amp;nbsp;taşlarını&amp;nbsp;ve&amp;nbsp;benzeri&amp;nbsp;malzemeleri&amp;nbsp;kesmek&amp;nbsp;ve&amp;nbsp;kırmak&amp;nbsp;için&lt;/p&gt;&lt;p&gt;tasarlanmıştır.&amp;nbsp;Hassas&amp;nbsp;ve&amp;nbsp;kaliteli&amp;nbsp;kesim&amp;nbsp;sonuçları&amp;nbsp;almanızı&amp;nbsp;sağlar.&amp;nbsp;Teleskopik&amp;nbsp;kolu&lt;/p&gt;&lt;p&gt;sayesinde,&amp;nbsp;kesme&amp;nbsp;ve&amp;nbsp;kırma&amp;nbsp;işlemlerini&amp;nbsp;çok&amp;nbsp;daha&amp;nbsp;az&amp;nbsp;güç&amp;nbsp;harcayarak&amp;nbsp;kolaylıkla&lt;/p&gt;&lt;p&gt;gerçekleştirebilirsiniz.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;790&amp;nbsp;x&amp;nbsp;260&amp;nbsp;x&amp;nbsp;562&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Tezgah&amp;nbsp;Yüksekliği&amp;nbsp;120&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Uzunluğu&amp;nbsp;330&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Kesim&amp;nbsp;Yüksekliği&amp;nbsp;25-140&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Bıçak&amp;nbsp;Sayısı&amp;nbsp;2&amp;nbsp;adet&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;41&amp;nbsp;/&amp;nbsp;42.5&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5908501900&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>16758</price1>
@@ -205957,7 +205982,7 @@ GBH 1-52</label>
     <id>78839</id>
     <code>5908207901</code>
     <label>SCHEPPACH AB1500X ELEKTRİKLİ KIRICI</label>
-    <stock>809</stock>
+    <stock>808</stock>
     <details>&lt;h3&gt;SCHEPPACH AB1500X ELEKTRİKLİ KIRICI&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Elektrikli&amp;nbsp;Kırıcı&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;1300&amp;nbsp;watt&amp;nbsp;motora&amp;nbsp;ve&amp;nbsp;yüksek&amp;nbsp;performanslı&amp;nbsp;20&amp;nbsp;joule&amp;nbsp;darbe&amp;nbsp;kuvvetine&lt;/p&gt;&lt;p&gt;sahip&amp;nbsp;olup,&amp;nbsp;en&amp;nbsp;zorlu&amp;nbsp;kırım&amp;nbsp;işlerinin&amp;nbsp;üstesinden&amp;nbsp;gelmenizi&amp;nbsp;sağlar.&amp;nbsp;SDS&amp;nbsp;max&lt;/p&gt;&lt;p&gt;uç&amp;nbsp;sistemi&amp;nbsp;sayesinde&amp;nbsp;kolay&amp;nbsp;ve&amp;nbsp;hızlı&amp;nbsp;takım&amp;nbsp;değişimi&amp;nbsp;sunarken,&amp;nbsp;kullanıcı&lt;/p&gt;&lt;p&gt;konforu&amp;nbsp;için&amp;nbsp;tasarlanmış&amp;nbsp;360&amp;nbsp;derece&amp;nbsp;dönebilen&amp;nbsp;destek&amp;nbsp;kolu&amp;nbsp;ve&amp;nbsp;titreşim&lt;/p&gt;&lt;p&gt;önleyici&amp;nbsp;tutma&amp;nbsp;kolu&amp;nbsp;ile&amp;nbsp;uzun&amp;nbsp;süreli&amp;nbsp;kullanımlarda&amp;nbsp;bile&amp;nbsp;ergonomik&amp;nbsp;bir&lt;/p&gt;&lt;p&gt;deneyim&amp;nbsp;sunar.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;470&amp;nbsp;x&amp;nbsp;95&amp;nbsp;x&amp;nbsp;240&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Darbe&amp;nbsp;Kuvveti&amp;nbsp;20&amp;nbsp;joule&lt;/p&gt;&lt;p&gt;Darbe&amp;nbsp;Derecesi&amp;nbsp;4100&amp;nbsp;bpm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;1300&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;6.0&amp;nbsp;/&amp;nbsp;9.5&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5908207901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>7820.4</price1>
@@ -206660,7 +206685,7 @@ GBH 1-52</label>
     <stock>300</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.75</price1>
+    <price1>40.32</price1>
     <tax>20</tax>
     <barcode>uyl260920269999428</barcode>
     <brand>APEL</brand>
@@ -206668,11 +206693,11 @@ GBH 1-52</label>
     <category>Mastik</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>0.75</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.9</vatIncluded>
+    <listPrice>42</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>48.384</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -212557,7 +212582,7 @@ GBH 1-52</label>
     <id>79140</id>
     <code>0.615.990.M99</code>
     <label>GBH 240+SDS Plus Set</label>
-    <stock>26</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>5000.325</price1>
@@ -213560,7 +213585,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.08</price1>
+    <price1>0</price1>
     <tax>20</tax>
     <barcode>uyl260920269999441</barcode>
     <brand>APEL</brand>
@@ -213568,11 +213593,11 @@ GBH 1-52</label>
     <category>Mdf / Hızlı Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>1.08</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.296</vatIncluded>
+    <listPrice>0</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -214582,7 +214607,7 @@ GBH 1-52</label>
     <id>79246</id>
     <code>5908802903</code>
     <label>SCHEPPACH DP3000 BENZİNLİ MİNİ DUMPER</label>
-    <stock>98</stock>
+    <stock>97</stock>
     <details>&lt;h3&gt;SCHEPPACH DP3000 BENZİNLİ MİNİ DUMPER&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Benzinli&amp;nbsp;Mini&amp;nbsp;Dumper&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;5.6&amp;nbsp;hp&amp;nbsp;4&amp;nbsp;zamanlı&amp;nbsp;benzinli&amp;nbsp;motora&amp;nbsp;sahip,&amp;nbsp;4&amp;nbsp;tekerlekten&amp;nbsp;çekiş&amp;nbsp;gücü&amp;nbsp;ve&lt;/p&gt;&lt;p&gt;3&amp;nbsp;ileri&amp;nbsp;vitesi&amp;nbsp;sayesinde&amp;nbsp;hem&amp;nbsp;düz&amp;nbsp;zeminlerde&amp;nbsp;hem&amp;nbsp;de&amp;nbsp;engebeli&lt;/p&gt;&lt;p&gt;arazilerde&amp;nbsp;rahatlıkla&amp;nbsp;kullanabileceğiniz,&amp;nbsp;300&amp;nbsp;kg&amp;nbsp;taşıma&amp;nbsp;kapasitesi&lt;/p&gt;&lt;p&gt;ile&amp;nbsp;tasarlanmış&amp;nbsp;mini&amp;nbsp;dumper.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;1380&amp;nbsp;x&amp;nbsp;760&amp;nbsp;x&amp;nbsp;1000&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Depo&amp;nbsp;Ölçüleri&amp;nbsp;910&amp;nbsp;x&amp;nbsp;650&amp;nbsp;x&amp;nbsp;575&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Taşıma&amp;nbsp;Kapasitesi&amp;nbsp;300&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Boşaltma&amp;nbsp;Manuel&lt;/p&gt;&lt;p&gt;Güç&amp;nbsp;Aktarım&amp;nbsp;Şanzıman&lt;/p&gt;&lt;p&gt;İlerleme&amp;nbsp;Hızı&amp;nbsp;2.5&amp;nbsp;/&amp;nbsp;4.8&amp;nbsp;/&amp;nbsp;6.4&amp;nbsp;km/s&lt;/p&gt;&lt;p&gt;Geri&amp;nbsp;Dönüş&amp;nbsp;Hızı&amp;nbsp;2&amp;nbsp;km/s&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;5.6&amp;nbsp;Hp&amp;nbsp;4&amp;nbsp;Zamanlı&amp;nbsp;Benzinli&amp;nbsp;Motor&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;143&amp;nbsp;/&amp;nbsp;167&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5908802903&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>81928</price1>
@@ -216335,7 +216360,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>1.2</price1>
+    <price1>0</price1>
     <tax>20</tax>
     <barcode>uyl260920269999448</barcode>
     <brand>APEL</brand>
@@ -216343,11 +216368,11 @@ GBH 1-52</label>
     <category>Tutkal / Yapıştırıcı</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>1.2</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1.44</vatIncluded>
+    <listPrice>0</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>0</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -218507,7 +218532,7 @@ GBH 1-52</label>
     <id>79506</id>
     <code>RYN10459</code>
     <label>RAYNO MOBİLYA TAMİR KALEMİ SİYAH</label>
-    <stock>3144</stock>
+    <stock>3132</stock>
     <details />
     <currency>TRL</currency>
     <price1>31.11696</price1>
@@ -220557,7 +220582,7 @@ GBH 1-52</label>
     <id>79656</id>
     <code>BEYBİ-KN4SARI10</code>
     <label>BEYBİ KN4 SARI NO:10</label>
-    <stock>1008</stock>
+    <stock>432</stock>
     <details />
     <currency>TRL</currency>
     <price1>60.291</price1>
@@ -226432,7 +226457,7 @@ GBH 1-52</label>
     <id>80062</id>
     <code>RYN11700</code>
     <label>RAYNO PROFESYONEL 6+1 ZR CIRT ZIMPARA 150mm Kum:40</label>
-    <stock>30050</stock>
+    <stock>29950</stock>
     <details />
     <currency>TRL</currency>
     <price1>8.528352</price1>
@@ -226582,7 +226607,7 @@ GBH 1-52</label>
     <id>80068</id>
     <code>RYN11706</code>
     <label>RAYNO PROFESYONE 6+1 ZR CIRT ZIMPARA 150mm Kum:180</label>
-    <stock>33500</stock>
+    <stock>33300</stock>
     <details />
     <currency>TRL</currency>
     <price1>7.606368</price1>
@@ -226632,7 +226657,7 @@ GBH 1-52</label>
     <id>80070</id>
     <code>RYN11708</code>
     <label>RAYNO PROFESYONE 6+1 ZR CIRT ZIMPARA 150mm Kum:320</label>
-    <stock>21100</stock>
+    <stock>20900</stock>
     <details />
     <currency>TRL</currency>
     <price1>7.606368</price1>
@@ -229157,7 +229182,7 @@ GBH 1-52</label>
     <id>80222</id>
     <code>0.601.6C7.000</code>
     <label>GSA 12-30 Panter Testere</label>
-    <stock>51</stock>
+    <stock>50</stock>
     <details />
     <currency>TRL</currency>
     <price1>4900.841</price1>
@@ -229710,7 +229735,7 @@ GBH 1-52</label>
     <stock>0</stock>
     <details />
     <currency>TRL</currency>
-    <price1>0.76</price1>
+    <price1>40.8576</price1>
     <tax>20</tax>
     <barcode>uyl260920269999460</barcode>
     <brand>APEL</brand>
@@ -229718,11 +229743,11 @@ GBH 1-52</label>
     <category>Mastik</category>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
-    <listPrice>0.76</listPrice>
-    <discount>0</discount>
-    <cashDiscount>0</cashDiscount>
-    <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>0.912</vatIncluded>
+    <listPrice>42.56</listPrice>
+    <discount>4</discount>
+    <cashDiscount>10</cashDiscount>
+    <creditCardDiscount>6</creditCardDiscount>
+    <vatIncluded>49.02912</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -231232,7 +231257,7 @@ GBH 1-52</label>
     <id>80429</id>
     <code>RYN10750</code>
     <label>RAYNO ORBİTAL ZIMPARA MAKİNASI</label>
-    <stock>907</stock>
+    <stock>902</stock>
     <details />
     <currency>TRL</currency>
     <price1>1498.224</price1>
@@ -232257,7 +232282,7 @@ GBH 1-52</label>
     <id>80567</id>
     <code>2.608.900.267</code>
     <label>EXP SDSMax8X K-Delici Ucu 22*520 mm 5li</label>
-    <stock>0</stock>
+    <stock>2</stock>
     <details />
     <currency>TRL</currency>
     <price1>12182.775</price1>
@@ -233160,7 +233185,7 @@ GBH 1-52</label>
     <stock>146</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSC ÜÇGEN TİP CARASKAL 1Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1565.99835</price1>
+    <price1>1479.8</price1>
     <tax>20</tax>
     <barcode>uyl260920269998790</barcode>
     <brand>RAYNO</brand>
@@ -233169,10 +233194,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3699.5</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1879.19802</vatIncluded>
+    <vatIncluded>1775.76</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/a7207b8d-6d1e-42fa-a5ce-94ef08508c9c.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233185,7 +233210,7 @@ GBH 1-52</label>
     <stock>109</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSC ÜÇGEN TİP CARASKAL 1Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1882.309275</price1>
+    <price1>1778.7</price1>
     <tax>20</tax>
     <barcode>uyl260920269998791</barcode>
     <brand>RAYNO</brand>
@@ -233194,10 +233219,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4446.75</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2258.77113</vatIncluded>
+    <vatIncluded>2134.44</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/7cf59739-89f7-42e6-b1fc-6448ec4cdc57.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233210,7 +233235,7 @@ GBH 1-52</label>
     <stock>99</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSC ÜÇGEN TİP CARASKAL 2Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1970.4615</price1>
+    <price1>1862</price1>
     <tax>20</tax>
     <barcode>uyl260920269998792</barcode>
     <brand>RAYNO</brand>
@@ -233219,10 +233244,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4655</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2364.5538</vatIncluded>
+    <vatIncluded>2234.4</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/3c6e12b6-aa0a-4bae-b5fe-7adeaa326c6c.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233235,7 +233260,7 @@ GBH 1-52</label>
     <stock>65</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSC ÜÇGEN TİP CARASKAL 2Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>2520.11655</price1>
+    <price1>2381.4</price1>
     <tax>20</tax>
     <barcode>uyl260920269998793</barcode>
     <brand>RAYNO</brand>
@@ -233244,10 +233269,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>5953.5</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3024.13986</vatIncluded>
+    <vatIncluded>2857.68</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/03cbf216-6152-4a1b-ba9a-ac251de3b0b8.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233260,7 +233285,7 @@ GBH 1-52</label>
     <stock>57</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSC ÜÇGEN TİP CARASKAL 3Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>3007.5465</price1>
+    <price1>2842</price1>
     <tax>20</tax>
     <barcode>uyl260920269998794</barcode>
     <brand>RAYNO</brand>
@@ -233269,10 +233294,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>7105</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3609.0558</vatIncluded>
+    <vatIncluded>3410.4</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/f26c7d09-6999-49ab-a4f2-248f2efe6e80.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233285,7 +233310,7 @@ GBH 1-52</label>
     <stock>49</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSC ÜÇGEN TİP CARASKAL 3Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>3629.7975</price1>
+    <price1>3430</price1>
     <tax>20</tax>
     <barcode>uyl260920269998795</barcode>
     <brand>RAYNO</brand>
@@ -233294,10 +233319,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>8575</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>4355.757</vatIncluded>
+    <vatIncluded>4116</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/4c3c3c4d-e815-4656-841e-6a1ba6b74bb0.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233310,7 +233335,7 @@ GBH 1-52</label>
     <stock>19</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSC ÜÇGEN TİP CARASKAL 5Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>5040.2331</price1>
+    <price1>4762.8</price1>
     <tax>20</tax>
     <barcode>uyl260920269998796</barcode>
     <brand>RAYNO</brand>
@@ -233319,10 +233344,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>11907</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>6048.27972</vatIncluded>
+    <vatIncluded>5715.36</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/e265b3c4-8a3a-4b8d-b096-f401d04f7fee.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233335,7 +233360,7 @@ GBH 1-52</label>
     <stock>146</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSZ YUVARLAK TİP CARASKAL 1Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1503.77325</price1>
+    <price1>1421</price1>
     <tax>20</tax>
     <barcode>uyl260920269998797</barcode>
     <brand>RAYNO</brand>
@@ -233344,10 +233369,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>3552.5</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>1804.5279</vatIncluded>
+    <vatIncluded>1705.2</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/fbb90bd8-de93-4c69-b50c-870be65a15b4.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233360,7 +233385,7 @@ GBH 1-52</label>
     <stock>73</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSZ YUVARLAK TİP CARASKAL 1Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1773.41535</price1>
+    <price1>1675.8</price1>
     <tax>20</tax>
     <barcode>uyl260920269998798</barcode>
     <brand>RAYNO</brand>
@@ -233369,10 +233394,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4189.5</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2128.09842</vatIncluded>
+    <vatIncluded>2010.96</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/60a3f669-fc41-4a07-8ee2-61f351a3c723.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233385,7 +233410,7 @@ GBH 1-52</label>
     <stock>121</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSZ YUVARLAK TİP CARASKAL 2Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>1866.753</price1>
+    <price1>1764</price1>
     <tax>20</tax>
     <barcode>uyl260920269998799</barcode>
     <brand>RAYNO</brand>
@@ -233394,10 +233419,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>4410</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2240.1036</vatIncluded>
+    <vatIncluded>2116.8</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/d3e70485-a747-4e0c-b270-6c8878e2cc54.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233410,7 +233435,7 @@ GBH 1-52</label>
     <stock>70</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSZ YUVARLAK TİP CARASKAL 2Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>2385.2955</price1>
+    <price1>2254</price1>
     <tax>20</tax>
     <barcode>uyl260920269998800</barcode>
     <brand>RAYNO</brand>
@@ -233419,10 +233444,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>5635</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>2862.3546</vatIncluded>
+    <vatIncluded>2704.8</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/7e71a811-5443-48c9-8a01-f3b384a78ec3.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233435,7 +233460,7 @@ GBH 1-52</label>
     <stock>63</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSZ YUVARLAK TİP CARASKAL 3Tx3M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>2903.838</price1>
+    <price1>2744</price1>
     <tax>20</tax>
     <barcode>uyl260920269998801</barcode>
     <brand>RAYNO</brand>
@@ -233444,10 +233469,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>6860</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>3484.6056</vatIncluded>
+    <vatIncluded>3292.8</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/15168b98-8bd8-40cb-abfb-ef37e9766737.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233460,7 +233485,7 @@ GBH 1-52</label>
     <stock>49</stock>
     <details>&lt;h3&gt;RAYNO ENDÜSTRİYEL HSZ YUVARLAK TİP CARASKAL 3Tx5M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;•&amp;nbsp;Çift&amp;nbsp;dişli&amp;nbsp;ile&amp;nbsp;daha&amp;nbsp;güçlü&amp;nbsp;ve&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;kullanım.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Ahşap&amp;nbsp;özel&amp;nbsp;koli&amp;nbsp;içinde&amp;nbsp;sevkedilir.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Koli&amp;nbsp;içi&amp;nbsp;miktarı&amp;nbsp;bir&amp;nbsp;adettir.&lt;/p&gt;</details>
     <currency>TRL</currency>
-    <price1>3526.089</price1>
+    <price1>3332</price1>
     <tax>20</tax>
     <barcode>uyl260920269998802</barcode>
     <brand>RAYNO</brand>
@@ -233469,10 +233494,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>1</coefficient>
     <listPrice>8330</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>4231.3068</vatIncluded>
+    <vatIncluded>3998.4</vatIncluded>
     <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/cc3c41a8-7444-4c5d-b6dd-1817d951a6cc.jpeg</picture1>
     <picture2 />
     <picture3 />
@@ -233485,7 +233510,7 @@ GBH 1-52</label>
     <stock>18</stock>
     <details />
     <currency>TRL</currency>
-    <price1>4770.591</price1>
+    <price1>4508</price1>
     <tax>20</tax>
     <barcode>uyl260920269998803</barcode>
     <brand>RAYNO</brand>
@@ -233494,10 +233519,10 @@ GBH 1-52</label>
     <unit>Adet</unit>
     <coefficient>0</coefficient>
     <listPrice>11270</listPrice>
-    <discount>57.67</discount>
+    <discount>60</discount>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
-    <vatIncluded>5724.7092</vatIncluded>
+    <vatIncluded>5409.6</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
@@ -235957,7 +235982,7 @@ GBH 1-52</label>
     <id>80925</id>
     <code>2.608.902.033</code>
     <label>Bağlama Şafti P AP HC 7.15x65</label>
-    <stock>8</stock>
+    <stock>38</stock>
     <details />
     <currency>TRL</currency>
     <price1>983.95</price1>
@@ -236382,7 +236407,7 @@ GBH 1-52</label>
     <id>80963</id>
     <code>RYN12500</code>
     <label>RAYNO TELESKOPİK MERDİVEN 230cm (8 BASAMAK)</label>
-    <stock>315</stock>
+    <stock>314</stock>
     <details />
     <currency>TRL</currency>
     <price1>6615</price1>
@@ -236407,7 +236432,7 @@ GBH 1-52</label>
     <id>80964</id>
     <code>RYN12502</code>
     <label>RAYNO TELESKOPİK MERDİVEN 290cm (10 BASAMAK)</label>
-    <stock>301</stock>
+    <stock>300</stock>
     <details />
     <currency>TRL</currency>
     <price1>8330</price1>
@@ -236432,7 +236457,7 @@ GBH 1-52</label>
     <id>80965</id>
     <code>RYN12503</code>
     <label>RAYNO TELESKOPİK MERDİVEN 320cm (11 BASAMAK)</label>
-    <stock>280</stock>
+    <stock>277</stock>
     <details />
     <currency>TRL</currency>
     <price1>9310</price1>
@@ -236457,7 +236482,7 @@ GBH 1-52</label>
     <id>80966</id>
     <code>RYN12505</code>
     <label>RAYNO TELESKOPİK MERDİVEN 380cm (13 BASAMAK)</label>
-    <stock>293</stock>
+    <stock>292</stock>
     <details />
     <currency>TRL</currency>
     <price1>11025</price1>
@@ -236482,7 +236507,7 @@ GBH 1-52</label>
     <id>80967</id>
     <code>RYN12510</code>
     <label>RAYNO A TİPİ MERDİVEN 220cm+220cm</label>
-    <stock>252</stock>
+    <stock>248</stock>
     <details />
     <currency>TRL</currency>
     <price1>15190</price1>
@@ -236823,6 +236848,56 @@ GBH 1-52</label>
     <cashDiscount>0</cashDiscount>
     <creditCardDiscount>0</creditCardDiscount>
     <vatIncluded>14044.8</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>80987</id>
+    <code>2.608.900.545</code>
+    <label>EXP DekupajBıçağı ExCleanHardW  T308BF 25 li</label>
+    <stock>6</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999475</barcode>
+    <brand>BOSCH</brand>
+    <mainCategory>Elektrikli El Aletleri Aksesuarları</mainCategory>
+    <category>Dekupaj Testeresi Bıçakları</category>
+    <unit>ADET</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0</vatIncluded>
+    <picture1 />
+    <picture2 />
+    <picture3 />
+    <picture4 />
+  </item>
+  <item>
+    <id>80988</id>
+    <code>2.608.655.097</code>
+    <label>DIY Dekupaj Testeresi T 318 A-HSS</label>
+    <stock>50</stock>
+    <details />
+    <currency>TRL</currency>
+    <price1>0</price1>
+    <tax>20</tax>
+    <barcode>uyl260920269999476</barcode>
+    <brand>BOSCH</brand>
+    <mainCategory>Elektrikli El Aletleri Aksesuarları</mainCategory>
+    <category>Zımparalama ve Polisaj</category>
+    <unit>ADET</unit>
+    <coefficient>0</coefficient>
+    <listPrice>0</listPrice>
+    <discount>0</discount>
+    <cashDiscount>0</cashDiscount>
+    <creditCardDiscount>0</creditCardDiscount>
+    <vatIncluded>0</vatIncluded>
     <picture1 />
     <picture2 />
     <picture3 />
