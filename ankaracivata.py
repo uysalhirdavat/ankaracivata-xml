@@ -1128,26 +1128,23 @@ def update_image_cache(
                 product
             )
 
-    # Görseli boş kaydedilmiş ürünleri kademeli yeniden tara.
-    # Her çalışmada farklı bir dilim seçilir; fiyat/stok alanlarına dokunulmaz.
+    # Bos goruntulu urunleri kalici kontrol listesiyle birer kez tara.
+    # Bir urun yeniden kontrol edildiyse, sonraki calismalarda tekrar secilmez.
+    checked_file = "ankaracivata_image_checked.json"
+    if os.path.exists(checked_file):
+        with open(checked_file, "r", encoding="utf-8") as f:
+            checked_ids = set(json.load(f))
+    else:
+        checked_ids = set()
+
     empty_products = [
         p for p in products
         if str(p.get("malzemeId") or p.get("id")) in image_cache
         and not image_cache[str(p.get("malzemeId") or p.get("id"))]
+        and str(p.get("malzemeId") or p.get("id")) not in checked_ids
     ]
-    if empty_products:
-        batch_size = 200
-        batch_number = int(time.time() // 7200) % (
-            (len(empty_products) + batch_size - 1) // batch_size
-        )
-        start = batch_number * batch_size
-        missing.extend(empty_products[start:start + batch_size])
-        # Bosch örneğini ilk güncellemede mutlaka kontrol et.
-        missing.extend(
-            p for p in empty_products
-            if str(p.get("malzemeId") or p.get("id")) == "11232"
-            and p not in missing
-        )
+    missing.extend(empty_products[:200])
+    print(f"Kontrol edilmemis bos gorselli urun: {len(empty_products)}")
 
     total_missing = len(
         missing
@@ -1267,6 +1264,11 @@ def update_image_cache(
                                     break
                             except requests.RequestException:
                                 pass
+
+                checked_ids.add(product_id)
+                with open(checked_file + ".tmp", "w", encoding="utf-8") as f:
+                    json.dump(sorted(checked_ids), f, ensure_ascii=False)
+                os.replace(checked_file + ".tmp", checked_file)
 
                 image_cache[
                     product_id
