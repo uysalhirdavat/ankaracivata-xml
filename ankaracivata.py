@@ -711,27 +711,6 @@ def update_detail_cache(
 
         return detail_cache
 
-    # Görseli boş kaydedilmiş ürünleri kademeli yeniden tara.
-    # Her çalışmada farklı bir dilim seçilir; fiyat/stok alanlarına dokunulmaz.
-    empty_products = [
-        p for p in products
-        if str(p.get("malzemeId") or p.get("id")) in image_cache
-        and not image_cache[str(p.get("malzemeId") or p.get("id"))]
-    ]
-    if empty_products:
-        batch_size = 200
-        batch_number = int(time.time() // 7200) % (
-            (len(empty_products) + batch_size - 1) // batch_size
-        )
-        start = batch_number * batch_size
-        missing.extend(empty_products[start:start + batch_size])
-        # Bosch örneğini ilk güncellemede mutlaka kontrol et.
-        missing.extend(
-            p for p in empty_products
-            if str(p.get("malzemeId") or p.get("id")) == "11232"
-            and p not in missing
-        )
-
     total_missing = len(
         missing
     )
@@ -1148,6 +1127,27 @@ def update_image_cache(
             missing.append(
                 product
             )
+
+    # Görseli boş kaydedilmiş ürünleri kademeli yeniden tara.
+    # Her çalışmada farklı bir dilim seçilir; fiyat/stok alanlarına dokunulmaz.
+    empty_products = [
+        p for p in products
+        if str(p.get("malzemeId") or p.get("id")) in image_cache
+        and not image_cache[str(p.get("malzemeId") or p.get("id"))]
+    ]
+    if empty_products:
+        batch_size = 200
+        batch_number = int(time.time() // 7200) % (
+            (len(empty_products) + batch_size - 1) // batch_size
+        )
+        start = batch_number * batch_size
+        missing.extend(empty_products[start:start + batch_size])
+        # Bosch örneğini ilk güncellemede mutlaka kontrol et.
+        missing.extend(
+            p for p in empty_products
+            if str(p.get("malzemeId") or p.get("id")) == "11232"
+            and p not in missing
+        )
 
     total_missing = len(
         missing
