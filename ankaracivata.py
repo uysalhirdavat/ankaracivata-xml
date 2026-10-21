@@ -711,6 +711,27 @@ def update_detail_cache(
 
         return detail_cache
 
+    # Görseli boş kaydedilmiş ürünleri kademeli yeniden tara.
+    # Her çalışmada farklı bir dilim seçilir; fiyat/stok alanlarına dokunulmaz.
+    empty_products = [
+        p for p in products
+        if str(p.get("malzemeId") or p.get("id")) in image_cache
+        and not image_cache[str(p.get("malzemeId") or p.get("id"))]
+    ]
+    if empty_products:
+        batch_size = 200
+        batch_number = int(time.time() // 7200) % (
+            (len(empty_products) + batch_size - 1) // batch_size
+        )
+        start = batch_number * batch_size
+        missing.extend(empty_products[start:start + batch_size])
+        # Bosch örneğini ilk güncellemede mutlaka kontrol et.
+        missing.extend(
+            p for p in empty_products
+            if str(p.get("malzemeId") or p.get("id")) == "11232"
+            and p not in missing
+        )
+
     total_missing = len(
         missing
     )
@@ -1212,6 +1233,40 @@ def update_image_cache(
                         product_id
                     )
                 )
+
+                # API boş dönerse ürün koduna dayalı dosya adını doğrula.
+                # Sadece gerçekten resim dönen herkese açık URL'yi kaydet.
+                if not images:
+                    product_code = clean(product.get("malzemeKodu"))
+                    if product_code and "/" not in product_code and "\\\\" not in product_code:
+                        for extension in (".jpg", ".JPG", ".png", ".PNG", ".jpeg"):
+                            candidate_path = "urun-detay/resimler/" + product_code + extension
+                            candidate_url = make_image_url(candidate_path)
+                            try:
+                                check = requests.get(
+                                    candidate_url,
+                                    timeout=8,
+                                    stream=True,
+                                    headers={"Range": "bytes=0-1023"}
+                                )
+                                try:
+                                    valid = (
+                                        check.status_code in (200, 206)
+                                        and check.headers.get("Content-Type", "")
+                                        .lower().startswith("image/")
+                                    )
+                                finally:
+                                    check.close()
+                                if valid:
+                                    images = [{
+                                        "anaResim": True,
+                                        "resimYolu": candidate_path,
+                                        "sira": 0
+                                    }]
+                                    print(f"Görsel dosya adından bulundu: {product_code}")
+                                    break
+                            except requests.RequestException:
+                                pass
 
                 image_cache[
                     product_id
