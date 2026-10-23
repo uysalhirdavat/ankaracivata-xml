@@ -10679,7 +10679,7 @@
     <id>2788</id>
     <code>S05030</code>
     <label>5 * 30 SUNTA VİDASI DIN:7505</label>
-    <stock>1041800</stock>
+    <stock>1035800</stock>
     <details>&lt;h3&gt;5 * 30 SUNTA VİDASI DIN:7505&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(214, 223, 236); color: rgb(51, 65, 85);"&gt;5&amp;nbsp;*&amp;nbsp;30&amp;nbsp;SUNTA&amp;nbsp;VİDASI&amp;nbsp;DIN:7505&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.458928</price1>
@@ -19754,7 +19754,7 @@
     <id>5792</id>
     <code>ÇKLS08</code>
     <label>M 8 ÇELİK KELEBEK SOMUN DIN:315</label>
-    <stock>96800</stock>
+    <stock>95200</stock>
     <details>&lt;h3&gt;M 8 ÇELİK KELEBEK SOMUN DIN:315&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(215, 225, 240); color: rgb(51, 65, 85);"&gt;M&amp;nbsp;8&amp;nbsp;ÇELİK&amp;nbsp;KELEBEK&amp;nbsp;SOMUN&amp;nbsp;DIN:315&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>2.5024</price1>
@@ -25679,7 +25679,7 @@
     <id>7832</id>
     <code>MM08030933B</code>
     <label>MM 8 * 30  DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>4435</stock>
+    <stock>2035</stock>
     <details>&lt;h3&gt;MM 8 * 30  DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(209, 213, 219); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;8&amp;nbsp;*&amp;nbsp;30&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.730062</price1>
@@ -27354,7 +27354,7 @@
     <id>7941</id>
     <code>MM12030933B</code>
     <label>MM 12 * 30 DIN933 AKB CİVATA 8.8 BEYAZ</label>
-    <stock>8281</stock>
+    <stock>7681</stock>
     <details>&lt;h3&gt;MM 12 * 30 DIN933 AKB CİVATA 8.8 BEYAZ&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;12&amp;nbsp;*&amp;nbsp;30&amp;nbsp;DIN933&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;BEYAZ&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3.860067</price1>
@@ -35879,7 +35879,7 @@
     <id>9432</id>
     <code>MVÇ5576</code>
     <label>5.5 * 76 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>46800</stock>
+    <stock>45900</stock>
     <details />
     <currency>TRL</currency>
     <price1>2.527488</price1>
@@ -37929,7 +37929,7 @@
     <id>10525</id>
     <code>DÜZGRESÖRLÜK08</code>
     <label>M8 DÜZ GRESÖRLÜK</label>
-    <stock>29468</stock>
+    <stock>30393</stock>
     <details />
     <currency>TRL</currency>
     <price1>3.024</price1>
@@ -39129,7 +39129,7 @@
     <id>10687</id>
     <code>B00000000300</code>
     <label>HSS  DIN 338 RN  HADDE MTK     3    MM.</label>
-    <stock>2280</stock>
+    <stock>1980</stock>
     <details />
     <currency>TRL</currency>
     <price1>35.724</price1>
@@ -39179,7 +39179,7 @@
     <id>10689</id>
     <code>B00000000400</code>
     <label>HSS  DIN 338 RN  HADDE MTK     4    MM.</label>
-    <stock>2560</stock>
+    <stock>2260</stock>
     <details />
     <currency>TRL</currency>
     <price1>46.024</price1>
@@ -39204,7 +39204,7 @@
     <id>10690</id>
     <code>B00000000450</code>
     <label>HSS  DIN 338 RN  HADDE MTK     4.5  MM.</label>
-    <stock>2460</stock>
+    <stock>2310</stock>
     <details />
     <currency>TRL</currency>
     <price1>52.204</price1>
@@ -39254,7 +39254,7 @@
     <id>10692</id>
     <code>B00000000550</code>
     <label>HSS  DIN 338 RN  HADDE MTK     5.5  MM.</label>
-    <stock>580</stock>
+    <stock>530</stock>
     <details />
     <currency>TRL</currency>
     <price1>72.148</price1>
@@ -39279,7 +39279,7 @@
     <id>10693</id>
     <code>B00000000600</code>
     <label>HSS  DIN 338 RN  HADDE MTK     6    MM.</label>
-    <stock>908</stock>
+    <stock>708</stock>
     <details />
     <currency>TRL</currency>
     <price1>76.756</price1>
@@ -39304,7 +39304,7 @@
     <id>10694</id>
     <code>B00000000650</code>
     <label>HSS  DIN 338 RN  HADDE MTK     6.5  MM.</label>
-    <stock>3200</stock>
+    <stock>3150</stock>
     <details />
     <currency>TRL</currency>
     <price1>94.284</price1>
@@ -39329,7 +39329,7 @@
     <id>10695</id>
     <code>B00000000700</code>
     <label>HSS  DIN 338 RN  HADDE MTK     7    MM.</label>
-    <stock>2760</stock>
+    <stock>2610</stock>
     <details />
     <currency>TRL</currency>
     <price1>111.676</price1>
@@ -39354,7 +39354,7 @@
     <id>10696</id>
     <code>B00000000750</code>
     <label>HSS  DIN 338 RN  HADDE MTK     7.5  MM.</label>
-    <stock>120</stock>
+    <stock>70</stock>
     <details />
     <currency>TRL</currency>
     <price1>127.124</price1>
@@ -39379,7 +39379,7 @@
     <id>10698</id>
     <code>B00000000850</code>
     <label>HSS  DIN 338 RN  HADDE MTK     8.5  MM.</label>
-    <stock>840</stock>
+    <stock>790</stock>
     <details />
     <currency>TRL</currency>
     <price1>159.532</price1>
@@ -39404,7 +39404,7 @@
     <id>10699</id>
     <code>B00000000900</code>
     <label>HSS  DIN 338 RN  HADDE MTK     9    MM.</label>
-    <stock>1270</stock>
+    <stock>1220</stock>
     <details />
     <currency>TRL</currency>
     <price1>177.764</price1>
@@ -39454,7 +39454,7 @@
     <id>10701</id>
     <code>B00000001000</code>
     <label>HSS  DIN 338 RN  HADDE MTK    10    MM.</label>
-    <stock>950</stock>
+    <stock>850</stock>
     <details />
     <currency>TRL</currency>
     <price1>219.884</price1>
@@ -45629,7 +45629,7 @@
     <id>11038</id>
     <code>B00000000800</code>
     <label>HSS  DIN 338 RN  HADDE MTK     8    MM.</label>
-    <stock>930</stock>
+    <stock>780</stock>
     <details />
     <currency>TRL</currency>
     <price1>137.812</price1>
@@ -47170,7 +47170,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0.601.389.000.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47220,7 +47220,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>3816.1728</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0.601.394.120.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47245,7 +47245,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0.601.3A2.020.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47270,7 +47270,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>10500.4614</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0.601.64E.200.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47320,7 +47320,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>6300.36</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0.601.8C0.100.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47345,7 +47345,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>6300.36</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0.601.8C1.100.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47395,7 +47395,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/0.601.9H5.000.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47420,7 +47420,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>196.02</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/1.603.340.040.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47445,7 +47445,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>196.02</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/1.605.703.099.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47470,7 +47470,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>160.38</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/1.607.950.048.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47520,7 +47520,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>117.81</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.001.511.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47545,7 +47545,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>173.25</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.001.526.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47570,7 +47570,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>172.26</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.001.528.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47595,7 +47595,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>117.81</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.001.554.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47620,7 +47620,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>117.81</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.001.558.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47645,7 +47645,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>249.48</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.002.584.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47845,7 +47845,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0.9</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.017.164.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47970,7 +47970,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2636.37</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.017.326.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -47995,7 +47995,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2636.37</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.017.327.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48070,7 +48070,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2524.5</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.017.466.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48095,7 +48095,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1004.784</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.017.515.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48120,7 +48120,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2282.94</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.607.017.516.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48595,7 +48595,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>543.015</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.522.376.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48620,7 +48620,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>165.33</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.576.281.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48645,7 +48645,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>229.185</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.188.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48670,7 +48670,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>229.185</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.193.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48695,7 +48695,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>256.905</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.198.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48720,7 +48720,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>297</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.203.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48745,7 +48745,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>351.45</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.208.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48770,7 +48770,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>445.005</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.218.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48795,7 +48795,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>592.515</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.228.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48820,7 +48820,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>860.805</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.238.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48845,7 +48845,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>970.2</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.243.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48870,7 +48870,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1050.39</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.248.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48895,7 +48895,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1225.125</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.253.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48920,7 +48920,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1562.715</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.263.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48945,7 +48945,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1684.98</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.577.268.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48970,7 +48970,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2430.45</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.578.517.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -48995,7 +48995,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2430.45</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.578.519.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49095,7 +49095,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>2035.44</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.578.765.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49120,7 +49120,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>613.305</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.463.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49145,7 +49145,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0.9</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.464.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49170,7 +49170,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>447.48</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.467.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49195,7 +49195,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>455.895</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.469.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49220,7 +49220,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0.9</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.471.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49245,7 +49245,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>488.565</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.472.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49270,7 +49270,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>495</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.474.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49295,7 +49295,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>500.445</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.475.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49320,7 +49320,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>582.615</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.477.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49345,7 +49345,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>620.73</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.479.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49370,7 +49370,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>620.73</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.480.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49395,7 +49395,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>650.43</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.483.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49420,7 +49420,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>690.525</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.486.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49445,7 +49445,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>747.45</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.488.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49495,7 +49495,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>769.725</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.492.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49520,7 +49520,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>787.05</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.493.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49545,7 +49545,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>792.495</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.496.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49570,7 +49570,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>0.9</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.497.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49595,7 +49595,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>889.515</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.498.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49620,7 +49620,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>980.595</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.500.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49645,7 +49645,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1092.465</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.501.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49695,7 +49695,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1129.59</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.503.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49720,7 +49720,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1206.315</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.505.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49770,7 +49770,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1347.885</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.507.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -49795,7 +49795,7 @@
     <cashDiscount>10</cashDiscount>
     <creditCardDiscount>6</creditCardDiscount>
     <vatIncluded>1629.54</vatIncluded>
-    <picture1 />
+    <picture1>https://b2b.ankaracivata.com.tr/api/files/urun-detay/resimler/2.608.580.508.jpg</picture1>
     <picture2 />
     <picture3 />
     <picture4 />
@@ -74332,7 +74332,7 @@ GBH 1-52</label>
     <id>13225</id>
     <code>13000001873</code>
     <label>500 MM OLUKLU LEVYE KROM</label>
-    <stock>85</stock>
+    <stock>65</stock>
     <details />
     <currency>TRL</currency>
     <price1>557.38</price1>
@@ -75007,7 +75007,7 @@ GBH 1-52</label>
     <id>13306</id>
     <code>B00007000500</code>
     <label>HSS   DIN 338 RN        MATKAP   5    MM</label>
-    <stock>698</stock>
+    <stock>398</stock>
     <details />
     <currency>TRL</currency>
     <price1>57.4945</price1>
@@ -77932,7 +77932,7 @@ GBH 1-52</label>
     <id>18697</id>
     <code>13000001827</code>
     <label>40 PLASTİK ÇEKİÇ</label>
-    <stock>140</stock>
+    <stock>130</stock>
     <details />
     <currency>TRL</currency>
     <price1>598.92</price1>
@@ -84032,7 +84032,7 @@ GBH 1-52</label>
     <id>21353</id>
     <code>13000001037</code>
     <label>17X19-21(13/16)X22 ISTAVROZ ANAHTAR</label>
-    <stock>513</stock>
+    <stock>463</stock>
     <details />
     <currency>TRL</currency>
     <price1>775</price1>
@@ -84407,7 +84407,7 @@ GBH 1-52</label>
     <id>21392</id>
     <code>13000001107</code>
     <label>180 MM KOMBİNE PENSE OPAK</label>
-    <stock>137</stock>
+    <stock>87</stock>
     <details />
     <currency>TRL</currency>
     <price1>604.5</price1>
@@ -88057,7 +88057,7 @@ GBH 1-52</label>
     <id>21743</id>
     <code>14000000407</code>
     <label>140 MM CIRCIR KOLU 1/4" PLASTİK SAPLI</label>
-    <stock>58</stock>
+    <stock>48</stock>
     <details />
     <currency>TRL</currency>
     <price1>562.96</price1>
@@ -104582,7 +104582,7 @@ GBH 1-52</label>
     <id>40689</id>
     <code>B00105782200</code>
     <label>HSSE DIN 376/C MAKİNA KLVZ. M 22    (6H)</label>
-    <stock>21</stock>
+    <stock>19</stock>
     <details />
     <currency>TRL</currency>
     <price1>3065.948</price1>
@@ -105157,7 +105157,7 @@ GBH 1-52</label>
     <id>40725</id>
     <code>13000000832</code>
     <label>29 MM LOKMA ANAHTAR 1/2"</label>
-    <stock>5</stock>
+    <stock>0</stock>
     <details />
     <currency>TRL</currency>
     <price1>189.72</price1>
@@ -172182,7 +172182,7 @@ GBH 1-52</label>
     <id>75201</id>
     <code>RYN11100</code>
     <label>RAYNO ELEKTRİKLİ MİNİ VİNÇ 125-250 KG 20 M</label>
-    <stock>93</stock>
+    <stock>90</stock>
     <details>&lt;h3&gt;RAYNO ELEKTRİKLİ MİNİ VİNÇ 125-250 KG 20 M&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;20&amp;nbsp;metre&amp;nbsp;uzunluğundaki&amp;nbsp;sağlam&amp;nbsp;halatı,&amp;nbsp;100%&amp;nbsp;bakır&amp;nbsp;sargı&lt;/p&gt;&lt;p&gt;motoru&amp;nbsp;ve&amp;nbsp;ısı&amp;nbsp;koruma&amp;nbsp;şalteri&amp;nbsp;sayesinde&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;ve&lt;/p&gt;&lt;p&gt;dayanlıklı&amp;nbsp;kullanım&amp;nbsp;sağlar.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Dakikada&amp;nbsp;tek&amp;nbsp;kanca&amp;nbsp;ile&amp;nbsp;10&amp;nbsp;metre,&amp;nbsp;çift&amp;nbsp;kanca&amp;nbsp;ile&amp;nbsp;5&amp;nbsp;metre&lt;/p&gt;&lt;p&gt;kaldırabilir.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;20&amp;nbsp;metre&amp;nbsp;uzunluğundaki&amp;nbsp;sağlam&amp;nbsp;halatı,&amp;nbsp;100%&amp;nbsp;bakır&amp;nbsp;sargı&lt;/p&gt;&lt;p&gt;motoru&amp;nbsp;ve&amp;nbsp;ısı&amp;nbsp;koruma&amp;nbsp;şalteri&amp;nbsp;sayesinde&amp;nbsp;uzun&amp;nbsp;ömürlü&amp;nbsp;ve&lt;/p&gt;&lt;p&gt;dayanlıklı&amp;nbsp;kullanım&amp;nbsp;sağlar.&lt;/p&gt;&lt;p&gt;•&amp;nbsp;Dakikada&amp;nbsp;tek&amp;nbsp;kanca&amp;nbsp;ile&amp;nbsp;10&amp;nbsp;metre,&amp;nbsp;çift&amp;nbsp;kanca&amp;nbsp;ile&amp;nbsp;5&amp;nbsp;metre&lt;/p&gt;&lt;p&gt;kaldırabilir.&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>3588.3141</price1>
