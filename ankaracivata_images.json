@@ -3430,7 +3430,13 @@
   "2031": [],
   "205": [],
   "208": [],
-  "20867": [],
+  "20867": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.643.060.jpg",
+      "sira": 0
+    }
+  ],
   "20868": [],
   "20869": [],
   "20871": [
@@ -3440,12 +3446,42 @@
       "sira": 0
     }
   ],
-  "20874": [],
-  "20875": [],
+  "20874": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.644.376.jpg",
+      "sira": 0
+    }
+  ],
+  "20875": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.644.377.jpg",
+      "sira": 0
+    }
+  ],
   "20876": [],
-  "20877": [],
-  "20878": [],
-  "20879": [],
+  "20877": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.602.545.jpg",
+      "sira": 0
+    }
+  ],
+  "20878": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.602.546.jpg",
+      "sira": 0
+    }
+  ],
+  "20879": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.602.627.jpg",
+      "sira": 0
+    }
+  ],
   "20882": [],
   "20885": [],
   "20886": [],
@@ -3471,58 +3507,286 @@
   "20967": [],
   "20968": [],
   "20969": [],
-  "20970": [],
-  "20972": [],
-  "20973": [],
+  "20970": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.600.316.jpg",
+      "sira": 0
+    }
+  ],
+  "20972": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.905.jpg",
+      "sira": 0
+    }
+  ],
+  "20973": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.482.jpg",
+      "sira": 0
+    }
+  ],
   "20974": [],
   "20975": [],
   "20978": [],
-  "20980": [],
-  "20981": [],
-  "20982": [],
-  "20983": [],
-  "20984": [],
-  "20985": [],
-  "20986": [],
-  "20987": [],
-  "20988": [],
-  "20989": [],
-  "20990": [],
-  "20991": [],
-  "20992": [],
-  "20993": [],
-  "20994": [],
-  "20995": [],
-  "20996": [],
-  "20997": [],
-  "20998": [],
-  "20999": [],
+  "20980": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.889.jpg",
+      "sira": 0
+    }
+  ],
+  "20981": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.890.jpg",
+      "sira": 0
+    }
+  ],
+  "20982": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.891.jpg",
+      "sira": 0
+    }
+  ],
+  "20983": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.892.jpg",
+      "sira": 0
+    }
+  ],
+  "20984": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.899.jpg",
+      "sira": 0
+    }
+  ],
+  "20985": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.900.jpg",
+      "sira": 0
+    }
+  ],
+  "20986": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.901.jpg",
+      "sira": 0
+    }
+  ],
+  "20987": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.902.jpg",
+      "sira": 0
+    }
+  ],
+  "20988": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.904.jpg",
+      "sira": 0
+    }
+  ],
+  "20989": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.906.jpg",
+      "sira": 0
+    }
+  ],
+  "20990": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.907.jpg",
+      "sira": 0
+    }
+  ],
+  "20991": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.466.jpg",
+      "sira": 0
+    }
+  ],
+  "20992": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.468.jpg",
+      "sira": 0
+    }
+  ],
+  "20993": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.470.jpg",
+      "sira": 0
+    }
+  ],
+  "20994": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.473.jpg",
+      "sira": 0
+    }
+  ],
+  "20995": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.476.jpg",
+      "sira": 0
+    }
+  ],
+  "20996": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.478.jpg",
+      "sira": 0
+    }
+  ],
+  "20997": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.484.jpg",
+      "sira": 0
+    }
+  ],
+  "20998": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.494.jpg",
+      "sira": 0
+    }
+  ],
+  "20999": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.495.jpg",
+      "sira": 0
+    }
+  ],
   "21": [],
-  "21000": [],
-  "21001": [],
+  "21000": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.656.019.jpg",
+      "sira": 0
+    }
+  ],
+  "21001": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.650.676.jpg",
+      "sira": 0
+    }
+  ],
   "21002": [],
-  "21003": [],
+  "21003": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.279.jpg",
+      "sira": 0
+    }
+  ],
   "21004": [],
-  "21006": [],
-  "21007": [],
-  "21009": [],
+  "21006": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.603.231.jpg",
+      "sira": 0
+    }
+  ],
+  "21007": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.656.032.jpg",
+      "sira": 0
+    }
+  ],
+  "21009": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.607.017.034.jpg",
+      "sira": 0
+    }
+  ],
   "21010": [],
   "21011": [],
   "21012": [],
   "21013": [],
-  "21014": [],
-  "21015": [],
-  "21016": [],
-  "21017": [],
-  "21018": [],
-  "21019": [],
-  "21020": [],
-  "21021": [],
+  "21014": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.580.868.jpg",
+      "sira": 0
+    }
+  ],
+  "21015": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.295.jpg",
+      "sira": 0
+    }
+  ],
+  "21016": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.293.jpg",
+      "sira": 0
+    }
+  ],
+  "21017": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.292.jpg",
+      "sira": 0
+    }
+  ],
+  "21018": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.289.jpg",
+      "sira": 0
+    }
+  ],
+  "21019": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.287.jpg",
+      "sira": 0
+    }
+  ],
+  "21020": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.283.jpg",
+      "sira": 0
+    }
+  ],
+  "21021": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.680.280.jpg",
+      "sira": 0
+    }
+  ],
   "21022": [],
   "21023": [],
   "21024": [],
   "21025": [],
-  "21026": [],
+  "21026": [
+    {
+      "anaResim": true,
+      "resimYolu": "urun-detay/resimler/2.608.833.903.jpg",
+      "sira": 0
+    }
+  ],
   "21032": [],
   "21034": [],
   "21039": [],
