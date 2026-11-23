@@ -5904,7 +5904,7 @@
     <id>2505</id>
     <code>MVA3525</code>
     <label>3,5 * 25 MATKAP UÇLU ALÇIPAN VİDA</label>
-    <stock>994168</stock>
+    <stock>914168</stock>
     <details>&lt;h3&gt;3,5 * 25 MATKAP UÇLU ALÇIPAN VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;3,5&amp;nbsp;*&amp;nbsp;25&amp;nbsp;MATKAP&amp;nbsp;UÇLU&amp;nbsp;ALÇIPAN&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.352636</price1>
@@ -5929,7 +5929,7 @@
     <id>2506</id>
     <code>MVA3535</code>
     <label>3,5 * 35 MATKAP UÇLU ALÇIPAN VİDA</label>
-    <stock>1058810</stock>
+    <stock>978810</stock>
     <details>&lt;h3&gt;3,5 * 35 MATKAP UÇLU ALÇIPAN VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(212, 220, 231); color: rgb(51, 65, 85);"&gt;3,5&amp;nbsp;*&amp;nbsp;35&amp;nbsp;MATKAP&amp;nbsp;UÇLU&amp;nbsp;ALÇIPAN&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.443072</price1>
@@ -6404,7 +6404,7 @@
     <id>2527</id>
     <code>MVÇ5560</code>
     <label>5.5 * 60 M.U. ÇATI VİDASI DIN:7504K</label>
-    <stock>148100</stock>
+    <stock>144100</stock>
     <details>&lt;h3&gt;5.5 * 60 M.U. ÇATI VİDASI DIN:7504K&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(210, 216, 224); color: rgb(51, 65, 85);"&gt;5.5&amp;nbsp;*&amp;nbsp;60&amp;nbsp;M.U.&amp;nbsp;ÇATI&amp;nbsp;VİDASI&amp;nbsp;DIN:7504K&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>1.858032</price1>
@@ -8279,7 +8279,7 @@
     <id>2609</id>
     <code>MVSUA3525</code>
     <label>3,5 * 25 SIK DİŞLİ ALÇIPAN VİDA</label>
-    <stock>2733780</stock>
+    <stock>2701780</stock>
     <details>&lt;h3&gt;3,5 * 25 SIK DİŞLİ ALÇIPAN VİDA&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(211, 217, 225); color: rgb(51, 65, 85);"&gt;3,5&amp;nbsp;*&amp;nbsp;25&amp;nbsp;SIK&amp;nbsp;DİŞLİ&amp;nbsp;ALÇIPAN&amp;nbsp;VİDA&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>0.268318</price1>
@@ -23579,7 +23579,7 @@
     <id>7501</id>
     <code>BEYBİ-PNZEBRA09</code>
     <label>BEYBİ PNZEBRA NİTRİL KIRMIZI NO:9</label>
-    <stock>672</stock>
+    <stock>96</stock>
     <details />
     <currency>TRL</currency>
     <price1>43.344</price1>
@@ -32329,7 +32329,7 @@
     <id>8334</id>
     <code>MM20120931S</code>
     <label>MM 20 * 120 DIN931 AKB CİVATA 8.8 SİYAH</label>
-    <stock>1150</stock>
+    <stock>850</stock>
     <details>&lt;h3&gt;MM 20 * 120 DIN931 AKB CİVATA 8.8 SİYAH&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;span style="background-color: rgb(219, 234, 254); color: rgb(51, 65, 85);"&gt;MM&amp;nbsp;20&amp;nbsp;*&amp;nbsp;120&amp;nbsp;DIN931&amp;nbsp;AKB&amp;nbsp;CİVATA&amp;nbsp;8.8&amp;nbsp;SİYAH&lt;/span&gt;&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>32.59788</price1>
@@ -36404,7 +36404,7 @@
     <id>9841</id>
     <code>DBL652</code>
     <label>6*52 METAL BOŞLUK DÜBELİ</label>
-    <stock>659</stock>
+    <stock>59</stock>
     <details />
     <currency>TRL</currency>
     <price1>21.06</price1>
@@ -39129,7 +39129,7 @@
     <id>10687</id>
     <code>B00000000300</code>
     <label>HSS  DIN 338 RN  HADDE MTK     3    MM.</label>
-    <stock>900</stock>
+    <stock>890</stock>
     <details />
     <currency>TRL</currency>
     <price1>35.724</price1>
@@ -39204,7 +39204,7 @@
     <id>10690</id>
     <code>B00000000450</code>
     <label>HSS  DIN 338 RN  HADDE MTK     4.5  MM.</label>
-    <stock>2000</stock>
+    <stock>1990</stock>
     <details />
     <currency>TRL</currency>
     <price1>52.204</price1>
@@ -102782,7 +102782,7 @@ GBH 1-52</label>
     <id>39411</id>
     <code>B00303011200</code>
     <label>HSS DIN 212 L-RN MAKİNA RAYBA 12   MM H7</label>
-    <stock>21</stock>
+    <stock>18</stock>
     <details />
     <currency>TRL</currency>
     <price1>1674.86</price1>
@@ -102832,7 +102832,7 @@ GBH 1-52</label>
     <id>39413</id>
     <code>B00303010800</code>
     <label>HSS DIN 212 L-RN MAKİNA RAYBA 8   MM H7</label>
-    <stock>13</stock>
+    <stock>10</stock>
     <details />
     <currency>TRL</currency>
     <price1>970.5</price1>
@@ -112507,7 +112507,7 @@ GBH 1-52</label>
     <id>43794</id>
     <code>B00303011000</code>
     <label>HSS DIN 212 L-RN MAKİNA RAYBA 10   MM H7</label>
-    <stock>26</stock>
+    <stock>23</stock>
     <details />
     <currency>TRL</currency>
     <price1>1137.724</price1>
@@ -127007,7 +127007,7 @@ GBH 1-52</label>
     <id>52301</id>
     <code>NFSM16</code>
     <label>M16 985 MF CL.6 C440 NORM CİVATA</label>
-    <stock>2865</stock>
+    <stock>2715</stock>
     <details />
     <currency>TRL</currency>
     <price1>4.4616</price1>
@@ -172482,7 +172482,7 @@ GBH 1-52</label>
     <id>75212</id>
     <code>0.601.2B5.020</code>
     <label>GGS 30 LS Kalıpçı Taşlama</label>
-    <stock>73</stock>
+    <stock>72</stock>
     <details />
     <currency>TRL</currency>
     <price1>6801.135</price1>
@@ -206032,7 +206032,7 @@ GBH 1-52</label>
     <id>78833</id>
     <code>5906821901</code>
     <label>SCHEPPACH DP60 TEZGAH TİPİ SÜTUNLU DİGİTAL MATKAP</label>
-    <stock>510</stock>
+    <stock>490</stock>
     <details>&lt;h3&gt;SCHEPPACH DP60 TEZGAH TİPİ SÜTUNLU DİGİTAL MATKAP&lt;/h3&gt;&lt;h4&gt;Ürün Açıklaması&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;Tezgah&amp;nbsp;Tipi&amp;nbsp;Sütunlu&amp;nbsp;Dijital&amp;nbsp;Matkap&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Dijital&amp;nbsp;ekran&amp;nbsp;üzerinden&amp;nbsp;170&amp;nbsp;-&amp;nbsp;880&amp;nbsp;rpm&amp;nbsp;(1.&amp;nbsp;vites)&amp;nbsp;ve&amp;nbsp;490&amp;nbsp;-&amp;nbsp;2600&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;(2.&amp;nbsp;vites)&amp;nbsp;arasında&amp;nbsp;hassas&amp;nbsp;işleriniz&amp;nbsp;için&amp;nbsp;hızını&amp;nbsp;ayarlayabileceğiniz,&lt;/p&gt;&lt;p&gt;350&amp;nbsp;x&amp;nbsp;300&amp;nbsp;mm&amp;nbsp;taban&amp;nbsp;plakası&amp;nbsp;ile&amp;nbsp;sabitlemeler&amp;nbsp;için&amp;nbsp;hızlı&amp;nbsp;serbest&amp;nbsp;bırakma&lt;/p&gt;&lt;p&gt;kelepçisine&amp;nbsp;sahip,&amp;nbsp;hassas&amp;nbsp;işleriniz&amp;nbsp;için&amp;nbsp;çapraz&amp;nbsp;izli&amp;nbsp;entegre&amp;nbsp;lazer&amp;nbsp;ve&amp;nbsp;delim&lt;/p&gt;&lt;p&gt;işlerinizi&amp;nbsp;net&amp;nbsp;görmeniz&amp;nbsp;için&amp;nbsp;entegre&amp;nbsp;led&amp;nbsp;barındıran,&amp;nbsp;hem&amp;nbsp;ahşap&amp;nbsp;hem&amp;nbsp;de&lt;/p&gt;&lt;p&gt;metal&amp;nbsp;işleyebileceğiniz&amp;nbsp;dijital&amp;nbsp;tezgah&amp;nbsp;matkap.&lt;/p&gt;&lt;h4&gt;Teknik Özellikler&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;&lt;u&gt;ÜRÜN&amp;nbsp;ÖZELLİKLERİ&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Boyutlar&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;350&amp;nbsp;x&amp;nbsp;300&amp;nbsp;x&amp;nbsp;750&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Çalışma&amp;nbsp;Tezgahı&amp;nbsp;(U&amp;nbsp;x&amp;nbsp;G&amp;nbsp;x&amp;nbsp;Y)&amp;nbsp;350&amp;nbsp;x&amp;nbsp;300&amp;nbsp;x&amp;nbsp;30&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Devir&amp;nbsp;Sayısı&amp;nbsp;170&amp;nbsp;-&amp;nbsp;880&amp;nbsp;/&amp;nbsp;490&amp;nbsp;-&amp;nbsp;2600&amp;nbsp;rpm&lt;/p&gt;&lt;p&gt;Delme&amp;nbsp;Stroku&amp;nbsp;100&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Ahşap&amp;nbsp;/&amp;nbsp;Çelik&amp;nbsp;Delme&amp;nbsp;(Ø)&amp;nbsp;40&amp;nbsp;/&amp;nbsp;13&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Şanzıman&amp;nbsp;2&amp;nbsp;vitesli&lt;/p&gt;&lt;p&gt;Taban&amp;nbsp;ve&amp;nbsp;Mandren&amp;nbsp;Arası&amp;nbsp;Mesafe&amp;nbsp;280&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Matkap&amp;nbsp;Sıkma&amp;nbsp;Aralığı&amp;nbsp;1.5&amp;nbsp;-&amp;nbsp;13&amp;nbsp;mm&lt;/p&gt;&lt;p&gt;Motor&amp;nbsp;Gücü&amp;nbsp;710&amp;nbsp;W&amp;nbsp;230&amp;nbsp;V&amp;nbsp;~&amp;nbsp;50&amp;nbsp;Hz&lt;/p&gt;&lt;p&gt;Net/Brüt&amp;nbsp;Ağırlık&amp;nbsp;9.4&amp;nbsp;/&amp;nbsp;11.5&amp;nbsp;kg&lt;/p&gt;&lt;p&gt;Ürün&amp;nbsp;Numarası&amp;nbsp;5906821901&lt;/p&gt;</details>
     <currency>TRL</currency>
     <price1>9421.72</price1>
@@ -220632,7 +220632,7 @@ GBH 1-52</label>
     <id>79647</id>
     <code>0.601.B56.001</code>
     <label>GCO 230 Kesici Taşlama</label>
-    <stock>43</stock>
+    <stock>42</stock>
     <details />
     <currency>TRL</currency>
     <price1>9001.4155</price1>
@@ -236732,7 +236732,7 @@ GBH 1-52</label>
     <id>80967</id>
     <code>RYN12510</code>
     <label>RAYNO A TİPİ MERDİVEN 220cm+220cm</label>
-    <stock>87</stock>
+    <stock>85</stock>
     <details />
     <currency>TRL</currency>
     <price1>7291.2</price1>
